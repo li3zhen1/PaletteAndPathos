@@ -11,6 +11,9 @@ const openai = new OpenAI({
 
 
 async function getLifeDescription(artistName: string) {
+
+    throw new Error("Improve prompt on line 37 before you use it!")
+
     const chatCompletion = await openai.chat.completions.create({
         messages: [
             {
@@ -29,8 +32,14 @@ type LifePeriod = {
 
 type ArtistLife = {
     name: string,
+
+
+    keywords: string[],        // list of 1-5 keywords that describe themes in his artworks, e.g. "wars", "love", "peath", "nature"
+    
+    
     lifePeriods: LifePeriod[], // an array consisting of detailed 3-10 life periods, in chronological order, as detailed as possible
     genre: string[],           // list of 1-3 genres that he's known for
+
 }
 
 If you don't know well about the artist, reply with "{}".
