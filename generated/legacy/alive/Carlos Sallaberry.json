@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Carlos Sallaberry",
+        "lifePeriods": [
+            {
+                "start": 1975,
+                "end": 2020,
+                "happiness": 7,
+                "location": "São Paulo",
+                "events": [
+                    "Exhibited in major art galleries",
+                    "Received critical acclaim"
+                ]
+            }
+        ],
+        "genre": [
+            "Contemporary Art",
+            "Abstract Art"
+        ]
+    }
+]

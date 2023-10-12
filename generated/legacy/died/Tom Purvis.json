@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Tom Purvis",
+        "lifePeriods": [
+            {
+                "start": 1888,
+                "end": 1957,
+                "happiness": 7,
+                "location": "London",
+                "events": [
+                    "Established himself as a prominent designer",
+                    "Became known for his poster designs"
+                ]
+            }
+        ],
+        "genre": [
+            "Graphic Design",
+            "Poster Design"
+        ]
+    }
+]

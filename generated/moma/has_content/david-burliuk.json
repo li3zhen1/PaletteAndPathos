@@ -1,0 +1,51 @@
+[
+	{
+		"name": "David Burliuk",
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Kharkiv, Ukraine",
+				"events": [
+					"studied at art schools in Kazan and Odessa"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"co-founded the avant-garde movement 'Der Blaue Reiter'",
+					"participated in exhibitions of Russian Futurist"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1922,
+				"happiness": 4,
+				"location": "Vladivostok, Russia",
+				"events": [
+					"fled civil war in Russia"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1967,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"emigrated to the United States",
+					"participated in exhibitions of Russian art in America"
+				]
+			}
+		],
+		"genre": [
+			"Futurism",
+			"Neo-Primitivism",
+			"Post-Impressionism",
+			"Cubism"
+		]
+	}
+]

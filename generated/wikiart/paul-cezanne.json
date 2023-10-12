@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Paul Cezanne",
+        "lifePeriods": [
+            {
+                "start": 1839,
+                "end": 1852,
+                "happiness": 5,
+                "location": "Aix-en-Provence, France",
+                "events": []
+            },
+            {
+                "start": 1852,
+                "end": 1870,
+                "happiness": 6,
+                "location": "Paris, France",
+                "events": [
+                    "attended the University of Aix-en-Provence",
+                    "started art studies at the École des Beaux-Arts in Aix"
+                ]
+            },
+            {
+                "start": 1870,
+                "end": 1878,
+                "happiness": 4,
+                "location": "France",
+                "events": [
+                    "experienced the Franco-Prussian war",
+                    "skipped service due to poor health"
+                ]
+            },
+            {
+                "start": 1878,
+                "end": 1886,
+                "happiness": 5,
+                "location": "Provence, France",
+                "events": [
+                    "married Hortense Fiquet",
+                    "birth of his son"
+                ]
+            },
+            {
+                "start": 1886,
+                "end": 1906,
+                "happiness": 4,
+                "location": "Aix-en-Provence, France",
+                "events": [
+                    "death of his mother",
+                    "separated from his wife"
+                ]
+            }
+        ],
+        "genre": [
+            "Post-Impressionism",
+            "Modern art",
+            "Cubism"
+        ]
+    }
+]

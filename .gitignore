@@ -1,0 +1,6 @@
+.env
+Artists.json
+Artworks.json
+bun.lockb
+node_modules
+DS_Store

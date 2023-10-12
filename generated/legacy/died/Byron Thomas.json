@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Byron Thomas",
+        "lifePeriods": [
+            {
+                "start": 1980,
+                "end": 2020,
+                "happiness": 7,
+                "location": "New York City",
+                "events": [
+                    "Won the prestigious art award",
+                    "Exhibited his work at major galleries"
+                ]
+            }
+        ],
+        "genre": [
+            "Abstract Expressionism",
+            "Contemporary Art"
+        ]
+    }
+]

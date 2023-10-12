@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Ilya Repin",
+        "lifePeriods": [
+            {
+                "start": 1844,
+                "end": 1863,
+                "happiness": 5,
+                "location": "Chuguev, Russian Empire",
+                "events": [
+                    "born into a military family"
+                ]
+            },
+            {
+                "start": 1863,
+                "end": 1871,
+                "happiness": 6,
+                "location": "Saint Petersburg, Russian Empire",
+                "events": [
+                    "studied at the Imperial Academy of Arts",
+                    "begun the creation of the painting 'The Raising of Jairus's Daughter'"
+                ]
+            },
+            {
+                "start": 1871,
+                "end": 1876,
+                "happiness": 7,
+                "location": "Paris, France",
+                "events": [
+                    "studied contemporary French painters",
+                    "improved his technique"
+                ]
+            },
+            {
+                "start": 1876,
+                "end": 1882,
+                "happiness": 6,
+                "location": "Moscow, Russian Empire",
+                "events": [
+                    "created paintings on social and historical themes"
+                ]
+            },
+            {
+                "start": 1882,
+                "end": 1901,
+                "happiness": 5,
+                "location": "Saint Petersburg, Russian Empire",
+                "events": [
+                    "painted portraits of notables"
+                ]
+            },
+            {
+                "start": 1901,
+                "end": 1930,
+                "happiness": 4,
+                "location": "Kuokkala, Finland",
+                "events": [
+                    "lived in isolation after his wife's death",
+                    "worked on religious paintings"
+                ]
+            }
+        ],
+        "genre": [
+            "portrait",
+            "realism",
+            "historical"
+        ]
+    }
+]

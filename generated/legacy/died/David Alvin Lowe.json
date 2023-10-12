@@ -1,0 +1,32 @@
+[
+    {
+        "name": "David Alvin Lowe",
+        "lifePeriods": [
+            {
+                "start": 1947,
+                "end": 2016,
+                "happiness": 7,
+                "location": "London",
+                "events": [
+                    "Formed the band 'The Konrads'",
+                    "Released debut album 'David Bowie'"
+                ]
+            },
+            {
+                "start": 2016,
+                "end": 2021,
+                "happiness": 10,
+                "location": "New York",
+                "events": [
+                    "Released final album 'Blackstar'",
+                    "Received five posthumous Grammy Awards"
+                ]
+            }
+        ],
+        "genre": [
+            "Rock",
+            "Glam rock",
+            "Art rock"
+        ]
+    }
+]

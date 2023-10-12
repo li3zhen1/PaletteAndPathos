@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Gelsen Gas",
+        "lifePeriods": [
+            {
+                "start": 1980,
+                "end": 2020,
+                "happiness": 7,
+                "location": "Berlin",
+                "events": [
+                    "Started experimenting with mixed media art",
+                    "Became part of the art collective 'Kunstgeist'"
+                ]
+            }
+        ],
+        "genre": [
+            "Mixed Media"
+        ]
+    }
+]

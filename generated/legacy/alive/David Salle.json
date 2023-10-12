@@ -1,0 +1,21 @@
+[
+    {
+        "name": "David Salle",
+        "lifePeriods": [
+            {
+                "start": 1952,
+                "end": 2021,
+                "happiness": 7,
+                "location": "New York City",
+                "events": [
+                    "Emerging as a prominent figure in the 1980s art scene",
+                    "Continued success and recognition for his artwork"
+                ]
+            }
+        ],
+        "genre": [
+            "Postmodernism",
+            "Neo-expressionism"
+        ]
+    }
+]

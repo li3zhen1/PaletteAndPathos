@@ -1,0 +1,57 @@
+[
+	{
+		"name": "P.H. Polk",
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1984,
+				"happiness": 5,
+				"location": "Bessemer, Alabama",
+				"events": [
+					"raised in a middle-class family"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Nashville, Tennessee",
+				"events": [
+					"studied photography at Fisk University",
+					"graduate as the head of class"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Tuskegee, Alabama",
+				"events": [
+					"appointed as the head of Tuskegee Institute’s photography department"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Tuskegee, Alabama",
+				"events": [
+					"continued his career at Tuskegee Institute"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1984,
+				"happiness": 4,
+				"location": "Atlanta, Georgia",
+				"events": [
+					"retired"
+				]
+			}
+		],
+		"genre": [
+			"Photorealism",
+			"Portrait"
+		]
+	}
+]
