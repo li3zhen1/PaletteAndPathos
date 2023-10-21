@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Louis De Clercq",
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1901,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Developed interest in photography",
+					"Traveled with Du Camp in the near east"
+				]
+			}
+		],
+		"genre": [
+			"Photography"
+		]
+	}
+]

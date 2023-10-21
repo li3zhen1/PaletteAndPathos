@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Roger Fenton",
+		"lifePeriods": [
+			{
+				"start": 1819,
+				"end": 1843,
+				"happiness": 7,
+				"location": "Lancashire, England",
+				"events": [
+					"His family was affluent and well established"
+				]
+			},
+			{
+				"start": 1843,
+				"end": 1850,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Studied law, but developed interest in painting and later photography"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1855,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Founded Photographic Society, later Royal Photographic Society"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1856,
+				"happiness": 4,
+				"location": "Crimea",
+				"events": [
+					"Photographed Crimean War, experienced the harsh realities of war firsthand"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1869,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Good career in photography, but ultimately returned to law due to declining health"
+				]
+			}
+		],
+		"genre": [
+			"Photography",
+			"War photography"
+		]
+	}
+]

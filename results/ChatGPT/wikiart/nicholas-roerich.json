@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Nicholas Roerich",
+        "lifePeriods": [
+            {
+                "start": 1874,
+                "end": 1897,
+                "happiness": 6,
+                "location": "Saint Petersburg, Russia",
+                "events": [
+                    "studied at the Imperial Academy of Arts"
+                ]
+            },
+            {
+                "start": 1897,
+                "end": 1917,
+                "happiness": 7,
+                "location": "Saint Petersburg, Russia",
+                "events": [
+                    "married Helena Roerich",
+                    "started The Symbolist movement"
+                ]
+            },
+            {
+                "start": 1918,
+                "end": 1923,
+                "happiness": 5,
+                "location": "London, United Kingdom",
+                "events": [
+                    "left Russia due to the rise of the Bolsheviks"
+                ]
+            },
+            {
+                "start": 1923,
+                "end": 1928,
+                "happiness": 7,
+                "location": "New York, United States",
+                "events": [
+                    "founded the Master Institute of United Arts",
+                    "founded the Roerich Museum"
+                ]
+            },
+            {
+                "start": 1929,
+                "end": 1947,
+                "happiness": 6,
+                "location": "Naggar, India",
+                "events": [
+                    "conducted research in the Himalayas",
+                    "passed away"
+                ]
+            }
+        ],
+        "genre": [
+            "Symbolism",
+            "Post-Impressionism",
+            "Modernism"
+        ]
+    }
+]

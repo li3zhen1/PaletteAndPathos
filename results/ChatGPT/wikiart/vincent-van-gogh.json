@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Vincent Van Gogh",
+        "lifePeriods": [
+            {
+                "start": 1853,
+                "end": 1872,
+                "happiness": 6,
+                "location": "Zundert, Netherlands",
+                "events": [
+                    "Born into a family of a pastor"
+                ]
+            },
+            {
+                "start": 1873,
+                "end": 1876,
+                "happiness": 5,
+                "location": "London, England",
+                "events": [
+                    "Working as an art dealer",
+                    "Fell in love for the first time"
+                ]
+            },
+            {
+                "start": 1877,
+                "end": 1880,
+                "happiness": 4,
+                "location": "Etten, Netherlands",
+                "events": [
+                    "Devoted himself to god",
+                    "Was dismissed from his job"
+                ]
+            },
+            {
+                "start": 1881,
+                "end": 1885,
+                "happiness": 3,
+                "location": "The Hague, Netherlands",
+                "events": [
+                    "Started his career as an artist",
+                    "His father passed away"
+                ]
+            },
+            {
+                "start": 1886,
+                "end": 1888,
+                "happiness": 4,
+                "location": "Paris, France",
+                "events": [
+                    "Moved to Paris and met impressionist artists",
+                    "Enhanced his bright colour palette"
+                ]
+            },
+            {
+                "start": 1888,
+                "end": 1889,
+                "happiness": 2,
+                "location": "Arles, France",
+                "events": [
+                    "Cut off his ear during a mental breakdown",
+                    "Admitted to a mental health hospital"
+                ]
+            },
+            {
+                "start": 1890,
+                "end": 1890,
+                "happiness": 1,
+                "location": "Auvers-sur-Oise, France",
+                "events": [
+                    "Shot himself and died two days later"
+                ]
+            }
+        ],
+        "genre": [
+            "Post-Impressionism",
+            "Symbolism",
+            "Realism"
+        ]
+    }
+]
