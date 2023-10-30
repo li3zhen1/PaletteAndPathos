@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Sofonisba Anguissola",
+		"keywords": [
+			"portraits",
+			"women",
+			"royalty",
+			"nature",
+			"families"
+		],
+		"lifePeriods": [
+			{
+				"start": 1532,
+				"end": 1559,
+				"happiness": 7,
+				"location": "Cremona, Italy",
+				"events": [
+					"earned her father's support for her art",
+					"trained under Bernardino Campi"
+				]
+			},
+			{
+				"start": 1559,
+				"end": 1573,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"invited to the Spanish court by Queen Elisabeth of Valois",
+					"appointed court painter to the queen"
+				]
+			},
+			{
+				"start": 1573,
+				"end": 1625,
+				"happiness": 6,
+				"location": "Palermo, Sicily",
+				"events": [
+					"married Sicilian nobleman",
+					"continued to paint in her late years"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"portrait"
+		]
+	}
+]

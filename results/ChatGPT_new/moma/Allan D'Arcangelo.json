@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Allan D'Arcangelo",
+		"keywords": [
+			"Americana",
+			"pop culture",
+			"landscapes",
+			"political commentary",
+			"abstracting"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1936,
+				"happiness": 5,
+				"location": "Buffalo, New York",
+				"events": [
+					"Born to Italian immigrant parents"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Buffalo, New York",
+				"events": [
+					"Developed interest in arts from a young age",
+					"Started school"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Korea",
+				"events": [
+					"Served in the Military during Korean War"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1962,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Studied at Mexico City College and the Brooklyn Museum Art School",
+					"Started painting professionally",
+					"Gained recognition in Pop Art movement"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1998,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Continued his art career",
+					"Influence on Pop Art movement grew"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Abstract"
+		]
+	}
+]

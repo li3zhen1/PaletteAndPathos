@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Knud Merrild",
+		"keywords": [
+			"surrealism",
+			"abstract",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1909,
+				"happiness": 5,
+				"location": "Næstved, Denmark",
+				"events": []
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"studied at the Technical School"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1934,
+				"happiness": 8,
+				"location": "United States",
+				"events": [
+					"emigrated to the United States",
+					"worked as an artist's model, dancer, and mural painter"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1954,
+				"happiness": 7,
+				"location": "Los Angeles, United States",
+				"events": [
+					"developed the Flow Painting technique"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"abstract"
+		]
+	}
+]

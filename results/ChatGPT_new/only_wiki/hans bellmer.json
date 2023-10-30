@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Hans Bellmer",
+		"keywords": [
+			"Surrealism",
+			"Sexuality",
+			"Fetishism",
+			"Obessesion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1975,
+				"happiness": 4,
+				"location": "Germany, France",
+				"events": [
+					"Publication of 'Die Puppe'",
+					"Joined the Paris Surrealists"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Photography",
+			"Drawing"
+		]
+	}
+]

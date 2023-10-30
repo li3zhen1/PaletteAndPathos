@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Hilma af Klint",
+		"keywords": [
+			"abstract",
+			"spirituality",
+			"symbolism",
+			"nature",
+			"cosmology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"attended the Royal Academy of Fine Arts",
+					"met her fellow artists, 'The Five'"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"created her most well-known abstract artworks",
+					"death of her mother"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"modern art"
+		]
+	}
+]

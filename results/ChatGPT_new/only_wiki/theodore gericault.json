@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Theodore Gericault",
+		"keywords": [
+			"shipwreck",
+			"insanity",
+			"death",
+			"horses",
+			"tragedy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1791,
+				"end": 1810,
+				"happiness": 5,
+				"location": "Rouen, France",
+				"events": [
+					"began training in art",
+					"moved to Paris"
+				]
+			},
+			{
+				"start": 1812,
+				"end": 1824,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"injured in riding accident",
+					"creation of 'The Raft of the Medusa'"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism"
+		]
+	}
+]

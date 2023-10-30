@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Kelley Walker",
+		"keywords": [
+			"modern art",
+			"digital print",
+			"consumerism",
+			"recycled images"
+		],
+		"lifePeriods": [
+			{
+				"start": 1969,
+				"end": 2022,
+				"happiness": 5,
+				"location": "Columbus, Georgia, USA",
+				"events": [
+					"graduated from The Lamar Dodd School of Art",
+					"Exhibited at the Whitney Museum"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

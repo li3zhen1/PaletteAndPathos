@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Mordecai Ardon",
+		"keywords": [
+			"symbolism",
+			"Judaism",
+			"mythology",
+			"history",
+			"Kabbala"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1963,
+				"happiness": 4,
+				"location": "Tuchów, Poland",
+				"events": [
+					"born in Tuchów, Poland"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"studied at the Weimar Academy"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Jerusalem, Israel",
+				"events": [
+					"immigrated to Jerusalem",
+					"taught at the Bezalel Academy of Arts and Design"
+				]
+			}
+		],
+		"genre": [
+			"Symbolist",
+			"Surrealist"
+		]
+	}
+]

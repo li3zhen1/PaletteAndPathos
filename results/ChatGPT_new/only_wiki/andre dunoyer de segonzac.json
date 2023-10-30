@@ -1,0 +1,28 @@
+[
+	{
+		"name": "André Dunoyer de Segonzac",
+		"keywords": [
+			"war",
+			"nature",
+			"landscape",
+			"peasant life",
+			"nude figures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Boussy-Saint-Antoine, France",
+				"events": [
+					"studied at the École Nationale Supérieure des Beaux-Arts",
+					"served in World War I",
+					"won the Grand Prix at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Modernism"
+		]
+	}
+]

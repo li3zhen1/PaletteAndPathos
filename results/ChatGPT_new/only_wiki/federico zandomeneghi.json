@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Federico Zandomeneghi",
+		"keywords": [
+			"impressionism",
+			"portraits",
+			"family life",
+			"garden scenes",
+			"modern women"
+		],
+		"lifePeriods": [
+			{
+				"start": 1841,
+				"end": 1856,
+				"happiness": 4,
+				"location": "Venice, Italy",
+				"events": [
+					"Born in a family with an artistic background"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Venice and Florence, Italy",
+				"events": [
+					"Studied under his father and at the Academy of Fine Arts in Venice",
+					"Joined the Macchiaioli, a group of Tuscan artists who were precursors of Impressionism"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1874,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Escaped from Italy due to political reasons",
+					"Discovered Impressionism"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1917,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Got associated with Impressionists like Degas and Pissarro",
+					"Achieved success and recognition as an artist"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Figure painting",
+			"Portraiture"
+		]
+	}
+]

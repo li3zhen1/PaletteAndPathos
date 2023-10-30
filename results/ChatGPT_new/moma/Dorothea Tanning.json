@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Dorothea Tanning",
+		"keywords": [
+			"surrealism",
+			"dreams",
+			"female sexuality",
+			"fantasy",
+			"bizarre"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Galesburg, Illinois",
+				"events": [
+					"developed as self-taught artist"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1946,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"met her husband, fellow artist Max Ernst",
+					"participated in first Surrealist exhibition"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Sedona, Arizona and France",
+				"events": [
+					"shift in painting style to more abstract",
+					"designed sets and costumes for ballets"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2012,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Began writing works of fiction",
+					"death of husband Max Ernst"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Modernist"
+		]
+	}
+]

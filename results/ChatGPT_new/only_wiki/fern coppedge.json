@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Fern Coppedge",
+		"keywords": [
+			"landscapes",
+			"nature",
+			"seasons",
+			"rural scenes",
+			"vivid colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Greenwood, Kansas, USA",
+				"events": [
+					"born in Greenwood, Kansas"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1951,
+				"happiness": 7,
+				"location": "New Hope, Pennsylvania, USA",
+				"events": [
+					"moved to New Hope, Pennsylvania",
+					"became part of the New Hope Art Colony",
+					"won the Jennie Sesnan Gold Medal for best oil painting"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"American Folk Art"
+		]
+	}
+]

@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Taro Yamamoto",
+		"keywords": [
+			"Abstract expressionism",
+			"Calligraphy",
+			"Nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"Started learning painting"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1948,
+				"happiness": 3,
+				"location": "Los Angeles",
+				"events": [
+					"Internment in the Heart Mountain Internment Camp during World War II"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Los Angeles",
+				"events": [
+					"Studied under Stanton MacDonald-Wright",
+					"joined Otis Art Institute"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1994,
+				"happiness": 6,
+				"location": "Tokyo",
+				"events": [
+					"Known for his hybrid style combining abstract expressionism with traditional Japanese calligraphy",
+					"Won the Guggenheim International Award"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 1994,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Hard Edge Painting"
+		]
+	}
+]

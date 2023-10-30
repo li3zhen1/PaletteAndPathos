@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Alfred Leslie",
+		"keywords": [
+			"figurative",
+			"abstract expressionism",
+			"realism",
+			"portrait",
+			"cinema"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Bronx, New York, United States",
+				"events": [
+					"born to Russian Jewish parents"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"studied at New York University"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1962,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"emerged as an Abstract Expressionist painter",
+					"exhibited his paintings at the Stable Gallery"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1975,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"turn towards realist painting after a tragic fire",
+					"made his first feature-length film – The Cedar Bar"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"continued his exploration in painting and film"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"exhibited his work in various locations",
+					"continued to receive recognition for his varied body of work"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Realism",
+			"Filmmaking"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Henri Le Fauconnier",
+		"keywords": [
+			"cubism",
+			"still life",
+			"nudes",
+			"landscapes",
+			"mountains"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1907,
+				"happiness": 6,
+				"location": "Hesdin, France",
+				"events": [
+					"born into a family of entrepreneurs, experience of Agriculture influences his work"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1912,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"set up a painting studio",
+					"had a son"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1927,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"declined to participate in the official Salon des Artistes Français",
+					"worked on numerous murals for private houses and public buildings"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"appointed to teach at the Academy of La Palette",
+					"died of tuberculosis"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"moderism",
+			"figurative art"
+		]
+	}
+]

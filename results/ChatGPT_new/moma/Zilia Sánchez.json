@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Zilia Sánchez",
+		"keywords": [
+			"femininity",
+			"eroticism",
+			"shape",
+			"poetry",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Havana, Cuba",
+				"events": [
+					"Born and raised",
+					"graduated from Havana's Escuela Nacional de Bellas Artes San Alejandro"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1964,
+				"happiness": 5,
+				"location": "Europe",
+				"events": [
+					"Traveled to Europe for study",
+					"Experienced cultural shock"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York",
+					"Experienced cultural shock"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2023,
+				"happiness": 7,
+				"location": "San Juan, Puerto Rico",
+				"events": [
+					"Settled in Puerto Rico",
+					"Continued working as an artist"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Minimalism",
+			"Pop Art"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Álvaro Lapa",
+		"keywords": [
+			"symbols",
+			"love",
+			"textual",
+			"books",
+			"iconography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Vila Nova de Famalicão, Portugal",
+				"events": [
+					"Born during the time of World War II"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Porto, Portugal",
+				"events": [
+					"Studied Philological Sciences at the University of Porto"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Began teaching at the School of Fine Arts in Porto",
+					"Started to gain a reputation as a painter"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1995,
+				"happiness": 8,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"continued to develop his painting style",
+					"Recognized as one of the most important Portuguese painters"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2006,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"His work became more introspective and abstract",
+					"Died in 2006"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Text-based Art",
+			"Neo-Expressionism"
+		]
+	}
+]

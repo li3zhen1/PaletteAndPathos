@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Eugène Grasset",
+		"keywords": [
+			"Art Nouveau",
+			"design",
+			"typography",
+			"plants",
+			"women"
+		],
+		"lifePeriods": [
+			{
+				"start": 1841,
+				"end": 1856,
+				"happiness": 6,
+				"location": "Lausanne, Switzerland",
+				"events": [
+					"born"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"studied architecture"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1873,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"worked in a fabric internet"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1880,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"established his reputation as a decorator",
+					"married"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1890,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"became a teacher at the Guerin's atelier",
+					"began creating well known posters"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"teaching",
+					"continued creating art",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"Art Nouveau",
+			"decorative arts"
+		]
+	}
+]

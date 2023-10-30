@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Gianfranco Baruchello",
+		"keywords": [
+			"abstract",
+			"ready-mades",
+			"consumerism",
+			"critiques",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Livorno, Italy",
+				"events": [
+					"Born in Italy",
+					"Developed interest in culture and art"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Initiated his art production",
+					"Exhibited work at international level"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1985,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Started Agricola Cornelia",
+					"Focused on farming and artistic creation"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Continued artistic creation",
+					"Received recognition for his work"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"conceptual art"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Hoca Ali Rıza",
+		"keywords": [
+			"nature",
+			"landscape",
+			"scenes",
+			"military life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1858,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Istanbul",
+				"events": [
+					"attended Mekteb-i Sanayi ve Ticaret",
+					"worked as a military officer"
+				]
+			}
+		],
+		"genre": [
+			"Orientalism",
+			"Impressionism"
+		]
+	}
+]

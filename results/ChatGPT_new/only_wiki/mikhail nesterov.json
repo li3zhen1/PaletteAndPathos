@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Mikhail Nesterov",
+		"keywords": [
+			"religion",
+			"spirituality",
+			"nature",
+			"Russian Orthodoxy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1881,
+				"happiness": 5,
+				"location": "Ufa, Russia",
+				"events": [
+					"developed interest in drawing"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"attended the Imperial Academy of Arts",
+					"began painting in the Symbolist style",
+					"met his wife",
+					"lost his beloved wife"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"painted works based on religious themes",
+					"influenced by the events of World War I and the Russian Revolution"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Realism"
+		]
+	}
+]

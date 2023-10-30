@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Alexander Ivanov",
+		"keywords": [
+			"religion",
+			"mythology",
+			"landscape",
+			"light",
+			"shadow"
+		],
+		"lifePeriods": [
+			{
+				"start": 1806,
+				"end": 1825,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied at Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1825,
+				"end": 1830,
+				"happiness": 5,
+				"location": "Italy",
+				"events": [
+					"began focusing on painting Christian themes"
+				]
+			},
+			{
+				"start": 1830,
+				"end": 1856,
+				"happiness": 4,
+				"location": "Italy",
+				"events": [
+					"worked on his magnum opus 'The Appearance of Christ Before the People'"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1858,
+				"happiness": 4,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"returned to Russia"
+				]
+			}
+		],
+		"genre": [
+			"history painting",
+			"religious art"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Jusepe de Ribera",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"emotion",
+			"shadow"
+		],
+		"lifePeriods": [
+			{
+				"start": 1591,
+				"end": 1652,
+				"happiness": 5,
+				"location": "Valencia, Spain and Naples, Italy",
+				"events": [
+					"Emigrated to Italy",
+					"Worked for the Spanish Viceroy"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Tenebrism"
+		]
+	}
+]

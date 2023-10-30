@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Jeff Elrod",
+		"keywords": [
+			"abstraction",
+			"computer",
+			"technology",
+			"digital",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1966,
+				"end": 1989,
+				"happiness": 7,
+				"location": "Irving, Texas, USA",
+				"events": [
+					"born on July 29, 1966"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Lubbock, Texas, USA",
+				"events": [
+					"Graduated with a BFA from Texas Tech University",
+					"started exploring digital art"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"His work is included in the permanent collections of MoMA",
+					"represented by the Luhring Augustine Gallery"
+				]
+			}
+		],
+		"genre": [
+			"post-conceptual",
+			"abstract expressionism"
+		]
+	}
+]

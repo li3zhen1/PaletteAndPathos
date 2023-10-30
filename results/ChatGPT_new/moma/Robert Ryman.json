@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Robert Ryman",
+		"keywords": [
+			"minimalism",
+			"monochromatic",
+			"abstraction",
+			"non-referential",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Nashville, Tennessee, USA",
+				"events": [
+					"Developed an interest in music"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York, New York, USA",
+				"events": [
+					"Studied at the School of Jazz",
+					"Worked as a security guard at The Museum of Modern Art"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 5,
+				"location": "New York, New York, USA",
+				"events": [
+					"First solo exhibition",
+					"Gained recognition in the art world"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 6,
+				"location": "New York, New York, USA",
+				"events": [
+					"Developed his signature style of white-on-white painting"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York, New York, USA",
+				"events": [
+					"His works were displayed at major exhibitions worldwide"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2010,
+				"happiness": 8,
+				"location": "New York, New York, USA",
+				"events": [
+					"Received a National Medal of Arts"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2019,
+				"happiness": 6,
+				"location": "New York, New York, USA",
+				"events": [
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"minimalism",
+			"monochrome painting"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "John McLaughlin",
+		"keywords": [
+			"abstract",
+			"hard-edge",
+			"minimalism",
+			"Japan",
+			"zen"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Sharon, Massachusetts",
+				"events": [
+					"Grew up in a creative household"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1935,
+				"happiness": 7,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Served in the Navy during World War 1"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Japan",
+				"events": [
+					"Developed interest in Asian culture",
+					"Started painting"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1976,
+				"happiness": 8,
+				"location": "Dana Point, California",
+				"events": [
+					"Became a leader in the hard-edge abstraction movement"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"minimalism",
+			"hard-edge"
+		]
+	}
+]

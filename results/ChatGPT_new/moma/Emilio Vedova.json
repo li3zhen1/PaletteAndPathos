@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Emilio Vedova",
+		"keywords": [
+			"abstract",
+			"political unrest",
+			"war",
+			"rebellion",
+			"postwar reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": []
+			},
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Venice, Italy",
+				"events": [
+					"Joined Corrente, a cultural movement",
+					"Participated in the Italian Resistance during the Second World War"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Won the Grand Prize for painting at the 34th Venice Biennale",
+					"Started his 'cycles' paintings"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": [
+					"Contributed to 'Spatialism'",
+					"Went to Berlin as a scholar at the German Academic Exchange Service (DAAD)"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2006,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Created his first 'Plurimi' works",
+					"Work represented in numerous exhibitions and retrospectives globally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Modernism"
+		]
+	}
+]

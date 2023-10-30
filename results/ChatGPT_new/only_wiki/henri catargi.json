@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Henri Catargi",
+		"keywords": [
+			"realism",
+			"landscape",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1925,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied at the Bucharest School of Fine Arts",
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1956,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Académie Julian in Paris",
+					"became a successful painter and author"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"portrait painting",
+			"realism"
+		]
+	}
+]

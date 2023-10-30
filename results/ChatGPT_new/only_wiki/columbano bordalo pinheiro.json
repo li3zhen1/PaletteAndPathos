@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Columbano Bordalo Pinheiro",
+		"keywords": [
+			"portraits",
+			"realism",
+			"nationalism",
+			"political satire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1857,
+				"end": 1873,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Raised in a family of artists"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1880,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studying art",
+					"influenced by Realist and Romantic painters"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Established as prominent portrait painter",
+					"involved in modernist reform movements"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1929,
+				"happiness": 4,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Death of his brother Rafael in 1912"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Portraiture",
+			"History painting"
+		]
+	}
+]

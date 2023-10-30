@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Robert Colescott",
+		"keywords": [
+			"satire",
+			"racism",
+			"sexuality",
+			"culture",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1941,
+				"happiness": 7,
+				"location": "Oakland, California, United States",
+				"events": [
+					"Began study of art at an early age"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1942,
+				"happiness": 4,
+				"location": "San Francisco, California, United States",
+				"events": [
+					"Enlisted in army and served during World War II"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Atelier Fernand Léger"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Portland, Oregon, United States",
+				"events": [
+					"Won a Guggenheim Fellowship"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2009,
+				"happiness": 4,
+				"location": "Tucson, Arizona, United States",
+				"events": [
+					"Represented United States at the 47th Venice Biennale",
+					"Died in 2009 at the age of 83"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"figurative painting"
+		]
+	}
+]

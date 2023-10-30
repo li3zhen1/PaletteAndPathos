@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Vladimir Tatlin",
+		"keywords": [
+			"modernism",
+			"industrial",
+			"abstraction",
+			"constructivism",
+			"revolution"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1915,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Moscow School of Painting, Sculpture, and Architecture",
+					"worked at the Moscow Art Theatre"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1928,
+				"happiness": 7,
+				"location": "Petrograd, Russia",
+				"events": [
+					"led the Constructivist movement",
+					"created the design for the Monument to the Third International"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1953,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"faced political obstacles",
+					"works were criticized as 'bourgeois,' leading to a decline in his career"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Constructivism",
+			"Modernism"
+		]
+	}
+]

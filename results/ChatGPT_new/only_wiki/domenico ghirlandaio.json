@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Domenico Ghirlandaio",
+		"keywords": [
+			"religion",
+			"portraiture",
+			"realism",
+			"humanism",
+			"renaissance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1448,
+				"end": 1481,
+				"happiness": 5,
+				"location": "Florence",
+				"events": [
+					"began training in goldsmithing",
+					"opened his own workshop"
+				]
+			},
+			{
+				"start": 1481,
+				"end": 1494,
+				"happiness": 7,
+				"location": "Florence",
+				"events": [
+					"painted in the Sistine Chapel",
+					"completed the frescoes in the Church of Santa Maria Novella"
+				]
+			},
+			{
+				"start": 1494,
+				"end": 1494,
+				"happiness": 4,
+				"location": "Florence",
+				"events": [
+					"death from pestilential fever"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Portrait",
+			"Fresco"
+		]
+	}
+]

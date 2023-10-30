@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Matthew Wong",
+		"keywords": [
+			"landscapes",
+			"mystical",
+			"melancholy",
+			"symbolism",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1984,
+				"end": 2019,
+				"happiness": 2,
+				"location": "Toronto, Canada",
+				"events": [
+					"Diagnosed with autism",
+					"Developed interest in photography"
+				]
+			},
+			{
+				"start": 2007,
+				"end": 2010,
+				"happiness": 4,
+				"location": "Hong Kong",
+				"events": [
+					"Studied cultural anthropology"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2013,
+				"happiness": 5,
+				"location": "Edmonton, Canada",
+				"events": [
+					"Got his Masters at the School of Creative Photography"
+				]
+			},
+			{
+				"start": 2013,
+				"end": 2019,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"Started painting traditional landscapes",
+					"Had his first solo exhibition"
+				]
+			}
+		],
+		"genre": [
+			"post-impressionism",
+			"expressionism"
+		]
+	}
+]

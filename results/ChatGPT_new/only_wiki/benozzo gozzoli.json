@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Benozzo Gozzoli",
+		"keywords": [
+			"religion",
+			"portraits",
+			"historical scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1421,
+				"end": 1426,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"started his early training"
+				]
+			},
+			{
+				"start": 1427,
+				"end": 1444,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"trained under Fra Angelico",
+					"moved to Rome in 1447"
+				]
+			},
+			{
+				"start": 1445,
+				"end": 1482,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"worked in the Vatican alongside Fra Angelico",
+					"moved to Montefalco"
+				]
+			},
+			{
+				"start": 1483,
+				"end": 1497,
+				"happiness": 7,
+				"location": "Montefalco and Florence, Italy",
+				"events": [
+					"worked on frescos",
+					"died of old age"
+				]
+			}
+		],
+		"genre": [
+			"Italian Renaissance",
+			"Fresco",
+			"Altarpiece"
+		]
+	}
+]

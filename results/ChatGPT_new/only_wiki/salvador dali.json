@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Salvador Dalí",
+		"keywords": [
+			"surrealism",
+			"dreams",
+			"religion",
+			"psychoanalysis",
+			"melting clocks"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Figueres, Spain",
+				"events": [
+					"birth",
+					"started painting as a child"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"studied at the Real Academia de Bellas Artes de San Fernando",
+					"expelled from school"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1938,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"joined the Surrealist group",
+					"met his wife Gala"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1948,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"fled to the US during World War II",
+					"had a successful exhibition at the Museum of Modern Art in New York"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Port Lligat, Spain",
+				"events": [
+					"returned to Spain and continued his artwork",
+					"lost his wife Gala"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1989,
+				"happiness": 3,
+				"location": "Figueres, Spain",
+				"events": [
+					"lived in seclusion",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Symbolism",
+			"Impressionism"
+		]
+	}
+]

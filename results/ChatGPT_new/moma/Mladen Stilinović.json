@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Mladen Stilinović",
+		"keywords": [
+			"minimalism",
+			"conceptualism",
+			"sociopolitical criticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1947,
+				"end": 2016,
+				"happiness": 6,
+				"location": "Belgrade, Serbia",
+				"events": [
+					"born in Belgrade"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1967,
+				"happiness": 5,
+				"location": "Zagreb, Croatia",
+				"events": [
+					"studied sociology and philosophy at the University in Zagreb"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1977,
+				"happiness": 5,
+				"location": "Zagreb, Croatia",
+				"events": [
+					"worked as a film editor for Zagreb Cinema Club",
+					"joined the informal art scene"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1989,
+				"happiness": 6,
+				"location": "Zagreb, Croatia",
+				"events": [
+					"became a member of the Group of Six Authors",
+					"had his works exhibited at various significant exhibition venues"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2016,
+				"happiness": 5,
+				"location": "Zagreb, Croatia",
+				"events": [
+					"continued his artistic and theoretical work",
+					"passed away in 2016"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"experimental art",
+			"minimalist art"
+		]
+	}
+]

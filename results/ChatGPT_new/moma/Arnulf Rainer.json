@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Arnulf Rainer",
+		"keywords": [
+			"abstract",
+			"overpaintings",
+			"self-portraits",
+			"emotions",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"born",
+					"studied at the Vienna Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"begun working on black and white overpaintings"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"first major exhibition",
+					"worked on body overpaintings"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"engaged in experimental photography"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"first retrospective"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2020,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"worked on series 'Face Farces' and self-overpaintings"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Informal Art",
+			"Action Painting"
+		]
+	}
+]

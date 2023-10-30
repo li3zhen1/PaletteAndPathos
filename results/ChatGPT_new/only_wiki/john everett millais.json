@@ -1,0 +1,58 @@
+[
+	{
+		"name": "John Everett Millais",
+		"keywords": [
+			"nature",
+			"portraits",
+			"historical events",
+			"literature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1829,
+				"end": 1846,
+				"happiness": 6,
+				"location": "Southampton, England",
+				"events": [
+					"youngest student to enter the Royal Academy Schools at the age of eleven"
+				]
+			},
+			{
+				"start": 1847,
+				"end": 1855,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"co-founded the Pre-Raphaelite Brotherhood",
+					"controversy over 'Christ in the House of His Parents'"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1860,
+				"happiness": 7,
+				"location": "Perth, Scotland",
+				"events": [
+					"created famous Ophelia painting",
+					"Married Euphemia Chalmers Gray"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1896,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"became a successful society portrait painter",
+					"elected a Royal Academician",
+					"death of his wife Effie"
+				]
+			}
+		],
+		"genre": [
+			"Pre-Raphaelites",
+			"Portraiture",
+			"History painting"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Michael Williams",
+		"keywords": [
+			"surrealism",
+			"humour",
+			"narrative",
+			"everyday life",
+			"pictorial elements"
+		],
+		"lifePeriods": [
+			{
+				"start": 1978,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"graduated from Washington University in St. Louis",
+					"exhibited at the Museum of Modern Art"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art"
+		]
+	}
+]

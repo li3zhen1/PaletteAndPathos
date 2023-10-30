@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Arman Manookian",
+		"keywords": [
+			"history",
+			"Hawaii",
+			"culture",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1931,
+				"happiness": 4,
+				"location": "Constantinople, Turkey",
+				"events": [
+					"Born into an Armenian family in Constantinople",
+					"Served in the United States Marine Corps during World War I"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Honolulu, Hawaii, USA",
+				"events": [
+					"Became popular for his paintings depicting Hawaiian scenes",
+					"Worked on murals for the Royal Hawaiian Hotel"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Hawaiian art"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "John McCracken",
+		"keywords": [
+			"minimalism",
+			"geometry",
+			"monochrome",
+			"reflection",
+			"symmetry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Berkeley, California, USA",
+				"events": [
+					"discovered his interest in art",
+					"graduated from high school"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1965,
+				"happiness": 7,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"attended the California College of Arts and Crafts",
+					"received his BFA"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1971,
+				"happiness": 8,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"emerged as a figure in West Coast Minimalism",
+					"gained recognition for his vibrant monochrome 'plank' sculptures"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2011,
+				"happiness": 7,
+				"location": "Santa Fe, New Mexico, USA",
+				"events": [
+					"continued developing his signature style in isolation"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Contemporary"
+		]
+	}
+]

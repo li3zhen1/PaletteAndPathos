@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Claude Lorrain",
+		"keywords": [
+			"nature",
+			"light",
+			"idyllic",
+			"pastoral",
+			"classical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1600,
+				"end": 1635,
+				"happiness": 6,
+				"location": "Italy",
+				"events": [
+					"got trained in landscape and historical painting",
+					"decided to go to Rome"
+				]
+			},
+			{
+				"start": 1635,
+				"end": 1682,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"spent most of his life in Rome",
+					"established reputation as one of the greatest landscape artists"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"landscape"
+		]
+	}
+]

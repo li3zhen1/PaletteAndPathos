@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Ferdynand Ruszczyc",
+		"keywords": [
+			"nature",
+			"landscape",
+			"realism",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Minneapolis",
+				"events": [
+					"attended Imperial Academy of Arts in St. Petersburg"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Exhibited his paintings internationally and gained recognition"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Bohodukhiv",
+				"events": [
+					"Worked as a director and teacher in the School of Fine Arts in Vilnius",
+					"Experienced the World War I"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Landscape painting"
+		]
+	}
+]

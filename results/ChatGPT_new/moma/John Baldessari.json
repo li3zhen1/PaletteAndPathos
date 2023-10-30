@@ -1,0 +1,74 @@
+[
+	{
+		"name": "John Baldessari",
+		"keywords": [
+			"conceptual art",
+			"photography",
+			"text"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1949,
+				"happiness": 5,
+				"location": "National City, California",
+				"events": [
+					"Born to Austrian and Danish immigrant parents"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1953,
+				"happiness": 6,
+				"location": "San Diego, California",
+				"events": [
+					"Studied at San Diego State College"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"Completed his bachelor's degree",
+					"Completed his master's degree"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1968,
+				"happiness": 7,
+				"location": "San Diego, California",
+				"events": [
+					"Taught art at Southwestern College",
+					"Inspired students with unusual teaching methods"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Santa Monica, California",
+				"events": [
+					"Created conceptual art with photography and text",
+					"Taught at the California Institute of the Arts"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Venice, California",
+				"events": [
+					"Exhibited work in various international venues",
+					"Recipient of the Golden Lion for Lifetime Achievement"
+				]
+			}
+		],
+		"genre": [
+			"Photography",
+			"Conceptual Art"
+		]
+	}
+]

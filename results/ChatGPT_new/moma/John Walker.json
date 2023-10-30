@@ -1,0 +1,56 @@
+[
+	{
+		"name": "John Walker",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"large-scale",
+			"colorful",
+			"texture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Birmingham, England",
+				"events": [
+					"started his education at the Birmingham College of Art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1980,
+				"happiness": 6,
+				"location": "London/Paris",
+				"events": [
+					"completed his studies at Académie de la Grande Chaumière, Paris",
+					"won the John Moores Painting Prize"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2002,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"taught at Columbia University",
+					"received a Guggenheim Fellowship"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Boston",
+				"events": [
+					"became professor emeritus at Boston University"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Expressionism"
+		]
+	}
+]

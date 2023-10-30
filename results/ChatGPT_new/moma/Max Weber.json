@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Max Weber",
+		"keywords": [
+			"cubism",
+			"human figures",
+			"landscapes",
+			"cityscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Białystok",
+				"events": [
+					"emigrated to the United States",
+					"trained in Paris"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1961,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"taught at the Art Students League",
+					"became well-known for Cubist works"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"cubism",
+			"primitivism"
+		]
+	}
+]

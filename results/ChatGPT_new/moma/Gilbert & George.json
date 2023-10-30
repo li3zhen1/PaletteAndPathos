@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Gilbert & George",
+		"keywords": [
+			"urban life",
+			"youth",
+			"sexuality",
+			"religion",
+			"human values"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1967,
+				"happiness": 5,
+				"location": "Dolcino, Italy",
+				"events": [
+					"Gilbert Proesch is born",
+					"moves to London for school"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1968,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"meets George Passmore at Saint Martin’s School of Art",
+					"formed artist duo 'Gilbert & George'"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1980,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"developed a new form known as ‘Art for All’",
+					"won the Turner Prize"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2007,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"major retrospective of their art at the Tate Modern"
+				]
+			},
+			{
+				"start": 2008,
+				"end": 2022,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"continued to create controversial and impactful art"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"performance art"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Orest Kiprensky",
+		"keywords": [
+			"portraits",
+			"neoclassicism",
+			"emotion",
+			"nobility",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1782,
+				"end": 1803,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied at Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1803,
+				"end": 1823,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"traveled to Italy to study art",
+					"won gold medal for his painting"
+				]
+			},
+			{
+				"start": 1823,
+				"end": 1836,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"painted famous portrait of Alexander Pushkin",
+					"elected to Imperial Academy of Arts"
+				]
+			}
+		],
+		"genre": [
+			"Neoclassicism",
+			"Portrait"
+		]
+	}
+]

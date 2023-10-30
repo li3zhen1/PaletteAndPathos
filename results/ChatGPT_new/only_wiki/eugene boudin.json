@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Eugène Boudin",
+		"keywords": [
+			"landscape",
+			"maritime",
+			"plein aire",
+			"naturalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1824,
+				"end": 1829,
+				"happiness": 5,
+				"location": "Honfleur, France",
+				"events": []
+			},
+			{
+				"start": 1829,
+				"end": 1835,
+				"happiness": 5,
+				"location": "Le Havre, France",
+				"events": [
+					"Moved with family"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1847,
+				"happiness": 5,
+				"location": "Le Havre, France",
+				"events": [
+					"Worked as a stationer and framer"
+				]
+			},
+			{
+				"start": 1847,
+				"end": 1851,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Decided to pursue painting",
+					"Met Jean-François Millet and Thomas Couture"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1859,
+				"happiness": 7,
+				"location": "Le Havre and Honfleur, France",
+				"events": [
+					"Known for his marine scenes"
+				]
+			},
+			{
+				"start": 1859,
+				"end": 1883,
+				"happiness": 8,
+				"location": "various, including Paris, Le Havre and Honfleur, France",
+				"events": [
+					"Became associated with the Barbizon school",
+					"Friendship with Gustave Courbet"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1898,
+				"happiness": 6,
+				"location": "various, including Paris, Le Havre and Honfleur, France",
+				"events": [
+					"Won a Gold Medal at the Salon",
+					"Developed respiratory problems"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"maritime"
+		]
+	}
+]

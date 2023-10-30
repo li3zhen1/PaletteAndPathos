@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Jim Nutt",
+		"keywords": [
+			"figurative",
+			"abstract",
+			"surrealism",
+			"portraits",
+			"imaginary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Pittsfield, Massachusetts, USA",
+				"events": [
+					"birth",
+					"started school"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania, USA",
+				"events": [
+					"studied at the School of the Art Institute of Chicago",
+					"met his spouse Gladys Nilsson"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Chicago, Illinois, USA",
+				"events": [
+					"became a member of the Hairy Who group",
+					"first exhibitions of work"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Chicago, Illinois, USA",
+				"events": [
+					"continued work as an artist",
+					"exhibitions around the world"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

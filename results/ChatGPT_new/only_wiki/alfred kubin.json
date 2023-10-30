@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Alfred Kubin",
+		"keywords": [
+			"death",
+			"ghosts",
+			"fantasy",
+			"symbolism",
+			"horror"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1898,
+				"happiness": 2,
+				"location": "Salzburg, Austria",
+				"events": [
+					"suffered a nervous breakdown",
+					"mother's death"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1906,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"attended the Munich Academy"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Zwickledt, Austria",
+				"events": []
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Expressionism"
+		]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Patrick Heron",
+		"keywords": [
+			"abstract",
+			"color",
+			"pattern",
+			"nature",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1945,
+				"happiness": 6,
+				"location": "London, United Kingdom",
+				"events": [
+					"studied at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"became art critic for New Statesman",
+					"was influenced by modernist art"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1999,
+				"happiness": 8,
+				"location": "St Ives, England",
+				"events": [
+					"developed his own unique style",
+					"became member of London Group",
+					"received honorary degree"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"modernism"
+		]
+	}
+]

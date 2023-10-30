@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Abraham Rattner",
+		"keywords": [
+			"religion",
+			"expressionism",
+			"color",
+			"abstract",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1913,
+				"happiness": 5,
+				"location": "Poughkeepsie, New York, USA",
+				"events": []
+			},
+			{
+				"start": 1913,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Chicago, Illinois, USA",
+				"events": [
+					"attended the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1920,
+				"happiness": 2,
+				"location": "France",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied art",
+					"established himself as a painter"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1978,
+				"happiness": 6,
+				"location": "New York, New York, USA",
+				"events": [
+					"worked as an artist during World War II",
+					"published the book 'The Artist in America'"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"cubism",
+			"surrealism"
+		]
+	}
+]

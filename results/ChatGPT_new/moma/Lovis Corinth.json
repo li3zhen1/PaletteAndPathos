@@ -1,0 +1,60 @@
+[
+	{
+		"name": "Lovis Corinth",
+		"keywords": [
+			"reality",
+			"impressionism",
+			"symbolism",
+			"still-life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1858,
+				"end": 1876,
+				"happiness": 7,
+				"location": "Tapiau, Prussia",
+				"events": [
+					"born and raised",
+					"discovered interest in drawing"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1884,
+				"happiness": 6,
+				"location": "Königsberg and Munich",
+				"events": [
+					"studied art",
+					"initial years of struggle"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1921,
+				"happiness": 8,
+				"location": "Munich, Berlin",
+				"events": [
+					"established reputation as a painter",
+					"marriage to Charlotte Berend",
+					"suffered a stroke"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Berlin",
+				"events": [
+					"continued painting despite physical limitations",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Symbolism",
+			"Realism"
+		]
+	}
+]

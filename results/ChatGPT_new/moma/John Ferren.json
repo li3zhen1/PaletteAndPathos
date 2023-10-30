@@ -1,0 +1,84 @@
+[
+	{
+		"name": "John Ferren",
+		"keywords": [
+			"abstract",
+			"sculpture",
+			"fauvism",
+			"cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Pendleton, Oregon, USA",
+				"events": [
+					"early life and development"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1928,
+				"happiness": 6,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"started career as a commercial artist"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1931,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at Académie de la Grande Chaumière, was introduced to cubism"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Spain",
+				"events": [
+					"influenced by Spanish masters, especially El Greco",
+					"met Pierre Daura and became part of artists commune"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1942,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"exhibition at the guggenheim",
+					"served as vice-president of the American Abstract Artists"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1970,
+				"happiness": 7,
+				"location": "East Hampton, New York, USA",
+				"events": [
+					"produced pieces in a wide range of media",
+					"active in the art community"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1979,
+				"happiness": 5,
+				"location": "Southampton, New York, USA",
+				"events": [
+					"retired",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"modernism"
+		]
+	}
+]

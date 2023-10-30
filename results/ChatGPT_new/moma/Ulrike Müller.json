@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Ulrike Müller",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"queer identity",
+			"feminism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1971,
+				"end": 1993,
+				"happiness": 5,
+				"location": "Brixlegg, Austria",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 1996,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"attended the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2002,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"became associated with the queer feminist cultural production"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2018,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"started teaching at Bard College"
+				]
+			},
+			{
+				"start": 2018,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"continues to work as a contemporary artist"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Conceptual Art"
+		]
+	}
+]

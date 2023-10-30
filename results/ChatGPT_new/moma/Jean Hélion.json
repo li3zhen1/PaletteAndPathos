@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Jean Hélion",
+		"keywords": [
+			"abstract",
+			"geometrical",
+			"human figures",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Couterne, France",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied architecture",
+					"converted to painting"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"part of 'Abstraction-Création' group",
+					"painted abstract works"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1942,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"captured during World War II",
+					"held as a prisoner of war"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1956,
+				"happiness": 7,
+				"location": "USA",
+				"events": [
+					"moved to USA",
+					"painted more representational works"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1987,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"returned to Paris",
+					"continued painting until his death"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"representational art"
+		]
+	}
+]

@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Charles Sheeler",
+		"keywords": [
+			"industrialism",
+			"precision",
+			"architecture",
+			"machinery",
+			"urban landscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1896,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"start of school education"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1903,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"attended Pennsylvania Museum and School of Industrial Art"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied art in Académie Julian",
+					"adopted the modernist style"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1917,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"exploration of earthy Pennsylvania landscapes"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1927,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"produced a series 'River Rouge' which gained him fame"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Connecticut, USA",
+				"events": [
+					"moved to Ridgefield, Connecticut",
+					"produced acclaimed works on architectural and industrial themes"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Dobbs Ferry, New York",
+				"events": [
+					"lived in relative solitude",
+					"continued to work on his art"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Precisionism",
+			"Photography"
+		]
+	}
+]

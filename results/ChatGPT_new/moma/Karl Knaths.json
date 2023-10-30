@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Karl Knaths",
+		"keywords": [
+			"still life",
+			"nature",
+			"forms",
+			"cubism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1912,
+				"happiness": 6,
+				"location": "Eau Claire, Wisconsin",
+				"events": [
+					"Raised in a family with artistic inclinations"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Chicago, Illinois",
+				"events": [
+					"Studied at The School of The Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Provincetown, Massachusetts",
+				"events": [
+					"Opened his permanent studio",
+					"Rose to prominence through solo exhibitions"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Provincetown, Massachusetts",
+				"events": [
+					"Influenced by Cubism and Purism"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1971,
+				"happiness": 5,
+				"location": "Provincetown, Massachusetts",
+				"events": [
+					"Continued to teach and paint until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Cubism"
+		]
+	}
+]

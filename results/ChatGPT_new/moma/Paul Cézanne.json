@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Paul Cézanne",
+		"keywords": [
+			"nature",
+			"still life",
+			"abstract",
+			"post-impressionism",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1839,
+				"end": 1860,
+				"happiness": 7,
+				"location": "Aix-en-Provence, France",
+				"events": [
+					"born to a wealthy family",
+					"attended Bourbon College"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"entered law school",
+					"started studying art at Swiss Academy"
+				]
+			},
+			{
+				"start": 1872,
+				"end": 1890,
+				"happiness": 5,
+				"location": "Provence, France",
+				"events": [
+					"began his mature career",
+					"met Pissarro"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1906,
+				"happiness": 6,
+				"location": "Aix-en-Provence, France",
+				"events": [
+					"returned to his native town",
+					"died from pneumonia"
+				]
+			}
+		],
+		"genre": [
+			"post-impressionism",
+			"impressionism"
+		]
+	}
+]

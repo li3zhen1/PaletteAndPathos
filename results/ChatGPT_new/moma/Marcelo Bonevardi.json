@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Marcelo Bonevardi",
+		"keywords": [
+			"geometry",
+			"mythology",
+			"symbols",
+			"nature",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"studied at the National Academy of Fine Art",
+					"traveled to Europe to study fresco and mural painting"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1972,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"moved to New York",
+					"won a Guggenheim Fellowship"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1994,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"continued his artistic work",
+					"died of cancer"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"neo-expressionism",
+			"figurative"
+		]
+	}
+]

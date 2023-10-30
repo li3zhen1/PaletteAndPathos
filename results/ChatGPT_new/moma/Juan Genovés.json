@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Juan Genovés",
+		"keywords": [
+			"Repression",
+			"Crowd",
+			"Political",
+			"Contemporary",
+			"Abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Valencia, Spain",
+				"events": [
+					"Started to develop art skills at a young age"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"Joined the Estampa Popular group fighting against Franco regime"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"Became prominent for his politically charged work during Franco’s dictatorship"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Witnessed the end of Franco's dictartorship"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Continued artwork post Franco's dictatorship",
+					"Received numerous awards for his contribution to art"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstraction"
+		]
+	}
+]

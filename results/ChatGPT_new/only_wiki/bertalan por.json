@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Bertalan Pór",
+		"keywords": [
+			"landscapes",
+			"portraits",
+			"nature",
+			"realism",
+			"Judaism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1911,
+				"happiness": 5,
+				"location": "Pest, Hungary",
+				"events": [
+					"studied art at the Mintarajziskola"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"influenced by Impressionism and Post-Impressionism"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1944,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"became a member of The Eight, a group of avant-garde artists"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1964,
+				"happiness": 2,
+				"location": "Auschwitz concentration camp, Poland",
+				"events": [
+					"survived the Holocaust",
+					"lost many family members"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism",
+			"Post-Impressionism"
+		]
+	}
+]

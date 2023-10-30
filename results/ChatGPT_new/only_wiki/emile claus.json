@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Emile Claus",
+		"keywords": [
+			"impressionism",
+			"landscape",
+			"sunlight"
+		],
+		"lifePeriods": [
+			{
+				"start": 1849,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Sint-Eloois-Vijve, Belgium",
+				"events": [
+					"Learned painting in local primary school",
+					"Moved to Lille"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1883,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the renowned Ecole des Beaux-Arts",
+					"Impressed by French impressionists"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Astene, Belgium",
+				"events": [
+					"Married his cousin",
+					"Developed his own style 'luminism'"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Astene, Belgium",
+				"events": [
+					"Experienced World War I",
+					"Moved to London"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1924,
+				"happiness": 3,
+				"location": "Astene, Belgium",
+				"events": [
+					"Returned to Belgium",
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Luminism"
+		]
+	}
+]

@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Markus Lüpertz",
+		"keywords": [
+			"abstraction",
+			"mythology",
+			"drama",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1956,
+				"happiness": 3,
+				"location": "Liberec, Czech Republic",
+				"events": [
+					"War experienced during early childhood"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1961,
+				"happiness": 4,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Studied at Werkkunstschule Krefeld"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Became rector at the Kunstakademie Düsseldorf"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2009,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Remained rector at the Kunstakademie Düsseldorf"
+				]
+			},
+			{
+				"start": 2009,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"Continued life as a working artist"
+				]
+			}
+		],
+		"genre": [
+			"Post-Abstract Expressionism",
+			"Neo-Expressionism",
+			"Contemporary Art"
+		]
+	}
+]

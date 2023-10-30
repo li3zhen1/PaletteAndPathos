@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Jose Antonio Fernández-Muro",
+		"keywords": [
+			"abstract",
+			"structure",
+			"minimalism",
+			"geometry",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Santa Cruz de Tenerife, Spain",
+				"events": [
+					"Born in Tenerife"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"Studied at the San Fernando Academy of Fine Arts in Madrid"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Moved to Rome to learn and improve his artistic skills"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris and learned from local artists"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Moved to New York",
+					"Worked as a gallery artist",
+					"Died in Montauk, NY"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"structuralism",
+			"minimalism"
+		]
+	}
+]

@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Albert Marquet",
+		"keywords": [
+			"landscapes",
+			"seascapes",
+			"urban",
+			"post-impressionism",
+			"fauvism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Bordeaux, France",
+				"events": [
+					"enrolled at the Ecole des Arts Decoratifs",
+					"Admitted to the Ecole des Beaux-Arts",
+					"met Henri Matisse"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"exhibited at the Salon des Independants",
+					"travelled extensively"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Fauvism"
+		]
+	}
+]

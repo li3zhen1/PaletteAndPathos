@@ -1,0 +1,66 @@
+[
+	{
+		"name": "César Paternosto",
+		"keywords": [
+			"geometry",
+			"abstraction",
+			"minimalism",
+			"pre-Columbian",
+			"indigenous art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1960,
+				"happiness": 5,
+				"location": "La Plata, Argentina",
+				"events": [
+					"study of drawing and painting"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1967,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"started his modernist painting work",
+					"met Carmen Beuchat"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1977,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"exhibited at the Museum of Modern Art",
+					"founded the Center for Inter-American Relations"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1993,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"developed monochromatic abstraction"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Segovia, Spain",
+				"events": [
+					"exhibited at the Reina Sofia Museum",
+					"published several books"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Patrick Scott",
+		"keywords": [
+			"minimalism",
+			"geometry",
+			"gold",
+			"symbolism",
+			"Irish culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Kilbrittain, County Cork, Ireland",
+				"events": [
+					"Born into an Irish family",
+					"Early education"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Dublin, Ireland",
+				"events": [
+					"Studied architecture",
+					"Worked at Michael Scott Architectural firm"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Dublin, Ireland",
+				"events": [
+					"Became a full-time artist",
+					"Represented Ireland at Venice Biennale"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2014,
+				"happiness": 8,
+				"location": "Dublin, Ireland",
+				"events": [
+					"Continued producing art",
+					"Was honored as Saoi by Aosdána"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

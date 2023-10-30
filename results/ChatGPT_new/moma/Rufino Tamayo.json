@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Rufino Tamayo",
+		"keywords": [
+			"culture",
+			"identity",
+			"Mexico",
+			"modernism",
+			"primitivism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Oaxaca, Mexico",
+				"events": [
+					"Lost both parents at a young age",
+					"Moved to Mexico City to live with his aunt"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Started working at the National Museum of Archaeology",
+					"Met his future wife, Olga Flores Rivas"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1949,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Exhibited at the Venice Biennale",
+					"Completed mural for the Hospital ABC in Mexico City"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1957,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Received international recognition for his work",
+					"Returned to Mexico"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Opened the Tamayo Contemporary Art Museum",
+					"Passed away on June 24"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Modern Art"
+		]
+	}
+]

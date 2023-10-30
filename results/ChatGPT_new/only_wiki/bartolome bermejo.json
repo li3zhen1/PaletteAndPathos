@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Bartolomé Bermejo",
+		"keywords": [
+			"religious",
+			"precision",
+			"detail",
+			"realism",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1440,
+				"end": 1495,
+				"happiness": 5,
+				"location": "Spain",
+				"events": [
+					"Became a master painter",
+					"Created paintings for high-ranking officials"
+				]
+			}
+		],
+		"genre": [
+			"Gothic art",
+			"Religious art"
+		]
+	}
+]

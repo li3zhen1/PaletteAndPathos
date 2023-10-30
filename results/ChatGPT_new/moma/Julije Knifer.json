@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Julije Knifer",
+		"keywords": [
+			"geometry",
+			"black and white",
+			"minimalism",
+			"abstraction",
+			"repetition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1944,
+				"happiness": 7,
+				"location": "Osijek, Yugoslavia",
+				"events": [
+					"Born in Osijek"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Zagreb, Yugoslavia",
+				"events": [
+					"Studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Zagreb, Yugoslavia",
+				"events": [
+					"Began painting",
+					"Developed his signature style"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Zagreb, Yugoslavia",
+				"events": [
+					"Creating art in the period of socialist regime"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2004,
+				"happiness": 6,
+				"location": "Zagreb, Croatia",
+				"events": [
+					"Last days in the new democratic country"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

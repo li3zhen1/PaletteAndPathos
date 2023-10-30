@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Jean (Hans) Arp",
+		"keywords": [
+			"abstract",
+			"surreal",
+			"biomorphic shapes",
+			"poetry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Strasbourg, France",
+				"events": [
+					"Graduated from the Kunstschule in Weimar, Germany"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Became part of the Modigliani circle",
+					"Became involved with Der Sturm gallery"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Founded the Dada movement",
+					"Evaded service in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Meudon, France",
+				"events": [
+					"Married artist Sophie Taeuber",
+					"Participated in the first Surrealist exhibition"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1946,
+				"happiness": 2,
+				"location": "Grasse, France",
+				"events": [
+					"Escaped from Nazi-occupied France",
+					"Death of his wife Sophie"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1966,
+				"happiness": 4,
+				"location": "Meudon, France",
+				"events": [
+					"Remarried",
+					"Won Grand Prize for Sculpture at the 1954 Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Abstract art",
+			"Surrealism"
+		]
+	}
+]

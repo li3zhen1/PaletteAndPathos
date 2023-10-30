@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Miguel Ocampo",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"structure",
+			"contrast",
+			"silence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Quilmes, Argentina",
+				"events": [
+					"Born into middle-class family"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Joined the surrealist group led by Aldo Pellegrini"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1966,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Exposed to European abstract and Dadaist art",
+					"Co-founded the artists' group 'Artistas Modernos de la Argentina' with Aldo Pellegrini"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Returns to Paris after leaving due to a military coup in Argentina",
+					"Worked as Argentina's representative to UNESCO"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 2011,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Lived and worked quietly until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modern art"
+		]
+	}
+]

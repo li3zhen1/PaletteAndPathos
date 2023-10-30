@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Gladys Nilsson",
+		"keywords": [
+			"Feminism",
+			"Satire",
+			"Surrealism",
+			"Domestic Life",
+			"Nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Chicago, USA",
+				"events": [
+					"Childhood and early life"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Chicago, USA",
+				"events": [
+					"Studied art at the School of the Art Institute of Chicago",
+					"Met her husband Jim Nutt"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1966,
+				"happiness": 8,
+				"location": "Chicago, USA",
+				"events": [
+					"Became member of the Hairy Who",
+					"First exhibition at Hyde Park Art Center"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Chicago, USA",
+				"events": [
+					"Developed her vibrant and distinctive painting style",
+					"Had a number of successful exhibitions"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Chicago, USA",
+				"events": [
+					"Continued to show work in solo and group exhibitions"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Chicago, USA",
+				"events": [
+					"Acclaimed retrospective of her work at the Chicago Cultural Center in 2013"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Drawing",
+			"Watercolour"
+		]
+	}
+]

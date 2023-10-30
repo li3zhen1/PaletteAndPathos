@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Ivan Bilibin",
+		"keywords": [
+			"folklore",
+			"fantasy",
+			"Russian",
+			"legends",
+			"slavic mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Tarkhovka, Russia",
+				"events": [
+					"developed his characteristic style",
+					"joined the Mir Iskusstva",
+					"appointed head of the State Publishing Department"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"left Soviet Russia",
+					"lived in exile",
+					"moved back to Soviet Union"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1942,
+				"happiness": 3,
+				"location": "Leningrad",
+				"events": [
+					"died during the Siege of Leningrad"
+				]
+			}
+		],
+		"genre": [
+			"Art Nouveau",
+			"Symbolism",
+			"Folk Art"
+		]
+	}
+]

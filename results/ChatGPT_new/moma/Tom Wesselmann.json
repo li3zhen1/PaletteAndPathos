@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Tom Wesselmann",
+		"keywords": [
+			"pop art",
+			"nude women",
+			"consumer culture",
+			"still life",
+			"eroticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Cincinnati, Ohio, USA",
+				"events": [
+					"Grew up during the Great Depression"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Cincinnati, Ohio, USA",
+				"events": [
+					"Served in the Army during the Korean War"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Cincinnati, Ohio, USA",
+				"events": [
+					"Studied psychology at the University of Cincinnati"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1959,
+				"happiness": 9,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Studied at the Art Academy of Cincinnati",
+					"Met his wife Claire"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2004,
+				"happiness": 8,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Became a key figure in the pop art movement",
+					"His ‘Great American Nude’ series drew both critical acclaim and controversy"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Still Life",
+			"Figurative Art"
+		]
+	}
+]

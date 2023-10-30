@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Ellen Phelan",
+		"keywords": [
+			"abstract",
+			"portrait",
+			"still lives",
+			"landscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Somerville, Massachussetts",
+				"events": [
+					"Received a Bachelor’s degree from the Massachussetts College of Art in Boston",
+					"Got an MFA from Bard College"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Portraiture",
+			"Landscapes"
+		]
+	}
+]

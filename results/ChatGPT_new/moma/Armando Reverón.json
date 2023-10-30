@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Armando Reverón",
+		"keywords": [
+			"surrealism",
+			"impressionism",
+			"landscapes",
+			"female form",
+			"self-portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"studied at the Academy of Fine Arts in Caracas",
+					"participated in World War I"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1933,
+				"happiness": 3,
+				"location": "Macuto, Venezuela",
+				"events": [
+					"built Castillo de la Playa",
+					"started the period of 'primitive light' in his work"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1954,
+				"happiness": 2,
+				"location": "Macuto, Venezuela",
+				"events": [
+					"entering a period of 'great visions'",
+					"hospitalized due to mental illness"
+				]
+			}
+		],
+		"genre": [
+			"Post-impressionism",
+			"Surrealism"
+		]
+	}
+]

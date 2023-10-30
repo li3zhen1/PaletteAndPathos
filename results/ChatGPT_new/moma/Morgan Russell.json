@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Morgan Russell",
+		"keywords": [
+			"abstract",
+			"color",
+			"synchromism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1903,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Born in New York",
+					"Raised in New Jersey"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1906,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Attended the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Inspired by Fauvism and Orphism",
+					"Began develop the style known as 'Synchromism' with Stanton Macdonald-Wright"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Exhibited first Synchromist painting",
+					"Contributed significantly to the development of abstract art"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1953,
+				"happiness": 3,
+				"location": "New York City, USA",
+				"events": [
+					"Moved back to the United States",
+					"Lived in relative obscurity"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1956,
+				"happiness": 2,
+				"location": "New York City, USA",
+				"events": [
+					"Died in New York"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Synchromism"
+		]
+	}
+]

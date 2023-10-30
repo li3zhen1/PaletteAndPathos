@@ -1,0 +1,27 @@
+[
+	{
+		"name": "André Pierre Arnal",
+		"keywords": [
+			"abstraction",
+			"geometric",
+			"minimalism",
+			"monochrome",
+			"gesture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Grasse, France",
+				"events": [
+					"studied at the Nice School of Fine Arts",
+					"co-founded the Supports/Surfaces movement"
+				]
+			}
+		],
+		"genre": [
+			"abstract painting"
+		]
+	}
+]

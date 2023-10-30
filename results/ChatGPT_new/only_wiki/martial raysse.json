@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Martial Raysse",
+		"keywords": [
+			"pop art",
+			"women",
+			"consumerism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Vallauris, France",
+				"events": [
+					"born in a family of ceramists"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Nice, France",
+				"events": [
+					"exhibited his first paintings",
+					"met Yves Klein and Arman"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Nice, France",
+				"events": [
+					"founded the Pop Art movement Nouveaux Réalistes"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"success with Pop Art",
+					"exhibited in New York and Venice Biennale"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1974,
+				"happiness": 6,
+				"location": "Provence, France",
+				"events": [
+					"turned to more traditional methods of painting"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Issigeac, France",
+				"events": [
+					"integrated ancient mythology and history into his work"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2020,
+				"happiness": 8,
+				"location": "Issigeac, France",
+				"events": [
+					"continued painting",
+					"received recognition for his contributions to art"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Nouveaux Réalistes",
+			"Neo-expressionism"
+		]
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Robyn Denny",
+		"keywords": [
+			"abstract",
+			"post-war",
+			"hard-edge",
+			"geometry",
+			"colour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Abinger, England",
+				"events": []
+			},
+			{
+				"start": 1951,
+				"end": 1957,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"studied at Royal College of Art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1979,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"first abstract artists to show at the Venice Biennale",
+					"won the John Moores Painting Prize"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2014,
+				"happiness": 6,
+				"location": "Cornwall, England",
+				"events": []
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Pop art"
+		]
+	}
+]

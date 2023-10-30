@@ -1,0 +1,49 @@
+[
+	{
+		"name": "John Covert",
+		"keywords": [
+			"Symbolism",
+			"Cubism",
+			"Abstract",
+			"Geometric shapes",
+			"Music"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Pittsburgh, United States",
+				"events": [
+					"Started work in banking",
+					"Began formal art training"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1958,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"Joined Society of Independent Artists",
+					"Created pieces in symbolic and abstract style"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Had a stroke",
+					"Retired from all activity"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Cubism",
+			"Abstract art"
+		]
+	}
+]

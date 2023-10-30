@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Bart van der Leck",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"animals",
+			"workers",
+			"industry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Utrecht, Netherlands",
+				"events": [
+					"trained as a glass painter",
+					"worked in the Stedelijk Museum"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1916,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"moved to Amsterdam",
+					"began to develop abstract style",
+					"collaborated with Piet Mondrian"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1920,
+				"happiness": 7,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"worked for the Helene Kröller-Müller",
+					"designed the interior of the Villa Henny"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Blaricum, Netherlands",
+				"events": [
+					"left the De Stijl group",
+					"focused on his own art style"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"de stijl"
+		]
+	}
+]

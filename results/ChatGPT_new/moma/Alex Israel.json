@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Alex Israel",
+		"keywords": [
+			"pop culture",
+			"self-portraits",
+			"Los Angeles culture",
+			"commercialism",
+			"consumerism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1982,
+				"end": 1998,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"Began interest in art"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2003,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Studied at Yale University"
+				]
+			},
+			{
+				"start": 2003,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"Established Freeway Eyewear",
+					"Graduated from USC"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"Began work on 'As It Lays', a talk-show series on YouTube"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

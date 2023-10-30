@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Michael Gross",
+		"keywords": [
+			"Environmental",
+			"Nature",
+			"Reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 2015,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Became art director for National Lampoon Magazine",
+					"Creation of Ghostbusters logo"
+				]
+			}
+		],
+		"genre": [
+			"Movie Logos",
+			"Illustration",
+			"Cover Design"
+		]
+	}
+]

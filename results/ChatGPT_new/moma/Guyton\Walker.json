@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Guyton\\Walker",
+		"keywords": [
+			"Modern",
+			"Sculpture",
+			"Architecture",
+			"Print"
+		],
+		"lifePeriods": [
+			{
+				"start": 2005,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, NY, USA",
+				"events": [
+					"Established Guyton\\Walker",
+					"Exhibited at MoMA"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Modern Art"
+		]
+	}
+]

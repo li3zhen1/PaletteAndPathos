@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Douglas Huebler",
+		"keywords": [
+			"minimalism",
+			"photography",
+			"conceptual art",
+			"durational works"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Ann Arbor, Michigan, United States",
+				"events": [
+					"Developed an interest in visual arts"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1962,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"Studied at the Cleveland Institute of Art",
+					"Served in the U.S. Marine Corps"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1997,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Joined the Art & Language group",
+					"Exhibited works in the Solomon R. Guggenheim Museum"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Conceptual Art"
+		]
+	}
+]

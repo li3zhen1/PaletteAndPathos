@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Mateo Manaure",
+		"keywords": [
+			"abstraction",
+			"geometry",
+			"color",
+			"minimalism",
+			"urbanism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 2018,
+				"happiness": 6,
+				"location": "Uracoa, Venezuela",
+				"events": [
+					"born in Uracoa"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"studied at the School of Fine Arts in Caracas",
+					"collaborated with Carlos Cruz-Diez"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1953,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"won a scholarship to study in Paris"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 2018,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"returned to Venezuela and continued his works of art",
+					"became a professor at the School of Fine Arts in Caracas"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction"
+		]
+	}
+]

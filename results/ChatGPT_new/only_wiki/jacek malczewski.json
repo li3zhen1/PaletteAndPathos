@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Jacek Malczewski",
+		"keywords": [
+			"symbolism",
+			"mythology",
+			"religion",
+			"Polish identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1854,
+				"end": 1866,
+				"happiness": 5,
+				"location": "Radom, Poland",
+				"events": [
+					"Birth",
+					"Childhood"
+				]
+			},
+			{
+				"start": 1867,
+				"end": 1875,
+				"happiness": 6,
+				"location": "Kraków, Poland",
+				"events": [
+					"Started studying at Jan Matejko Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1887,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Learning and creating art",
+					"First art exhibitions"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Kraków, Poland",
+				"events": [
+					"Marriage",
+					"Birth of children"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1915,
+				"happiness": 6,
+				"location": "Kraków, Poland",
+				"events": [
+					"Death of wife",
+					"Appointment as professor at the Academy of Fine Arts in Kraków"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1929,
+				"happiness": 4,
+				"location": "Kraków, Poland",
+				"events": [
+					"Death",
+					"Posthumous exhibitions and recognition"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Mythology",
+			"Portraits"
+		]
+	}
+]

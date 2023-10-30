@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Amédée Ozenfant",
+		"keywords": [
+			"architecture",
+			"Cubism",
+			"Purism",
+			"technology",
+			"objects"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1904,
+				"happiness": 6,
+				"location": "Saint-Quentin, France",
+				"events": [
+					"Raised in a middle-class family"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied painting",
+					"discovered cubism"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Co-founding Purism art movement with Le Corbusier"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1935,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"published a series of seven books called 'L’Art Pur'",
+					"Opened his own art school"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1956,
+				"happiness": 4,
+				"location": "USA and Britain",
+				"events": [
+					"Fled from Europe due to World War II",
+					"worked as a teacher"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1966,
+				"happiness": 3,
+				"location": "France",
+				"events": [
+					"Final period of his life",
+					"died at the age of 80"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Purism"
+		]
+	}
+]

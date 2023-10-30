@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Thomas Sills",
+		"keywords": [
+			"abstract",
+			"nature",
+			"music",
+			"emotion",
+			"energy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1924,
+				"happiness": 4,
+				"location": "Castalia, North Carolina",
+				"events": [
+					"Birth and childhood"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Georgia",
+				"events": [
+					"Moved to Georgia",
+					"Worked on local farm"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Moved to New York",
+					"Started painting profession"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1970,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Held his first solo exhibition"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1981,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Gained recognition",
+					"Continued to paint"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2000,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"Health deteriorated",
+					"Shortened painting activities"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Neo-romanticism",
+			"Modernism"
+		]
+	}
+]

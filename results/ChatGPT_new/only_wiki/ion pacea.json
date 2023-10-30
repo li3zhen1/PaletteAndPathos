@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Ion Pacea",
+		"keywords": [
+			"landscapes",
+			"still life",
+			"religious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1995,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Began painting landscapes and still life",
+					"Worked on religious artwork"
+				]
+			}
+		],
+		"genre": [
+			"Figurative",
+			"Realism"
+		]
+	}
+]

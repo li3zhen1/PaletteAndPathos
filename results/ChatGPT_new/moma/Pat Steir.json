@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Pat Steir",
+		"keywords": [
+			"abstract",
+			"nature",
+			"waterfall",
+			"unpredictability",
+			"zen"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1962,
+				"happiness": 4,
+				"location": "Newark, New Jersey",
+				"events": [
+					"born and raised",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"graduated from Pratt Institute",
+					"joined Art Workers’ Coalition"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"started the Waterfall series",
+					"gained recognition in the art world"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"continued to create and exhibit art"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"conceptual art"
+		]
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Alexandre Benois",
+		"keywords": [
+			"historical",
+			"stagesets",
+			"ballet",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Met future members of 'Mir Iskusstva'",
+					"Became part of founding team of the Diaghilev's Ballets Russes"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Emigrated from Soviet Russia",
+					"Worked as a stage decorator"
+				]
+			}
+		],
+		"genre": [
+			"Art Nouveau",
+			"Historical genre"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Emilio Rodríguez Larraín",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"color",
+			"minimalism",
+			"forms"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Lima, Peru",
+				"events": [
+					"Started his art studies at the National School of Fine Arts of Peru",
+					"Influenced by art movements like surrealism and informalism"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1963,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris to continue his studies",
+					"Developed his unique style influenced by the vibrant art scene in Paris"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1978,
+				"happiness": 6,
+				"location": "Lima, Peru",
+				"events": [
+					"Returned to Peru and started creating abstract compositions",
+					"Became widely recognized in the art circles of Peru"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1981,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"His works were exhibited in major museums and galleries in New York"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2015,
+				"happiness": 5,
+				"location": "Lima, Peru",
+				"events": [
+					"Returned to Peru",
+					"Was recognized as one of the pioneers of abstract art in Peru",
+					"Dealt with health issues"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

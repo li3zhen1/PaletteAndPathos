@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Michelle Stuart",
+		"keywords": [
+			"nature",
+			"land art",
+			"feminist art",
+			"drawings",
+			"photography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Los Angeles",
+				"events": [
+					"Born and spent childhood"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1967,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Studied at New School for Social Research and Art Students League of New York"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1970,
+				"happiness": 7,
+				"location": "worldwide",
+				"events": [
+					"Travelled worldwide and formed her art approach"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Developed her signature style: earth-work art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Amagansett, New York",
+				"events": [
+					"Continued creating art, incorporating photography and collage"
+				]
+			}
+		],
+		"genre": [
+			"Land Art",
+			"Feminist Art"
+		]
+	}
+]

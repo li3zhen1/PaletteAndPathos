@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Lee Ufan",
+		"keywords": [
+			"minimalism",
+			"nature",
+			"consciousness",
+			"meditation",
+			"neutrality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Kyonggi Province, South Korea",
+				"events": [
+					"born and raised",
+					"began studying art"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"moved to Japan to study philosophy",
+					"met influential artists in Japan"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1994,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris for international exposure",
+					"found recognition for his Mono-ha works"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Kamakura, Japan",
+				"events": [
+					"established global recognition",
+					"the Lee Ufan Museum was built in Naoshima"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Minimalism",
+			"Mono-ha"
+		]
+	}
+]

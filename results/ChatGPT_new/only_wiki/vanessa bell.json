@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Vanessa Bell",
+		"keywords": [
+			"Abstract",
+			"Portraits",
+			"Still life",
+			"Landscapes",
+			"Nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1879,
+				"end": 1899,
+				"happiness": 5,
+				"location": "London, UK",
+				"events": [
+					"Born into an influential family",
+					"Education at home"
+				]
+			},
+			{
+				"start": 1899,
+				"end": 1904,
+				"happiness": 7,
+				"location": "London, UK",
+				"events": [
+					"Studied painting at the Royal Academy",
+					"Death of father"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1911,
+				"happiness": 6,
+				"location": "London, UK",
+				"events": [
+					"Married Clive Bell",
+					"Birth of sons"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1916,
+				"happiness": 7,
+				"location": "London, UK",
+				"events": [
+					"Started Bloomsbury Group",
+					"Experienced open marriage"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1937,
+				"happiness": 8,
+				"location": "Sussex, UK",
+				"events": [
+					"Moved to Charleston Farmhouse",
+					"Bloomsbury Group flourished"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Sussex, UK",
+				"events": [
+					"Death of her beloved sister Virginia Woolf",
+					"Continued painting despite the loss"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Modernism"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Paul van Hoeydonck",
+		"keywords": [
+			"space",
+			"human existence",
+			"abstract",
+			"technology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"birth",
+					"study at the Royal Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"founding of the G58 group",
+					"exhibited at the 1958 Brussels World Fair"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"creation of 'Fallen Astronaut'",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Milton Avery",
+		"keywords": [
+			"modernism",
+			"color",
+			"figurative",
+			"abstract",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Altmar, New York",
+				"events": []
+			},
+			{
+				"start": 1926,
+				"end": 1965,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"married Sally Michel",
+					"birth of his daughter, March"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"figurative",
+			"abstract"
+		]
+	}
+]

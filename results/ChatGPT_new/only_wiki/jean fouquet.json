@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Jean Fouquet",
+		"keywords": [
+			"religion",
+			"royalty",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1420,
+				"end": 1481,
+				"happiness": 6,
+				"location": "Tours, France",
+				"events": [
+					"Traveled to Rome",
+					"Became a court painter"
+				]
+			}
+		],
+		"genre": [
+			"Portrait painting",
+			"Miniature painting",
+			"Illumination"
+		]
+	}
+]

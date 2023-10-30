@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Rhod Rothfuss",
+		"keywords": [
+			"geometric abstraction",
+			"constructivism",
+			"color",
+			"minimalism",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"started career as a painter",
+					"joined the Arturo workshop"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1969,
+				"happiness": 7,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"co-founded the Madí Movement",
+					"created the shaped canvas"
+				]
+			}
+		],
+		"genre": [
+			"Geometric abstraction",
+			"Constructivism"
+		]
+	}
+]

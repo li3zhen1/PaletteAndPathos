@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Max Bill",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"minimalism",
+			"conceptual",
+			"education"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Winterthur, Switzerland",
+				"events": []
+			},
+			{
+				"start": 1924,
+				"end": 1927,
+				"happiness": 7,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"started apprenticeship as a silversmith"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1928,
+				"happiness": 7,
+				"location": "Dessau, Germany",
+				"events": [
+					"studied at the Bauhaus Staatliche Kunstschule"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"became a teacher at the Kunstgewerbeschule",
+					"co-founded the Swiss Werkbund"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"elected a member of the Congrès Internationaux d'Architecture Moderne",
+					"founded the design journal 'abstrakt'"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1974,
+				"happiness": 8,
+				"location": "Ulm, Germany",
+				"events": [
+					"founded the Hochschule für Gestaltung",
+					"produced 'Die gute Form' exhibition"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1994,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"retired from teaching",
+					"continued working on sculptures"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Constructivism",
+			"Concrete Art"
+		]
+	}
+]

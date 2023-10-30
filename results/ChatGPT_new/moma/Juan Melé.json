@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Juan Melé",
+		"keywords": [
+			"abstraction",
+			"movement",
+			"geometry",
+			"space",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Buenos Aires",
+				"events": []
+			},
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Buenos Aires",
+				"events": [
+					"became a member of the Arte Concreto-Invención Association"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Buenos Aires",
+				"events": [
+					"exhibited at the Salon des Réalités Nouvelles in Paris"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"moved to Paris",
+					"established himself as a key figure in geometric abstraction"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2012,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"continued his contribution to abstract art"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"geometric",
+			"concrete"
+		]
+	}
+]

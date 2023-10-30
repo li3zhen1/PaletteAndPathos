@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Grace Cossington Smith",
+		"keywords": [
+			"modernity",
+			"color",
+			"post-impressionism",
+			"still life",
+			"domesticity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Sydney, Australia",
+				"events": [
+					"born into a wealthy family"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1970,
+				"happiness": 8,
+				"location": "Europe",
+				"events": [
+					"study art in England",
+					"study art in Switzerland"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Sydney, Australia",
+				"events": [
+					"return to Australia before WWI",
+					"start to experiment with modernist style"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1928,
+				"happiness": 8,
+				"location": "Sydney, Australia",
+				"events": [
+					"created her most famous work 'The Bridge in Curve'"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Sydney, Australia",
+				"events": [
+					"art affected by the Great Depression",
+					"lived quietly and focused on her paintings"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1984,
+				"happiness": 6,
+				"location": "Sydney, Australia",
+				"events": [
+					"continued to paint in her old age",
+					"died at the age of 92"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Post-Impressionism"
+		]
+	}
+]

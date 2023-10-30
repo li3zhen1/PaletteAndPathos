@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Antonio Carneiro",
+		"keywords": [
+			"religion",
+			"symbolism",
+			"landscape",
+			"portraits",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1892,
+				"happiness": 5,
+				"location": "Amarante, Portugal",
+				"events": [
+					"Started his artistic journey"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the École des Beaux-Arts in Paris",
+					"Developed a deep interest in symbolism"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Porto, Portugal",
+				"events": [
+					"Became the director of the Soares dos Reis National Museum"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Porto, Portugal",
+				"events": [
+					"Established his studio in Porto",
+					"Became a distinguished figure in the Portuguese artistic scene"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"His health begins to decline"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Portraits",
+			"Landscapes"
+		]
+	}
+]

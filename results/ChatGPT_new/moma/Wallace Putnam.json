@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Wallace Putnam",
+		"keywords": [
+			"animals",
+			"abstraction",
+			"jazz",
+			"realism",
+			"figures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1989,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"established himself as a successful jazz musician",
+					"served in World War I"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"abstract art"
+		]
+	}
+]

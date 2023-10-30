@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Georges Vantongerloo",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"minimalism",
+			"innovation",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1914,
+				"happiness": 4,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"Studied at the Academy of Fine Arts in Antwerp",
+					"Became acquainted with the Flemish avant-garde"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Belgium and Netherlands",
+				"events": [
+					"Served in World War I",
+					"First major works created"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Co-founded the De Stijl movement",
+					"Artwork progressively moved towards abstract and geometric styles"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1965,
+				"happiness": 8,
+				"location": "Meudon, France",
+				"events": [
+					"Founded the Abstract-Création association",
+					"Explored and evolved theories related to color and form"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Constructivism",
+			"Sculpture"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Roderic O'Conor",
+		"keywords": [
+			"landscape",
+			"still life",
+			"nude",
+			"emotion",
+			"colour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Dublin, Ireland",
+				"events": [
+					"Received his artistic education at the Dublin Metropolitan School of Art"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1892,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Atelier Cormon",
+					"Met fellow artists including Gauguin and Van Gogh"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Brittany, France",
+				"events": [
+					"Developed his own distinctive style",
+					"Painted his best-known works"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Nueil-sur-Layon, France",
+				"events": [
+					"Became recluse in his later life"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Landscapes",
+			"Nudes"
+		]
+	}
+]

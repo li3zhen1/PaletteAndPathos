@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Leon Dabo",
+		"keywords": [
+			"landscapes",
+			"flowers",
+			"impressionism",
+			"tonalism",
+			"pastoral"
+		],
+		"lifePeriods": [
+			{
+				"start": 1864,
+				"end": 1920,
+				"happiness": 7,
+				"location": "France and United States",
+				"events": [
+					"Trained under Jean-Paul Laurens",
+					"Moved to United States"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1960,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"Exhibited works extensively",
+					"Died in New York City"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Tonalism"
+		]
+	}
+]

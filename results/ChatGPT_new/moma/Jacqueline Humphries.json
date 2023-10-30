@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Jacqueline Humphries",
+		"keywords": [
+			"abstraction",
+			"emotion",
+			"reflection",
+			"contemporary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1960,
+				"end": 1984,
+				"happiness": 6,
+				"location": "New Orleans, Louisiana",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Moved to study and work",
+					"Established herself as an artist"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"Exhibitions in leading art galleries",
+					"Experimented with different techniques"
+				]
+			}
+		],
+		"genre": [
+			"Abstract painting"
+		]
+	}
+]

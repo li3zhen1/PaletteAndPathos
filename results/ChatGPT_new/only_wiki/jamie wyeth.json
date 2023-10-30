@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Jamie Wyeth",
+		"keywords": [
+			"landscapes",
+			"nature",
+			"animals",
+			"realism",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Pennsylvania, USA",
+				"events": [
+					"Born into an artistic family, niece to N.C. Wyeth and son of Andrew Wyeth."
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1966,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Enrolled at the Art Students League of New York to study painting which influenced his work."
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1970,
+				"happiness": 8,
+				"location": "Maine, USA",
+				"events": [
+					"Developed his professional career, and his work was recognized by national exhibitions."
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Delaware, USA",
+				"events": [
+					"Created portraits of various significant figures in America."
+				]
+			},
+			{
+				"start": 1986,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Pennsylvania, USA",
+				"events": [
+					"Continued working on his art, exploring new themes and techniques."
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Realism"
+		]
+	}
+]

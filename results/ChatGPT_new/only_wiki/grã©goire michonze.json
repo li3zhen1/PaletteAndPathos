@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Grégoire Michonze",
+		"keywords": [
+			"surrealism",
+			"abstraction",
+			"portraits",
+			"rural life",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1919,
+				"happiness": 4,
+				"location": "Kishinev, Bessarabia",
+				"events": [
+					"Born into a poor Jewish family",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1922,
+				"happiness": 6,
+				"location": "Chișinău",
+				"events": [
+					"Studied at the Art College of Chișinău"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Joined the artistic group 'The Three Musketeers'",
+					"Exhibited works at the Salon des Indépendants"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1944,
+				"happiness": 2,
+				"location": "Toulouse, France",
+				"events": [
+					"Survived the Holocaust"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Resumed painting",
+					"Achieved success in post-war Paris"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Gilles Aillaud",
+		"keywords": [
+			"animals",
+			"urban landscapes",
+			"stage design",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 2005,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"born in Paris",
+					"started painting urban landscapes"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"began exhibiting works",
+					"created stage designs for avant-garde theater"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Joined Narrative Figuration movement",
+					"Produced set designs for operas"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2005,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Continued painting and stage design",
+					"passed away in 2005"
+				]
+			}
+		],
+		"genre": [
+			"Narrative Figuration",
+			"Stage Design",
+			"Urban Landscape"
+		]
+	}
+]

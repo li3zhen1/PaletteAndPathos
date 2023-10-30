@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Albert Oehlen",
+		"keywords": [
+			"abstract",
+			"figuration",
+			"computer graphics",
+			"collage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Krefeld, Germany",
+				"events": [
+					"Born in Krefeld",
+					"Developed an interest in painting"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Hamburg, Germany",
+				"events": [
+					"Studied at the Hochschule für bildende Künste"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Cologne, Germany",
+				"events": [
+					"Was part of the Neue Wilde movement",
+					"Exhibited work internationally"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Switzerland",
+				"events": [
+					"Focused on creating computer-generated art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Contemporary Art"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Tadasky (Tadasuke Kuwayama)",
+		"keywords": [
+			"geometric abstractions",
+			"color",
+			"precision",
+			"symmetry",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Nagoya, Japan",
+				"events": [
+					"Born and raised",
+					"Received education in art"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1964,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Immigrated to the United States",
+					"Started using the name Tadasky"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1970,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"His artistic career flourished",
+					"His work was featured in the Responsive Eye exhibition at the Museum of Modern Art"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Continued to experiment with color and form"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Continued to create artwork"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction",
+			"Minimalism"
+		]
+	}
+]

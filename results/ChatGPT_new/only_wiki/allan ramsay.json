@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Allan Ramsay",
+		"keywords": [
+			"portraits",
+			"royalty",
+			"18th century"
+		],
+		"lifePeriods": [
+			{
+				"start": 1713,
+				"end": 1736,
+				"happiness": 5,
+				"location": "Edinburgh, Scotland",
+				"events": [
+					"Received initial education in England"
+				]
+			},
+			{
+				"start": 1736,
+				"end": 1740,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Studied the Old Masters",
+					"was influenced by Italian art"
+				]
+			},
+			{
+				"start": 1740,
+				"end": 1752,
+				"happiness": 6,
+				"location": "Edinburgh, Scotland",
+				"events": [
+					"Opened his own portrait studio",
+					"Gained popularity"
+				]
+			},
+			{
+				"start": 1752,
+				"end": 1757,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Appointed the King's limner",
+					"Successful portrait painter"
+				]
+			},
+			{
+				"start": 1757,
+				"end": 1784,
+				"happiness": 5,
+				"location": "Dover, England",
+				"events": [
+					"Retired due to ill health"
+				]
+			}
+		],
+		"genre": [
+			"portrait art",
+			"18th century"
+		]
+	}
+]

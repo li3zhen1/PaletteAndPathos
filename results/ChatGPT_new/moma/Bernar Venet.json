@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Bernar Venet",
+		"keywords": [
+			"mathematics",
+			"scientific concepts",
+			"philosophy",
+			"minimalism",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Château-Arnoux-Saint-Auban, France",
+				"events": [
+					"developed interest in painting and drawing"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1966,
+				"happiness": 7,
+				"location": "Nice, France",
+				"events": [
+					"became a stage designer for the Nice Opera",
+					"met Arman and other members of the Nouveau Réalisme group"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1993,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"profound dive into conceptual art",
+					"started his art 'without a subject'"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Le Muy, France",
+				"events": [
+					"established the Venet Foundation",
+					"major exhibitions around the world"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"minimalism",
+			"sculpture"
+		]
+	}
+]

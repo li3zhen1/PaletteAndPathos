@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Leon Golub",
+		"keywords": [
+			"violence",
+			"power",
+			"conflict",
+			"human condition",
+			"social issues"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Chicago, United States",
+				"events": [
+					"Started becoming interested in art"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"Served in Europe during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Chicago, United States",
+				"events": [
+					"Studied at the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1959,
+				"happiness": 8,
+				"location": "Chicago, United States",
+				"events": [
+					"Married artist Nancy Spero",
+					"Became a founding member of the Monster Roster artist group"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1981,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"Developed mature style",
+					"Produced his 'Gigantomachy II' to confront the Vietnam War"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2004,
+				"happiness": 4,
+				"location": "New York, United States",
+				"events": [
+					"Continued to create artwork focusing on political divide and war"
+				]
+			}
+		],
+		"genre": [
+			"Figurative art",
+			"Political art"
+		]
+	}
+]

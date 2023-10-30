@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Noah Purifoy",
+		"keywords": [
+			"found objects",
+			"assemblage",
+			"social messages",
+			"racial equality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 2004,
+				"happiness": 6,
+				"location": "Snow Hill, Alabama",
+				"events": [
+					"born"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"graduated with a BFA",
+					"co-founded the Watts Towers Art Center"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1988,
+				"happiness": 5,
+				"location": "Los Angeles, California",
+				"events": [
+					"created groundbreaking series of sculptures out of wreckage from the Watts Riots"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Joshua Tree, California",
+				"events": [
+					"moved to the desert",
+					"developed large-scale outdoor sculpture museum"
+				]
+			}
+		],
+		"genre": [
+			"Assemblage",
+			"Environmental Art"
+		]
+	}
+]

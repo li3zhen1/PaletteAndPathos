@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Jean David",
+		"keywords": [
+			"modernism",
+			"judaism",
+			"holocaust",
+			"portraiture",
+			"poster art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Born into a Jewish family",
+					"Developed an interest in art"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1940,
+				"happiness": 8,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Established himself as a professional artist",
+					"Worked as a painter, printer, and illustrator"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1944,
+				"happiness": 2,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Survived the Holocaust"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1993,
+				"happiness": 6,
+				"location": "Tel Aviv, Israel",
+				"events": [
+					"Emigrated to Mandatory Palestine in 1944",
+					"Continued to work on his art and had various exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Portrait",
+			"Poster Art"
+		]
+	}
+]

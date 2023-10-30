@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Michael Venezia",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"color",
+			"geometry",
+			"materiality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 2022,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"attended School of Visual Arts",
+					"exhibited artwork at New Museum"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

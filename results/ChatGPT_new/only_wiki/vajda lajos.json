@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Vajda Lajos",
+		"keywords": [
+			"rural life",
+			"human body",
+			"surrealism",
+			"abstract",
+			"existentialism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Budapest, Hungary",
+				"events": [
+					"studied in the Hungarian University of Fine Arts",
+					"joined the army"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1943,
+				"happiness": 3,
+				"location": "Szentendre, Hungary",
+				"events": [
+					"became influenced by surrealism"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"met his future wife",
+					"developed his own style",
+					"experienced World War II"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"became one of the prominent figures of the post-war Hungarian art scene",
+					"worked as a graphic artist"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1957,
+				"happiness": 2,
+				"location": "Budapest, Hungary",
+				"events": [
+					"died at young age of 38"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract Art"
+		]
+	}
+]

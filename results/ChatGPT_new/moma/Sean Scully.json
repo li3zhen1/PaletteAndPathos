@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Sean Scully",
+		"keywords": [
+			"abstract",
+			"shapes",
+			"emotion",
+			"spirituality",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1962,
+				"happiness": 3,
+				"location": "Dublin, Ireland",
+				"events": [
+					"Born into a working-class family",
+					"Family emigrated to London"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1972,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"Studied at Croydon College of Art",
+					"Graduated from Newcastle University"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1982,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Received a Gregory Fellowship",
+					"Career began to flourish"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1994,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Awarded a Guggenheim Fellowship",
+					"Became an American citizen"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2004,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Work became internationally recognized",
+					"Received Honorary Doctorate from Massachusetts College of Art"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Work shown in exhibitions worldwide",
+					"Continued recognition in the art world"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Abstract Expressionism"
+		]
+	}
+]

@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Max Pechstein",
+		"keywords": [
+			"expressionism",
+			"nudes",
+			"landscapes",
+			"still lifes",
+			"primitivism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Zwickau, Germany",
+				"events": [
+					"born as the son of a craftsman who worked in a textile mill",
+					"early interest in art"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1906,
+				"happiness": 5,
+				"location": "Dresden, Germany",
+				"events": [
+					"studied at the Dresden Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"joined the Die Brucke (The Bridge) movement",
+					"met his wife Lotte"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"expelled from Die Brucke",
+					"trip to the South Seas inspired primitivism in his work"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Berlin, Germany",
+				"events": [
+					"served in World War I",
+					"disturbed by war atrocities"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"part of the November Group",
+					"work condemned as degenerate by the Nazis"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1955,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"prohibited from exhibiting his work during Nazi rule",
+					"rehabilitation after World War II"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Cubism",
+			"Primitivism"
+		]
+	}
+]

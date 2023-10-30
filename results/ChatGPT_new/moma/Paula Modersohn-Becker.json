@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Paula Modersohn-Becker",
+		"keywords": [
+			"motherhood",
+			"self-portraits",
+			"nature",
+			"fertility",
+			"bold strokes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1888,
+				"happiness": 5,
+				"location": "Dresden-Friedrichstadt",
+				"events": [
+					"Born to parents Carl Woldemar Becker and Mathilde Becker"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Bremen",
+				"events": [
+					"Became interested in art",
+					"Underwent initial artistic training"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1897,
+				"happiness": 5,
+				"location": "Berlin",
+				"events": [
+					"Attended drawing and painting lessons at the School for Women Artists"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1899,
+				"happiness": 7,
+				"location": "Worpswede",
+				"events": [
+					"Joined the Worpswede art colony"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Worpswede",
+				"events": [
+					"Married fellow artist Otto Modersohn",
+					"Suffered the loss of a child"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1907,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"Began working independently",
+					"Gave birth to daughter Mathilde",
+					"Died due to postpartum complications"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Expressionism"
+		]
+	}
+]

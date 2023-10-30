@@ -1,0 +1,64 @@
+[
+	{
+		"name": "David Prentice",
+		"keywords": [
+			"landscapes",
+			"abstract",
+			"urban",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2014,
+				"happiness": 6,
+				"location": "Solihull, England",
+				"events": [
+					"Born in Solihull",
+					"Secondary education at Solihull School"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Birmingham, England",
+				"events": [
+					"Studied at Birmingham College of Art",
+					"Became part of the Ikon Group of artists"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Coventry, England",
+				"events": [
+					"Worked as a lecturer in Fine art at Coventry College of Art"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Herefordshire, England",
+				"events": [
+					"Started focusing exclusively on landscape painting"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2014,
+				"happiness": 5,
+				"location": "Herefordshire, England",
+				"events": [
+					"Life became more challenging due to Parkinson's disease"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"landscape art"
+		]
+	}
+]

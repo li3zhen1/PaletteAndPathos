@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Ida Applebroog",
+		"keywords": [
+			"feminism",
+			"power",
+			"identity",
+			"violence",
+			"sexuality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Bronx, New York, USA",
+				"events": [
+					"Born Into a Orthodox Jewish Family"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Chicago, Illinois, USA",
+				"events": [
+					"Studied at the Chicago Art Institute"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 5,
+				"location": "San Diego, California, USA",
+				"events": [
+					"Began creating books of images and words"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York, New York, USA",
+				"events": [
+					"Exhibited first solo show at Ronald Feldman Gallery"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York, New York, USA",
+				"events": [
+					"Featured in many solo exhibitions and represented USA in Venice Biennale"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2011,
+				"happiness": 7,
+				"location": "New York, New York, USA",
+				"events": [
+					"Received Anonymous was a Woman Grant"
+				]
+			},
+			{
+				"start": 2012,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, New York, USA",
+				"events": [
+					"Continued to produce and exhibit new work"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Feminism"
+		]
+	}
+]

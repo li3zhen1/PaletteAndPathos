@@ -1,0 +1,79 @@
+[
+	{
+		"name": "John D. Graham",
+		"keywords": [
+			"surrealism",
+			"cubism",
+			"form",
+			"symbolism",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1911,
+				"happiness": 4,
+				"location": "Kyiv, Russian Empire",
+				"events": [
+					"Born into a wealthy family",
+					"Early education and appreciation for art"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"Witnessed and survived World War I",
+					"Emigrated to the United States"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1932,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"Became active in the art scene",
+					"Met like-minded artists"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1942,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Wrote his treatise on art, 'System and Dialectics of Art'",
+					"Active involvement in the art community"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1955,
+				"happiness": 4,
+				"location": "Fayston, Vermont, United States",
+				"events": [
+					"Grew more isolated from the art community",
+					"Developed Parkinson's disease"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1961,
+				"happiness": 2,
+				"location": "London, England",
+				"events": [
+					"Deteriorating health",
+					"Continued to paint despite illness"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Surrealism",
+			"Cubism"
+		]
+	}
+]

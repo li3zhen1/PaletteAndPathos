@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Otto Freundlich",
+		"keywords": [
+			"abstraction",
+			"geometry",
+			"sculptures",
+			"mosaics",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1909,
+				"happiness": 5,
+				"location": "Stolp, Prussia",
+				"events": [
+					"trained as a dentist"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1911,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"met with Picasso",
+					"was introduced to Cubism"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Cologne, Germany",
+				"events": [
+					"created large mosaics for city buildings in Cologne"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1943,
+				"happiness": 2,
+				"location": "Pyrénées, France",
+				"events": [
+					"work was declared 'degenerate' by Nazi regime",
+					"arrested by German occupation forces"
+				]
+			}
+		],
+		"genre": [
+			"Cubist",
+			"Paranoiac-Critical"
+		]
+	}
+]

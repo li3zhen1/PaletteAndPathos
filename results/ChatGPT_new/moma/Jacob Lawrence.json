@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Jacob Lawrence",
+		"keywords": [
+			"African American life",
+			"narrative paintings",
+			"social issues",
+			"migration",
+			"struggle"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1930,
+				"happiness": 3,
+				"location": "Atlantic City and Philadelphia",
+				"events": [
+					"Moved frequently during childhood due to economic hardship"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Harlem, New York",
+				"events": [
+					"Enrolled in an arts and crafts settlement house",
+					"Joined the WPA Federal Art Project",
+					"Began work on The Migration Series"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1964,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"First major solo exhibition at Downtown Gallery",
+					"Served in United States Coast Guard during World War II"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Seattle",
+				"events": [
+					"Taught as a professor of art at the University of Washington",
+					"Created War Series"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Social realism",
+			"African American art"
+		]
+	}
+]

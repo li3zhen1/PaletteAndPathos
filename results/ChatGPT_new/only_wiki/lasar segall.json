@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Lasar Segall",
+		"keywords": [
+			"expressionism",
+			"impressionism",
+			"war",
+			"suffering",
+			"Jewish identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Vilna, Lithuania",
+				"events": [
+					"Born into a Jewish Lithuanian family"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"Studied at the Imperial Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Dresden, Germany",
+				"events": [
+					"Attracted to expressionism",
+					"Joined the Dresden Secession"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1923,
+				"happiness": 4,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"Immigrated to Brazil",
+					"Influenced by Brazilian culture"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1937,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Was associated with School of Paris",
+					"Developed his own style"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1957,
+				"happiness": 3,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"Was persecuted by the Nazi regime",
+					"His paintings were declared 'degenerate'"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Impressionism"
+		]
+	}
+]

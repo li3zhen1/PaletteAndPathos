@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Alfred H. Maurer",
+		"keywords": [
+			"abstraction",
+			"cubism",
+			"portraits",
+			"still lifes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1897,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Started his art studies in NY School of Art and National Academy of Design"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Won a prize at the Paris Salon in 1901",
+					"Experimented with Fauvism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1932,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Return to U.S due to outbreak of World War I",
+					"Struggled with poor financial and mental health"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Fauvism"
+		]
+	}
+]

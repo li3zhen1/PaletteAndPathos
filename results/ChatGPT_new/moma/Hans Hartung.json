@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Hans Hartung",
+		"keywords": [
+			"abstraction",
+			"dynamism",
+			"brushwork",
+			"darkness",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Leipzig, Germany",
+				"events": [
+					"born"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Dresden, Germany",
+				"events": [
+					"studied philosophy and art history",
+					"started producing first abstract paintings"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1935,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"impacted by European avant-garde"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1943,
+				"happiness": 2,
+				"location": "Various",
+				"events": [
+					"enlisted in French Foreign Legion",
+					"severely wounded in battle",
+					"lost a leg in the war"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"became a French citizen",
+					"exhibited in various international exhibitions"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1989,
+				"happiness": 7,
+				"location": "Antibes, France",
+				"events": [
+					"lived in Antibes",
+					"work widely acclaimed and exhibited globally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Tachisme"
+		]
+	}
+]

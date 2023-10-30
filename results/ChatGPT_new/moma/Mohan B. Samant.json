@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Mohan B. Samant",
+		"keywords": [
+			"abstract",
+			"primitive",
+			"symbolic",
+			"linear",
+			"organic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Mumbai, India",
+				"events": [
+					"graduated from Sir J. J. School of Art"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1968,
+				"happiness": 6,
+				"location": "London, UK",
+				"events": [
+					"began working as art teacher",
+					"work was showcased in various international exhibitions"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2004,
+				"happiness": 5,
+				"location": "New York, US",
+				"events": [
+					"taught at School of Visual Arts",
+					"developed his unique style of painting"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Post-Modern Art",
+			"Symbolic Art"
+		]
+	}
+]

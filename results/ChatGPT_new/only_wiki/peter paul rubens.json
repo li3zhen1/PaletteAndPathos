@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Peter Paul Rubens",
+		"keywords": [
+			"religious themes",
+			"mythology",
+			"portraits",
+			"landscape",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1577,
+				"end": 1589,
+				"happiness": 4,
+				"location": "Antwerp",
+				"events": [
+					"fell in love with art"
+				]
+			},
+			{
+				"start": 1589,
+				"end": 1608,
+				"happiness": 6,
+				"location": "Italy",
+				"events": [
+					"became court artist for Duke of Mantua",
+					"traveled to Spain"
+				]
+			},
+			{
+				"start": 1609,
+				"end": 1621,
+				"happiness": 7,
+				"location": "Antwerp",
+				"events": [
+					"married Isabella Brant",
+					"became court painter to Archduke Albert and Infanta Isabella"
+				]
+			},
+			{
+				"start": 1621,
+				"end": 1630,
+				"happiness": 6,
+				"location": "England and Spain",
+				"events": [
+					"served as an ambassador",
+					"created many diplomatic portraits"
+				]
+			},
+			{
+				"start": 1630,
+				"end": 1640,
+				"happiness": 8,
+				"location": "Antwerp",
+				"events": [
+					"married Hélène Fourment",
+					"created his most famous artworks"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"portraiture",
+			"history painting"
+		]
+	}
+]

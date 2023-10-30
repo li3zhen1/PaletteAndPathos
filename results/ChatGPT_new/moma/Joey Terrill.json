@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Joey Terrill",
+		"keywords": [
+			"pop",
+			"culture",
+			"identity",
+			"LGBTQIA+",
+			"Chicano"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"Came out as gay",
+					"Became an iconic artist in the LGBTQIA+ and Chicano communities"
+				]
+			}
+		],
+		"genre": [
+			"Pop art",
+			"Chicano art"
+		]
+	}
+]

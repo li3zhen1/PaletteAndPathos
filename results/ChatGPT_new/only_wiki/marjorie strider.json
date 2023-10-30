@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Marjorie Strider",
+		"keywords": [
+			"feminism",
+			"pop art",
+			"relief sculpture",
+			"forms",
+			"satire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Hot Springs, Arkansas",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Kansas City, Missouri",
+				"events": [
+					"Studied at the Kansas City Art Institute"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Yale University, New Haven, Connecticut",
+				"events": [
+					"Graduated with a Bachelor of Fine Arts",
+					"Met fellow artist Robert Grosvenor"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2014,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Participated in the first of many exhibitions",
+					"Received recognition as a key figure in the Pop Art movement"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Sculpture",
+			"Feminist Art"
+		]
+	}
+]

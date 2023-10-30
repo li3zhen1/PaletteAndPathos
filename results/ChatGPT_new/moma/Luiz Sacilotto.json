@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Luiz Sacilotto",
+		"keywords": [
+			"geometry",
+			"minimalism",
+			"abstraction",
+			"precision",
+			"order"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 2003,
+				"happiness": 7,
+				"location": "Santo Andre, Brazil",
+				"events": [
+					"began working in a metallurgical firm",
+					"studied drawing and painting"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"attended the Sao Paulo School of Fine Arts",
+					"traveled and studied in Europe with a state grant"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 2003,
+				"happiness": 8,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"become a professional artist",
+					"participated in the Ruptura exhibition"
+				]
+			}
+		],
+		"genre": [
+			"Constructivism",
+			"Abstract art",
+			"Concrete art"
+		]
+	}
+]

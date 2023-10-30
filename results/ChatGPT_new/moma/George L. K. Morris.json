@@ -1,0 +1,57 @@
+[
+	{
+		"name": "George L. K. Morris",
+		"keywords": [
+			"abstraction",
+			"cubism",
+			"social scenes",
+			"political criticism",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1917,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1930,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Educated at Yale University and the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied with Fernand Léger",
+					"Married Estelle Condit"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1975,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"Promoted abstraction and modernism in American art",
+					"Became an editor for the Partisan Review"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Cubism",
+			"Abstract art"
+		]
+	}
+]

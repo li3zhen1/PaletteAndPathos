@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Adriaen van Ostade",
+		"keywords": [
+			"peasants",
+			"genre scenes",
+			"village",
+			"tavern life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1610,
+				"end": 1648,
+				"happiness": 7,
+				"location": "Haarlem",
+				"events": [
+					"studied under Frans Hals"
+				]
+			},
+			{
+				"start": 1648,
+				"end": 1657,
+				"happiness": 8,
+				"location": "Haarlem",
+				"events": [
+					"became a member of the Haarlem Guild of Saint Luke"
+				]
+			},
+			{
+				"start": 1657,
+				"end": 1685,
+				"happiness": 7,
+				"location": "Haarlem",
+				"events": [
+					"his brother, Isaac van Ostade died",
+					"famous as an etcher"
+				]
+			}
+		],
+		"genre": [
+			"genre painting"
+		]
+	}
+]

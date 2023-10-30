@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Jim Dine",
+		"keywords": [
+			"everyday objects",
+			"Neo-Dada",
+			"Pop Art",
+			"autobiographical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Cincinnati, Ohio, USA",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Cincinnati, Ohio, USA",
+				"events": [
+					"Graduated from University of Cincinnati"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1962,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Started identifying himself with the Pop Art movement"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Various locations around the world",
+				"events": [
+					"Work showcased in multiple galleries globally",
+					"Started exploring other mediums of art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Paris, France and Walla Walla, Washington, USA",
+				"events": [
+					"Continued to produce and exhibit work"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Neo-Dada"
+		]
+	}
+]

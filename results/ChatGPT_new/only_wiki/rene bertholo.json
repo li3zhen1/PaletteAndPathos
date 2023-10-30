@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Rene Bertholo",
+		"keywords": [
+			"life",
+			"simplicity",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 2005,
+				"happiness": 6,
+				"location": "Alhandra, Portugal",
+				"events": [
+					"started to explore the field of sculpture"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1967,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"joined the group GRAV (Groupe de Recherche d’Art Visuel)"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 2005,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"established himself as an independent artist",
+					"created multiple series of silk screen prints"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Kinetic Art",
+			"Contemporary Art"
+		]
+	}
+]

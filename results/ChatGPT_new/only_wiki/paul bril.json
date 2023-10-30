@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Paul Bril",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"figures",
+			"religion",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1554,
+				"end": 1626,
+				"happiness": 7,
+				"location": "Rome",
+				"events": [
+					"met his wife",
+					"became court painter to Cardinal Federico Borromeo"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"fresco"
+		]
+	}
+]

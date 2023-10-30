@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Paul Sérusier",
+		"keywords": [
+			"Symbolism",
+			"nature",
+			"mysticism",
+			"Brittany",
+			"rural life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1864,
+				"end": 1878,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Born in Paris",
+					"Raised in a bourgeoisie family"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1888,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Académie Julian"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1890,
+				"happiness": 7,
+				"location": "Pont-Aven, France",
+				"events": [
+					"Met Paul Gauguin",
+					"Painted 'The Talisman' under Gauguin's guidance"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1927,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Teaching at the Académie Ranson",
+					"Wrote theoretical treatise 'ABC of Painting'"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism"
+		]
+	}
+]

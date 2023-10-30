@@ -1,0 +1,59 @@
+[
+	{
+		"name": "José Pancetti",
+		"keywords": [
+			"seascapes",
+			"landscapes",
+			"urban scenes",
+			"portrait",
+			"rural scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1920,
+				"happiness": 3,
+				"location": "Campinas, Brazil",
+				"events": [
+					"born into a family of immigrants",
+					"worked in various jobs"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"joined the Merchant Navy",
+					"took art courses"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"became associated with Modernism",
+					"held successful exhibitions"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"continued painting",
+					"achieved national recognition"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Landscape Art",
+			"Portrait Art"
+		]
+	}
+]

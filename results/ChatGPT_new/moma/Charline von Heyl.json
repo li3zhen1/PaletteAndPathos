@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Charline von Heyl",
+		"keywords": [
+			"abstract",
+			"shapes",
+			"colours",
+			"form",
+			"process"
+		],
+		"lifePeriods": [
+			{
+				"start": 1960,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Mainz, Germany",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1996,
+				"happiness": 7,
+				"location": "Dusseldorf, Germany",
+				"events": [
+					"Studied art",
+					"Start her career in art"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, US",
+				"events": [
+					"Her works exhibited internationally",
+					"Won Biennial Prize"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Visual art",
+			"Expressionism"
+		]
+	}
+]

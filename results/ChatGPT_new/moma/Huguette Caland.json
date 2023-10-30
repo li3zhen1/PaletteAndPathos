@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Huguette Caland",
+		"keywords": [
+			"femininity",
+			"abstraction",
+			"bodies",
+			"liberation",
+			"colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1970,
+				"happiness": 8,
+				"location": "Beirut, Lebanon",
+				"events": [
+					"Born into a prestigious family",
+					"Begun her artistic career"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1987,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Exhibited work internationally",
+					"Gained recognition in art world"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2019,
+				"happiness": 7,
+				"location": "Los Angeles, United States",
+				"events": [
+					"Moved to Los Angeles",
+					"Continued her prolific art career until her death"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"erotic art"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Miguel Angel Ríos",
+		"keywords": [
+			"violence",
+			"geopolitics",
+			"nature",
+			"death",
+			"power"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1963,
+				"happiness": 3,
+				"location": "Catamarca, Argentina",
+				"events": [
+					"Born to a poor family"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1971,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Studied at the Academy of Fine Arts",
+					"Developed an interest in the artistic avant-garde"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1982,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Experienced cultural shock",
+					"Developed his own style in art expressing geopolitical violence"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2003,
+				"happiness": 5,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Exhibited in numerous galleries and museums"
+				]
+			},
+			{
+				"start": 2003,
+				"end": 2022,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Recognized as one of the leading contemporary artists",
+					"Continued creating influential artworks"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

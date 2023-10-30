@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Raqib Shaw",
+		"keywords": [
+			"fantasy",
+			"exoticism",
+			"violence",
+			"eroticism",
+			"lavishness"
+		],
+		"lifePeriods": [
+			{
+				"start": 1974,
+				"end": 1998,
+				"happiness": 5,
+				"location": "Kashmir, India",
+				"events": [
+					"born into a family of merchants"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2002,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"moved to London",
+					"attended Central Saint Martins for MA in Fine Art"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2004,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"graduated from Central Saint Martins",
+					"declared as an artist"
+				]
+			},
+			{
+				"start": 2005,
+				"end": 2021,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"established his art studio",
+					"held solo exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Contemporary Art"
+		]
+	}
+]

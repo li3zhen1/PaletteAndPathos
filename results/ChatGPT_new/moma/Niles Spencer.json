@@ -1,0 +1,60 @@
+[
+	{
+		"name": "Niles Spencer",
+		"keywords": [
+			"Abstract",
+			"domestic objects",
+			"urban landscapes",
+			"precision"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Pawtucket, Rhode Island, United States",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Hartford, Connecticut, United States",
+				"events": [
+					"Started his art studies"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1927,
+				"happiness": 8,
+				"location": "New York City, New York, United States",
+				"events": [
+					"Became a member of the Woodstock art colony"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1952,
+				"happiness": 6,
+				"location": "New York City, New York, United States",
+				"events": [
+					"Developed his style of Precisionist painting"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1959,
+				"happiness": 5,
+				"location": "New York City, New York, United States",
+				"events": []
+			}
+		],
+		"genre": [
+			"Precisionism",
+			"Modernism"
+		]
+	}
+]

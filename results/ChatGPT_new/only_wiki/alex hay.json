@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Alex Hay",
+		"keywords": [
+			"everyday life",
+			"objects",
+			"realism",
+			"paper castings"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Edinburgh, Indiana, United States",
+				"events": [
+					"born in Edinburgh, Indiana"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Arizona, United States",
+				"events": [
+					"moved to Arizona for high school"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Stanford, California, United States",
+				"events": [
+					"attended Stanford University",
+					"developed interest in painting and drawing"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Los Angeles, California, United States",
+				"events": [
+					"moved to Los Angeles"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 2000,
+				"happiness": 6,
+				"location": "New York, New York, United States",
+				"events": [
+					"moved to New York",
+					"started his career as an artist"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Florida, United States",
+				"events": [
+					"retired and moved to Florida"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Still life"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Guy Pène du Bois",
+		"keywords": [
+			"society",
+			"urban",
+			"portrait",
+			"criticism",
+			"modernity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1899,
+				"happiness": 7,
+				"location": "Brooklyn, New York ",
+				"events": [
+					"Born to French parents",
+					"Started studying art at an early age"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1904,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"Studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1913,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Married Florence Sherman Duncan",
+					"Worked as an art critic for New York American"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1930,
+				"happiness": 8,
+				"location": "Connecticut and France",
+				"events": [
+					"Associated with the artists of the Ashcan School",
+					"Started teaching at the Art Students League"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1958,
+				"happiness": 6,
+				"location": "Connecticut and France",
+				"events": [
+					"Worked as a critic and teacher",
+					"Experienced decreased health"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Portraiture",
+			"Social Realism"
+		]
+	}
+]

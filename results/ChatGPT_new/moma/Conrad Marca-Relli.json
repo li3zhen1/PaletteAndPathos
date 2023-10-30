@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Conrad Marca-Relli",
+		"keywords": [
+			"collage",
+			"abstract",
+			"movement",
+			"texture",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1927,
+				"happiness": 7,
+				"location": "Boston, Massachusetts, USA",
+				"events": [
+					"graduated from the Cooper Union School of Art"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New York, New York, USA",
+				"events": [
+					"developed collage technique",
+					"became associated with the Abstract Expressionists"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 6,
+				"location": "Parma, Italy",
+				"events": [
+					"established studio",
+					"created large-scale works"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1989,
+				"happiness": 7,
+				"location": "East Hampton, Long Island, USA",
+				"events": [
+					"continued to explore collage",
+					"received numerous recognitions for his art"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 2000,
+				"happiness": 5,
+				"location": "Parma, Italy",
+				"events": [
+					"continued creating artworks",
+					"died in 2000"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Collage",
+			"Painting"
+		]
+	}
+]

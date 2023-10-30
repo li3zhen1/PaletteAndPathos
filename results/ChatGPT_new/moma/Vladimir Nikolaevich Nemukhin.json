@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Vladimir Nikolaevich Nemukhin",
+		"keywords": [
+			"abstract",
+			"symbolism",
+			"cards",
+			"still life",
+			"neo-avant-garde"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Kursk Region, Russia",
+				"events": [
+					"Born and spent his childhood"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Sverdlovsk, Russia",
+				"events": [
+					"Experience of World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Studied at the Surikov Moscow Art Institute"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"Experienced censorship from the Soviet government",
+					"Participation in the non-conformist art movement"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2000,
+				"happiness": 8,
+				"location": "West Berlin, Germany",
+				"events": [
+					"Exhibitions in the West increase recognition"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2016,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Continued working and exhibitions",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Non-conformist art"
+		]
+	}
+]

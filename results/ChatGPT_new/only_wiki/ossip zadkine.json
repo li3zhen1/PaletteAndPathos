@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Ossip Zadkine",
+		"keywords": [
+			"cubism",
+			"sculpture",
+			"abstract",
+			"human figure",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Vitebsk",
+				"events": [
+					"began studying art"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"involved in cubist art movement",
+					"served in the First World War"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"developed his signature style"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1967,
+				"happiness": 4,
+				"location": "New York",
+				"events": [
+					"fled to the United States due to World War II",
+					"created his famous sculpture 'The Destroyed City'"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"sculpture",
+			"abstract art"
+		]
+	}
+]

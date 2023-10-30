@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Peter Saul",
+		"keywords": [
+			"political satire",
+			"cartoonish imagery",
+			"surrealism",
+			"pop art",
+			"violence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1956,
+				"happiness": 7,
+				"location": "San Francisco, USA",
+				"events": [
+					"Born into an affluent family",
+					"Started to learn painting at a young age"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1964,
+				"happiness": 5,
+				"location": "Holland, Paris, Rome",
+				"events": [
+					"Studied art in Europe",
+					"Developed his distinctive style"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Mill Valley, California, USA",
+				"events": [
+					"Returned to the USA",
+					"Critiqued American culture through his art"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York",
+					"Received recognition and achieved success"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Surrealism",
+			"Abstract Expressionism"
+		]
+	}
+]

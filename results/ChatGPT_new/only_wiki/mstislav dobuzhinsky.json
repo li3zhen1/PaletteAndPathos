@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Mstislav Dobuzhinsky",
+		"keywords": [
+			"symbolism",
+			"cityscape",
+			"theater",
+			"expressionism",
+			"nostalgia"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1901,
+				"happiness": 5,
+				"location": "Novgorod, Russia",
+				"events": [
+					"Born into an aristocratic family"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1908,
+				"happiness": 6,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Studied under Savinsky, Zvantseva, and Roerich",
+					"Joined the Union of Russian Artists"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1917,
+				"happiness": 7,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Joined the World of Art movement",
+					"Focused on theater stage design"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Kaunas, Lithuania",
+				"events": [
+					"Emigrated from Russia after the Bolshevik Revolution",
+					"Worked for the Kaunas State Theatre"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1957,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Emigrated to USA due to the political situation in Lithuania",
+					"Continued to work on theater stage design until his death"
+				]
+			}
+		],
+		"genre": [
+			"symbolism",
+			"expressionism"
+		]
+	}
+]

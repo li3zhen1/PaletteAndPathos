@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Alphonse Mucha",
+		"keywords": [
+			"women",
+			"flowers",
+			"nature",
+			"Art Nouveau",
+			"beauty"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1877,
+				"happiness": 6,
+				"location": "Ivančice, Austria-Hungary",
+				"events": [
+					"began to draw while he worked as an apprentice"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1887,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"worked as a scene painter",
+					"studied at the Municipal Arts School"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"attended Académie Julian",
+					"found success with the Gismonda posters"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"his Art Nouveau style gained recognition",
+					"Married Maruška (Marie) Chytilová"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Prague, Czechoslovakia",
+				"events": [
+					"dedicated time to Slav Epic",
+					"participated in Resistance during World War I"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Prague, Czechoslovakia",
+				"events": [
+					"completed the Slav Epic",
+					"arrested by Gestapo before death"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Illustration",
+			"Decorative art"
+		]
+	}
+]

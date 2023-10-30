@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Gandy Brodie",
+		"keywords": [
+			"figure",
+			"still life",
+			"nature",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1942,
+				"happiness": 4,
+				"location": "New York City, United States",
+				"events": [
+					"Born in Brooklyn",
+					"Early interest in art"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1950,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"Started professional painting",
+					"Developed his own unique style"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1963,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"First solo exhibition at Galerie Huit",
+					"Received critical recognition"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1975,
+				"happiness": 5,
+				"location": "Newfane, Vermont, United States",
+				"events": [
+					"Started the Newfane Hill Art Colony",
+					"Continued to paint and teach"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1985,
+				"happiness": 4,
+				"location": "New York City, United States",
+				"events": [
+					"Cancer diagnosis",
+					"Passed away at the age of 60"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Figurative Art"
+		]
+	}
+]

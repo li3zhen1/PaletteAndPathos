@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Nam June Paik",
+		"keywords": [
+			"technology",
+			"media",
+			"music",
+			"performance",
+			"installation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Born into a wealthy industrialist family",
+					"Witnessed the Korean War"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Studied Music, History, Art History, and Philosophy at the University of Tokyo",
+					"Wrote a thesis on Arnold Schoenberg"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 2006,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Became involved with the Fluxus movement",
+					"Known for his pioneering works in electronic, video and performance art"
+				]
+			}
+		],
+		"genre": [
+			"Video art",
+			"performance",
+			"installation"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Aelbert Cuyp",
+		"keywords": [
+			"landscape",
+			"nature",
+			"light",
+			"rural",
+			"cattle"
+		],
+		"lifePeriods": [
+			{
+				"start": 1620,
+				"end": 1654,
+				"happiness": 5,
+				"location": "Dordrecht, Netherlands",
+				"events": [
+					"began painting",
+					"inherited his father's studio"
+				]
+			},
+			{
+				"start": 1655,
+				"end": 1664,
+				"happiness": 7,
+				"location": "Dordrecht, Netherlands",
+				"events": [
+					"got married",
+					"created his most famous works"
+				]
+			},
+			{
+				"start": 1665,
+				"end": 1691,
+				"happiness": 7,
+				"location": "Dordrecht, Netherlands",
+				"events": [
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"landscape art",
+			"genre art"
+		]
+	}
+]

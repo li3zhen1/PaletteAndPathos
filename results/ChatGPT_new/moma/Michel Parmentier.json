@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Michel Parmentier",
+		"keywords": [
+			"Minimalism",
+			"Monochrome",
+			"Repetition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1944,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"Born during the turbulent times of World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1956,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Experienced post-war restruction"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Developed an interest in arts"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1974,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Started serious painting",
+					"Became part of the BMPT art group"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Experienced recognition and success in his art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Died"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract painting"
+		]
+	}
+]

@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Mona Hatoum",
+		"keywords": [
+			"Conflict",
+			"Home",
+			"Displacement",
+			"Body",
+			"Femininity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1952,
+				"end": 1975,
+				"happiness": 4,
+				"location": "Beirut, Lebanon",
+				"events": [
+					"Born into Palestinian family",
+					"Studied at the Beirut University College for Women"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1981,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"Stranded due to civil war in Lebanon",
+					"Studied at the Byam Shaw School of Art"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1991,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Received a Bachelor of Arts and Master of Arts from the Slade School of Fine Art",
+					"Started creating performance art"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2001,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Began to focus on installations",
+					"Received Turner Prize nomination"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2020,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Continued art installations with focus on political and human rights issues",
+					"Exhibited worldwide"
+				]
+			}
+		],
+		"genre": [
+			"Installation",
+			"Performance Art",
+			"Video Art"
+		]
+	}
+]

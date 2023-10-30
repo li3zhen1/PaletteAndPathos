@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Nina Tryggvadottir",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"nature",
+			"Icelandic",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Reykjavík, Iceland",
+				"events": [
+					"started painting"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"studied in the Royal Danish Academy of Art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1942,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"moved to New York",
+					"studied at the Art Students League"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1968,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"worked in a loft-studio",
+					"married fellow artist Louis Schanker"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"geometric abstraction"
+		]
+	}
+]

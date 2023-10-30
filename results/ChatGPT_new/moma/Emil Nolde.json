@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Emil Nolde",
+		"keywords": [
+			"nature",
+			"religion",
+			"expressionism",
+			"modernism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1882,
+				"happiness": 5,
+				"location": "Nolde, Denmark",
+				"events": [
+					"born into a peasant family"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1912,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied at the Munich Academy",
+					"changed his name to Nolde"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1920,
+				"happiness": 8,
+				"location": "Berlin, Germany",
+				"events": [
+					"joined the Berlin Secession",
+					"part of the expressionist group 'Die Brücke'"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Seebüll, Germany",
+				"events": [
+					"built a house and studio in Seebüll"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Seebüll, Germany",
+				"events": [
+					"work declared 'degenerate' by the Nazi regime",
+					"stopped painting under Nazi pressure, instead focused on watercolors"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Seebüll, Germany",
+				"events": [
+					"restarted painting following the end of World War II",
+					"died in 1956"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"modern art"
+		]
+	}
+]

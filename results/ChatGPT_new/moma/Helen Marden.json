@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Helen Marden",
+		"keywords": [
+			"nature",
+			"color",
+			"expression",
+			"emotion",
+			"tropical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 2021,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"marriage with Brice Marden",
+					"traveled the tropics"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

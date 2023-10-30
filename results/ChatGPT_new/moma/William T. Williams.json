@@ -1,0 +1,72 @@
+[
+	{
+		"name": "William T. Williams",
+		"keywords": [
+			"Abstract",
+			"Geometric",
+			"Patterns",
+			"Colors",
+			"Cultural Identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 1958,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Born and brought up. Developed an interest in art."
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1965,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"Studied art at Pratt Institute, Bachelor's Degree in Fine Art"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1967,
+				"happiness": 7,
+				"location": "Yale University, New Haven",
+				"events": [
+					"Received a Master's degree in Fine Art"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1971,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"First African American artist to have a solo show at the Museum of Modern Art in New York"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1973,
+				"happiness": 7,
+				"location": "North Africa and Europe",
+				"events": [
+					"Travelled to enhance his artistic view"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"Became a professor at Brooklyn College"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Geometric abstraction"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Brett Whiteley",
+		"keywords": [
+			"nudity",
+			"urban scenes",
+			"abstract",
+			"landscapes",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1956,
+				"happiness": 6,
+				"location": "Sydney, Australia",
+				"events": [
+					"fascinated towards art from childhood"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1961,
+				"happiness": 7,
+				"location": "Sydney, Australia",
+				"events": [
+					"won a scholarship at the British School at Rome"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1969,
+				"happiness": 9,
+				"location": "London, UK",
+				"events": [
+					"received the Harkness Fellowship"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1977,
+				"happiness": 4,
+				"location": "Fiji",
+				"events": [
+					"struggled with substance use",
+					"Artistic productivity dropped"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1992,
+				"happiness": 3,
+				"location": "Sydney, Australia",
+				"events": [
+					"continued to struggle with substance abuse",
+					"Death of his mother"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Abstraction",
+			"Expressionism"
+		]
+	}
+]

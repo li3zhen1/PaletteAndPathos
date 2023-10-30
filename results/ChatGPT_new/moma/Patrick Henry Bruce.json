@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Patrick Henry Bruce",
+		"keywords": [
+			"abstract",
+			"modernist",
+			"synchromism",
+			"geometrical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1899,
+				"happiness": 6,
+				"location": "Long Island, Virginia",
+				"events": [
+					"Born into wealth and privilege"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1905,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Started study in Arts"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1907,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Studied under impressionist master Henri Matisse"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1912,
+				"happiness": 10,
+				"location": "France",
+				"events": [
+					"Developed his own style of modernist painting"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1920,
+				"happiness": 9,
+				"location": "New York City, New York",
+				"events": [
+					"Exhibited his works in famous Armory Show"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1936,
+				"happiness": 3,
+				"location": "Long Island, Virginia",
+				"events": [
+					"Became increasingly isolated and suffered from alcoholism"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Synchromism"
+		]
+	}
+]

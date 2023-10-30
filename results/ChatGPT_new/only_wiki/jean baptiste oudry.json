@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Jean-Baptiste Oudry",
+		"keywords": [
+			"animals",
+			"still life",
+			"portraits",
+			"hunting",
+			"royal court"
+		],
+		"lifePeriods": [
+			{
+				"start": 1686,
+				"end": 1715,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Learnt painting from his father",
+					"Entered the Royal Academy of Painting and Sculpture"
+				]
+			},
+			{
+				"start": 1715,
+				"end": 1735,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Became professor at the Royal Academy",
+					"Started depicting animals and hunting scenes"
+				]
+			},
+			{
+				"start": 1735,
+				"end": 1755,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Appointed as a director of Beauvais tapestry factory",
+					"became a member of the Académie de Saint-Luc"
+				]
+			},
+			{
+				"start": 1755,
+				"end": 1759,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Health declined",
+					"Died at the age of 72"
+				]
+			}
+		],
+		"genre": [
+			"Rococo",
+			"Animal Painting",
+			"Still Life"
+		]
+	}
+]

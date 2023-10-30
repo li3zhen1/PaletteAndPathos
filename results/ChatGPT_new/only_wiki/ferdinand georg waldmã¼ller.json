@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Ferdinand Georg Waldmüller",
+		"keywords": [
+			"portrait",
+			"landscape",
+			"genre painting",
+			"still life",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1793,
+				"end": 1809,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"completed his artistic education"
+				]
+			},
+			{
+				"start": 1809,
+				"end": 1823,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"worked as portrait painter for exhibition vases and clock cases"
+				]
+			},
+			{
+				"start": 1823,
+				"end": 1825,
+				"happiness": 6,
+				"location": "Italy",
+				"events": [
+					"travelled across Italy for his artistic studies"
+				]
+			},
+			{
+				"start": 1825,
+				"end": 1827,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"became a well-paid portrait painter"
+				]
+			},
+			{
+				"start": 1827,
+				"end": 1857,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"appointed Professor of Genre and Landscape Painting",
+					"funded founding of the Austrian Art Union"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1862,
+				"happiness": 4,
+				"location": "Vienna, Austria",
+				"events": []
+			},
+			{
+				"start": 1863,
+				"end": 1865,
+				"happiness": 4,
+				"location": "Vienna, Austria",
+				"events": [
+					"died on 23 August 1865"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"landscape",
+			"genre painting"
+		]
+	}
+]

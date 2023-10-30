@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Sam Francis",
+		"keywords": [
+			"abstract",
+			"color field",
+			"lyrical",
+			"light",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1943,
+				"happiness": 6,
+				"location": "San Mateo, California",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1947,
+				"happiness": 2,
+				"location": "United States",
+				"events": [
+					"served in the U.S. Air Force during World War II",
+					"serious injury during a test flight accident"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Berkeley, California",
+				"events": [
+					"studied art at the University of California, Berkeley"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"became part of the Parisian art scene",
+					"first exhibition in Paris"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"first retrospective in Japan"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1994,
+				"happiness": 7,
+				"location": "Santa Monica, California",
+				"events": [
+					"his paintings became noted for their brilliant color and light"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Color Field"
+		]
+	}
+]

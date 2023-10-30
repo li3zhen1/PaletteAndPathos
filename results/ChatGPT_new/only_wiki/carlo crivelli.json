@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Carlo Crivelli",
+		"keywords": [
+			"religion",
+			"symbolism",
+			"medieval",
+			"portrait",
+			"gold"
+		],
+		"lifePeriods": [
+			{
+				"start": 1430,
+				"end": 1447,
+				"happiness": 4,
+				"location": "Venice",
+				"events": [
+					"Began his training"
+				]
+			},
+			{
+				"start": 1447,
+				"end": 1457,
+				"happiness": 3,
+				"location": "Padua",
+				"events": [
+					"Was sentenced to six months of prison for an affair with a married woman",
+					"Start to make a name for himself as a painter"
+				]
+			},
+			{
+				"start": 1457,
+				"end": 1470,
+				"happiness": 5,
+				"location": "Zadar",
+				"events": [
+					"Had to leave Padua because of prison sentence"
+				]
+			},
+			{
+				"start": 1470,
+				"end": 1495,
+				"happiness": 6,
+				"location": "Marche",
+				"events": [
+					"Became a leading artist in Marche"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Italian Renaissance",
+			"Christian Art"
+		]
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Joe Goode",
+		"keywords": [
+			"nature",
+			"clouds",
+			"milk bottles",
+			"torn canvas",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Oklahoma City, OK",
+				"events": [
+					"born in Oklahoma City, OK"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Los Angeles, CA",
+				"events": [
+					"moved to Los Angeles",
+					"started exploring pop art"
+				]
+			}
+		],
+		"genre": [
+			"pop art",
+			"abstract expressionism"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Enrico Castellani",
+		"keywords": [
+			"minimalism",
+			"repetition",
+			"space",
+			"geometry",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Castelmassa, Italy",
+				"events": [
+					"Born in Castelmassa, Italy"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Studied art and architecture",
+					"Graduated from Académie Royale des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Milan, Italy",
+				"events": [
+					"Co-founded of the magazine Azimuth",
+					"First exhibition of his canvases",
+					"established a gallery"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1979,
+				"happiness": 5,
+				"location": "Celleno, Italy",
+				"events": []
+			},
+			{
+				"start": 1980,
+				"end": 2017,
+				"happiness": 7,
+				"location": "Celleno, Italy",
+				"events": [
+					"Received honorary degree",
+					"Retrospective of his work at the Prada Foundation in Milan"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract Expressionism"
+		]
+	}
+]

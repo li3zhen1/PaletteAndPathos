@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Ioannis Altamouras",
+		"keywords": [
+			"seascape",
+			"realism",
+			"naturalism",
+			"marine",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1852,
+				"end": 1878,
+				"happiness": 4,
+				"location": "Naples, Italy",
+				"events": [
+					"Studied painting at the Naples School of Fine Arts",
+					"Contracted tuberculosis"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism",
+			"Marine Art"
+		]
+	}
+]

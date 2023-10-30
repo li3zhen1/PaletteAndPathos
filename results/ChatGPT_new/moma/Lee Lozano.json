@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Lee Lozano",
+		"keywords": [
+			"feminism",
+			"gender",
+			"society",
+			"rejection",
+			"power"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1999,
+				"happiness": 3,
+				"location": "Newark, New Jersey, United States",
+				"events": [
+					"Born into a middle class family"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Chicago, United States",
+				"events": [
+					"Studied at the Art Institute of Chicago, achieving a BFA"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1972,
+				"happiness": 4,
+				"location": "New York, United States",
+				"events": [
+					"Moved to New York, began to interact with other artists",
+					"Decided to boycott women in 1971"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1999,
+				"happiness": 2,
+				"location": "Dallas, United States",
+				"events": [
+					"Left New York and art world completely",
+					"Lived in isolation until her death"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Conceptual Art"
+		]
+	}
+]

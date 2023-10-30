@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Aluisio Carvão",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"constructivism",
+			"homage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Belém, Brazil",
+				"events": [
+					"born into a family interested in music and art"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"moved to Rio de Janeiro and joined the Brazilian Army"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"studied drawing and painting technique with Flexor",
+					"part of the art group called the Guanabara Group"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"became a teacher at the Museum of Modern Art in Rio de Janeiro",
+					"started his phase of constructive works"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"his paintings moved into 'chromocinetic' phase",
+					"passed away in 2001"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"constructivism"
+		]
+	}
+]

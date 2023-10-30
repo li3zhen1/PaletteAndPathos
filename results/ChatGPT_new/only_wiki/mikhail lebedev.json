@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Mikhail Lebedev",
+		"keywords": [
+			"landscape",
+			"nature",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1811,
+				"end": 1837,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Started art education"
+				]
+			},
+			{
+				"start": 1833,
+				"end": 1835,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Started his professional career"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1837,
+				"happiness": 5,
+				"location": "Naples, Italy",
+				"events": [
+					"Developed his unique art style"
+				]
+			}
+		],
+		"genre": [
+			"Landscape"
+		]
+	}
+]

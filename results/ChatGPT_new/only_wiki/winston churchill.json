@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Winston Churchill",
+		"keywords": [
+			"politics",
+			"landscapes",
+			"nature",
+			"peaceful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1874,
+				"end": 1895,
+				"happiness": 5,
+				"location": "Blenheim Palace, England",
+				"events": [
+					"started school at Harrow School"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1900,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"joined the British Army",
+					"worked as a writer"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Westminster, England",
+				"events": [
+					"became Member of Parliament",
+					"married Clementine Hozier"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1955,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"appointed as Prime Minister",
+					"led Britain during World War II"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1965,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"retired from public life",
+					"painted"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Landscape"
+		]
+	}
+]

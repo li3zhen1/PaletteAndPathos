@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Marcel Jean",
+		"keywords": [
+			"surrealism",
+			"mysticism",
+			"sexuality",
+			"dream",
+			"unconscious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"started studying medicine"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"joined the surrealists",
+					"worked as an editor for La Révolution surréaliste"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"involved in several international exhibitions",
+					"fled to Mexico during WWII"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"worked for French cultural services in New York",
+					"became director of the Galerie Chalette"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"became the curator of the Musée des Arts Décoratifs",
+					"consultant for the UNESCO"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Psychoanalysis"
+		]
+	}
+]

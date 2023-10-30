@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Jake Berthot",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"emotion",
+			"introspection",
+			"isolation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Niagara Falls, New York",
+				"events": [
+					"Born and raised",
+					"Began interest in art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Main part of his art career in the city",
+					"Involved with the minimalism art movement"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2014,
+				"happiness": 5.5,
+				"location": "Coxsackie, New York",
+				"events": [
+					"Moved to rural New York",
+					"Art became more introspective and personal"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

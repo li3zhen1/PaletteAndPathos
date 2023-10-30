@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Giovanni Battista Tiepolo",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"allegory",
+			"nobility"
+		],
+		"lifePeriods": [
+			{
+				"start": 1696,
+				"end": 1730,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"established himself as a leading artist in Venice",
+					"married Maria Cecilia Guardi"
+				]
+			},
+			{
+				"start": 1730,
+				"end": 1750,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Appointed as the head of the Venetian academy",
+					"honoured with knighthood"
+				]
+			},
+			{
+				"start": 1750,
+				"end": 1770,
+				"happiness": 7,
+				"location": "Würzburg, Germany",
+				"events": [
+					"Commissioned to paint the Würzburg Residence",
+					"became well-known throughout Europe"
+				]
+			},
+			{
+				"start": 1770,
+				"end": 1770,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"Commissioned to paint the Royal Palace of Madrid",
+					"died suddenly in Madrid"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Rococo",
+			"Venetian school"
+		]
+	}
+]

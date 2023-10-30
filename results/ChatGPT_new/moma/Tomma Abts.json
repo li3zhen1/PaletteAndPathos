@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Tomma Abts",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"structure",
+			"pattern",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Kiel, Germany",
+				"events": [
+					"Born and raised in Kiel, Germany",
+					"Studied Fine Arts at the Hochschule der Bildenden Künste in Hamburg"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2022,
+				"happiness": 6,
+				"location": "London, United Kingdom",
+				"events": [
+					"Moved to London after her studies",
+					"Won the Turner Prize in 2006"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract"
+		]
+	}
+]

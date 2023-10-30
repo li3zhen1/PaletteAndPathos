@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Hércules Barsotti",
+		"keywords": [
+			"geometry",
+			"form",
+			"color",
+			"constructivism",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1940,
+				"happiness": 4,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"born in a large Italian immigrant family",
+					"Started drawing classes at the Lyceum of Arts and Crafts of São Paulo"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 5,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Began his artistic career",
+					"Involved in theater as a set designer"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2000,
+				"happiness": 7,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Became one of the founders of the Neoconcrete Movement",
+					"Had his works displayed in various exhibitions"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2010,
+				"happiness": 6,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Continued to work and exhibit despite his advanced age",
+					"Passed away in 2010"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Constructivism",
+			"Neo-Concrete Movement"
+		]
+	}
+]

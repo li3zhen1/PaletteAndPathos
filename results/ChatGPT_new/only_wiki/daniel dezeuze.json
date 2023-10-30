@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Daniel Dezeuze",
+		"keywords": [
+			"Minimalism",
+			"Materials",
+			"Abstraction",
+			"Subtlety",
+			"Spatial exploration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Alès, France",
+				"events": [
+					"Co-founded the Supports/Surfaces group",
+					"Experimented with non-traditional art materials"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Conceptual art",
+			"Minimalism"
+		]
+	}
+]

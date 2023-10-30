@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Carlos Botelho",
+		"keywords": [
+			"landscape",
+			"urban scene",
+			"Portuguese culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1982,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"studied at the Fine Arts Academy in Lisbon",
+					"became a professor of drawing"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"neorealism"
+		]
+	}
+]

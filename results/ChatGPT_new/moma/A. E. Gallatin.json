@@ -1,0 +1,29 @@
+[
+	{
+		"name": "A. E. Gallatin",
+		"keywords": [
+			"cubism",
+			"modern art",
+			"abstract art",
+			"portraits",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Philadelphia, USA",
+				"events": [
+					"founded the Gallery of Living Art at New York University",
+					"started painting and collecting art"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"portraits",
+			"landscape"
+		]
+	}
+]

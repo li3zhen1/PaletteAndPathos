@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Mikalojus Konstantinas Čiurlionis",
+		"keywords": [
+			"nature",
+			"symbolism",
+			"mysticism",
+			"music",
+			"cosmos"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1889,
+				"happiness": 5,
+				"location": "Druskininkai, Lithuania",
+				"events": [
+					"Born",
+					"Began showing artistic promise"
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1904,
+				"happiness": 7,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Studied at Warsaw School of Fine Arts",
+					" began painting"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1906,
+				"happiness": 6,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Studied at St. Petersburg Conservatory",
+					"started combining music and visual art"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1909,
+				"happiness": 4,
+				"location": "Vilnius, Lithuania",
+				"events": [
+					"Created most of his major works",
+					"suffered from psychological distress"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1911,
+				"happiness": 2,
+				"location": "Pustelnik, Poland",
+				"events": [
+					"Became greatly ill",
+					"died from pneumonia complications"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau"
+		]
+	}
+]

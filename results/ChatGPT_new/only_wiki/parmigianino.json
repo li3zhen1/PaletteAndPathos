@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Parmigianino",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"distortions",
+			"mannerism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1503,
+				"end": 1524,
+				"happiness": 4,
+				"location": "Parma",
+				"events": [
+					"studied painting",
+					"lost his parents at an early age"
+				]
+			},
+			{
+				"start": 1524,
+				"end": 1527,
+				"happiness": 6,
+				"location": "Rome",
+				"events": [
+					"got interested in the Antique and masterpieces of Raphael and Michelangelo",
+					"experienced the Sack of Rome in 1527"
+				]
+			},
+			{
+				"start": 1527,
+				"end": 1531,
+				"happiness": 5,
+				"location": "Bologna",
+				"events": [
+					"worked on Madonna with the Long Neck"
+				]
+			},
+			{
+				"start": 1531,
+				"end": 1540,
+				"happiness": 3,
+				"location": "Parma",
+				"events": [
+					"arrested for not completing his part of a bargain on a commissioned work",
+					"died of fever"
+				]
+			}
+		],
+		"genre": [
+			"High Renaissance",
+			"Mannerism"
+		]
+	}
+]

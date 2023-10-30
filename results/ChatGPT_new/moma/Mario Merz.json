@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Mario Merz",
+		"keywords": [
+			"nature",
+			"architecture",
+			"fragility",
+			" Fibonacci sequence",
+			"organic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Milan, Italy",
+				"events": [
+					"born in Milan, Italy"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1963,
+				"happiness": 5,
+				"location": "Turin, Italy",
+				"events": [
+					"Joined Arte Povera movement"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 2003,
+				"happiness": 7,
+				"location": "Turin, Italy",
+				"events": [
+					"Began using the Fibonacci sequence in his work",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Arte Povera",
+			"Conceptual Art",
+			"Installation Art"
+		]
+	}
+]

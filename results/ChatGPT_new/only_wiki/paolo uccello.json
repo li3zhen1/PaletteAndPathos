@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Paolo Uccello",
+		"keywords": [
+			"perspective",
+			"chiaroscuro",
+			"mythology",
+			"religion",
+			"battle scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1397,
+				"end": 1436,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"entry into the painters' guild",
+					"work in the Florence Cathedral"
+				]
+			},
+			{
+				"start": 1436,
+				"end": 1455,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"working on the church of San Marco"
+				]
+			},
+			{
+				"start": 1455,
+				"end": 1475,
+				"happiness": 4,
+				"location": "Florence, Italy",
+				"events": [
+					"painting 'The Battle of San Romano'"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Gothic"
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Sever Burada",
+		"keywords": [
+			"medieval life",
+			"romanticism",
+			"nature",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied at School of Fine Arts",
+					"first solo exhibitions"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"struggled during Second World War"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 2008,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"created notable works",
+					"won several awards"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Romanticism"
+		]
+	}
+]

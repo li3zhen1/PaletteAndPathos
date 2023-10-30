@@ -1,0 +1,78 @@
+[
+	{
+		"name": "R. B. Kitaj",
+		"keywords": [
+			"abstraction",
+			"figures",
+			"political themes",
+			"Jewish culture",
+			"erotic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Cleveland, Ohio, United States",
+				"events": [
+					"early education",
+					"beginning of interest in art"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1951,
+				"happiness": 3,
+				"location": "New York, United States",
+				"events": [
+					"served in merchant navy",
+					"developed interest in literature"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"studied at the Academy of Fine Art",
+					"met Elsi Anna Roessler, who became his first wife"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1975,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"became a part of the London School",
+					"his works were exhibited in a solo exhibition"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1994,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"death of his wife",
+					"his works were criticized"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2007,
+				"happiness": 2,
+				"location": "Los Angeles, California, United States",
+				"events": [
+					"complained about his anti-Semitic treatment in UK art world",
+					"suicide due to the criticism and loneliness"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"figurative art"
+		]
+	}
+]

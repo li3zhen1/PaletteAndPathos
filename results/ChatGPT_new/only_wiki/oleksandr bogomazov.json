@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Oleksandr Bohomazov",
+		"keywords": [
+			"cubism",
+			"futurism",
+			"easel graphics",
+			"theatrical decoration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Radomyshl, Russian Empire",
+				"events": [
+					"Raised in an artistic family"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1901,
+				"happiness": 6,
+				"location": "Kiev, Russian Empire",
+				"events": [
+					"Moved to Kiev",
+					"Studied at the drawing school"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1903,
+				"happiness": 6,
+				"location": "Moscow, Russian Empire",
+				"events": [
+					"Studied at the studio of F.I. Rerberg"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Kiev, Russian Empire/Soviet Union",
+				"events": [
+					"Joined Brotherhood of Artists",
+					"Met his wife Wanda Monastyrskaya",
+					"Died of a severe stomach disease"
+				]
+			}
+		],
+		"genre": [
+			"Cubist art",
+			"Futurism"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Robert Huot",
+		"keywords": [
+			"geometrical shapes",
+			"minimalism",
+			"diary films",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"met his wife",
+					"shifted from painting to filmmaking"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Filmmaking"
+		]
+	}
+]

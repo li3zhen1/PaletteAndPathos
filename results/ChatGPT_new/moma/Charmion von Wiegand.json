@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Charmion von Wiegand",
+		"keywords": [
+			"Bauhaus",
+			"geometrical shapes",
+			"abstract",
+			"color",
+			"spiritual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Chicago",
+				"events": [
+					"got degree from Columbia University in Journalism",
+					"worked as a freelance writer"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1946,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"-turned to painting",
+					"met Piet Mondrian"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"nationally recognized for her neo-plastic abstract paintings"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1983,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"continued to push the boundaries of abstract and spiritual art"
+				]
+			}
+		],
+		"genre": [
+			"neo-plastic design",
+			"spiritual abstraction"
+		]
+	}
+]

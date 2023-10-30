@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Suzanne Jackson",
+		"keywords": [
+			"African American culture",
+			"poetry",
+			"nature",
+			"history",
+			"theater"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 1967,
+				"happiness": 5,
+				"location": "Saint Louis, Missouri",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"attended the Chouinard Art Institute",
+					"began exploring mediums beyond painting"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"established Gallery 32",
+					"became active in L.A.'s Black Arts Movement"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"earned her MFA from the School of Theater, Film and Television at the University of California",
+					"won the Visual Artist Fellowship"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Savannah, Georgia",
+				"events": [
+					"became a professor at Savannah College of Art and Design",
+					"her artwork featured in various exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Mixed Media",
+			"Theater"
+		]
+	}
+]

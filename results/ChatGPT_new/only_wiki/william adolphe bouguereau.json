@@ -1,0 +1,58 @@
+[
+	{
+		"name": "William-Adolphe Bouguereau",
+		"keywords": [
+			"mythology",
+			"religion",
+			"women",
+			"children",
+			"rural life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1825,
+				"end": 1850,
+				"happiness": 4,
+				"location": "La Rochelle, France",
+				"events": [
+					"birth",
+					"study at Municipal School of Drawing"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1870,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"won Prix de Rome",
+					"married Marie-Nelly Monchablon"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1896,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"death of four children and wife"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1905,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"remarried to Elizabeth Jane Gardner",
+					"death of Gardner"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Academic art",
+			"Genre art"
+		]
+	}
+]

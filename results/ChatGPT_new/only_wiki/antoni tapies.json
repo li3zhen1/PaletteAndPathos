@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Antoni Tapies",
+		"keywords": [
+			"abstract",
+			"matter",
+			"symbolism",
+			"nature",
+			"political oppression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"born into a bourgeois Catalan family"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1943,
+				"happiness": 1,
+				"location": "Barcelona, Spain",
+				"events": [
+					"suffered from a serious heart condition"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1946,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"started attending drawing and painting classes"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"fell under the influence of artists like Paul Klee and Joan Miró"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 2012,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"returned to Barcelona and started his successful artistic career",
+					"created the Fundació Antoni Tàpies, a cultural center and museum, in Barcelona"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Art Informel",
+			"Arte Povera"
+		]
+	}
+]

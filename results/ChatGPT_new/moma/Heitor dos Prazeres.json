@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Heitor dos Prazeres",
+		"keywords": [
+			"Samba",
+			"Carnival",
+			"Nature",
+			"Music",
+			"Brazil"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Started musical career as a tambourine player",
+					"Became part of Oito Batutas music group"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1946,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Started painting",
+					"First exhibition of his works"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Recognition in the art scene",
+					"Link between his music and painting"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1966,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Director of Mangueira Samba School",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Naive art",
+			"Modernist"
+		]
+	}
+]

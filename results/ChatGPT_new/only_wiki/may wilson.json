@@ -1,0 +1,50 @@
+[
+	{
+		"name": "May Wilson",
+		"keywords": [
+			"collage",
+			"self-portraits",
+			"feminism",
+			"satire",
+			"dada"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Hawkinsville, Georgia",
+				"events": [
+					"Born and raised",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1966,
+				"happiness": 5,
+				"location": "Baltimore, Maryland",
+				"events": [
+					"Married Richard A. Wilson",
+					"Raised two sons",
+					"Started creating art in private"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1986,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Started public art career",
+					"Became part of the New York avant-garde art scene"
+				]
+			}
+		],
+		"genre": [
+			"collage",
+			"self-portraiture",
+			"photomontage"
+		]
+	}
+]

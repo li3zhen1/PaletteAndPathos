@@ -1,0 +1,91 @@
+[
+	{
+		"name": "Paul Gauguin",
+		"keywords": [
+			"exoticism",
+			"primitive art",
+			"nudity",
+			"self-portraits",
+			"rural scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1848,
+				"end": 1871,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Born to a journalist and a socialist leader",
+					"sailed around the world on a merchant vessel"
+				]
+			},
+			{
+				"start": 1872,
+				"end": 1884,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Worked as a stockbroker",
+					"married a Danish woman",
+					"took up painting"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1891,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"Left his wife and children",
+					"failed to make a living from his paintings"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1893,
+				"happiness": 6,
+				"location": "Tahiti",
+				"events": [
+					"First moved to Tahiti to escape European civilization",
+					"produced famous paintings like 'The Day of the God'"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1895,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Returned due to financial problems",
+					"failed to sell his paintings"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1901,
+				"happiness": 3,
+				"location": "Tahiti",
+				"events": [
+					"Second move to Tahiti",
+					"suffered from syphilis",
+					"continued to paint"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1903,
+				"happiness": 2,
+				"location": "Marquesas Islands",
+				"events": [
+					"Moved due to conflict with the colonial administration",
+					"died of a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Primitivism",
+			"Symbolism"
+		]
+	}
+]

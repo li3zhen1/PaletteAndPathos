@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Bradley Walker Tomlin",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"nature",
+			"evolution",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Syracuse, New York, U.S.",
+				"events": [
+					"spark of interest in art"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1921,
+				"happiness": 6,
+				"location": "New York City, New York, U.S.",
+				"events": [
+					"Graduated from Syracuse University with a degree in Art",
+					"Studied at Art Students League of New York"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1932,
+				"happiness": 6,
+				"location": "New York City, New York, U.S.",
+				"events": [
+					"Began career as illustrator and commercial artist",
+					"exhibited works in Whitney Museum of American Art"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1953,
+				"happiness": 5,
+				"location": "New York City, New York, U.S.",
+				"events": [
+					"transformed style from representational to abstract",
+					"became part of the New York School of artists"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1955,
+				"happiness": 4,
+				"location": "New York City, New York, U.S.",
+				"events": [
+					"died of coronary thrombosis",
+					"exhibited work in retrospective exhibition at the Whitney Museum"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

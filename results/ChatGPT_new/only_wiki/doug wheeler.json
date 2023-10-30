@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Doug Wheeler",
+		"keywords": [
+			"light",
+			"space",
+			"infinity",
+			"minimalism",
+			"perception"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Arizona, United States",
+				"events": [
+					"Developed an interest in depth perception and infinite space"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Los Angeles, United States",
+				"events": [
+					"Attended the Chouinard Art Institute (now the California Institute of the Arts)",
+					"Started creating his 'infinity environment' artworks"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Santa Fe, New Mexico, United States",
+				"events": [
+					"Created his first immersive light installation",
+					"Exhibited his work globally"
+				]
+			}
+		],
+		"genre": [
+			"Light and Space",
+			"Contemporary Art",
+			"Minimalism"
+		]
+	}
+]

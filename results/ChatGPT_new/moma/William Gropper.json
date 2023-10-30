@@ -1,0 +1,67 @@
+[
+	{
+		"name": "William Gropper",
+		"keywords": [
+			"sociopolitical issues",
+			"workers' rights",
+			"satire",
+			"poverty"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1917,
+				"happiness": 3,
+				"location": "New York",
+				"events": [
+					"born to poor immigrant parents",
+					"worked in a garment factory"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1935,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"studied at the Ferrer Modern School",
+					"employed as a cartoonist and board artist"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1950,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"created the mural 'Construction of the Dam' for the US Department of the Interior",
+					"traveled to Europe and the Soviet Union"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1977,
+				"happiness": 4,
+				"location": "New York",
+				"events": [
+					"blacklisted during the McCarthy era",
+					"continued creating artworks"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1977,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"died at the age of 79"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Political Cartoon",
+			"Satire"
+		]
+	}
+]

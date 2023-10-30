@@ -1,0 +1,56 @@
+[
+	{
+		"name": "James Turrell",
+		"keywords": [
+			"light",
+			"space",
+			"perception",
+			"nature",
+			"sky"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Los Angeles, California",
+				"events": [
+					"Born and raised",
+					"Attended university"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1974,
+				"happiness": 6,
+				"location": "United States",
+				"events": [
+					"Served in the Peace Corps"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Flagstaff, Arizona",
+				"events": [
+					"Began Roden Crater project"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Flagstaff, Arizona",
+				"events": [
+					"Continued work on Roden Crater",
+					"Received multiple awards and honors"
+				]
+			}
+		],
+		"genre": [
+			"Installation Art",
+			"Contemporary Art"
+		]
+	}
+]

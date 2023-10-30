@@ -1,0 +1,89 @@
+[
+	{
+		"name": "James McNeill Whistler",
+		"keywords": [
+			"nature",
+			"urban",
+			"portraits",
+			"realism",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1834,
+				"end": 1848,
+				"happiness": 5,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"moved to Russia with his parents",
+					"developed love for art"
+				]
+			},
+			{
+				"start": 1848,
+				"end": 1851,
+				"happiness": 3,
+				"location": "Pomfret, Connecticut",
+				"events": [
+					"lost his father",
+					"moved back to America with his mother"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1855,
+				"happiness": 7,
+				"location": "West Point, New York",
+				"events": [
+					"attended West Point Military Academy",
+					"studied under Robert Walter Weir"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1863,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"attended Charles Gleyre’s atelier"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1879,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"created 'Symphony in White, No. 1: The White Girl'",
+					"became famous"
+				]
+			},
+			{
+				"start": 1879,
+				"end": 1890,
+				"happiness": 3,
+				"location": "Venice, Italy",
+				"events": [
+					"went bankrupt",
+					"started creating etchings"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1903,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"created 'Nocturne: Blue and Gold - Old Battersea Bridge'",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"impressionism",
+			"tonalism"
+		]
+	}
+]

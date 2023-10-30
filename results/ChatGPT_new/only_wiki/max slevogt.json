@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Max Slevogt",
+		"keywords": [
+			"impressionism",
+			"portraits",
+			"landscapes",
+			"history",
+			"theater"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1884,
+				"happiness": 5,
+				"location": "Landshut",
+				"events": [
+					"Received his first artistic training",
+					"Spent his early life in his birthplace"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Munich",
+				"events": [
+					"Studied at the Munich Academy",
+					"Began his career as a painter"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Berlin",
+				"events": [
+					"Got married to Antonia Fuhrmann",
+					"Ascended to prominence as an artist"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1932,
+				"happiness": 7.5,
+				"location": "Pfalz",
+				"events": [
+					"Created some of his best known works",
+					"Won various recognitions for his art"
+				]
+			}
+		],
+		"genre": [
+			"impressionism",
+			"landscape art",
+			"portrait"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Batiste Madalena",
+		"keywords": [
+			"posters",
+			"film",
+			"advertising",
+			"art nouveau",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1924,
+				"happiness": 7,
+				"location": "Rochester, New York",
+				"events": [
+					"started working for a local theater"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1928,
+				"happiness": 8,
+				"location": "Rochester, New York",
+				"events": [
+					"became the poster designer for Eastman Theatre",
+					"created over 1400 images"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Rochester, New York",
+				"events": [
+					"abandoned by Eastman Theatre",
+					"continued creating art"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Rochester, New York",
+				"events": []
+			}
+		],
+		"genre": [
+			"Poster Art",
+			"Advertising",
+			"Illustration"
+		]
+	}
+]

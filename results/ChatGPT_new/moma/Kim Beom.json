@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Kim Beom",
+		"keywords": [
+			"Surrealism",
+			"Satire",
+			"Institutions",
+			"Social constructs"
+		],
+		"lifePeriods": [
+			{
+				"start": 1963,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Born in Seoul"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1991,
+				"happiness": 7,
+				"location": "South Korea",
+				"events": [
+					"Started his art career in Korea"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2001,
+				"happiness": 7,
+				"location": "New Haven, Connecticut, United States",
+				"events": [
+					"Studied at the School of the Arts, Yale University"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2022,
+				"happiness": 7,
+				"location": "South Korea",
+				"events": [
+					"Taught at Seoul National University",
+					"Exhibited works around the world"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Conceptual Art",
+			"Video Art"
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Utagawa Kunisada II",
+		"keywords": [
+			"bijin-ga",
+			"kabuki",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1823,
+				"end": 1880,
+				"happiness": 6,
+				"location": "Edo, Japan",
+				"events": [
+					"studied under Utagawa Kunisada I",
+					"took over the name of Utagawa Kunisada I"
+				]
+			}
+		],
+		"genre": [
+			"Ukiyo-e",
+			"Woodblock prints"
+		]
+	}
+]

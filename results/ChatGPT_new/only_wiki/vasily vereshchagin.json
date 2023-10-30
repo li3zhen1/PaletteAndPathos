@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Vasily Vereshchagin",
+		"keywords": [
+			"wars",
+			"death",
+			"realism",
+			"enviroment",
+			"legends"
+		],
+		"lifePeriods": [
+			{
+				"start": 1842,
+				"end": 1855,
+				"happiness": 6,
+				"location": "Cherepovets, Russia",
+				"events": [
+					"Born into a noble family"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1863,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Enrolled in the Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1866,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Became a student of Jean-Léon Gérôme"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1873,
+				"happiness": 5,
+				"location": "Various Locations",
+				"events": [
+					"Began to paint scenes from military life",
+					"Witnessed the harsh conditions of battle during the Turkestan Campaigns"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1884,
+				"happiness": 4,
+				"location": "Various Locations",
+				"events": [
+					"Survived a ship explosion on the Danube",
+					"Began his series of paintings The Apotheosis of War"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1891,
+				"happiness": 5,
+				"location": "Various Locations",
+				"events": [
+					"Painted landscapes and scenes from peasant life"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Various Locations",
+				"events": [
+					"Suffered from bouts of sickness, likely from his travels",
+					"Continued to paint despite declining health"
+				]
+			}
+		],
+		"genre": [
+			"Historical Realist",
+			"War artist"
+		]
+	}
+]

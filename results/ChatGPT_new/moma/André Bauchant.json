@@ -1,0 +1,46 @@
+[
+	{
+		"name": "André Bauchant",
+		"keywords": [
+			"mythology",
+			"historic events",
+			"nature",
+			"gardens",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Château-Renault, France",
+				"events": [
+					"worked as a horticulturist"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "France",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"discovered his passion for painting",
+					"held first solo exhibition in Paris"
+				]
+			}
+		],
+		"genre": [
+			"Naive Art",
+			"Primitivism"
+		]
+	}
+]

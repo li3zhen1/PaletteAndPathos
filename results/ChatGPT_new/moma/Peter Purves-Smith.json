@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Peter Purves-Smith",
+		"keywords": [
+			"surrealism",
+			"expressionism",
+			"war",
+			"nude",
+			"alienation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Melbourne, Australia",
+				"events": [
+					"born in Melbourne",
+					"studied at the National Gallery of Victoria Art School"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Europe",
+				"events": [
+					"traveled to Europe",
+					"joined the London Artist’s Association, exhibiting at their gallery"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Australia",
+				"events": [
+					"returned to Australia to serve in the army during WW2",
+					"divorced his wife"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Mexico",
+				"events": [
+					"traveled to Mexico",
+					"died from hepatitis at the age of 36"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Surrealism"
+		]
+	}
+]

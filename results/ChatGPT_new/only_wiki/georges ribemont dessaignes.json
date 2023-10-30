@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Georges Ribemont-Dessaignes",
+		"keywords": [
+			"surrealism",
+			"absurdity",
+			"automatic writing"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1930,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"Participated in the Dada Movement",
+					"Co-founded the Surrealist movement"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1941,
+				"happiness": 4,
+				"location": "France",
+				"events": [
+					"Break up with the surrealist group",
+					"Isolation due to World War II"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1974,
+				"happiness": 4,
+				"location": "Saint-Jeannet, France",
+				"events": [
+					"Return to Saint-Jeannet",
+					"Continued to write and paint in solitude"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Dada"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Masaccio",
+		"keywords": [
+			"religion",
+			"humanism",
+			"illusion",
+			"pioneering"
+		],
+		"lifePeriods": [
+			{
+				"start": 1401,
+				"end": 1428,
+				"happiness": 4,
+				"location": "Florence, Italy",
+				"events": [
+					"formed the artistic partnership with Masolino",
+					"forced to flee Florence due to his debts"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance art",
+			"religious art"
+		]
+	}
+]

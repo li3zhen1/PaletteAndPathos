@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Susan Rothenberg",
+		"keywords": [
+			"figurative",
+			"horse",
+			"forms",
+			"abstraction",
+			"dynamics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1971,
+				"happiness": 4,
+				"location": "Buffalo, New York, USA",
+				"events": [
+					"Born in Buffalo, New York",
+					"Graduated from Cornell University with a Bachelor of Fine Arts"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 6,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Began painting horses as a way to re-engage with figurative painting",
+					"First solo exhibition in 1975 in Galleria Gian Enzo Sperone, Rome"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Married to artist Bruce Nauman in 1989"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2020,
+				"happiness": 8,
+				"location": "Galisteo, New Mexico, USA",
+				"events": [
+					"Moved to Mexico with her husband",
+					"Received the National Endowment for the Arts Fellowship in 2009"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"New Image Painting"
+		]
+	}
+]

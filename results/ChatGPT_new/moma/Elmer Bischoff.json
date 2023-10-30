@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Elmer Bischoff",
+		"keywords": [
+			"landscapes",
+			"figurative",
+			"expressionism",
+			"color",
+			"urban scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Berkeley, California",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Berkeley, California",
+				"events": [
+					"studied Painting, University of California"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Europe",
+				"events": [
+					"served in World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Berkeley, California",
+				"events": [
+					"started teaching at California School of Fine Arts",
+					"became part of 'Bay Area Figurative Movement'"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Berkeley, California",
+				"events": [
+					"continued painting and teaching"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1991,
+				"happiness": 6,
+				"location": "Berkeley, California",
+				"events": [
+					"shifted to landscape painting"
+				]
+			}
+		],
+		"genre": [
+			"Figurative art",
+			"Abstract Expressionism",
+			"Bay Area Figurative Movement"
+		]
+	}
+]

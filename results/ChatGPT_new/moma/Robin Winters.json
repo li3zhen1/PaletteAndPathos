@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Robin Winters",
+		"keywords": [
+			"abstract",
+			"sculpture",
+			"narrative",
+			"performative",
+			"public interactions"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"taught at School of Visual Arts in New York",
+					"participated in number of solo and group exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"performance art",
+			"sculpture"
+		]
+	}
+]

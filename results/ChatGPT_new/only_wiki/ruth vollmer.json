@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Ruth Vollmer",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"minimalism",
+			"transformation",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1918,
+				"happiness": 7,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"Born into a comfortable, art-loving family"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"Received education in Stuttgart"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1941,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"Emigrated to the United States due to rising anti-Semitism"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1970,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Worked as a draftsman in manufacturing and architecture offices",
+					"Started creating geometric abstract art"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1982,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Gained recognition in the art world",
+					"Opened her first solo exhibition"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Sculpture",
+			"Drawing"
+		]
+	}
+]

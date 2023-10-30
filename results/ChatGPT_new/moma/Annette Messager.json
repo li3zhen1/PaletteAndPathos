@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Annette Messager",
+		"keywords": [
+			"identity",
+			"feminism",
+			"death",
+			"memory",
+			"childhood",
+			"fantasy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1963,
+				"happiness": 5,
+				"location": "Berck, France",
+				"events": [
+					"born and grew up"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"study at the École Nationale Supérieure des Arts Décoratifs",
+					"started her art career"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"won the Golden Lion Award at the Venice Biennale"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"became recognized internationally",
+					"exhibited in major art institutions worldwide"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Installation art"
+		]
+	}
+]

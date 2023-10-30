@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Franz Kline",
+		"keywords": [
+			"abstraction",
+			"energy",
+			"motion",
+			"urban life",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Wilkes-Barre, Pennsylvania",
+				"events": [
+					"Born into a middle-class family"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Lehighton, Pennsylvania",
+				"events": [
+					"Moved to Lehighton, his mother's hometown",
+					"Graduated high school"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1939,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Attended Heatherley School of Fine Art"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1950,
+				"happiness": 4,
+				"location": "New York City, New York",
+				"events": [
+					"Struggled in the art scene",
+					"Mother's death"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1962,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"Developed his recognizable abstract style",
+					"Successful exhibition at Charles Egan Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

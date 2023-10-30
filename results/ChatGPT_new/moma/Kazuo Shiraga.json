@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Kazuo Shiraga",
+		"keywords": [
+			"abstract",
+			"dynamism",
+			"performance",
+			"rawness",
+			"individuality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Amagasaki, Japan",
+				"events": [
+					"Born into a medical family",
+					"Developed interest in painting"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Studied Nihonga painting at Kyoto City University of Arts"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Formed the avant-garde collective Gutai Group",
+					"Developed foot painting technique"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1994,
+				"happiness": 5,
+				"location": "Ashiya, Japan",
+				"events": [
+					"Participated in New York's Guggenheim Museum exhibition"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2008,
+				"happiness": 4,
+				"location": "Amagasaki, Japan",
+				"events": [
+					"Lost his wife, Fujiko Shiraga"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Gutai Art"
+		]
+	}
+]

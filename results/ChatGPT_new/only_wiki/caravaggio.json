@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Caravaggio",
+		"keywords": [
+			"religion",
+			"violence",
+			"drama",
+			"chiaroscuro",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1571,
+				"end": 1576,
+				"happiness": 5,
+				"location": "Milan, Italy",
+				"events": []
+			},
+			{
+				"start": 1576,
+				"end": 1588,
+				"happiness": 4,
+				"location": "Caravaggio, Italy",
+				"events": [
+					"orphaned at age 6 due to the plague"
+				]
+			},
+			{
+				"start": 1588,
+				"end": 1592,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"worked as a painter",
+					"developed his characteristic style"
+				]
+			},
+			{
+				"start": 1592,
+				"end": 1606,
+				"happiness": 4,
+				"location": "Rome, Italy",
+				"events": [
+					"established as a successful painter",
+					"involved in a series of violent episodes",
+					"accused of murder in 1606"
+				]
+			},
+			{
+				"start": 1606,
+				"end": 1610,
+				"happiness": 3,
+				"location": "Various - Naples, Malta, Sicily, Naples again",
+				"events": [
+					"fled Rome to evade punishment for murder",
+					"knighted by the Order of Malta, but later defrocked and imprisoned"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Realism"
+		]
+	}
+]

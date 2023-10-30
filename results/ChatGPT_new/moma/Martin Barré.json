@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Martin Barré",
+		"keywords": [
+			"abstraction",
+			"geometry",
+			"minimalism",
+			"form",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1993,
+				"happiness": 5,
+				"location": "Nantes, France",
+				"events": [
+					"Born in Nantes, France",
+					"Started pursuing interest in painting"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the National School of Fine Arts in Paris"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Started to get attention for his abstract paintings",
+					"Exhibited his works in Salon de Mai"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"His work was included in the Bienal de São Paulo",
+					"Had major retrospective at the Centre Pompidou"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1993,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Continued to paint though health was deteriorating"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"minimalism"
+		]
+	}
+]

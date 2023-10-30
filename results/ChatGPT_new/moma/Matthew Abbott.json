@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Matthew Abbott",
+		"keywords": [
+			"nature",
+			"climate crisis",
+			"documentaries",
+			"Australian scenery",
+			"people"
+		],
+		"lifePeriods": [
+			{
+				"start": 1984,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Australia",
+				"events": [
+					"Joined Panos Pictures",
+					"Became an environmental activist"
+				]
+			}
+		],
+		"genre": [
+			"Photography",
+			"Documentary"
+		]
+	}
+]

@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Guillermo Kuitca",
+		"keywords": [
+			"geographical maps",
+			"theatrical spaces",
+			"sociopolitical themes",
+			"isolation",
+			"journeys"
+		],
+		"lifePeriods": [
+			{
+				"start": 1961,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"born in Buenos Aires",
+					"began his art training"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1982,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"first solo exhibition",
+					"studied at the Instituto de Teatro Colon"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1994,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"won the DAAD scholarship",
+					"held solo exhibition at Witte de With, Rotterdam"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"participated in major biennials",
+					"presidential award at the Sao Paulo Biennial"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"created US$150,000 Kuitca Scholarship for young artists",
+					"most recent exhibition at Hauser & Wirth, New York"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Conceptual Art",
+			"Installation Art"
+		]
+	}
+]

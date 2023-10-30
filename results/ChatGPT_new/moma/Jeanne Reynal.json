@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Jeanne Reynal",
+		"keywords": [
+			"mosaic",
+			"abstract",
+			"geometry",
+			"color",
+			"shapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1920,
+				"happiness": 5,
+				"location": "White Plains, New York",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Europe",
+				"events": [
+					"Started her career as an artist",
+					"Got attracted towards Byzantine mosaics"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1938,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Working in Ateliers of Fernand Leger and Jean Lurcat"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"Established mosaic studio",
+					"Married to painter Thomas Sills"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1999,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Renowned for her experimentation and mastery of mosaics"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Mosaic"
+		]
+	}
+]

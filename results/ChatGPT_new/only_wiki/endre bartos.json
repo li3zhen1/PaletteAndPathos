@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Endre Bartos",
+		"keywords": [
+			"landscape",
+			"figurative",
+			"traditional",
+			"vivid colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 2008,
+				"happiness": 6,
+				"location": "Hungary",
+				"events": [
+					"Studied at the Academy of Fine Arts Budapest",
+					"Founded the artist group 'European School'"
+				]
+			}
+		],
+		"genre": [
+			"Modern",
+			"Landscapes",
+			"Expressionism"
+		]
+	}
+]

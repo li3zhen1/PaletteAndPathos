@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Gregory Amenoff",
+		"keywords": [
+			"nature",
+			"abstract",
+			"landscapes",
+			"organic",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Spring Valley",
+				"events": [
+					"born and grew up"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1985,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"moved to New York",
+					"started exhibiting his works"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"became a professor at Columbia University"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"continued teaching and painting"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Landscapes"
+		]
+	}
+]

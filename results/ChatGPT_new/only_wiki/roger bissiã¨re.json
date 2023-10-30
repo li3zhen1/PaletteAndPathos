@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Roger Bissière",
+		"keywords": [
+			"abstract art",
+			"mythology",
+			"moody tones",
+			"geometry",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1964,
+				"happiness": 4,
+				"location": "France",
+				"events": [
+					"started as a figurative painter",
+					"discovered abstract art after World War II"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modern art"
+		]
+	}
+]

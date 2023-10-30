@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Sam Joseph Ntiro",
+		"keywords": [
+			"African life",
+			"sceneries",
+			"portraits",
+			"culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Donge, Tanzania",
+				"events": [
+					"born in Donge",
+					"started primary school"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1949,
+				"happiness": 9,
+				"location": "Makerere, Uganda",
+				"events": [
+					"joined Makerere University",
+					"studied fine art"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1953,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"graduated from Makerere University",
+					"became the first East African to graduate from a British university, the Slade School of Fine Art in London"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Dar es Salaam, Tanzania",
+				"events": [
+					"returned to Tanganyika (now Tanzania)",
+					"became a teacher",
+					"trained new generation of Tanzanian artists"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2016,
+				"happiness": 6,
+				"location": "Donge, Tanzania",
+				"events": [
+					"Retired from active painting",
+					"dedicated his retirement years to farming and church work"
+				]
+			}
+		],
+		"genre": [
+			"Figurative Art",
+			"Landscape Art",
+			"Portraiture"
+		]
+	}
+]

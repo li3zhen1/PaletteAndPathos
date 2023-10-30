@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Thomas Gainsborough",
+		"keywords": [
+			"portraits",
+			"landscapes",
+			"nature",
+			"aristocracy",
+			"rural life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1727,
+				"end": 1740,
+				"happiness": 5,
+				"location": "Sudbury, England",
+				"events": [
+					"Born into a family of weavers"
+				]
+			},
+			{
+				"start": 1740,
+				"end": 1752,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Studied art in London",
+					"met his future wife, Margaret Burr"
+				]
+			},
+			{
+				"start": 1752,
+				"end": 1774,
+				"happiness": 7,
+				"location": "Suffolk, England",
+				"events": [
+					"Established as a portrait painter"
+				]
+			},
+			{
+				"start": 1774,
+				"end": 1788,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Gained high-end clientele",
+					"became founding member of Royal Academy"
+				]
+			}
+		],
+		"genre": [
+			"portraits",
+			"landscapes"
+		]
+	}
+]

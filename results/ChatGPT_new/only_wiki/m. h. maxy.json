@@ -1,0 +1,57 @@
+[
+	{
+		"name": "M. H. Maxy",
+		"keywords": [
+			"Avant-garde",
+			"Modernism",
+			"Bucharest school",
+			"Education"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Brăila, Romania",
+				"events": [
+					"Received basic education",
+					"Developed interest in arts"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied painting at the Munich Fine Arts Academy",
+					"Was influenced by avant-garde movements"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1944,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Became a professor at the Belle Arte School",
+					"Directed the Bucharest Art Museum"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1971,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Political scrutiny under communist regime",
+					"Continued work as artist and educator"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Avant-garde"
+		]
+	}
+]

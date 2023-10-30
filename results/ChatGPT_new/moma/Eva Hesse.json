@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Eva Hesse",
+		"keywords": [
+			"materiality",
+			"minimalism",
+			"absurdist",
+			"feminist"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1941,
+				"happiness": 0,
+				"location": "Hamburg, Germany",
+				"events": [
+					"experienced traumatic childhood during Nazi regime"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1952,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"immigrated to USA escaping from the Holocaust",
+					"lost her parents"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1959,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"studied at Yale School of Art and Architecture"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1963,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"married Tom Doyle",
+					"exhibited her works"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Germany",
+				"events": [
+					"lived in Germany",
+					"divorced Tom Doyle"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1970,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"continuous creation of her signature artworks"
+				]
+			}
+		],
+		"genre": [
+			"postminimalism",
+			"feminist art"
+		]
+	}
+]

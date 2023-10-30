@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Arthur B. Davies",
+		"keywords": [
+			"fantasy",
+			"modernism",
+			"allegorical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1880,
+				"happiness": 5,
+				"location": "Utica, New York",
+				"events": [
+					"Born and brought up"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1891,
+				"happiness": 7,
+				"location": "Chicago, Illinois",
+				"events": [
+					"Studied at the Chicago Academy of Design"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1893,
+				"happiness": 5,
+				"location": "New York, New York",
+				"events": [
+					"Participated in the World's Columbian Exposition",
+					"Began his career as a magazine illustrator"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1928,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Became part of the 'Eight' - a group of painters",
+					"Key role in organizing the 1913 Armory Show"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Symbolist",
+			"Romantic"
+		]
+	}
+]

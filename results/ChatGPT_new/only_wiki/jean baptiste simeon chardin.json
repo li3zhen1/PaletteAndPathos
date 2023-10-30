@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Jean-Baptiste-Siméon Chardin",
+		"keywords": [
+			"still life",
+			"domestic scenes",
+			"portrait",
+			"children",
+			"genre scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1699,
+				"end": 1718,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Born into the family of a master carpenter"
+				]
+			},
+			{
+				"start": 1718,
+				"end": 1724,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Apprenticed under painter Pierre-Jacques Cazes",
+					"studied at Académie Royale de Peinture et de Sculpture"
+				]
+			},
+			{
+				"start": 1724,
+				"end": 1728,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Became a master in the painters' guild",
+					"Started exhibiting at the Paris Salon"
+				]
+			},
+			{
+				"start": 1728,
+				"end": 1731,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Got married",
+					"Continued gaining recognition through the Salon"
+				]
+			},
+			{
+				"start": 1731,
+				"end": 1757,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Death of his wife"
+				]
+			},
+			{
+				"start": 1757,
+				"end": 1779,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Lost his eyesight",
+					"Continued painting despite visual impairment"
+				]
+			}
+		],
+		"genre": [
+			"Still life",
+			"Domestic scenes",
+			"Portrait"
+		]
+	}
+]

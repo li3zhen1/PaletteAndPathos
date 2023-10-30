@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Geta Brătescu",
+		"keywords": [
+			"Women's rights",
+			"Identity",
+			"Physicality",
+			"Domesticity",
+			"Femininity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1953,
+				"happiness": 3,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Survived World War II"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Graduated from the Institute of Fine Arts",
+					"Worked as an artistic director of a magazine"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 2018,
+				"happiness": 8,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Created 'The Studio' series",
+					"Became one of the leading figures in Romanian conceptualism",
+					"Represented Romania at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Drawing",
+			"Film",
+			"Photography"
+		]
+	}
+]

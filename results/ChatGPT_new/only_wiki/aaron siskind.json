@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Aaron Siskind",
+		"keywords": [
+			"abstract",
+			"decay",
+			"pattern",
+			"nature",
+			"contrast"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1940,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"became a social worker",
+					"joined the Photo League"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Chicago, USA",
+				"events": [
+					"began to focus on abstract photography",
+					"became a teacher at the Institute of Design"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Rhode Island, USA",
+				"events": [
+					"continued teaching at the Rhode Island School of Design",
+					"received a Guggenheim Fellowship"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Photography",
+			"Modernism"
+		]
+	}
+]

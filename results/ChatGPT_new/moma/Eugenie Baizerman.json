@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Eugenie Baizerman",
+		"keywords": [
+			"still lifes",
+			"portraits",
+			"landscapes",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1949,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Moved to United States",
+					"Met her husband, Saul Baizerman, an acclaimed sculptor"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1949,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"First one-woman show at the Bertha Schaefer Gallery"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1951,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Work exhibited at the Pennsylvania Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1994,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Retrospective at The Butler Institute of American Art",
+					"Death of husband Saul Baizerman"
+				]
+			}
+		],
+		"genre": [
+			"Modernism"
+		]
+	}
+]

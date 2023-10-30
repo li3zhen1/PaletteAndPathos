@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Abraham Walkowitz",
+		"keywords": [
+			"cityscape",
+			"modernism",
+			"figurative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Tyumen, Russia",
+				"events": [
+					"grew up in an orthodox Jewish family",
+					"emigrated to the United States"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"became involved in the modern art movement",
+					"met famous dancer Isadora Duncan"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"faced criticism for his modernist style",
+					"died at the age of 86"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"impressionism"
+		]
+	}
+]

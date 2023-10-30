@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Ilya Mashkov",
+		"keywords": [
+			"still life",
+			"portrait",
+			"nude",
+			"abstract",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1895,
+				"happiness": 4,
+				"location": "Michurinskoye",
+				"events": [
+					"Born into a poor peasant family"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1909,
+				"happiness": 5,
+				"location": "Moscow",
+				"events": [
+					"Studied at the Moscow School of Painting, Sculpture and Architecture"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Russia",
+				"events": [
+					"Co-founded the Jack of Diamonds",
+					"Exhibited with the avant-garde Blue Rose group"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Russia",
+				"events": [
+					"Experienced World War I",
+					"His painting style shifted towards realism and traditionalism"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Moscow",
+				"events": [
+					"Served as a professor in major Moscow art institutions",
+					"Recognized as a significant figure in Russian socialist art"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Primitivism",
+			"Still life"
+		]
+	}
+]

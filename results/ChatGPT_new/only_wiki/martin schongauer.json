@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Martin Schongauer",
+		"keywords": [
+			"religious",
+			"details",
+			"engravings",
+			"Saints",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1448,
+				"end": 1491,
+				"happiness": 5,
+				"location": "Colmar, Alsace",
+				"events": [
+					"studied at the University of Leipzig",
+					"became the most famous artist in Northern Europe"
+				]
+			}
+		],
+		"genre": [
+			"engravings",
+			"paintings",
+			"portraits"
+		]
+	}
+]

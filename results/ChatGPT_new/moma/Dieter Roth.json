@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Dieter Roth",
+		"keywords": [
+			"decay",
+			"transience",
+			"organic materials",
+			"prints",
+			"books"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Hanover",
+				"events": [
+					"Born in Hanover, Germany"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1964,
+				"happiness": 5,
+				"location": "Zurich",
+				"events": [
+					"Studied in Bern",
+					"emigrated to Switzerland"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1971,
+				"happiness": 4,
+				"location": "Reykjavík",
+				"events": [
+					"Moved to Iceland"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1998,
+				"happiness": 5,
+				"location": "Iceland and Switzerland",
+				"events": [
+					"Return to Switzerland",
+					"became a Swiss citizen"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"literature",
+			"graphic design"
+		]
+	}
+]

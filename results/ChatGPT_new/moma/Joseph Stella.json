@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Joseph Stella",
+		"keywords": [
+			"modernism",
+			"futurism",
+			"industry",
+			"flowers",
+			"cityscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1896,
+				"happiness": 6,
+				"location": "Muro Lucano, Italy",
+				"events": [
+					"born into a middle-class family"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1909,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"emigrated to the US",
+					"worked as an illustrator"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1913,
+				"happiness": 8,
+				"location": "France",
+				"events": [
+					"spent four years in Europe exploring futurism"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1920,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"participated in the Armory Show",
+					"became associated with futurism"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1946,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"known for his depictions of industrial America"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"futurism"
+		]
+	}
+]

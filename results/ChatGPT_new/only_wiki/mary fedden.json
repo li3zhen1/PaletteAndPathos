@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Mary Fedden",
+		"keywords": [
+			"still life",
+			"animals",
+			"nature",
+			"empathy",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Bristol, England",
+				"events": [
+					"birth",
+					"start schooling"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Slade School of Fine Art, London",
+				"events": [
+					"studied art"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1945,
+				"happiness": 4,
+				"location": "London",
+				"events": [
+					"participated in World War II as a driver in the Auxiliary Territorial Service",
+					"met her future husband, Julian Trevelyan"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"married Julian Trevelyan",
+					"started teaching at the Royal College of Art"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"traveled extensively with her husband"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1988,
+				"happiness": 8,
+				"location": "London",
+				"events": [
+					"continued her artistic career",
+					"Julian's death in 1988"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2012,
+				"happiness": 6,
+				"location": "London",
+				"events": [
+					"lived alone after the death of her husband",
+					"continued painting"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Post-Impressionism"
+		]
+	}
+]

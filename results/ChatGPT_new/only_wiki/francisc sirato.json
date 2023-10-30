@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Francisc Sirato",
+		"keywords": [
+			"landscape",
+			"regionalism",
+			"nature",
+			"rural life",
+			"Balkan"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1903,
+				"happiness": 5,
+				"location": "Ciacova, Timis County, Austria-Hungary",
+				"events": []
+			},
+			{
+				"start": 1903,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Munich and Paris",
+				"events": [
+					"Studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Founded the Artistic Youth society",
+					"Participated in the Official Salon"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Elected as a full member of the Romanian Academy"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"genre painting"
+		]
+	}
+]

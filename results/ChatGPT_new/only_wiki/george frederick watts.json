@@ -1,0 +1,57 @@
+[
+	{
+		"name": "George Frederick Watts",
+		"keywords": [
+			"symbolism",
+			"social realism",
+			"portrait",
+			"allegory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1817,
+				"end": 1843,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"studied at the Royal Academy"
+				]
+			},
+			{
+				"start": 1843,
+				"end": 1850,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"first major exhibition",
+					"influenced by Renaissance art"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1886,
+				"happiness": 6,
+				"location": "London, United Kingdom",
+				"events": [
+					"married Ellen Terry",
+					"developed symbolic style"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1904,
+				"happiness": 6,
+				"location": "Compton, United Kingdom",
+				"events": [
+					"started the Watts Gallery",
+					"continued painting until his death"
+				]
+			}
+		],
+		"genre": [
+			"Victorian Symbolism",
+			"social realism",
+			"Allegorical painting"
+		]
+	}
+]

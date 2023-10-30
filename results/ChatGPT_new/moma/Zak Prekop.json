@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Zak Prekop",
+		"keywords": [
+			"abstraction",
+			"observations",
+			"dimensions",
+			"light",
+			"transparency"
+		],
+		"lifePeriods": [
+			{
+				"start": 1979,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Chicago",
+				"events": [
+					"started painting career",
+					"became a professor at the School of the Art Institute of Chicago"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

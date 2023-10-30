@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Ivan Grohar",
+		"keywords": [
+			"nature",
+			"realism",
+			"peasant life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1911,
+				"happiness": 4,
+				"location": "Spodnja Sorica, Slovenia",
+				"events": [
+					"studied at Zagreb School of Craft",
+					"joined Slovene Art Society"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

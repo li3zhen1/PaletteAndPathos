@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Andy Warhol",
+		"keywords": [
+			"pop culture",
+			"avant-garde",
+			"consumerism",
+			"celebrity",
+			"mass media"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Pittsburgh, USA",
+				"events": [
+					"born to working-class immigrants",
+					"contracted chorea which influenced his outlook on life and art"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Pittsburgh, USA",
+				"events": [
+					"studied at Carnegie Institute of Technology"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"became a successful commercial illustrator"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1968,
+				"happiness": 9,
+				"location": "New York City, USA",
+				"events": [
+					"creation of The Factory",
+					"led the Pop Art movement"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1987,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"survived an assassination attempt",
+					"experienced diminished popularity"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Avant-garde Film"
+		]
+	}
+]

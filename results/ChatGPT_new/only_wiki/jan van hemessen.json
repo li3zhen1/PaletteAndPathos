@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Jan van Hemessen",
+		"keywords": [
+			"religion",
+			"wealthy patrons",
+			"mythology",
+			"biblical themes",
+			"portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1500,
+				"end": 1535,
+				"happiness": 7,
+				"location": "Antwerp",
+				"events": [
+					"became master in the Antwerp guild",
+					"his works started to gain recognition"
+				]
+			},
+			{
+				"start": 1535,
+				"end": 1566,
+				"happiness": 6,
+				"location": "Antwerp",
+				"events": [
+					"trained his daughter, Caterina van Hemessen, who became a significant artist"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"religious paintings",
+			"mythological themes"
+		]
+	}
+]

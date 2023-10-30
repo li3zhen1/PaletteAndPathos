@@ -1,0 +1,57 @@
+[
+	{
+		"name": "William Baziotes",
+		"keywords": [
+			"surrealism",
+			"mythology",
+			"symbolism",
+			"emotion",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Pittsburgh, Pennsylvania",
+				"events": [
+					"born into a Greek immigrant family"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1936,
+				"happiness": 4,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"studied at the Philadelphia School of Industrial Art",
+					"The Great Depression began"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1945,
+				"happiness": 4,
+				"location": "New York, New York",
+				"events": [
+					"worked for the WPA's Federal Art Project",
+					"World War II period"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1963,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"began to exhibit his works",
+					"co-founded the Subjects of the Artist School"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"abstract expressionism"
+		]
+	}
+]

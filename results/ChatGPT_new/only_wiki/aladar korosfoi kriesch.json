@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Aladár Körösfői-Kriesch",
+		"keywords": [
+			"mythology",
+			"national identity",
+			"nature",
+			"symbolism",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1863,
+				"end": 1893,
+				"happiness": 6,
+				"location": "Budapest, Hungary",
+				"events": [
+					"studied at the Budapest Academy of Fine Arts",
+					"founded the Gödöllő artists' colony"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Gödöllő, Hungary",
+				"events": [
+					"reformed and expanded the Gödöllő artists' colony",
+					"made murals for the Hungarian House in Venice"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"became a professor at the Budapest Academy of Fine Arts",
+					"made the frescoes in the Matthias Church in Budapest"
+				]
+			}
+		],
+		"genre": [
+			"Art Nouveau",
+			"Symbolist art",
+			"Fresco"
+		]
+	}
+]

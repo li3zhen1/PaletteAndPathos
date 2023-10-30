@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Ronald Davis",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"illusions",
+			"dimensional",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Santa Monica, California",
+				"events": [
+					"Born in California",
+					"Started taking interest in art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1964,
+				"happiness": 6,
+				"location": "San Francisco, California",
+				"events": [
+					"Studied painting at the San Francisco Art Institute"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"First solo exhibition at the Nicholas Wilder Gallery"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"Work was included in the Whitney Annual",
+					"Participated in the Ninth Sao Paulo Art Biennial"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Taos, New Mexico",
+				"events": [
+					"Moved to Taos, New Mexico",
+					"Became interested in the use of computers in art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Taos, New Mexico",
+				"events": [
+					"Continued to create art and explore new techniques"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Cubism",
+			"Geometric abstraction"
+		]
+	}
+]

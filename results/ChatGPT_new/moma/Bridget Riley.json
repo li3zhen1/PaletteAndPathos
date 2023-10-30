@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Bridget Riley",
+		"keywords": [
+			"geometric",
+			"optical illusions",
+			"movement",
+			"color",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1946,
+				"happiness": 7,
+				"location": "Norwood, London",
+				"events": [
+					"Raised in a comfortable middle-class family"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1956,
+				"happiness": 8,
+				"location": "Cornwall",
+				"events": [
+					"Studied at Goldsmiths College",
+					"Studied at Royal College of Art"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 8,
+				"location": "London",
+				"events": [
+					"Began painting",
+					"Received commissions for her work"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"Developed her signature Op Art style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 8,
+				"location": "London",
+				"events": [
+					"Received numerous accolades for her work",
+					"Became one of the most distinguished artists in Britain"
+				]
+			}
+		],
+		"genre": [
+			"Op Art",
+			"Abstract Art",
+			"Modern Art"
+		]
+	}
+]

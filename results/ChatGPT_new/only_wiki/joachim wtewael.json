@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Joachim Wtewael",
+		"keywords": [
+			"mythology",
+			"religion",
+			"eroticism",
+			"portraiture",
+			"allegories"
+		],
+		"lifePeriods": [
+			{
+				"start": 1566,
+				"end": 1584,
+				"happiness": 7,
+				"location": "Utrecht",
+				"events": [
+					"born into a wealthy family",
+					"apprenticed to an art dealer"
+				]
+			},
+			{
+				"start": 1584,
+				"end": 1588,
+				"happiness": 6,
+				"location": "France and Italy",
+				"events": [
+					"travelling and studying Italian Renaissance"
+				]
+			},
+			{
+				"start": 1588,
+				"end": 1601,
+				"happiness": 8,
+				"location": "Utrecht",
+				"events": [
+					"returned to hometown, marriage to Christina Wtewael"
+				]
+			},
+			{
+				"start": 1601,
+				"end": 1625,
+				"happiness": 8,
+				"location": "Utrecht",
+				"events": [
+					"enjoyed commercial success",
+					"produced prolific number of paintings"
+				]
+			},
+			{
+				"start": 1625,
+				"end": 1630,
+				"happiness": 6,
+				"location": "Utrecht",
+				"events": [
+					"became a successful flax merchant",
+					"death of Joachim"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"Portraiture",
+			"Historical symbolism"
+		]
+	}
+]

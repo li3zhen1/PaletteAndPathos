@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Bernard Buffet",
+		"keywords": [
+			"death",
+			"clowns",
+			"nature",
+			"portrait",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1943,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"Studied art at the Parisian School of Fine Arts"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Participated in his first painting exhibition",
+					"Identified with the Anticolonialist movement"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Won the Prix de la Critique",
+					"Recognized as a contemporary art master"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1971,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"His art style changed dramatically with dark and grueling themes",
+					"Became wildly successful financially and professionally"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1999,
+				"happiness": 2,
+				"location": "Tourtour",
+				"events": [
+					"Developed Parkinson's disease",
+					"Committed suicide"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Realism"
+		]
+	}
+]

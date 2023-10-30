@@ -1,0 +1,97 @@
+[
+	{
+		"name": "Michelangelo",
+		"keywords": [
+			"religion",
+			"human form",
+			"architecture",
+			"love"
+		],
+		"lifePeriods": [
+			{
+				"start": 1475,
+				"end": 1488,
+				"happiness": 5,
+				"location": "Florence",
+				"events": [
+					"Started learning painting",
+					"Apprenticed to Domenico Ghirlandaio"
+				]
+			},
+			{
+				"start": 1488,
+				"end": 1492,
+				"happiness": 7,
+				"location": "Florence",
+				"events": [
+					"Became a member of the household of Lorenzo de' Medici"
+				]
+			},
+			{
+				"start": 1492,
+				"end": 1494,
+				"happiness": 3,
+				"location": "Florence",
+				"events": [
+					"Death of Lorenzo de’ Medici",
+					"Began carving the 'Madonna of the Stairs"
+				]
+			},
+			{
+				"start": 1494,
+				"end": 1501,
+				"happiness": 5,
+				"location": "Bologna and Rome",
+				"events": [
+					"First visit to Rome",
+					"Completed the 'Bacchus' statue"
+				]
+			},
+			{
+				"start": 1501,
+				"end": 1505,
+				"happiness": 6,
+				"location": "Florence",
+				"events": [
+					"Commissioned to carve the 'David'",
+					"Elected architect of the Florence Cathedral"
+				]
+			},
+			{
+				"start": 1505,
+				"end": 1512,
+				"happiness": 4,
+				"location": "Rome",
+				"events": [
+					"Commissioned by Pope Julius II to sculpt his tomb",
+					"Painted the ceiling of the Sistine Chapel"
+				]
+			},
+			{
+				"start": 1512,
+				"end": 1534,
+				"happiness": 4,
+				"location": "Rome",
+				"events": [
+					"Worked under Pope Leo X and Pope Clement VII",
+					"Commissioned to paint 'The Last Judgment' in the Sistine Chapel"
+				]
+			},
+			{
+				"start": 1534,
+				"end": 1564,
+				"happiness": 5,
+				"location": "Rome",
+				"events": [
+					"Designed the dome of St. Peter's Basilica",
+					"Painted 'The Crucifixion of St. Peter' and 'The Conversion of Saul'"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"sculpture",
+			"painting"
+		]
+	}
+]

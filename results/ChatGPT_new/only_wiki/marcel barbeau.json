@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Marcel Barbeau",
+		"keywords": [
+			"abstract",
+			"freedom",
+			"transformation",
+			"movement",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Montreal, Quebec, Canada",
+				"events": [
+					"studied at the École des beaux-arts"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Montreal, Quebec, Canada",
+				"events": [
+					"cofounded the avant-garde group Automatistes",
+					"participated in the drafting and signing of the Refus Global (Total Refusal) manifesto",
+					"moved towards abstraction"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1985,
+				"happiness": 6,
+				"location": "France and USA",
+				"events": [
+					"recognition of his work expanded internationally",
+					"his work was exhibited at the Venice Biennale"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 2016,
+				"happiness": 7,
+				"location": "Vancouver, British Columbia, Canada",
+				"events": [
+					"was awarded the Governor General's Award in Visual and Media Arts",
+					"passed away at his home in Vancouver"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Op Art",
+			"Hard-edge art"
+		]
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Cornelis Norbertus Gysbrechts",
+		"keywords": [
+			"still-life",
+			"trompe-l'oeil",
+			"vanitas",
+			"objects",
+			"reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1630,
+				"end": 1675,
+				"happiness": 5,
+				"location": "Flanders",
+				"events": [
+					"established his art career"
+				]
+			},
+			{
+				"start": 1675,
+				"end": 1683,
+				"happiness": 6,
+				"location": "Copenhagen",
+				"events": [
+					"served as a court painter"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Still-Life",
+			"Trompe-l'Oeil"
+		]
+	}
+]

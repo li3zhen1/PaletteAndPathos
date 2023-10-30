@@ -1,0 +1,57 @@
+[
+	{
+		"name": "John Lavery",
+		"keywords": [
+			"Landscapes",
+			"Memorable People",
+			"War"
+		],
+		"lifePeriods": [
+			{
+				"start": 1856,
+				"end": 1941,
+				"happiness": 7,
+				"location": "Belfast, Ireland",
+				"events": [
+					"Born into a poor family",
+					"Mother died when he was 3"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1881,
+				"happiness": 6,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"Attended Glasgow School of Art",
+					"Worked as a photographer's assistant"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1918,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Married Kathleen MacDermott",
+					"Painted Queen Victoria on her deathbed"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1941,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Official artist for the British Government during WWI",
+					"Awarded the Order of Merit"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Landscape",
+			"War Art"
+		]
+	}
+]

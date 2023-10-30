@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Audrey Flack",
+		"keywords": [
+			"realism",
+			"photorealism",
+			"abstract",
+			"femininity",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1948,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1953,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Studied fine arts at Cooper Union"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1956,
+				"happiness": 6,
+				"location": "New Haven, Connecticut, USA",
+				"events": [
+					"Studied at Yale University School of Art",
+					"Awarded a Fulbright Scholarship"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"Engaged in art teaching jobs"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1986,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Developed the photorealist style she became renowned for"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Transitioned from photorealism to sculpture"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Continues to create art and teach"
+				]
+			}
+		],
+		"genre": [
+			"Photorealism",
+			"Abstract expressionism",
+			"Sculpture"
+		]
+	}
+]

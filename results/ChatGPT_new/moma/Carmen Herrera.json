@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Carmen Herrera",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"minimalism",
+			"line",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Havana, Cuba",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1943,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied architecture",
+					"met future husband, Jesse Loewenthal"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1954,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"emerged in post-World War II art scene"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1958,
+				"happiness": 8,
+				"location": "Havana, Cuba",
+				"events": [
+					"created a series of abstract and minimalist paintings"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 2018,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"recognition of work in late life",
+					"first sale of artwork at age 89"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

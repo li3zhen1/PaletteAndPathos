@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Gabriel Metsu",
+		"keywords": [
+			"genre scenes",
+			"portraits",
+			"still life",
+			"animals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1629,
+				"end": 1667,
+				"happiness": 5,
+				"location": "Leiden, Netherlands",
+				"events": [
+					"Born into a painter family",
+					"Learned art under Gerrit Dou"
+				]
+			},
+			{
+				"start": 1650,
+				"end": 1667,
+				"happiness": 7,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Moved to Amsterdam",
+					"Married Isabella de Wolff"
+				]
+			}
+		],
+		"genre": [
+			"Dutch Golden Age",
+			"Genre art",
+			"Portraiture"
+		]
+	}
+]

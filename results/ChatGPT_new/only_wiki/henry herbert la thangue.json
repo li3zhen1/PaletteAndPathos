@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Henry Herbert La Thangue",
+		"keywords": [
+			"rural life",
+			"village scenes",
+			"realism",
+			"peasantry",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1859,
+				"end": 1874,
+				"happiness": 5,
+				"location": "Croydon, England",
+				"events": [
+					"Born to a well-to-do family"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1879,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Enrolled in the Royal Academy Schools"
+				]
+			},
+			{
+				"start": 1879,
+				"end": 1886,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied with Jean-Léon Gérôme at the Paris atelier"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1925,
+				"happiness": 8,
+				"location": "England",
+				"events": [
+					"Relocated back to England",
+					"Founded the New English Art Club",
+					"Renowned for his realist rural scenes"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1929,
+				"happiness": 5,
+				"location": "England",
+				"events": [
+					"Health declined",
+					"Died at age 70"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism"
+		]
+	}
+]

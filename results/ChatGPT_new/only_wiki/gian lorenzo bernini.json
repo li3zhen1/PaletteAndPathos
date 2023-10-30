@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Gian Lorenzo Bernini",
+		"keywords": [
+			"baroque",
+			"sculptures",
+			"architecture",
+			"religious themes",
+			"classicism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1598,
+				"end": 1621,
+				"happiness": 5,
+				"location": "Naples, Italy",
+				"events": [
+					"Birth",
+					"Started early training under his father, Pietro Bernini"
+				]
+			},
+			{
+				"start": 1621,
+				"end": 1629,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Recognition as a sculptor, exposures to high-profiled clients"
+				]
+			},
+			{
+				"start": 1629,
+				"end": 1665,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Worked for Cardinal Scipione Borghese",
+					"Designed Baldacchino over the high altar of St. Peter's Basilica"
+				]
+			},
+			{
+				"start": 1665,
+				"end": 1680,
+				"happiness": 4,
+				"location": "Rome, Italy",
+				"events": [
+					"Declining health",
+					"Death of his wife"
+				]
+			}
+		],
+		"genre": [
+			"baroque sculpture",
+			"baroque architecture"
+		]
+	}
+]

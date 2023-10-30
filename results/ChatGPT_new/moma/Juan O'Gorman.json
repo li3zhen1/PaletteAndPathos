@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Juan O'Gorman",
+		"keywords": [
+			"architecture",
+			"Mexico",
+			"murals",
+			"modernism",
+			"functionalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1935,
+				"happiness": 6,
+				"location": "Mexico City",
+				"events": [
+					"studied architecture in Academy of San Carlos",
+					"designed his first functionalist house"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Mexico City",
+				"events": [
+					"designed the Central Library of the National Autonomous University of Mexico",
+					"began painting murals"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Mexico City",
+				"events": [
+					"achieved recognition for his murals",
+					"experience personal and professional struggle"
+				]
+			}
+		],
+		"genre": [
+			"architecture",
+			"muralism"
+		]
+	}
+]

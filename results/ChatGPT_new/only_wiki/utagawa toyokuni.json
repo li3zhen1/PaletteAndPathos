@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Utagawa Toyokuni",
+		"keywords": [
+			"kabuki",
+			"portraits",
+			"actors",
+			"ukiyo-e",
+			"females"
+		],
+		"lifePeriods": [
+			{
+				"start": 1769,
+				"end": 1825,
+				"happiness": 6,
+				"location": "Edo (now Tokyo)",
+				"events": [
+					"became a leading artist of the Utagawa school",
+					"famous for his actor prints"
+				]
+			}
+		],
+		"genre": [
+			"ukiyo-e"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Ivan Kliun",
+		"keywords": [
+			"cubism",
+			"suprematism",
+			"abstraction",
+			"geometry",
+			"figurative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Bolshie Gorki, Russia",
+				"events": [
+					"completed academic training"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"met Kazimir Malevich",
+					"joined the Suprematist movement"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"taught at Institute of Artistic Culture",
+					"faced repressions under Stalin"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1943,
+				"happiness": 3,
+				"location": "Tashkent, Uzbekistan",
+				"events": [
+					"evacuated during World War II"
+				]
+			}
+		],
+		"genre": [
+			"abstraction",
+			"cubism",
+			"suprematism"
+		]
+	}
+]

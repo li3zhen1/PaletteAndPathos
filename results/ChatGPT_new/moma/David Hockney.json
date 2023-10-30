@@ -1,0 +1,85 @@
+[
+	{
+		"name": "David Hockney",
+		"keywords": [
+			"pop art",
+			"portraits",
+			"interior scenes",
+			"landscapes",
+			"homosexuality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Bradford, England",
+				"events": [
+					"discovered passion for art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1961,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"studied at Royal College of Art",
+					"became significant contributor to pop art movement"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1966,
+				"happiness": 8,
+				"location": "Los Angeles, USA",
+				"events": [
+					"realization and acceptance of his homosexuality",
+					"creation of splash paintings"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1975,
+				"happiness": 6,
+				"location": "Paris, France and London, England",
+				"events": [
+					"worked on photographic collages"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1990,
+				"happiness": 5,
+				"location": "Los Angeles, USA",
+				"events": [
+					"focused on painting landscapes and portraits",
+					"end of long-term relationship with Peter Schlesinger"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Yorkshire, England",
+				"events": [
+					"inspired by natural sceneries, started painting Yorkshire landscapes"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Bridlington, England and Normandy, France",
+				"events": [
+					"makes use of digital technologies in his artwork"
+				]
+			}
+		],
+		"genre": [
+			"pop art",
+			"still life",
+			"landscapes"
+		]
+	}
+]

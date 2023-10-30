@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Alexandra Exter",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"movement",
+			"theatrical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Białystok, Russian Empire (now Poland)",
+				"events": [
+					"born in a wealthy family"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Kiev, Russian Empire (now Ukraine)",
+				"events": [
+					"studied art under Aleksandra Ekster and Władysław Ślewiński"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"became part of the Parisian avant-garde"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Kiev, Russian Empire (now Ukraine)",
+				"events": [
+					"developed unique style of Cubo-Futurism",
+					"worked in theater designing stage sets"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1949,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"worked on abstract geometric works",
+					"fled from the Bolsheviks"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"avant-garde",
+			"Cubo-Futurism"
+		]
+	}
+]

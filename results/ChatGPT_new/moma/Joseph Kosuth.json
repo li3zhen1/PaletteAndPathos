@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Joseph Kosuth",
+		"keywords": [
+			"conceptual",
+			"semiotics",
+			"language",
+			"philosophy",
+			"installation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Toledo, Ohio, US",
+				"events": [
+					"Birth",
+					"Early formative years"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Cleveland, Ohio, US",
+				"events": [
+					"Studied art at the Cleveland Institute of Art"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1975,
+				"happiness": 7,
+				"location": "New York City, US",
+				"events": [
+					"Studied at the School of Visual Arts",
+					"Started conceptual art"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Various",
+				"events": [
+					"Taught at various institutions"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1995,
+				"happiness": 8,
+				"location": "Various",
+				"events": [
+					"Received numerous awards"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2005,
+				"happiness": 8,
+				"location": "Various",
+				"events": []
+			},
+			{
+				"start": 2005,
+				"end": 2015,
+				"happiness": 7,
+				"location": "Various",
+				"events": []
+			},
+			{
+				"start": 2015,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Various",
+				"events": []
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Installation art"
+		]
+	}
+]

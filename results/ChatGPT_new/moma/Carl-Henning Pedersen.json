@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Carl-Henning Pedersen",
+		"keywords": [
+			"fantasy",
+			"symbols",
+			"animals",
+			"enigma",
+			"love"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"started as a singer",
+					"joined Danish resistance movement during WWII"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"development of signature style",
+					"produced a series of lithographs"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Aarhus, Denmark",
+				"events": [
+					"inauguration of the Carl-Henning Pedersen and Else Alfelt Museum"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2007,
+				"happiness": 6,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"created large mural",
+					"generously donated many artworks"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"symbolism",
+			"surrealism"
+		]
+	}
+]

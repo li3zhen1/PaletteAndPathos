@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Luc Tuymans",
+		"keywords": [
+			"memory",
+			"history",
+			"violence",
+			"politics",
+			"unconscious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1958,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Mortsel, Belgium",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1982,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"studied at the Royal Fine Arts Academy"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"became known for his works about Belgium's colonial past",
+					"first exhibited in the United States"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"retrospectives at Tate Modern",
+					"exhibited at Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"figurative painting"
+		]
+	}
+]

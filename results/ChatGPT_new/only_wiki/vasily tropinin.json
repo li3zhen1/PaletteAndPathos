@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Vasily Tropinin",
+		"keywords": [
+			"portraits",
+			"daily life",
+			"emotions",
+			"Russian serfdom",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1776,
+				"end": 1803,
+				"happiness": 3,
+				"location": "Khoroshovo, Russia",
+				"events": [
+					"was born into serfdom",
+					"trained in painting from a young age"
+				]
+			},
+			{
+				"start": 1804,
+				"end": 1823,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied portraiture and miniatures under Pavel Saskin",
+					"gained recognition for his talents"
+				]
+			},
+			{
+				"start": 1823,
+				"end": 1857,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"earned his freedom from serfdom",
+					"became a renowned portraitist"
+				]
+			}
+		],
+		"genre": [
+			"romanticism",
+			"portrait",
+			"realism"
+		]
+	}
+]

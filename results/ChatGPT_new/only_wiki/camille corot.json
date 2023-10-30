@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Camille Corot",
+		"keywords": [
+			"nature",
+			"realism",
+			"landscape",
+			"portraiture",
+			"placid"
+		],
+		"lifePeriods": [
+			{
+				"start": 1796,
+				"end": 1822,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Born into a middle-class family",
+					"Started working in a cloth merchant shop"
+				]
+			},
+			{
+				"start": 1822,
+				"end": 1840,
+				"happiness": 6,
+				"location": "Italy",
+				"events": [
+					"Decided to pursue art and enrolled in a local school",
+					"Traveled to Italy for studying landscapes"
+				]
+			},
+			{
+				"start": 1840,
+				"end": 1875,
+				"happiness": 7,
+				"location": "France",
+				"events": [
+					"Gained popularity for his landscape artwork",
+					"Influenced the Barbizon school"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1875,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"Died after a brief illness"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Romanticism"
+		]
+	}
+]

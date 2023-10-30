@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Gino De Dominicis",
+		"keywords": [
+			"mortality",
+			"alchemy",
+			"humor",
+			"science",
+			"time"
+		],
+		"lifePeriods": [
+			{
+				"start": 1947,
+				"end": 1998,
+				"happiness": 5,
+				"location": "Ancona, Italy",
+				"events": [
+					"early education"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"first exhibition",
+					"joined Arte Povera movement"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1998,
+				"happiness": 4,
+				"location": "Rome, Italy",
+				"events": [
+					"isolated himself from the art world",
+					"createdworks in private"
+				]
+			}
+		],
+		"genre": [
+			"Arte Povera",
+			"Contemporary Art"
+		]
+	}
+]

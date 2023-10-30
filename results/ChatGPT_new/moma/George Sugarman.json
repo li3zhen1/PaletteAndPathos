@@ -1,0 +1,74 @@
+[
+	{
+		"name": "George Sugarman",
+		"keywords": [
+			"Abstract",
+			"Cubist",
+			"Modernist",
+			"Color",
+			"Geometric"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1924,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"Born into a Jewish family"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1930,
+				"happiness": 4,
+				"location": "New York City, United States",
+				"events": [
+					"Lost his father at a young age"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1941,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Completed his school education"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Various locations",
+				"events": [
+					"Served in the Navy during World War II",
+					"Developed his interest in art"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Academie de la Grande Chaumiere"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Established himself as an important figure in abstract sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Sculpture",
+			"Painting"
+		]
+	}
+]

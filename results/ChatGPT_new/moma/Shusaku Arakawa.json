@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Shusaku Arakawa",
+		"keywords": [
+			"mortality",
+			"abstract",
+			"architecture",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Nagoya, Japan",
+				"events": [
+					"Born in Nagoya, Japan"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Japan",
+				"events": [
+					"Studied medicine and mathematics"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1971,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York",
+					"Began creating artwork"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1991,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Established the architectural firm 'Arakawa + Gins'",
+					"Started writing theoretical texts and designing architectural projects"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2010,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"The completion of 'Reversible Destiny Lofts Mitaka in Memory of Helen Keller'",
+					"Passes away in 2010"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Architectural Design"
+		]
+	}
+]

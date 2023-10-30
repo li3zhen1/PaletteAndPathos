@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Nicolae Dărăscu",
+		"keywords": [
+			"impressionism",
+			"landscape",
+			"rural life",
+			"nature",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1897,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Born to middle-class parents"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Entered the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Received a scholarship and moved to France",
+					"Studied at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Returned to Romania",
+					"Became a professor at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1957,
+				"happiness": 3,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Experienced the post-war period under the communist rule",
+					"Barred from teaching"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1957,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Post-Impressionism"
+		]
+	}
+]

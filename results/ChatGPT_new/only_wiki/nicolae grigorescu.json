@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Nicolae Grigorescu",
+		"keywords": [
+			"rural life",
+			"portraits",
+			"nature",
+			"landscapes",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1838,
+				"end": 1850,
+				"happiness": 5,
+				"location": "Pitaru, Dâmbovița County",
+				"events": [
+					"born in a family of craftsmen"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1853,
+				"happiness": 7,
+				"location": "Bucharest",
+				"events": [
+					"discovered his talent and passion for art "
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1855,
+				"happiness": 6,
+				"location": "Vienna",
+				"events": [
+					"studied at the Vienna School of Painting"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1867,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"became a significant artist in France's art scene"
+				]
+			},
+			{
+				"start": 1867,
+				"end": 1874,
+				"happiness": 5,
+				"location": "Bucharest",
+				"events": [
+					"returned home",
+					"began to focus more on landscapes and everyday life"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Câmpina",
+				"events": [
+					"spent his later years in the countryside"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1907,
+				"happiness": 4,
+				"location": "Câmpina",
+				"events": [
+					"his health started deteriorating",
+					"continued painting despite health issues"
+				]
+			}
+		],
+		"genre": [
+			"still life",
+			"portrait",
+			"landscape"
+		]
+	}
+]

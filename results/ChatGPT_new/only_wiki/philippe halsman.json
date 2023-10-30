@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Philippe Halsman",
+		"keywords": [
+			"portraits",
+			"celebrities",
+			"experimentation",
+			"jumpology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Riga, Latvia",
+				"events": [
+					"Born into a Jewish family"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Started his career as a portrait photographer",
+					"Imprisoned for allegedly killing his father"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Moved to the United States",
+					"Began collaborating with Salvador Dali"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1979,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Developed his theory of jumpology",
+					"Published 'Dali's Mustache' with Salvador Dali"
+				]
+			}
+		],
+		"genre": [
+			"Portrait Photography"
+		]
+	}
+]

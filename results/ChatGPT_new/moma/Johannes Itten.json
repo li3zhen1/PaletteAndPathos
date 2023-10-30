@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Johannes Itten",
+		"keywords": [
+			"color theory",
+			"form",
+			"brightness",
+			"design",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Südern-Linden, Switzerland",
+				"events": [
+					"became a primary school teacher",
+					"studied at the École des Beaux-Arts in Geneva"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1923,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"joined the Bauhaus",
+					"developed innovative teaching methods"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1934,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"opened his own art school"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"led a private art and architecture school"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"published influential books on color theory"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Abstract Art"
+		]
+	}
+]

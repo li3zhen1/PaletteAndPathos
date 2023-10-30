@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Marlene Dumas",
+		"keywords": [
+			"portraits",
+			"bodies",
+			"racism",
+			"sexuality",
+			"social identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1953,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Cape Town, South Africa",
+				"events": [
+					"Finished schooling",
+					"Earned degree in Fine Arts at the University of Cape Town"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1983,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Moved to Amsterdam",
+					"Studied at Ateliers '63"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1996,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Exhibited in the Museum Haus Esters, Krefeld"
+				]
+			},
+			{
+				"start": 1997,
+				"end": 2008,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Hosted solo exhibitions in major museums globally"
+				]
+			},
+			{
+				"start": 2009,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Exhibited 'Against the Wall'"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"Figurative painting"
+		]
+	}
+]

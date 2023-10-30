@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Cundo Bermúdez",
+		"keywords": [
+			"Cuban culture",
+			"bright color",
+			"naive style"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Havana, Cuba",
+				"events": [
+					"born into a wealthy family"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1943,
+				"happiness": 7,
+				"location": "Havana, Cuba",
+				"events": [
+					"studied law at University of Havana",
+					"developed interest in painting"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1947,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"participated in the exhibition of Modern Cuban Painters"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1955,
+				"happiness": 8,
+				"location": "Havana, Cuba",
+				"events": [
+					"became a key member of the Association of Cuban Painters and Sculptors",
+					"exhibited his work in the National Capitol"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Havana, Cuba",
+				"events": [
+					"experienced the Cuban Revolution"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 2008,
+				"happiness": 7,
+				"location": "Miami, Florida",
+				"events": [
+					"emigrated to the United States",
+					"continued painting and exhibiting his work"
+				]
+			}
+		],
+		"genre": [
+			"Cuban modernism",
+			"Naïve art"
+		]
+	}
+]

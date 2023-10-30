@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Lawren Harris",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"wilderness",
+			"spirituality",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Brantford, Canada",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Co-founded the Group of Seven",
+					"Painted scenes from the Canadian wilderness"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Vancouver, Canada",
+				"events": [
+					"Moved towards abstract painting",
+					"Separated from his wife Bea"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Vancouver, Canada",
+				"events": []
+			}
+		],
+		"genre": [
+			"landscape",
+			"abstract art"
+		]
+	}
+]

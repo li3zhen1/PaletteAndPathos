@@ -1,0 +1,93 @@
+[
+	{
+		"name": "José Gutiérrez Solana",
+		"keywords": [
+			"society",
+			"realism",
+			"critical",
+			"urban scenes",
+			"people"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1894,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"born in Madrid",
+					"spent his childhood"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"studied under his uncle"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"pursued art studies"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"established himself as an artist"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"made significant works"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"survived the Spanish Civil War"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"continued to work"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"spent his last years",
+					"had health problems"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Neo-Romanticism",
+			"Costumbrismo"
+		]
+	}
+]

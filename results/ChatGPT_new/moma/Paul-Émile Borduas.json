@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Paul-Émile Borduas",
+		"keywords": [
+			"automatism",
+			"abstract",
+			"religious",
+			"surrealism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Saint-Hilaire, Canada",
+				"events": [
+					"Started to study at the Collège de Montréal"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1923,
+				"happiness": 7,
+				"location": "Montreal, Canada",
+				"events": [
+					"Graduated from college",
+					"Started career as a church decorator"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"Entered the École des Beaux-Arts",
+					"Developed his artistic style"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Montreal, Canada",
+				"events": [
+					"Authorship of the 'Refus Global' manifesto"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris after losing his job",
+					"Empowered artists via his influence"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Surrealism"
+		]
+	}
+]

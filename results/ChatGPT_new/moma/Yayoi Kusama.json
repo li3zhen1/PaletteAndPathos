@@ -1,0 +1,61 @@
+[
+	{
+		"name": "Yayoi Kusama",
+		"keywords": [
+			"polka dots",
+			"infinity mirrors",
+			"obsession",
+			"self-obliteration",
+			"pop art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1957,
+				"happiness": 2,
+				"location": "Matsumoto, Japan",
+				"events": [
+					"Born into a family of seedling merchants",
+					"Studied Nihonga painting, a rigorous formal style taught in Japan."
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1973,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Became a part of the New York avant-garde scene",
+					"Protested the Vietnam War",
+					"Experimented with installation and performance art"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1977,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Returned to Japan",
+					"Became an art dealer"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Voluntarily resides in a mental hospital",
+					"Restarted painting",
+					"Received the Praemium Imperiale and Person of Cultural Merit honor."
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Expressionism",
+			"Pop Art"
+		]
+	}
+]

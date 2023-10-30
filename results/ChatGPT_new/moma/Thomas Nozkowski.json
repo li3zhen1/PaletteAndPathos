@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Thomas Nozkowski",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"nature",
+			"color",
+			"memory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Teaneck, New Jersey",
+				"events": [
+					"Born into an artistic family",
+					"Started to develop interest in visual art"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1967,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"Studied art at Cooper Union"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1979,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Began working as an art critic",
+					"Started creating his signature small-scale abstract creations"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Turned to full-time painting",
+					"His work was exhibited in several prominent galleries"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2019,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"His artwork became increasingly popular",
+					"Continued to create engaging works until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Alfonso Ossorio",
+		"keywords": [
+			"abstract",
+			"horror vacui",
+			"assemblages",
+			"Congregations",
+			"organic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 1934,
+				"happiness": 6,
+				"location": "Manila, Philippines",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1938,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"Moved to US for studies"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Harvard University",
+				"events": [
+					"Studied fine arts"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 3,
+				"location": "United States",
+				"events": [
+					"Served in the Medical Corps during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1951,
+				"happiness": 6.5,
+				"location": "New York, United States",
+				"events": [
+					"Began creating abstract expressionist works",
+					"Became a citizen of the United States"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1980,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"Met Jackson Pollock and Jean Dubuffet",
+					"Began creating horror vacui art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 5,
+				"location": "East Hampton, United States",
+				"events": [
+					"Continued creating art until his health declined"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Art Informel",
+			"Assemblage"
+		]
+	}
+]

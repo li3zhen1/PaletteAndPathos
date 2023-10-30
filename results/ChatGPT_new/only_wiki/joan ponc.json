@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Joan Ponc",
+		"keywords": [
+			"surrealism",
+			"abstract",
+			"space",
+			"dreamy",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Raised by his grandmother",
+					"Educated at the Pia School"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1957,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris to pursue art",
+					"Co-founded the Dau al Set art movement"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Brazil",
+				"events": [
+					"Moved to Brazil",
+					"Married and was blessed with a daughter"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1984,
+				"happiness": 5,
+				"location": "USA",
+				"events": [
+					"Moved to USA with his family",
+					"Worked mainly on 'Cosmogonies'"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1984,
+				"happiness": 2,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Suffered a sudden heart attack and passed away"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Raymond Parker",
+		"keywords": [
+			"abstract",
+			"color",
+			"formalism",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Berrien Springs, Michigan",
+				"events": [
+					"Grew up",
+					"Started his interest in art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1970,
+				"happiness": 8,
+				"location": "New York, NY",
+				"events": [
+					"Joined art school",
+					"Began professional art career"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Manhattan, NY",
+				"events": [
+					"Developed his abstract style",
+					"Gained recognition"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York, NY",
+				"events": [
+					"Continued his abstract work",
+					"Faced health challenges"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Color Field painting"
+		]
+	}
+]

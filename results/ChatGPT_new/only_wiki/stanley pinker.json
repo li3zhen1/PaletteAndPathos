@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Stanley Pinker",
+		"keywords": [
+			"identity",
+			"culture",
+			"human condition",
+			"surreal",
+			"landscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Windhoek, Namibia",
+				"events": [
+					"Born into a merchant family",
+					"Growing up in Namibia experiencing diverse cultures"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Cape Town, South Africa",
+				"events": [
+					"Studied at the Michaelis School of Fine Art",
+					"Involved in various exhibitions"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1962,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Attended the Central School of Art",
+					"Explored post-Europian contemporary art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1982,
+				"happiness": 8,
+				"location": "Cape Town, South Africa",
+				"events": [
+					"Returned to South Africa",
+					"Became a lecturer at Stellenbosch University"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2012,
+				"happiness": 5,
+				"location": "Cape Town, South Africa",
+				"events": [
+					"Retired from teaching",
+					"Focused on painting"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"abstract",
+			"surrealism"
+		]
+	}
+]

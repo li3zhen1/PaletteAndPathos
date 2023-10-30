@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Jean René Bazaine",
+		"keywords": [
+			"abstract",
+			"landscape",
+			"light",
+			"color",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Grew up in an intellectually stimulating environment"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Studied at the Academy Julian",
+					"Married Paulette Mouton"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Survived World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1953,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Became a prominent figure in modern art",
+					"Created stained glass windows for churches"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 2001,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Received the Grand Prix National des Arts",
+					"Continued working as a painter and lithographer"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"landscape painting",
+			"cubism"
+		]
+	}
+]

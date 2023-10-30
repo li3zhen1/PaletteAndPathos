@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Rubem Valentim",
+		"keywords": [
+			"symbolism",
+			"African heritage",
+			"Afro-Brazilian culture",
+			"geometric abstraction",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Salvador, Brazil",
+				"events": [
+					"Was born in Salvador in the state of Bahia, and raised in an Afro-Brazilian culture"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Salvador, Brazil",
+				"events": [
+					"Started his career as an artist",
+					"Worked as a journalist"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1953,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Moved to Rio de Janeiro",
+					"Continued his career as an artist"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1977,
+				"happiness": 6,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"Moved to Sao Paulo",
+					"His work began to be recognized nationally and internationally"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1991,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Moved to Rome where he continued his career",
+					"His work became recognized internationally"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"symbolism",
+			"geometric abstraction"
+		]
+	}
+]

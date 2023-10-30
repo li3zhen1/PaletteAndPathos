@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Vladimir Makovsky",
+		"keywords": [
+			"society",
+			"realism",
+			"genre scenes",
+			"Russian life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1846,
+				"end": 1855,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1866,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Received his first art education from his mother and his father"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1886,
+				"happiness": 7,
+				"location": "Moscow and Saint Petersburg, Russia",
+				"events": [
+					"Studied at the Moscow School of Painting, Sculpture and Architecture and St Petersburg Imperial Academy of Arts",
+					"Joined the 'Peredvizhniki' artists' co-operative"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1918,
+				"happiness": 7,
+				"location": "Saint Petersburg and Moscow, Russia",
+				"events": [
+					"Became one of the most significant representatives of the Peredvizhniki art school",
+					"Worked as a teacher"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"Experienced the Russian Revolution"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1921,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"Died at the age of 74"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"Realism"
+		]
+	}
+]

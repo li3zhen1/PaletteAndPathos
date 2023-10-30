@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Richard Smith",
+		"keywords": [
+			"abstract",
+			"color",
+			"form",
+			"shape",
+			"texture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Letchworth, Hertfordshire, England",
+				"events": [
+					"began drawing at an early age"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"joined Royal Air Force",
+					"started studying at Royal College of Art"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1960,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"graduated from Royal College of Art",
+					"started professional career as a painter"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1975,
+				"happiness": 9,
+				"location": "New York, USA",
+				"events": [
+					"moved to USA",
+					"landed major exhibitions in USA and Europe"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Wiltshire, England",
+				"events": [
+					"returned to England",
+					"continued to work until his health declined"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2016,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"died after long illness"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"minimalism",
+			"modernism"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Chung Chang-Sup",
+		"keywords": [
+			"nature",
+			"spiritual",
+			"abstract",
+			"Korean tradition",
+			"tranquility"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Chungcheongnam-do, South Korea",
+				"events": [
+					"Born in a poor family"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1953,
+				"happiness": 2,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Studied at the College of Fine Arts, Seoul National University",
+					"Survived the Korean War"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1972,
+				"happiness": 5,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Started teaching at his alma mater",
+					"Focused on developing his art style"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Became part of the Dansaekhwa movement",
+					"Gained recognition in the Korean art scene"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2011,
+				"happiness": 6,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Retired from teaching",
+					"Commissioned a major solo exhibition at the National Museum of Contemporary Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Dansaekhwa"
+		]
+	}
+]

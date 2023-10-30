@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Petro Kholodny (Elder)",
+		"keywords": [
+			"landscape",
+			"nature",
+			"impressionism",
+			"Scandinavian nature",
+			"unpopulated"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Bila Tserkva, Ukraine",
+				"events": [
+					"Born to a noble family",
+					"Studied at Kyiv Drawing School"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Kyiv, Ukraine",
+				"events": [
+					"Moved to Kyiv",
+					"Studied at Kyiv Art School"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1933,
+				"happiness": 4,
+				"location": "Kyiv, Ukraine",
+				"events": [
+					"Lived through World War I and Russian civil war",
+					"Worked as head of the art workshop at the All-Ukrainian Academy of Sciences"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1937,
+				"happiness": 3,
+				"location": "Kyiv, Ukraine",
+				"events": [
+					"Lived through Stalin's purges",
+					"Managed to avoid arrest and continued working"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1939,
+				"happiness": 2,
+				"location": "Kyiv, Ukraine",
+				"events": [
+					"His son Petro Kholodny (the Younger) was arrested and executed",
+					"This devastated him mentally"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1961,
+				"happiness": 2,
+				"location": "Kyiv, Ukraine",
+				"events": [
+					"Lived through World War II",
+					"Continued to create art in spite of hardships"
+				]
+			}
+		],
+		"genre": [
+			"Landscape artist",
+			"Impressionist"
+		]
+	}
+]

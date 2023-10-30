@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Amedeo Modigliani",
+		"keywords": [
+			"Portraiture",
+			"Nudes",
+			"Modern art",
+			"Expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1898,
+				"happiness": 4,
+				"location": "Livorno, Italy",
+				"events": [
+					"Struggle with childhood sickness"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1906,
+				"happiness": 4,
+				"location": "Florence and Venice, Italy",
+				"events": [
+					"Started art studies",
+					"Contracted tuberculosis"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Joined the artistic community in Montmartre",
+					"Experimented with drugs and alcohol"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Met art dealer Leopold Zborowski",
+					"Became father to a daughter"
+				]
+			}
+		],
+		"genre": [
+			"Modern art",
+			"Expressionism",
+			"Portraiture"
+		]
+	}
+]

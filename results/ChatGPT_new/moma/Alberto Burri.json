@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Alberto Burri",
+		"keywords": [
+			"abstract",
+			"texture",
+			"materials"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Città di Castello, Italy",
+				"events": [
+					"studied to become a doctor",
+					"served in the military"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Hereford, Texas",
+				"events": [
+					"captured as prisoner of war",
+					"started painting"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"hid wounds of World War II through abstract art",
+					"received multiple awards for his work"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"post-minimalism",
+			"matter art"
+		]
+	}
+]

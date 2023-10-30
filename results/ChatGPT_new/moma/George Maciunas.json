@@ -1,0 +1,52 @@
+[
+	{
+		"name": "George Maciunas",
+		"keywords": [
+			"conceptual",
+			"experimental"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Kaunas, Lithuania",
+				"events": [
+					"Early childhood"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1952,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Immigrated to the USA due to World War II",
+					"Started learning art"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1962,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Established Fluxus, an international collective of artists"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1978,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"Critical illness"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Experimental film"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Lawrence Lebduska",
+		"keywords": [
+			"animals",
+			"fantasy",
+			"nature",
+			"folklore",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Baltimore, Maryland, USA",
+				"events": [
+					"Education in Europe"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1931,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Opened an antiques shop",
+					"First solo exhibition"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1937,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"High demand for his work"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1945,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Popularity waned",
+					"World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1966,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"Decline of his work"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Folk Art",
+			"Naive Art"
+		]
+	}
+]

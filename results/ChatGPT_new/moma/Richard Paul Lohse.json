@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Richard Paul Lohse",
+		"keywords": [
+			"geometry",
+			"color",
+			"abstract",
+			"modular",
+			"system"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1924,
+				"happiness": 4,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Started as an apprentice in advertising"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Worked as a freelance graphic artist"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Formal development of his stylistic principles"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Founded 'Allianz'",
+					"Worldwide exhibitions",
+					"Accomplishment of his systemic paintings series"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"constructivism"
+		]
+	}
+]

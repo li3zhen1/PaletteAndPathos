@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Cornelis Springer",
+		"keywords": [
+			"architecture",
+			"cityscapes",
+			"detail",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1817,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"became a member of the Amsterdam painters' collective",
+					"gifted his most important art pieces to the Rijksmuseum in Amsterdam"
+				]
+			}
+		],
+		"genre": [
+			"Cityscape",
+			"Architectural painting"
+		]
+	}
+]

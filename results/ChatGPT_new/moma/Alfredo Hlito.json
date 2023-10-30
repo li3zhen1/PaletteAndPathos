@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Alfredo Hlito",
+		"keywords": [
+			"geometry",
+			"space",
+			"abstraction",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Buenos Aires",
+				"events": [
+					"started studying painting"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Buenos Aires",
+				"events": [
+					"co-founded the Arte Concreto — Invención Association",
+					"started exploring the field of constructivism"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Mexico City",
+				"events": [
+					"moved to Mexico",
+					"involved in the abstract movement in Mexico"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1993,
+				"happiness": 6,
+				"location": "Buenos Aires",
+				"events": [
+					"returned to Buenos Aires",
+					"continued working till his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Geometric abstraction",
+			"Concrete Art"
+		]
+	}
+]

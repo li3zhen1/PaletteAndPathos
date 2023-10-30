@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Albert Pinkham Ryder",
+		"keywords": [
+			"drama",
+			"mystic",
+			"nature",
+			"symbolism",
+			"dark landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1847,
+				"end": 1858,
+				"happiness": 7,
+				"location": "New Bedford, Massachusetts",
+				"events": [
+					"Early childhood in a maritime community"
+				]
+			},
+			{
+				"start": 1858,
+				"end": 1860,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Started formal art education"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1877,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Enrolled in the National Academy of Design",
+					"Joined the Society of American Artists"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1885,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Painted 'The Flying Dutchman'",
+					"Displayed works in the Society of American Artists exhibitions"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1917,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"Became a reclusive",
+					"Physical and mental health declined"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Romanticism",
+			"Tonalism"
+		]
+	}
+]

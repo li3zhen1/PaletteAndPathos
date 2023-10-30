@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Roy Lichtenstein",
+		"keywords": [
+			"pop art",
+			"comic book style",
+			"parody",
+			"irony",
+			"consumer culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1943,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"graduated from Franklin School for Boys",
+					"began experimenting with art and music"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Europe",
+				"events": [
+					"served in World War II",
+					"had his first experiences with popular culture and influence of cartoons"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Various cities in USA",
+				"events": [
+					"studied and taught art",
+					"had his two sons"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1997,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"rose to prominence with his comic strip paintings",
+					"his art was displayed in Guggenheim Museum and Tate Modern"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art"
+		]
+	}
+]

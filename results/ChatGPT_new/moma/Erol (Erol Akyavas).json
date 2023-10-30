@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Erol Akyavas",
+		"keywords": [
+			"Islamic mysticism",
+			"geometric patterns",
+			"Turkish culture",
+			"surrealism",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"Birth",
+					"Began interest in painting"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Atelier 17 studio",
+					"Engaged with surrealist artists"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"Return to Istanbul",
+					"Start of professional career in art"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Istanbul, Turkey and different parts of the world",
+				"events": [
+					"Creation of 'The Siege' series",
+					"Recognition as one of the most important Turkish artists"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Surrealism"
+		]
+	}
+]

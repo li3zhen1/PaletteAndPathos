@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Luigi Russolo",
+		"keywords": [
+			"urban life",
+			"industrial technology",
+			"noise",
+			"futurism",
+			"music"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1909,
+				"happiness": 7,
+				"location": "Portogruaro, Italy",
+				"events": [
+					"studied painting",
+					"became involved in the Futurist movement"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1915,
+				"happiness": 6,
+				"location": "Milan, Italy",
+				"events": [
+					"wrote The Art of Noises",
+					"developed noise machines"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1926,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"involved in World War I",
+					"invented noise music"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Cerro di Laveno, Italy",
+				"events": [
+					"focused on traditional painting"
+				]
+			}
+		],
+		"genre": [
+			"futurism",
+			"abstract art",
+			"noise music"
+		]
+	}
+]

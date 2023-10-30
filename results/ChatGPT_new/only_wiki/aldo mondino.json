@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Aldo Mondino",
+		"keywords": [
+			"symbols",
+			"consumables",
+			"irony",
+			"everyday objects",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Turin, Italy",
+				"events": [
+					"began his education"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Turin, Italy",
+				"events": [
+					"studied at the Accademia Albertina",
+					"started creating abstract paintings"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1974,
+				"happiness": 7,
+				"location": "Turin, Italy",
+				"events": [
+					"began using everyday objects in his artworks",
+					"recognized for his innovative work"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Turin, Italy",
+				"events": [
+					"created works focussed on consumables and religious themes",
+					"exhibited widely"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2005,
+				"happiness": 4,
+				"location": "Turin, Italy",
+				"events": [
+					"continued to produce interesting art despite declining health",
+					"passed away in 2005"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Surrealism"
+		]
+	}
+]

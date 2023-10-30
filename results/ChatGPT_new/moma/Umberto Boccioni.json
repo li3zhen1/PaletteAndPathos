@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Umberto Boccioni",
+		"keywords": [
+			"futurism",
+			"dynamism",
+			"modern urban life",
+			"machines",
+			"movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1899,
+				"happiness": 5,
+				"location": "Italy",
+				"events": [
+					"trained in local schools of arts"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1907,
+				"happiness": 5,
+				"location": "Rome",
+				"events": [
+					"studied in the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1916,
+				"happiness": 6,
+				"location": "Milan",
+				"events": [
+					"became a key figure in the emerging Futurist movement",
+					"created his best-known sculptures, 'Unique Forms of Continuity in Space'"
+				]
+			}
+		],
+		"genre": [
+			"Futurism",
+			"Sculpture",
+			"Painting"
+		]
+	}
+]

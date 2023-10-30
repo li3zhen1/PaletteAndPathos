@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Richard Lytle",
+		"keywords": [
+			"nature",
+			"abstract",
+			"organic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 2021,
+				"happiness": 6,
+				"location": "New Haven, Connecticut, USA",
+				"events": [
+					"studied at Yale University School of Art",
+					"participated in Nine Young Men"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

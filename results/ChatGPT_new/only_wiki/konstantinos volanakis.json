@@ -1,0 +1,93 @@
+[
+	{
+		"name": "Konstantinos Volanakis",
+		"keywords": [
+			"sea",
+			"ships",
+			"maritime",
+			"Greek culture",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1837,
+				"end": 1848,
+				"happiness": 6,
+				"location": "Heraklion, Crete",
+				"events": [
+					"Born to a wealthy merchant family"
+				]
+			},
+			{
+				"start": 1849,
+				"end": 1856,
+				"happiness": 5,
+				"location": "Heraklion, Crete",
+				"events": [
+					"His early education"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1860,
+				"happiness": 5,
+				"location": "Piraeus, Greece",
+				"events": [
+					"Initial training in drawing and painting"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1866,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied at the Munich Academy of Fine Arts",
+					"Influenced by Karl Theodor von Piloty"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"Developed and nurtured his personal style"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1877,
+				"happiness": 5,
+				"location": "Munich, Germany",
+				"events": [
+					"Began painting seascapes",
+					"Rose in prominence as an artist"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Piraeus, Greece",
+				"events": [
+					"Returned to Greece",
+					"Gave classes in his studio"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1907,
+				"happiness": 3,
+				"location": "Piraeus, Greece",
+				"events": [
+					"Health started to deteriorate"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Maritime art"
+		]
+	}
+]

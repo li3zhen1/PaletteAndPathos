@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Pierre Daura",
+		"keywords": [
+			"landscapes",
+			"abstractions",
+			"religious imagery",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Barcelona, Catalonia, Spain",
+				"events": [
+					"trained at the Escuela de Bellas Artes de San Jorge",
+					"joined the Saint Lucas Academy"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"married American artist Louise Heron",
+					"joined the art group 'Cercle et Carré'"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Barcelona, Catalonia, Spain",
+				"events": [
+					"fought in the Spanish Civil War",
+					"daughter Martha Daura born"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Rockbridge Baths, Virginia, USA",
+				"events": [
+					"fled to the United States during World War II",
+					"taught at Lynchburg College"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"abstraction",
+			"landscapes"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Filippo Brunelleschi",
+		"keywords": [
+			"religion",
+			"architecture",
+			"perspective",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1377,
+				"end": 1401,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"studied sculpture",
+					"became a master goldsmith"
+				]
+			},
+			{
+				"start": 1402,
+				"end": 1420,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"studied architecture and ancient ruins",
+					"developed linear perspective theory"
+				]
+			},
+			{
+				"start": 1421,
+				"end": 1455,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"constructed the dome of the Florence Cathedral",
+					"became a prominent figure in architecture"
+				]
+			},
+			{
+				"start": 1456,
+				"end": 1446,
+				"happiness": 4,
+				"location": "Florence, Italy",
+				"events": [
+					"final health decline",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance architecture",
+			"sculpture",
+			"mathematics"
+		]
+	}
+]

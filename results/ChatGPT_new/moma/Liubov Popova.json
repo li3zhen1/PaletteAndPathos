@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Liubov Popova",
+		"keywords": [
+			"geometric",
+			"abstraction",
+			"Cubo-Futurism",
+			"Constructivism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1907,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Enrolled in art schools in Moscow"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1912,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Traveled to France and Italy to study art",
+					"Exposed to Impressionism"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Introduced to Cubism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Joined Russian avant garde",
+					"Hit by personal tragedy with death of husband and brother"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1924,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"Played a role in defining Constructivism",
+					"Died of Scarlet Fever"
+				]
+			}
+		],
+		"genre": [
+			"Suprematism",
+			"Cubism",
+			"Constructivism"
+		]
+	}
+]

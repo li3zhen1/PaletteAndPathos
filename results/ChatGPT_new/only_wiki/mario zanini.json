@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Mario Zanini",
+		"keywords": [
+			"Rural life",
+			"Common people",
+			"Nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1907,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Sao Paulo",
+				"events": [
+					"Formed the Grupo Santa Helena",
+					"Start of his painting career"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Sao Paulo",
+				"events": [
+					"Development of his art style",
+					"Recognized for his contribution to Brazilian art"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Figurative"
+		]
+	}
+]

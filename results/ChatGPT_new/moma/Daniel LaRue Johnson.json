@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Daniel LaRue Johnson",
+		"keywords": [
+			"Civil rights",
+			"Sculptures",
+			"Social commentary",
+			"Political art",
+			"Abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Graduated from Los Angeles City College",
+					"Studied at Rutgers University"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1971,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Created Freedom Now, Number 1 sculpture",
+					"Met his wife, a writer, in New York"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2000,
+				"happiness": 7,
+				"location": "California, USA",
+				"events": [
+					"Active member of the artist collective Spectrum",
+					"Received fellowship from National Endowment for the Arts"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2017,
+				"happiness": 6,
+				"location": "California, USA",
+				"events": [
+					"Celebrated as an influential African American artist",
+					"Health declined in later years"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Mixed-media",
+			"Abstract Art"
+		]
+	}
+]

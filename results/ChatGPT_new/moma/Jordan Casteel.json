@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Jordan Casteel",
+		"keywords": [
+			"humanity",
+			"identity",
+			"urban life",
+			"African-American culture",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1989,
+				"end": 2011,
+				"happiness": 8,
+				"location": "Denver",
+				"events": [
+					"upbringing and education"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2014,
+				"happiness": 7,
+				"location": "New Haven",
+				"events": [
+					"Yale School of Art",
+					"MFA in painting"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"teaching at Rutgers University-Newark",
+					"exhibition at the New Museum"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"portraiture",
+			"social realism"
+		]
+	}
+]

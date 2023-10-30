@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Andrew Wyeth",
+		"keywords": [
+			"rural life",
+			"landscapes",
+			"portraits",
+			"nature",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Chadds Ford, Pennsylvania",
+				"events": [
+					"began his art training",
+					"met his wife"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 2009,
+				"happiness": 5,
+				"location": "Chadds Ford, Pennsylvania & Cushing, Maine",
+				"events": [
+					"creation of 'Christina's World'",
+					"became one of the most popular American painters"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"regionalism"
+		]
+	}
+]

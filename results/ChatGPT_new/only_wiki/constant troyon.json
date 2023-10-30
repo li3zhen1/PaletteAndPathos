@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Constant Troyon",
+		"keywords": [
+			"rural",
+			"animals",
+			"landscapes",
+			"nature",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1810,
+				"end": 1833,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"learnt the basics of painting",
+					"worked in porcelain factory"
+				]
+			},
+			{
+				"start": 1833,
+				"end": 1840,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"became successful in his artworks",
+					"began painting landscapes"
+				]
+			},
+			{
+				"start": 1840,
+				"end": 1859,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"known for his animal paintings",
+					"visited Barbizon"
+				]
+			},
+			{
+				"start": 1859,
+				"end": 1865,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"health deteriorated",
+					"died from severe illness"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"animal painting"
+		]
+	}
+]

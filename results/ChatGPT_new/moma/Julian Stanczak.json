@@ -1,0 +1,97 @@
+[
+	{
+		"name": "Julian Stanczak",
+		"keywords": [
+			"geometric",
+			"abstraction",
+			"color",
+			"opticality",
+			"illusion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1942,
+				"happiness": 2,
+				"location": "Borownica, Poland",
+				"events": [
+					"Born to a music-loving family"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 0,
+				"location": "Siberian labor camp",
+				"events": [
+					"Forced into hard labor",
+					"Loss of right arm due to severe injury"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"Studied at Polish School of Art"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 7,
+				"location": "Cleveland, Ohio, USA",
+				"events": [
+					"Immigrated to America",
+					"Studied at Cleveland Institute of Art"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1956,
+				"happiness": 7,
+				"location": "New Haven, Connecticut, USA",
+				"events": [
+					"Received MFA from Yale University",
+					"Studied under legendary Josef Albers"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Cincinnati, Ohio, USA",
+				"events": [
+					"Married artist Barbara Stanczak",
+					"Began teaching at Cincinnati Art Academy"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2004,
+				"happiness": 8,
+				"location": "Cleveland, Ohio, USA",
+				"events": [
+					"Joined faculty at Cleveland Institute of Art",
+					"Most productive and recognized period of his artistic career"
+				]
+			},
+			{
+				"start": 2005,
+				"end": 2017,
+				"happiness": 7,
+				"location": "Seven Hills, Ohio, USA",
+				"events": [
+					"Retirement",
+					"Continued to paint until his death"
+				]
+			}
+		],
+		"genre": [
+			"Op Art",
+			"Geometric abstraction",
+			"Modern art"
+		]
+	}
+]

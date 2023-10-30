@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Eduardo A. MacEntyre",
+		"keywords": [
+			"geometry",
+			"color",
+			"op art",
+			"generative art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"studied technical drawing",
+					"initiated into painting"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"discovered geometric abstraction",
+					"formulated theory of 'non-orientable surfaces'"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"won the International Prize for Drawing in Darmstadt, Germany",
+					"was recognized as an exponent of geometric art"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"created various public works of art"
+				]
+			}
+		],
+		"genre": [
+			"Geometric abstraction",
+			"Op Art",
+			"Generative Art"
+		]
+	}
+]

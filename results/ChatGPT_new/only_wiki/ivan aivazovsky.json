@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Ivan Aivazovsky",
+		"keywords": [
+			"sea",
+			"ships",
+			"maritime",
+			"storms",
+			"sunsets"
+		],
+		"lifePeriods": [
+			{
+				"start": 1817,
+				"end": 1833,
+				"happiness": 6,
+				"location": "Feodosia, Russian Empire",
+				"events": [
+					"Studied in the local gymnasium"
+				]
+			},
+			{
+				"start": 1833,
+				"end": 1837,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"Studied at the Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1837,
+				"end": 1844,
+				"happiness": 8,
+				"location": "Europe",
+				"events": [
+					"Traveled and painted extensively"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1887,
+				"happiness": 7,
+				"location": "Feodosia, Russian Empire",
+				"events": [
+					"Married Julia Graves",
+					"Became a full member of the Academy of Arts"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Feodosia, Russian Empire",
+				"events": [
+					"Death of his first wife",
+					"Married Anna Sarkizova"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Marine art"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Hans Hofmann",
+		"keywords": [
+			"Abstract",
+			"Expressionism",
+			"Geometric shapes",
+			"Color Field"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied art in Munich",
+					"Started private art school"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1932,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"Moved back to home after outbreak of World War I",
+					"Continued technical studies in color"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1958,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Emigrated to the United States",
+					"Established art school in New York City"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1966,
+				"happiness": 8,
+				"location": "Provincetown, Massachusetts, USA",
+				"events": [
+					"Retired from teaching to focus on own work",
+					"Achieved international acclaim"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

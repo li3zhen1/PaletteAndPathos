@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Jean Hugo",
+		"keywords": [
+			"family",
+			"theater",
+			"supernatural",
+			"society",
+			"celebration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1915,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Born into a famous lineage",
+					"Developed a knack for drawing"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Served in World War I",
+					"Married Valentine Hugo"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Designed theater and ballet sets"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1984,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Designed for theatre, opera and films",
+					"Won a prize at Cannes Film Festival"
+				]
+			}
+		],
+		"genre": [
+			"Illustration",
+			"Theater design"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Raphael Soyer",
+		"keywords": [
+			"social realism",
+			"portraits",
+			"urban life",
+			"New York city",
+			"working-class"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1912,
+				"happiness": 3,
+				"location": "Tomsk, Russia",
+				"events": [
+					"Born into a family of artists",
+					"Emigrated from Russia due to anti-Jewish policies"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1923,
+				"happiness": 5,
+				"location": "New York city, USA",
+				"events": [
+					"Received US citizenship",
+					"Studied at the Cooper Union School for the Advancement of Science and Art"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1939,
+				"happiness": 6,
+				"location": "New York city, USA",
+				"events": [
+					"Became established as an artist",
+					"Known for employment-themed works during Great Depression"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1966,
+				"happiness": 6,
+				"location": "New York city, USA",
+				"events": [
+					"Earned recognition for his art during World War II",
+					"Member of National Institute of Arts and Letters"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1987,
+				"happiness": 5,
+				"location": "New York city, USA",
+				"events": [
+					"Wrote two volumes of memoirs",
+					"Passed away in New York, where he had lived for most of his life"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Portraiture"
+		]
+	}
+]

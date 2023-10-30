@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Le Nain Brothers",
+		"keywords": [
+			"peasant life",
+			"religious",
+			"realism",
+			"rural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1599,
+				"end": 1648,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"start working together as brothers",
+					"gained popularity"
+				]
+			}
+		],
+		"genre": [
+			"genre painting",
+			"portrait",
+			"history painting"
+		]
+	}
+]

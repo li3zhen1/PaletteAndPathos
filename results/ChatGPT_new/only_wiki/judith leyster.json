@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Judith Leyster",
+		"keywords": [
+			"genre works",
+			"children",
+			"music",
+			"entertainment",
+			"daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1609,
+				"end": 1633,
+				"happiness": 5,
+				"location": "Haarlem",
+				"events": [
+					"Became a master in the Haarlem Guild of St. Luke",
+					"Marriage to Jan Miense Molenaer"
+				]
+			},
+			{
+				"start": 1634,
+				"end": 1650,
+				"happiness": 6,
+				"location": "Amsterdam",
+				"events": [
+					"Birth of her children",
+					"Settled in Amsterdam with her family"
+				]
+			},
+			{
+				"start": 1651,
+				"end": 1660,
+				"happiness": 4,
+				"location": "Heemstede",
+				"events": [
+					"Death of her husband",
+					"Financial difficulties"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"Portraiture",
+			"Still-life"
+		]
+	}
+]

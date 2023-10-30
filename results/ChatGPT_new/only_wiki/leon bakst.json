@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Leon Bakst",
+		"keywords": [
+			"Ballet",
+			"Costume design",
+			"Orientalism",
+			"Portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1866,
+				"end": 1883,
+				"happiness": 5,
+				"location": "Grodno, Belarus",
+				"events": [
+					"Born into a middle class Jewish family"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1887,
+				"happiness": 7,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Attended the St. Petersburg Academy of Arts"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1893,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris",
+					"Became a part of the neo-romantic and symbolist movements"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1909,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became a member of the Serge Diaghilev circle and the Ballets Russes"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1924,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Achieved fame as a costume designer for the Ballets Russes",
+					"Has works featured in many exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Costume and set design"
+		]
+	}
+]

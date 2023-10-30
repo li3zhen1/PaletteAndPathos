@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Louis Cane",
+		"keywords": [
+			"flowers",
+			"nature",
+			"human bodies",
+			"symbols",
+			"mythical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Beaulieu-sur-mer, France",
+				"events": [
+					"Studied at Ecole Nationale Supérieure des Beaux-Arts"
+				]
+			}
+		],
+		"genre": [
+			"Postmodernism",
+			"Conceptual Art"
+		]
+	}
+]

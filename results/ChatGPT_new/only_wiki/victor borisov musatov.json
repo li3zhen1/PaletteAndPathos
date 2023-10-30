@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Victor Borisov-Musatov",
+		"keywords": [
+			"nature",
+			"women",
+			"solitude",
+			"melancholy",
+			"indistinct"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1884,
+				"happiness": 6,
+				"location": "Saratov, Russia",
+				"events": [
+					"born into a family of a minor railway official"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1895,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Moscow School of Painting, Sculpture and Architecture"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1900,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"attended the Académie Julian"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Saratov, Russia",
+				"events": [
+					"returned to native city Saratov",
+					"held solo exhibition",
+					"died of a cardiac insufficiency"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau"
+		]
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Hieronymus Bosch",
+		"keywords": [
+			"religion",
+			"fantasy",
+			"sin",
+			"hell",
+			"heaven"
+		],
+		"lifePeriods": [
+			{
+				"start": 1450,
+				"end": 1516,
+				"happiness": 5,
+				"location": "'s-Hertogenbosch",
+				"events": [
+					"joined the Brotherhood of Our Lady",
+					"started his career as an independent painter"
+				]
+			}
+		],
+		"genre": [
+			"Early Netherlandish painting",
+			"religious art",
+			"fantastic imagery"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Chaim Soutine",
+		"keywords": [
+			"portrait",
+			"expressionism",
+			"landscapes",
+			"still life",
+			"anxiety"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1913,
+				"happiness": 3,
+				"location": "Smilavichy, Belarus",
+				"events": [
+					"born into a poor Jewish family",
+					"trained at the Vilna Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1915,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"arrived in Paris",
+					"studied at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"met Amedeo Modigliani",
+					"was introduced to the dealer Leopold Zborowski"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"developed his mature style",
+					"gained recognition and financial success"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1943,
+				"happiness": 1,
+				"location": "Paris, France",
+				"events": [
+					"experienced increasing isolation and anxiety with the rise of anti-Semitism",
+					"died during surgery"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Post-Impressionism"
+		]
+	}
+]

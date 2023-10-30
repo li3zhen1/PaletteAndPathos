@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Aleksandr Rodchenko",
+		"keywords": [
+			"innovation",
+			"abstraction",
+			"industry",
+			"geometric shapes",
+			"photomontage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1917,
+				"happiness": 6,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Studied art at Kazan Art School"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Became involved in the Russian Revolution",
+					"Joined the 'Productivists' group"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Founded the Russian Constructivist movement",
+					"Worked in photomontage, sculpture and graphic design"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1956,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"Faced persecution under Stalin's regime",
+					"Worked in obscurity"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Constructivism",
+			"Photomontage"
+		]
+	}
+]

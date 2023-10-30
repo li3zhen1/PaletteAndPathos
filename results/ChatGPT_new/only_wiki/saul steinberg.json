@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Saul Steinberg",
+		"keywords": [
+			"satire",
+			"humor",
+			"sociopolitical critique",
+			"urban life",
+			"identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied philosophy and literature at the University of Bucharest"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1942,
+				"happiness": 2,
+				"location": "Dominican Republic",
+				"events": [
+					"training camp waiting for US visa due to Jewish origin during WW2"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"began to work for The New Yorker",
+					"married abstract expressionist painter Hedda Sterne"
+				]
+			}
+		],
+		"genre": [
+			"Illustration",
+			"Caricatures",
+			"Cartoons"
+		]
+	}
+]

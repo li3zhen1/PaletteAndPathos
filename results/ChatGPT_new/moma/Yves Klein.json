@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Yves Klein",
+		"keywords": [
+			"monochrome",
+			"immaterial",
+			"spirituality",
+			"blue",
+			"performance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Nice, France",
+				"events": [
+					"Learned Judo",
+					"Started painting"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Developed 'Monotone Symphony'",
+					"Began philosophical writing"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1960,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Invented International Klein Blue",
+					"Created Anthropometries"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Married Rotraut Uecker",
+					"Had a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Conceptual art",
+			"Performance art"
+		]
+	}
+]

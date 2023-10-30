@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Morris Graves",
+		"keywords": [
+			"nature",
+			"spirituality",
+			"tranquility",
+			"death",
+			"serenity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Fox Valley, Oregon",
+				"events": [
+					"born",
+					"grew up in the rural area, started drawing"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Seattle, Washington",
+				"events": [
+					"studied art",
+					"began to establish his artistic identity"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Seattle, Washington",
+				"events": [
+					"experienced struggles with establishing career",
+					"first solo exhibition in 1936"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1941,
+				"happiness": 7,
+				"location": "Seattle, Washington",
+				"events": [
+					"created 'War Mad' series, gained national recognition"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1944,
+				"happiness": 3,
+				"location": "California",
+				"events": [
+					"drafted into military service",
+					"suffered emotional traumas"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Washington",
+				"events": [
+					"built 'The Lake' retreat home",
+					"developed mature style"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2001,
+				"happiness": 8,
+				"location": "Loleta, California",
+				"events": [
+					"moved to his final home",
+					"continued creating art until his death"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Mysticism",
+			"Symbolism"
+		]
+	}
+]

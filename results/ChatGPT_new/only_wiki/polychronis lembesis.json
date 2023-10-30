@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Polychronis Lembesis",
+		"keywords": [
+			"landscape",
+			"genre scenes",
+			"nautical",
+			"monastic life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1848,
+				"end": 1913,
+				"happiness": 5,
+				"location": "Aegina, Greece",
+				"events": [
+					"Studied in the Athens School of Fine Arts",
+					"Attended the Munich Academy of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Realism"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Shuji Mukai",
+		"keywords": [
+			"Calligraphy",
+			"Symbols",
+			"Sociological"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Japan",
+				"events": [
+					"Born in Oita",
+					"Graduated from the Faculty of Economics at Keio University"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Japan",
+				"events": [
+					"Joined the Gutai Art Association",
+					"First solo exhibition at the Gutai Pinacotheca"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1990,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Moved to Paris",
+					"Started creating environmental and public art"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2010,
+				"happiness": 7,
+				"location": "Japan",
+				"events": [
+					"Returned to Japan",
+					"Received the Oita Prefecture Culture Award in 2007"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2020,
+				"happiness": 6,
+				"location": "Japan",
+				"events": [
+					"Participated in numerous international art fairs"
+				]
+			}
+		],
+		"genre": [
+			"Avant-garde",
+			"Abstract",
+			"Public Art"
+		]
+	}
+]

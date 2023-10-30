@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Peter Halley",
+		"keywords": [
+			"geometrical",
+			"minimalist",
+			"cells",
+			"conduits",
+			"technology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1953,
+				"end": 1975,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"born in New York",
+					"completed undergraduate studies at Yale University"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New Orleans, United States",
+				"events": [
+					"worked as an assistant to the Dean of the New Orleans Academy of Fine Art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"critical essays were published in Art in America",
+					"had his first solo exhibition"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"served as the director of Graduate Studies in Painting and Printmaking at Yale University",
+					"his work was exhibited in various prominent locations"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"continued to make art and teach"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism",
+			"Neo-Geo"
+		]
+	}
+]

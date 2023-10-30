@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Hans Holbein the Younger",
+		"keywords": [
+			"Religion",
+			"Royalty",
+			"Portraiture",
+			"Realism",
+			"Mortality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1497,
+				"end": 1515,
+				"happiness": 6,
+				"location": "Augsburg, Germany",
+				"events": [
+					"Moved to Basel",
+					"Apprenticeship with Hans Holbein the Elder"
+				]
+			},
+			{
+				"start": 1515,
+				"end": 1526,
+				"happiness": 7,
+				"location": "Basel, Switzerland",
+				"events": [
+					"Married Elsbeth Binzenstuck",
+					"Produced the series 'The Dance of Death'"
+				]
+			},
+			{
+				"start": 1526,
+				"end": 1528,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Began work for Henry VIII",
+					"Economic hardships due to the Reformation"
+				]
+			},
+			{
+				"start": 1528,
+				"end": 1532,
+				"happiness": 4,
+				"location": "Basel, Switzerland",
+				"events": [
+					"Returned to Basel due to debt",
+					"Loss of patronage due to the Reformation"
+				]
+			},
+			{
+				"start": 1532,
+				"end": 1543,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Returned to England",
+					"Appointed as the King's Painter"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Religious art",
+			"Allegorical art"
+		]
+	}
+]

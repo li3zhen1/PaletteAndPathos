@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Basil Beattie",
+		"keywords": [
+			"Abstract",
+			"Reaction",
+			"Symbols",
+			"Emotions",
+			"Labyrinths"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1955,
+				"happiness": 5,
+				"location": "West Hartlepool, England",
+				"events": [
+					"Born to poor family"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1964,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Studied at Royal Academy of Arts",
+					"Started developing his abstract style"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1990,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Taught at Goldsmiths' College"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2022,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Received recognition for his abstract work",
+					"Received the Jerwood Painting Prize in 1998"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Symbolism"
+		]
+	}
+]

@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Satish Gujral",
+		"keywords": [
+			"architecture",
+			"human suffering",
+			"social issues",
+			"diversity",
+			"culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1942,
+				"happiness": 1,
+				"location": "Jhelum, British India",
+				"events": [
+					"suffered a leg accident",
+					"became hearing impaired"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Lahore",
+				"events": [
+					"studied at Mayo School of Arts",
+					"witnessed the partition of India"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Mumbai",
+				"events": [
+					"studied at Sir JJ School of Art",
+					"major illness"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Mexico",
+				"events": [
+					"apprentice with David Alfaro Siqueiros"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1974,
+				"happiness": 8,
+				"location": "New Delhi",
+				"events": [
+					"established successful career",
+					"met his wife Kiran"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New Delhi",
+				"events": [
+					"designed Belgian Embassy in New Delhi",
+					"received Padma Vibhushan"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"sculpture",
+			"architecture"
+		]
+	}
+]

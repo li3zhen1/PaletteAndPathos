@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Anthony van Dyck",
+		"keywords": [
+			"portraits",
+			"royalty",
+			"religion",
+			"mythology",
+			"elegance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1599,
+				"end": 1618,
+				"happiness": 6,
+				"location": "Antwerp",
+				"events": [
+					"started training under Hendrick van Balen"
+				]
+			},
+			{
+				"start": 1618,
+				"end": 1621,
+				"happiness": 8,
+				"location": "Antwerp",
+				"events": [
+					"became a master of the Antwerp painters' guild"
+				]
+			},
+			{
+				"start": 1621,
+				"end": 1627,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"period of Italian influence"
+				]
+			},
+			{
+				"start": 1627,
+				"end": 1632,
+				"happiness": 6,
+				"location": "Antwerp",
+				"events": [
+					"period of Antwerp production"
+				]
+			},
+			{
+				"start": 1632,
+				"end": 1641,
+				"happiness": 8,
+				"location": "England",
+				"events": [
+					"became court painter for Charles I",
+					"created many royal portraits"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"portrait painting"
+		]
+	}
+]

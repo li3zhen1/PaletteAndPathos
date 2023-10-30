@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Petrus Christus",
+		"keywords": [
+			"portraiture",
+			"religious themes",
+			"middle ages",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1410,
+				"end": 1475,
+				"happiness": 4,
+				"location": "Bruges",
+				"events": [
+					"became a free master",
+					"frequent travels for commissions"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"portraiture"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Sir Lawrence Alma-Tadema",
+		"keywords": [
+			"Romanticism",
+			"Classicism",
+			"Luxury",
+			"Antiquity",
+			"Decadence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1849,
+				"happiness": 4,
+				"location": "Dronrijp, Netherlands",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1849,
+				"end": 1852,
+				"happiness": 2,
+				"location": "Leeuwarden, Netherlands",
+				"events": [
+					"death of his mother",
+					"death of his father"
+				]
+			},
+			{
+				"start": 1852,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"married Marie-Pauline Gressin de Boisgirard",
+					"studied at the Royal Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1871,
+				"happiness": 3,
+				"location": "Brussels, Belgium",
+				"events": [
+					"loss of his wife and son",
+					"moved to England"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1912,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"married Laura Theresa Epps",
+					"became one of the most renowned painters of Victorian England"
+				]
+			}
+		],
+		"genre": [
+			"Historical genre",
+			"Neoclassicism",
+			"Academic art"
+		]
+	}
+]

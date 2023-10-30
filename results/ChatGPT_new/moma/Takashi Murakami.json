@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Takashi Murakami",
+		"keywords": [
+			"pop culture",
+			"Japanese art",
+			"contemporary",
+			"commercial",
+			"animation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Started drawing at an early age"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Studied at Tokyo University of the Arts",
+					"Developed his Superflat theory"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 1999,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"Gained international recognition",
+					"Collaboration with fashion brands"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2022,
+				"happiness": 9,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Established Kaikai Kiki Co., Ltd.",
+					"Exhibited at major global galleries",
+					"Continued successful collaborations"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"pop art",
+			"Fine-art"
+		]
+	}
+]

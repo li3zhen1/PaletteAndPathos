@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Meijer de Haan",
+		"keywords": [
+			"portraits",
+			"nature",
+			"Jewish symbolism",
+			"rural life",
+			"Post-Impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1852,
+				"end": 1889,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"studied at Rijksakademie",
+					"turned religiously observant"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1889,
+				"happiness": 5,
+				"location": "Pont-Aven, France",
+				"events": [
+					"met Gauguin",
+					"started working on Symbolist style"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Landscape",
+			"Symbolist"
+		]
+	}
+]

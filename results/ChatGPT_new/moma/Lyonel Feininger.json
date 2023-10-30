@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Lyonel Feininger",
+		"keywords": [
+			"architecture",
+			"nature",
+			"light",
+			"cubism",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1887,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"born to German-American parents"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1893,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"studied at the Royal Academy in Berlin",
+					"started commercial caricature work"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1911,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"met his wife Julia Berg",
+					"began his fine art career"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"was a founder of 'Die Brücke' group",
+					"taught at Bauhaus"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"continued teaching at Bauhaus",
+					"Nazi party came to power"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1956,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"returned to United States due to Nazi pressure",
+					"spends last years in Manhattan"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"expressionism"
+		]
+	}
+]

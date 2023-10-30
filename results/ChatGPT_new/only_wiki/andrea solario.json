@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Andrea Solario",
+		"keywords": [
+			"religious",
+			"portraiture",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1465,
+				"end": 1524,
+				"happiness": 7,
+				"location": "Milan",
+				"events": [
+					"worked at Milan Cathedral",
+					"traveled extensively through France"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"religious painting",
+			"portrait"
+		]
+	}
+]

@@ -1,0 +1,75 @@
+[
+	{
+		"name": "František Kupka",
+		"keywords": [
+			"abstract",
+			"philosophy",
+			"emotion",
+			"symbolism",
+			"cosmology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1887,
+				"happiness": 5,
+				"location": "Opočno, Czech Republic",
+				"events": [
+					"started secondary education"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1892,
+				"happiness": 5,
+				"location": "Prague, Czech Republic",
+				"events": [
+					"studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1896,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"studied at the Academy of Fine Arts in Vienna"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"settled in Paris",
+					"began painting abstract work"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1931,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"faced hardships due to World War I"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Puteaux, France",
+				"events": [
+					"participated in Abstraction-Création movement",
+					"published 'Art and its Philosophical Problem'"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Orphism",
+			"Symbolism"
+		]
+	}
+]

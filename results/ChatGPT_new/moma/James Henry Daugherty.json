@@ -1,0 +1,56 @@
+[
+	{
+		"name": "James Henry Daugherty",
+		"keywords": [
+			"color",
+			"American history",
+			"children's literature",
+			"murals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Asheville, North Carolina, USA",
+				"events": [
+					"discovered passion for art"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1913,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"studied at Art Students League of New York"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1930,
+				"happiness": 9,
+				"location": "New York City, USA",
+				"events": [
+					"produced murals",
+					"became an integral part of the Charlot-Daugherty mural team"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Connecticut, USA",
+				"events": [
+					"focused on writing and illustrating children's books",
+					"won Newbery Medal for 'Daniel Boone'"
+				]
+			}
+		],
+		"genre": [
+			"Mural painting",
+			"Illustration",
+			"Children's literature"
+		]
+	}
+]

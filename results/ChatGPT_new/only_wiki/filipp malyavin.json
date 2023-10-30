@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Filipp Malyavin",
+		"keywords": [
+			"portraits",
+			"rural life",
+			"Orthodox priests",
+			"peasants",
+			"women in bright dresses"
+		],
+		"lifePeriods": [
+			{
+				"start": 1869,
+				"end": 1889,
+				"happiness": 6,
+				"location": "Kazanki village",
+				"events": [
+					"Started to show interest in drawing."
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1902,
+				"happiness": 5,
+				"location": "St. Petersburg",
+				"events": [
+					"Studied at the Imperial Academy of Arts under Ilya Repin.",
+					"Became a distinguished Russian painter."
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1922,
+				"happiness": 4,
+				"location": "St. Petersburg",
+				"events": [
+					"Participated in the World Exhibition in Paris.",
+					"Experienced the Russian Revolution."
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Immigrated to France due to Russian Civil War.",
+					"Continued painting and exhibiting his works."
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1941,
+				"happiness": 2,
+				"location": "Nice",
+				"events": [
+					"Experienced World War II.",
+					"Died in 1940."
+				]
+			}
+		],
+		"genre": [
+			"portrait painting",
+			"genre painting",
+			"landscape art"
+		]
+	}
+]

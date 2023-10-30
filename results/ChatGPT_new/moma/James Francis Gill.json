@@ -1,0 +1,47 @@
+[
+	{
+		"name": "James Francis Gill",
+		"keywords": [
+			"pop art",
+			"portraits",
+			"celebrities",
+			"emotion",
+			"larger-than-life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1965,
+				"happiness": 6,
+				"location": "San Angelo, Texas",
+				"events": [
+					"Gained recognition for his distinct pop art style",
+					"Incorporated persons of public interest into his work"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1972,
+				"happiness": 4,
+				"location": "Los Angeles, California",
+				"events": [
+					"Vanished from the public scene",
+					"Ceased to produce any paintings"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"Returned to painting and re-established his artistic career",
+					"Began creating new pieces on a regular basis"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art"
+		]
+	}
+]

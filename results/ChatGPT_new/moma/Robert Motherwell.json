@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Robert Motherwell",
+		"keywords": [
+			"Abstract expressionism",
+			"Minimalism",
+			"spirituality",
+			"collage",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1932,
+				"happiness": 7,
+				"location": "Aberdeen, Washington, USA",
+				"events": [
+					"Born to a wealthy family",
+					"Developed initial interest in art"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1941,
+				"happiness": 6,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Studied art in high school",
+					"Attended Stanford University"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1958,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Became central figure in New York School of abstract expressionists",
+					"Married fellow artist Helen Frankenthaler"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1971,
+				"happiness": 5,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Created large-scale paintings",
+					"Divorced Helen Frankenthaler"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1991,
+				"happiness": 6,
+				"location": "Provincetown, Massachusetts, USA",
+				"events": [
+					"Continued to be influential in teaching and writing about modern art",
+					"Died of stroke"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism",
+			"Minimalism"
+		]
+	}
+]

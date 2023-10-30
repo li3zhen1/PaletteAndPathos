@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Panayiotis Tetsis",
+		"keywords": [
+			"seascapes",
+			"colour",
+			"Greece",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Hydra, Greece",
+				"events": [
+					"Born to a family of seafarers",
+					"Started painting at early age"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Athens, Greece",
+				"events": [
+					"Studied at the Athens School of Fine Arts",
+					"Met important figures in Greek art"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Received a scholarship to Paris",
+					"Broadened his artistic horizons"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Hydra, Greece",
+				"events": [
+					"Returned to Greece",
+					"Exhibited widely"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2016,
+				"happiness": 6,
+				"location": "Athens, Greece",
+				"events": [
+					"Received the National Award for Painting",
+					"Continued to create and exhibit works"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Seascape",
+			"Portrait"
+		]
+	}
+]

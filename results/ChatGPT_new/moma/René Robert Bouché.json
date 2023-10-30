@@ -1,0 +1,64 @@
+[
+	{
+		"name": "René Robert Bouché",
+		"keywords": [
+			"fashion",
+			"portraiture",
+			"color",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"born in Paris"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1923,
+				"happiness": 6,
+				"location": "Berlin",
+				"events": [
+					"studied art"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"worked for Vogue"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1963,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"made fashion illustrations for The New Yorker",
+					"appointed as official artist of the US Air Force"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1963,
+				"happiness": 2,
+				"location": "Ibiza",
+				"events": [
+					"died in plane crash"
+				]
+			}
+		],
+		"genre": [
+			"fashion art",
+			"portraiture",
+			"illustration"
+		]
+	}
+]

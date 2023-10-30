@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Paul Cézanne",
+		"keywords": [
+			"landscape",
+			"still-life",
+			"portraits",
+			"nature",
+			"post-impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1839,
+				"end": 1859,
+				"happiness": 4,
+				"location": "Aix-en-Provence, France",
+				"events": [
+					"raised by wealthy parents",
+					"met his lifetime friend Émile Zola"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1870,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris to pursue arts"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1880,
+				"happiness": 3,
+				"location": "Aix-en-Provence, France",
+				"events": [
+					"faced rejection from the Salon Paris",
+					"father forced him to work in his banking firm"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Paris and Province, France",
+				"events": [
+					"developed his signature art style",
+					"gained recognition"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1906,
+				"happiness": 6,
+				"location": "Aix-en-Provence, France",
+				"events": [
+					"moved back to Aix-en-Provence",
+					"became isolated from friends and family"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Modern art"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Sergey Sergeyevich Solomko",
+		"keywords": [
+			"romanticism",
+			"folk tales",
+			"mythology",
+			"orientalism",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Russia, France",
+				"events": [
+					"Graduated from the Imperial Academy of Arts",
+					"Worked for the postcard company Wolf"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Graphic Art"
+		]
+	}
+]

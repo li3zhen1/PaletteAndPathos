@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Barkley L. Hendricks",
+		"keywords": [
+			"African-American culture",
+			"portrait",
+			"realism",
+			"style",
+			"individuality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Childhood years"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Began his exploration of art"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1971,
+				"happiness": 7,
+				"location": "New Haven, Connecticut",
+				"events": [
+					"Received his Bachelor's and Master's degrees from Yale University",
+					"Created his first notable paintings"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New London, Connecticut",
+				"events": [
+					"Became a professor at Connecticut College",
+					"Received a fellowship from the National Endowment for the Arts"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2017,
+				"happiness": 8,
+				"location": "New London, Connecticut",
+				"events": [
+					"Retirement from Connecticut College",
+					"Received a Doctor of Fine Arts honorary degree from Connecticut College"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Portrait painting",
+			"Realism"
+		]
+	}
+]

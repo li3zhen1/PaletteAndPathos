@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Matthew Rackham Barnes",
+		"keywords": [
+			"social realism",
+			"harbor scenes",
+			"landscapes",
+			"city life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Norwich, England",
+				"events": [
+					"studied at Norwich School of Art"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 5,
+				"location": "San Francisco, USA",
+				"events": [
+					"immigrated to the United States"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1951,
+				"happiness": 7,
+				"location": "San Francisco, USA",
+				"events": [
+					"became an instructor at the California School of Fine Arts",
+					"exhibited works at the Golden Gate International Exposition"
+				]
+			}
+		],
+		"genre": [
+			"Realism"
+		]
+	}
+]

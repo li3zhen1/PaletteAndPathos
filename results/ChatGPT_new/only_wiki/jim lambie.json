@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Jim Lambie",
+		"keywords": [
+			"contemporary",
+			"colorful",
+			"dynamic",
+			"music",
+			"pop culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1964,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"Studied at the Glasgow School of Art",
+					"Started his artistic career"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2007,
+				"happiness": 8,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"Nominated for Turner Prize in 2005"
+				]
+			},
+			{
+				"start": 2008,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"Continued development as an artist"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Installation Art",
+			"Pop Art"
+		]
+	}
+]

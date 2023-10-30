@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Julian Alden Weir",
+		"keywords": [
+			"landscapes",
+			"portraits",
+			"rural life",
+			"impressionism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1852,
+				"end": 1864,
+				"happiness": 6,
+				"location": "West Point, New York",
+				"events": [
+					"born to a family of artists"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1873,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"studied art at the National Academy of Design"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1877,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at École des Beaux-Arts",
+					"adopted impressionism"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1882,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"struggled to establish his artistic career"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1891,
+				"happiness": 7,
+				"location": "Windham, Connecticut",
+				"events": [
+					"purchased a farm",
+					"began painting rural life"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1919,
+				"happiness": 8,
+				"location": "Branchville, Connecticut",
+				"events": [
+					"founded the Tile Club",
+					"promoted impressionism in the US"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

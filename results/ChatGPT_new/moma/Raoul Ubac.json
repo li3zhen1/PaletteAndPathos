@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Raoul Ubac",
+		"keywords": [
+			"surrealism",
+			"photography",
+			"sculpture",
+			"engravings",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1934,
+				"happiness": 4,
+				"location": "Belgium",
+				"events": [
+					"birth",
+					"education"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"influence of surrealism",
+					"World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"evolving art style",
+					"started painting instead of photography"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"recognized artist",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract art"
+		]
+	}
+]

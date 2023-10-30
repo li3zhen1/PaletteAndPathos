@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Max Kurzweil",
+		"keywords": [
+			"women",
+			"landscape",
+			"impressionism",
+			"sadness",
+			"inner struggle"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1896,
+				"happiness": 5,
+				"location": "Vienna",
+				"events": [
+					"studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1901,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"taught at the private Malschule"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1916,
+				"happiness": 4,
+				"location": "Vienna",
+				"events": [
+					"founding member of the Vienna Secession",
+					"created some of his most significant works"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1916,
+				"happiness": 2,
+				"location": "Vienna",
+				"events": [
+					"increasing mental instability",
+					"suicidal"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Secessionism"
+		]
+	}
+]

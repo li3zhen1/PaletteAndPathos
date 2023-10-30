@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Francesco Hayez",
+		"keywords": [
+			"romanticism",
+			"portraits",
+			"historical events",
+			"orientalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1791,
+				"end": 1809,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"started his artistic training"
+				]
+			},
+			{
+				"start": 1809,
+				"end": 1850,
+				"happiness": 7,
+				"location": "Milan, Italy",
+				"events": [
+					"became a leading artist in Milan",
+					"produced series of historical portraits"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1882,
+				"happiness": 5,
+				"location": "Milan, Italy",
+				"events": [
+					"shifted to orientalism themes",
+					"established as one of the leading artists of the Romantic period"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Orientalist painting"
+		]
+	}
+]

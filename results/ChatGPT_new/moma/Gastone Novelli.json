@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Gastone Novelli",
+		"keywords": [
+			"abstract",
+			"myths",
+			"emotion",
+			"language"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Began his artistic training"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1958,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Developed his painting style",
+					"Met many influential artists"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Involved in the Italian Informal Art movement"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"His work became increasingly abstract and symbolic"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1968,
+				"happiness": 2,
+				"location": "Milan, Italy",
+				"events": [
+					"Sudden death at the peak of his career"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Informal Art"
+		]
+	}
+]

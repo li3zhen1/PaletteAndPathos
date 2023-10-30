@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Kimon Loghi",
+		"keywords": [
+			"landscape",
+			"domestic scenes",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"educated at Belle Arte School ",
+					"participated at the Official Salons"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"realism"
+		]
+	}
+]

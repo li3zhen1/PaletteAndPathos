@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Mestre Ataíde",
+		"keywords": [
+			"Religion",
+			"Christianity",
+			"Portraits",
+			"Scenery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1762,
+				"end": 1830,
+				"happiness": 5,
+				"location": "Mariana, Minas Gerais, Brazil",
+				"events": [
+					"Notable as a leading artist of the Baroque period in Brazil",
+					"Decorated the ceiling of the Church of Saint Francis of Assisi in Ouro Preto"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Muralism",
+			"Portrait"
+		]
+	}
+]

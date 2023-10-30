@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Julie Mehretu",
+		"keywords": [
+			"architecture",
+			"urban landscape",
+			"social process",
+			"global politics",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1970,
+				"end": 1986,
+				"happiness": 5,
+				"location": "Addis Ababa, Ethiopia",
+				"events": [
+					"born in Ethiopia"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1997,
+				"happiness": 6,
+				"location": "Michigan, USA",
+				"events": [
+					"emigrated to the United States",
+					"studied at University of Michigan"
+				]
+			},
+			{
+				"start": 1997,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Rhode Island, USA",
+				"events": [
+					"Attended Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"won MacArthur Fellowship",
+					"art exhibited in major museums"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Contemporary Art"
+		]
+	}
+]

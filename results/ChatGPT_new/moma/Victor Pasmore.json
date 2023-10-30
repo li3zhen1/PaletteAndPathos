@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Victor Pasmore",
+		"keywords": [
+			"abstraction",
+			"landscape",
+			"architecture",
+			"burnham"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1913,
+				"happiness": 2,
+				"location": "London",
+				"events": [
+					"Born into a middle-class family",
+					"Lost father at a young age"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1935,
+				"happiness": 4,
+				"location": "London",
+				"events": [
+					"Educated at Harrow School",
+					"Began drawing and painting in his spare time"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1943,
+				"happiness": 6,
+				"location": "London",
+				"events": [
+					"Became member of the London Artists' Association",
+					"Met Helen Sutherland and others who influenced his art"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1954,
+				"happiness": 4,
+				"location": "Newcastle",
+				"events": [
+					"Appointed consulting director of urban design for Peterlee in County Durham",
+					"Moved his family to North East of England"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1966,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"Appointed director of painting at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1998,
+				"happiness": 7,
+				"location": "Malta",
+				"events": [
+					"Moved to Malta",
+					"Built a house and studio"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"abstract art"
+		]
+	}
+]

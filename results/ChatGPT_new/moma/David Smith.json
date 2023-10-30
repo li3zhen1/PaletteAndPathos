@@ -1,0 +1,58 @@
+[
+	{
+		"name": "David Smith",
+		"keywords": [
+			"sculpture",
+			"abstract",
+			"welding",
+			"metalwork"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1934,
+				"happiness": 5,
+				"location": "Decatur, Indiana, US",
+				"events": [
+					"Born and raised in Indiana",
+					"Studied at Ohio University and University of Notre Dame, but left before obtaining a degree"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1942,
+				"happiness": 7,
+				"location": "New York, NY, US",
+				"events": [
+					"Studied at Art Students League of New York",
+					"Began working in a car assembly plant",
+					"Started creating metal sculptures"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 5,
+				"location": "New York, US",
+				"events": [
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Bolton Landing, NY, US",
+				"events": [
+					"Created some of his most notable works",
+					"Won several awards for his sculptures",
+					"His works were exhibited around the world"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Sculpture"
+		]
+	}
+]

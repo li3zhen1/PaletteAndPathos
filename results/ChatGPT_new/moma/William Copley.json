@@ -1,0 +1,55 @@
+[
+	{
+		"name": "William Copley",
+		"keywords": [
+			"sexuality",
+			"society",
+			"cultural commentary",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1948,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Became interested in Surrealism",
+					"Opened the Copley Galleries in Beverly Hills"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1951,
+				"happiness": 6,
+				"location": "California, USA",
+				"events": [
+					"Started painting"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1966,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Development of 'narrative' painting style"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1996,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Founded the William and Norma Copley Foundation",
+					"Exhibited at the New York Cultural Center"
+				]
+			}
+		],
+		"genre": [
+			"Narrative painting",
+			"Surrealism"
+		]
+	}
+]

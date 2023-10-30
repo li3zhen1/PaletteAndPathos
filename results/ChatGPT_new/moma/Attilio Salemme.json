@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Attilio Salemme",
+		"keywords": [
+			"abstraction",
+			"expression",
+			"nature",
+			"figures",
+			"mystery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Boston, Massachusetts, USA",
+				"events": [
+					"began his career as a self-taught artist",
+					"established himself as an Abstract Expressionist painter"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

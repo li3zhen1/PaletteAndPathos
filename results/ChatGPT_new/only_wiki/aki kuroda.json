@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Aki Kuroda",
+		"keywords": [
+			"abstract",
+			"surrealism",
+			"symbolic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Kyoto, Japan",
+				"events": [
+					"was born",
+					"started practicing art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Kyoto, Japan",
+				"events": [
+					"studied at the Kyoto City University of Arts"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Kyoto, Japan",
+				"events": [
+					"started his professional career"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"held his first European solo exhibition"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"continued his career in Paris"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"continued to exhibit globally"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art"
+		]
+	}
+]

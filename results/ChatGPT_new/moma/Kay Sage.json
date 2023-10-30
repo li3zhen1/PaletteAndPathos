@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Kay Sage",
+		"keywords": [
+			"surrealism",
+			"abstraction",
+			"melancholy",
+			"architecture",
+			"solitude"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Watertown, New York",
+				"events": [
+					"born into a wealthy family"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Rome",
+				"events": [
+					"educated in Europe",
+					"developed love for arts"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1937,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Married Prince Ranieri di San Faustino",
+					"divorced in 1935",
+					"associated with the Surrealist circle"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1940,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Met Yves Tanguy",
+					"Separated from him due to World War II"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1955,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Reunited and married Yves Tanguy",
+					"became active in the Surrealist Movement in the US"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1963,
+				"happiness": 2,
+				"location": "Woodbury, Connecticut",
+				"events": [
+					"Yves Tanguy died",
+					"suffered from depression",
+					"committed suicide"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"abstract art"
+		]
+	}
+]

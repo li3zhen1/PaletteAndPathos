@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Andre Masson",
+		"keywords": [
+			"surrealism",
+			"cubism",
+			"abstract",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Balagny-sur-Thérain, France",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Began his art education"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1920,
+				"happiness": 1,
+				"location": "France",
+				"events": [
+					"Served in World War I",
+					"Injured and captured"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Joined Surrealist movement",
+					"Developed 'automatic' method of painting"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1945,
+				"happiness": 2,
+				"location": "United States",
+				"events": [
+					"Fled to the United during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1987,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"Returned to France after the war",
+					"Died"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Cubism",
+			"Abstract art"
+		]
+	}
+]

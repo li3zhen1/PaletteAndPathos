@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Robert MacBryde",
+		"keywords": [
+			"abstraction",
+			"cubism",
+			"still life",
+			"landscapes",
+			"theatrical sets"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Maybole, Scotland",
+				"events": [
+					"studied at the Glasgow School of Art"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1941,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"established himself as a painter and printmaker",
+					"met Robert Colquhoun"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1952,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"worked in partnership with Robert Colquhoun"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1966,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"death of Robert Colquhoun",
+					"decline in popularity"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Cubism"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Silke Otto-Knapp",
+		"keywords": [
+			"landscapes",
+			"figures",
+			"theatre",
+			"dance",
+			"narrative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1970,
+				"end": 1995,
+				"happiness": 6,
+				"location": "Osnabrück, Germany",
+				"events": [
+					"born and raised",
+					"got interested in art"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"studied art",
+					"developed her distinctive painting style"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2013,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"continued to evolve artistically",
+					"first major exhibitions"
+				]
+			},
+			{
+				"start": 2013,
+				"end": 2020,
+				"happiness": 8,
+				"location": "Los Angeles, USA",
+				"events": [
+					"taught at UCLA",
+					"multiple solo exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Figurative painting",
+			"Landscape painting",
+			"Theatrical painting"
+		]
+	}
+]

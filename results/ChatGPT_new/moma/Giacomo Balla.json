@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Giacomo Balla",
+		"keywords": [
+			"futurism",
+			"movement",
+			"light",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1885,
+				"happiness": 6,
+				"location": "Turin, Italy",
+				"events": [
+					"Born into a poor family"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1895,
+				"happiness": 7,
+				"location": "Turin, Italy",
+				"events": [
+					"Studied music"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Study in Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Married Elisa Marcucci",
+					"Mastered Divisionism",
+					"Exhibited his works"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Joined the Futurist movement",
+					"Exhibited in the Venice Biennale"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Experimented with abstract art"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1958,
+				"happiness": 4,
+				"location": "Rome, Italy",
+				"events": [
+					"Lost his wife",
+					"Struggled with Fascism"
+				]
+			}
+		],
+		"genre": [
+			"Futurism",
+			"Divisionism",
+			"Abstract"
+		]
+	}
+]

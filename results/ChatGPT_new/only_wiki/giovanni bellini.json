@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Giovanni Bellini",
+		"keywords": [
+			"sacred",
+			"idealism",
+			"nature",
+			"portraits",
+			"madonnas"
+		],
+		"lifePeriods": [
+			{
+				"start": 1430,
+				"end": 1516,
+				"happiness": 5,
+				"location": "Venice",
+				"events": [
+					"became a master in the Venetian painters' guild",
+					"worked in Doge's Palace"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"religious paintings",
+			"portraiture"
+		]
+	}
+]

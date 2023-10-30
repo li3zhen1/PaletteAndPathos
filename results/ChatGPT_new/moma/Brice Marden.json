@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Brice Marden",
+		"keywords": [
+			"abstraction",
+			"minimalism",
+			"nature",
+			"monochrome",
+			"restraint"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Bronxville, New York",
+				"events": [
+					"born in Bronxville",
+					"showed interest in art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1963,
+				"happiness": 7,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"studied at Boston University School of Fine and Applied Arts",
+					"graduated with a BFA"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1968,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"graduated from Yale University School of Art and Architecture",
+					"created his first monochromatic single-panel painting"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1977,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"exhibited at the Guggenheim Museum",
+					"his first solo exhibition at the Bykert Gallery"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Hydra, Greece",
+				"events": [
+					"moved to Greece",
+					"transitioned towards calligraphic elements in his artworks"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"retrospective at the Museum of Modern Art in New York"
+				]
+			}
+		],
+		"genre": [
+			"minimalism",
+			"abstract expressionism"
+		]
+	}
+]

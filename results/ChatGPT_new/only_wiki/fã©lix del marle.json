@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Félix Del Marle",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"vibrant",
+			"innovative",
+			"Cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1909,
+				"happiness": 4,
+				"location": "Roubaix, France",
+				"events": [
+					"began his studies at the local art school"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1914,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"involved in the Cubist movement"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "France",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1952,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"led the group Section d'Or",
+					"appointed professor at the Superior National School of Decorative Arts"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Cubism"
+		]
+	}
+]

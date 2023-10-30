@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Le Pho",
+		"keywords": [
+			"women",
+			"flowers",
+			"nature",
+			"Vietnamese culture",
+			"French influence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1907,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Hanoi, Vietnam",
+				"events": [
+					"attended the Ecole des Beaux-Art of Hanoi"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"attended the Ecole des Beaux-Arts in Paris"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"began his professional painting career"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1951,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"immersed himself in the Parisian art scene"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 2001,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"recognized as one of the most prominent Vietnamese artists"
+				]
+			}
+		],
+		"genre": [
+			"Vietnamese Art",
+			"Impressionism",
+			"Modernist"
+		]
+	}
+]

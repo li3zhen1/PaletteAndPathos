@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Bernard Cohen",
+		"keywords": [
+			"abstract",
+			"color",
+			"geometry",
+			"motion",
+			"lines"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 2021,
+				"happiness": 6,
+				"location": "London, United Kingdom",
+				"events": [
+					"studied at the Slade School of Fine Art",
+					"Became Head of Chelsea School of Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction"
+		]
+	}
+]

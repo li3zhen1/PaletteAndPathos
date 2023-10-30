@@ -1,0 +1,55 @@
+[
+	{
+		"name": "John Collier",
+		"keywords": [
+			"realism",
+			"portrait",
+			"fantasy",
+			"mythology",
+			"women"
+		],
+		"lifePeriods": [
+			{
+				"start": 1850,
+				"end": 1875,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"studied painting at the Munich Academy"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1900,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"married Marian Huxley",
+					"became successful portrait painter"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1911,
+				"happiness": 4,
+				"location": "London",
+				"events": [
+					"Marian Huxley died",
+					"married Ethel Huxley"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1934,
+				"happiness": 5,
+				"location": "London",
+				"events": []
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Genre art",
+			"History painting"
+		]
+	}
+]

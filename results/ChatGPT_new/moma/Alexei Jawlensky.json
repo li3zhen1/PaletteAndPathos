@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Alexei Jawlensky",
+		"keywords": [
+			"expressionism",
+			"portrait",
+			"mystical",
+			"abstract",
+			"emotions"
+		],
+		"lifePeriods": [
+			{
+				"start": 1864,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Russia",
+				"events": [
+					"graduated Military Medical Academy",
+					"began his artistic training with Ilya Repin"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"studied under Anton Azbe",
+					"met and began working together with Marianne Werefkin"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1914,
+				"happiness": 9,
+				"location": "Murnau, Germany",
+				"events": [
+					"one of the founding members of 'The Blue Rider' group",
+					"height of his artistic development and work"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1937,
+				"happiness": 2,
+				"location": "Wiesbaden, Germany",
+				"events": [
+					"developed arthritis which limited his ability to paint",
+					"his artworks were considered 'degenerate' by Nazis"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1941,
+				"happiness": 1,
+				"location": "Wiesbaden, Germany",
+				"events": [
+					"forced retirement after being targeted by the Nazi regime",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Chronis Botsoglou",
+		"keywords": [
+			"mythology",
+			"nudity",
+			"exteriors",
+			"interiors",
+			"daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Nikolaiika, Greece",
+				"events": [
+					"studied at Athens School of Fine Arts",
+					"retired as professor from the same school"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary"
+		]
+	}
+]

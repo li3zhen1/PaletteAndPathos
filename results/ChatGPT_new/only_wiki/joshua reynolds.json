@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Joshua Reynolds",
+		"keywords": [
+			"portraiture",
+			"beauty",
+			"nobility",
+			"character",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1723,
+				"end": 1739,
+				"happiness": 5,
+				"location": "Plympton, Devon, England",
+				"events": [
+					"Born into a large family",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1739,
+				"end": 1753,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Apprenticeship with portrait painter Thomas Hudson",
+					"Learnt the 'grand style' of painting"
+				]
+			},
+			{
+				"start": 1753,
+				"end": 1756,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"Studied the Old Masters",
+					"Developed his style"
+				]
+			},
+			{
+				"start": 1756,
+				"end": 1780,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Established as prominent portrait painter",
+					"Helped found the Royal Academy of Arts"
+				]
+			},
+			{
+				"start": 1780,
+				"end": 1782,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Lost his hearing",
+					"Continued to be active both socially and professionally"
+				]
+			},
+			{
+				"start": 1782,
+				"end": 1792,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"Faced declining health",
+					"Died after liver disease diagnosis"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Historical"
+		]
+	}
+]

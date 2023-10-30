@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Rembrandt",
+		"keywords": [
+			"portrait",
+			"biblical scenes",
+			"self-portraits",
+			"nature",
+			"emotions"
+		],
+		"lifePeriods": [
+			{
+				"start": 1606,
+				"end": 1631,
+				"happiness": 7,
+				"location": "Leiden, Netherlands",
+				"events": [
+					"learnt art under Jacob van Swanenburgh",
+					"opened his own studio"
+				]
+			},
+			{
+				"start": 1631,
+				"end": 1635,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"gained recognition as a portraitist",
+					"married Saskia van Uylenburgh"
+				]
+			},
+			{
+				"start": 1635,
+				"end": 1642,
+				"happiness": 5,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"birth and death of three children",
+					"completed The Night Watch"
+				]
+			},
+			{
+				"start": 1642,
+				"end": 1669,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"death of his wife",
+					"recognised for his innovative etchings",
+					"bankruptcy"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Dutch Golden Age"
+		]
+	}
+]

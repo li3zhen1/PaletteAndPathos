@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Gregorio Vardanega",
+		"keywords": [
+			"geometric abstraction",
+			"kinetic art",
+			"abstract art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 2007,
+				"happiness": 6,
+				"location": "Pasaje, Italy",
+				"events": [
+					"born in Italy",
+					"moved to Argentina with his family"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"studied at the National Academy of Fine Arts",
+					"started to experiment with geometric shapes in his paintings"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 2007,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"began creating artworks incorporating light and sound"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction",
+			"Kinetic art"
+		]
+	}
+]

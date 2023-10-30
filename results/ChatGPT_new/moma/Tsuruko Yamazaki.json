@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Tsuruko Yamazaki",
+		"keywords": [
+			"minimalism",
+			"abstract",
+			"shapes",
+			"colors",
+			"material"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Ashiya, Japan",
+				"events": [
+					"Born in Ashiya, Japan",
+					"Endured World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Studied Nihonga painting at Women's College of Fine Arts",
+					"Joined Gutai Group in 1955"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Exhibited at 2nd Gutai Art Exhibition",
+					"Progressed into creating metallic paintings"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2019,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Participated in multiple international exhibitions and retrospectives",
+					"Received recognition for her works"
+				]
+			}
+		],
+		"genre": [
+			"Avant-garde",
+			"Abstract art",
+			"Modern art"
+		]
+	}
+]

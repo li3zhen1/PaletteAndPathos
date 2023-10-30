@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Mohsen Vaziri Moghaddam",
+		"keywords": [
+			"geometric",
+			"illusion",
+			"abstract",
+			"culture",
+			"persian"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Tehran, Iran",
+				"events": [
+					"studied at the Tehran School of Fine Arts"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Tehran, Iran",
+				"events": [
+					"joined the Faculty of Fine Arts at Tehran University"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"studied at the Accademia di Belle Arti"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 2002,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"became a professor at the Accademia di Belle Arti"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2020,
+				"happiness": 5,
+				"location": "Tehran, Iran",
+				"events": [
+					"received Honorary Doctorate from the University of Tehran"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"geometric abstraction",
+			"kinetic art"
+		]
+	}
+]

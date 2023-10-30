@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Richard Pettibone",
+		"keywords": [
+			"reproduction",
+			"appropriation",
+			"pop art",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"Born to artistically inclined parents"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"Received his education",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"Started producing miniature replicas of works by other artists",
+					"Became iconic in Pop art"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"His works are exhibited in several prominent museums like the MoMA"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Continues to create and exhibit art",
+					"Celebrated for his contribution to appropriation art"
+				]
+			}
+		],
+		"genre": [
+			"Pop art",
+			"Minimalism"
+		]
+	}
+]

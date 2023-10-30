@@ -1,0 +1,76 @@
+[
+	{
+		"name": "René Magritte",
+		"keywords": [
+			"surrealism",
+			"paradox",
+			"illusion",
+			"reality",
+			"men"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Lessines, Belgium",
+				"events": [
+					"Born",
+					"Started drawing lessons"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1921,
+				"happiness": 2,
+				"location": "Châtelet, Belgium",
+				"events": [
+					"Mother's suicide"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Married Georgette Berger",
+					"Worked in a wallpaper factory"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1930,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"First solo exhibition",
+					"Started his surrealist phase"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Returned to Brussels",
+					"Worked in advertising"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1967,
+				"happiness": 4,
+				"location": "Brussels, Belgium",
+				"events": [
+					"International recognition",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"surrealism"
+		]
+	}
+]

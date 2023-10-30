@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Ivan LeLorraine Albright",
+		"keywords": [
+			"hyper-realism",
+			"self-reflection",
+			"transience",
+			"decay",
+			"individuality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1917,
+				"happiness": 5,
+				"location": "North Harvey, Illinois, United States",
+				"events": [
+					"Birth in a family of artists"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1923,
+				"happiness": 7,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"Studied at School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"Began working on 'The Picture of Dorian Gray'",
+					"Won the Temple Gold Medal for 'Into the World There Came a Soul Called Ida'"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1983,
+				"happiness": 4,
+				"location": "Woodstock, Vermont, United States",
+				"events": [
+					"Retired from active painting",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Magic Realism",
+			"Social Realism"
+		]
+	}
+]

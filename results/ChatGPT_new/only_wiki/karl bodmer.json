@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Karl Bodmer",
+		"keywords": [
+			"native americans",
+			"wildlife",
+			"landscapes",
+			"travel",
+			"ethnography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1809,
+				"end": 1832,
+				"happiness": 6,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"discovered his passion for art",
+					"trained under his uncle, Johann Jacob Meier"
+				]
+			},
+			{
+				"start": 1832,
+				"end": 1839,
+				"happiness": 8,
+				"location": "United States",
+				"events": [
+					"visited America to document landscapes and native tribes",
+					"travelled with Prince Maximilian zu Wied"
+				]
+			},
+			{
+				"start": 1839,
+				"end": 1893,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"created a comprehensive portfolio of his American travels",
+					"gained international recognition for his work"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"portrait",
+			"ethnography"
+		]
+	}
+]

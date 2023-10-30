@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Dimitri Petrovich Plavinsky",
+		"keywords": [
+			"history",
+			"philosophy",
+			"nature",
+			"decay",
+			"memory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 2012,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"born and raised",
+					"studied at the Moscow Art School"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at Moscow Polygraphic Institute"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1985,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"co-founded the Moscow Conceptualism movement",
+					"creation of his signature style which combined drawings with collage"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2012,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"emigrated to the US",
+					"continued his innovative work in art",
+					"exhibited in numerous exhibitions around the world"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"conceptual art"
+		]
+	}
+]

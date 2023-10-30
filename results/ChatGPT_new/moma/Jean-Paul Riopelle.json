@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Jean-Paul Riopelle",
+		"keywords": [
+			"abstract",
+			"landscape",
+			"action painting",
+			"abstract expressionism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"studied at the École du Meuble in Montreal",
+					"studied under Paul-Émile Borduas"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"part of the Les Automatistes art movement",
+					"started using palette knife for painting"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1992,
+				"happiness": 7,
+				"location": "Isle-aux-Grues, Canada",
+				"events": [
+					"worked on series 'Icebergs'",
+					"worked on series 'Hiboux'"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 2002,
+				"happiness": 5,
+				"location": "Isle-aux-Grues, Canada",
+				"events": [
+					"declining health",
+					"death of his partner American painter Joan Mitchell"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Lyrical Abstraction",
+			"Tachisme"
+		]
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Saliba Douaihy",
+		"keywords": [
+			"abstract",
+			"modernism",
+			"minimalism",
+			"nature",
+			"Lebanese landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1927,
+				"happiness": 4,
+				"location": "Ehden, Lebanon",
+				"events": [
+					"Born in a Maronite family",
+					"Start of artistic interest"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Beirut, Lebanon",
+				"events": [
+					"Studied at the Lebanese Academy of Fine Arts",
+					"Worked on church restoration"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1994,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Received a fellowship to study in USA",
+					"Developed the style of modern minimalism"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modernism",
+			"Minimalism"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Gösta Adrian-Nilsson",
+		"keywords": [
+			"urban",
+			"nautical",
+			"abstract",
+			"cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1945,
+				"happiness": 7,
+				"location": "Sweden",
+				"events": [
+					"studied at Valand Academy",
+					"joined the Halmstad Group"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Modernism"
+		]
+	}
+]

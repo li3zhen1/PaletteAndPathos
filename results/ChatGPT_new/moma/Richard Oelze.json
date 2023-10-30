@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Richard Oelze",
+		"keywords": [
+			"surrealism",
+			"allegorical",
+			"nature",
+			"mystery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Magdeburg, Germany",
+				"events": [
+					"received his early education"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Dresden, Germany",
+				"events": [
+					"began his formal art studies"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"started professional career",
+					"gained acknowledgment"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"survived World War II",
+					"struggled with Nazi censorship"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Worpswede, Germany",
+				"events": [
+					"continued artistic creations",
+					"gained international reputation"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"figurative",
+			"expressionism"
+		]
+	}
+]

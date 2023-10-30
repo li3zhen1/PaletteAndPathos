@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Jedd Garet",
+		"keywords": [
+			"stark landscapes",
+			"figurative elements",
+			"new expressionism",
+			"symbolic forms",
+			"vibrant colours"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"gained prominence in the art scene in the 1980s",
+					"exhibited his works internationally"
+				]
+			}
+		],
+		"genre": [
+			"new expressionism",
+			"abstract"
+		]
+	}
+]

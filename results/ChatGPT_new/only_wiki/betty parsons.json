@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Betty Parsons",
+		"keywords": [
+			"abstract",
+			"sculpture",
+			"landscape",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1925,
+				"happiness": 5,
+				"location": "New York City",
+				"events": []
+			},
+			{
+				"start": 1925,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Opened her first art gallery"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1982,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Exhibited work of many abstract expressionists",
+					"Began focusing on her own art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Sculpture"
+		]
+	}
+]

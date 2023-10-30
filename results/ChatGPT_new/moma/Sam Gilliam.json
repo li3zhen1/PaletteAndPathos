@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Sam Gilliam",
+		"keywords": [
+			"abstract",
+			"color field",
+			"lyrical",
+			"drape",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Tupelo, Mississippi",
+				"events": [
+					"grew up during World War II",
+					"moved to Louisville, Kentucky"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Louisville, Kentucky",
+				"events": [
+					"studied at the University of Louisville",
+					"served in the Army"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Washington D.C.",
+				"events": [
+					"met his mentor Thomas Downing",
+					"began abstract drape painting"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Washington D.C.",
+				"events": [
+					"experimented with draped canvas outside the frame",
+					"received many awards"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Washington D.C.",
+				"events": [
+					"created large-scale, site-specific installations",
+					"featured in Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color Field",
+			"Lyrical Abstraction"
+		]
+	}
+]

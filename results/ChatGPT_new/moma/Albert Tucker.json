@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Albert Tucker",
+		"keywords": [
+			"Expressionism",
+			"Modernism",
+			"Australian life",
+			"war",
+			"abstract nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Melbourne, Australia",
+				"events": [
+					"Raised during Great Depression"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Europe and United States",
+				"events": [
+					"Traveled extensively, expanded artistic style"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Melbourne, Australia",
+				"events": [
+					"Focused on abstract nature"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Modernism"
+		]
+	}
+]

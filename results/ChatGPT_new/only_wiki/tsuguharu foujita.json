@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Tsuguharu Foujita",
+		"keywords": [
+			"cats",
+			"children",
+			"Paris",
+			"semi-nudes",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Started painting career later in life"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1931,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Joined the School of Paris",
+					"Met his first wife",
+					"Began signature use of white skin tones in his paintings"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1933,
+				"happiness": 4,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Backlash to his pro-Japanese art and politics"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Returned to Paris"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1968,
+				"happiness": 3,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Produced war propaganda",
+					"Conversion to Catholicism",
+					"Changed name to Léonard Tsuguharu Foujita"
+				]
+			}
+		],
+		"genre": [
+			"Japanese-French",
+			"Modernism",
+			"École de Paris"
+		]
+	}
+]

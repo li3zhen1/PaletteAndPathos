@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Jean Charlot",
+		"keywords": [
+			"religion",
+			"history",
+			"labor",
+			"culture",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Received art education from his mother"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Western Front, France",
+				"events": [
+					"Served in the French Army during World War I",
+					"Injured and discharged from the army"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Contributed in the Mexican muralism",
+					"Met artist Diego Rivera"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1949,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Worked on his own mural projects",
+					"Taught at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1979,
+				"happiness": 8,
+				"location": "Honolulu, United States",
+				"events": [
+					"Became a professor of art at the University of Hawaii",
+					"Wrote extensively on philosophy and aesthetics"
+				]
+			}
+		],
+		"genre": [
+			"Muralism",
+			"Illustration",
+			"Lithography"
+		]
+	}
+]

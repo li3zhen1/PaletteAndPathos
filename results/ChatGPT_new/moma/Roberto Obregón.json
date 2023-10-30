@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Roberto Obregón",
+		"keywords": [
+			"nature",
+			"roses",
+			"decay",
+			"metaphysical",
+			"biological"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Barranquilla, Colombia",
+				"events": [
+					"Got his first camera",
+					"Started exploring art"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1985,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Moved to Venezuela",
+					"Started dissecting roses"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 2003,
+				"happiness": 7,
+				"location": "Bogotá, Colombia",
+				"events": [
+					"Received various international recognition",
+					"Organized 45 solo exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Photography"
+		]
+	}
+]

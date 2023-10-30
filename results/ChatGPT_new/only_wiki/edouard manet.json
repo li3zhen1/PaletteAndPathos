@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Edouard Manet",
+		"keywords": [
+			"modernity",
+			"city life",
+			"leisure",
+			"nude",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1832,
+				"end": 1856,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"studied under Thomas Couture",
+					"visited Germany and Italy"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1863,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"rejected by Salon",
+					"Luncheon on the Grass was controversial"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"participated in Salon des Refusés",
+					"painted Olympia"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1883,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"fought in Franco-Prussian War",
+					"suffered from syphilis"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism",
+			"Modernism"
+		]
+	}
+]

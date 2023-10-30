@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Raquel Forner",
+		"keywords": [
+			"war",
+			"suffering",
+			"space",
+			"emotions",
+			"death"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"graduated from Academy of Fine Arts, Buenos Aires"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1936,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"exposed to European avant-garde",
+					"expanded her artistic perspectives",
+					"got married to sculptor Alfredo Bigatti"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"experience of Spanish Civil War and World War II deeply affected her",
+					"developed a series of works reflecting the horrors of war"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"received the Grand Prix at the Salon National",
+					"started the space series",
+					"son was born"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1988,
+				"happiness": 4,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"profoundly impacted by the space race",
+					"development of her space series",
+					"death of her husband"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"surrealism"
+		]
+	}
+]

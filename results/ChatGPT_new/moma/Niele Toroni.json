@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Niele Toroni",
+		"keywords": [
+			"minimalism",
+			"repetition",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Switzerland",
+				"events": [
+					"co-founded BMPT art movement"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"minimalism"
+		]
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Josef von Sternberg",
+		"keywords": [
+			"drama",
+			"romance",
+			"expressionism",
+			"voice",
+			"suspense"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1925,
+				"happiness": 4,
+				"location": "Vienna, Austria",
+				"events": [
+					"emigrated to America",
+					"started his career in films"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Hollywood, Los Angeles, California, United States",
+				"events": [
+					"made his first major film, \"The Salvation Hunters\"",
+					"met actress Marlene Dietrich"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1969,
+				"happiness": 5,
+				"location": "Hollywood, Los Angeles, California, United States",
+				"events": [
+					"directed his last film, \"Jet Pilot\"",
+					"taught a course at the University of California, Los Angeles"
+				]
+			}
+		],
+		"genre": [
+			"Silent film",
+			"Crime",
+			"Adventure"
+		]
+	}
+]

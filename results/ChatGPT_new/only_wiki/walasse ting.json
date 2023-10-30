@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Walasse Ting",
+		"keywords": [
+			"expressionism",
+			"fauvism",
+			"women",
+			"animals",
+			"erotica"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1958,
+				"happiness": 6,
+				"location": "Shanghai, China",
+				"events": [
+					"developed interest in painting"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Co-founded the 'Second School of Paris'",
+					"worked with Karel Appel and Pierre Alechinsky"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2010,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"transitioned to watercolor and acrylic styles",
+					"won Guggenheim Fellowship for Drawing"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"fauvism",
+			"abstract art"
+		]
+	}
+]

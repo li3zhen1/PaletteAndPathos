@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Laszlo Moholy-Nagy",
+		"keywords": [
+			"abstract",
+			"new vision",
+			"light",
+			"manufacturing",
+			"photography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1913,
+				"happiness": 5,
+				"location": "Bácsborsód, Austria-Hungary",
+				"events": [
+					"Born into a Jewish-Hungarian family"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Austria-Hungary",
+				"events": [
+					"Served in the Austro-Hungarian army in World War I"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"Started working in Berlin as a journalist and commercial artist"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1928,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"Joined the faculty of the Bauhaus school as a professor"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1934,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"Opened his own design studio"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1937,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Moved to the Netherlands due to the rise of Nazism in Germany"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Chicago, United States",
+				"events": [
+					"Emigrated to the US",
+					"Founded the School of Design in Chicago"
+				]
+			}
+		],
+		"genre": [
+			"Constructivism",
+			"Bauhaus",
+			"Modernism"
+		]
+	}
+]

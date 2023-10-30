@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Philip de László",
+		"keywords": [
+			"royalty",
+			"aristocracy",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1869,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Budapest, Hungary",
+				"events": [
+					"learned painting at the National Academy of Art",
+					"became renowned portrait artist"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1937,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"painted portraits of King George V and Queen Elizabeth",
+					"became a British citizen"
+				]
+			}
+		],
+		"genre": [
+			"portrait"
+		]
+	}
+]

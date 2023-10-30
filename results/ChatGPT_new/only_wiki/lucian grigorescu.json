@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Lucian Grigorescu",
+		"keywords": [
+			"modernism",
+			"landscape",
+			"portraits",
+			"still-life",
+			"ocean"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Medgidia, Romania",
+				"events": [
+					"born into a poor family",
+					"studied art at Academy in Munich"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"worked in Paris between the wars",
+					"appointed professor at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"continued painting in Romania",
+					"participated in many national and international exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"portrait",
+			"still-life"
+		]
+	}
+]

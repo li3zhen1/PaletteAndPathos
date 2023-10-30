@@ -1,0 +1,60 @@
+[
+	{
+		"name": "Carroll Dunham",
+		"keywords": [
+			"abstract",
+			"figurative",
+			"nature",
+			"psychedelic",
+			"organic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 1972,
+				"happiness": 5,
+				"location": "New Haven, Connecticut",
+				"events": [
+					"Born and grew up"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1984,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Attended Trinity College in Hartford, Connecticut",
+					"Moved to New York City",
+					"Started his career"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 2002,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Rose to prominence with his abstract paintings",
+					"Married to acclaimed photographer Laurie Simmons"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, New York and Cornwall, Connecticut",
+				"events": [
+					"His work expanded to include more figuration and landscapes",
+					"Continued to exhibit internationally",
+					"Became a father to two daughters, including actress Lena Dunham"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Figurative Art",
+			"Postmodernism"
+		]
+	}
+]

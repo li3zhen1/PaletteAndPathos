@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Adriaen van de Venne",
+		"keywords": [
+			"religion",
+			"genre scenes",
+			"politics",
+			"allegory",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1589,
+				"end": 1662,
+				"happiness": 6,
+				"location": "Delft",
+				"events": [
+					"studied literature",
+					"started painting"
+				]
+			},
+			{
+				"start": 1625,
+				"end": 1632,
+				"happiness": 7,
+				"location": "The Hague",
+				"events": [
+					"joined the Guild of Saint Luke",
+					"became court painter"
+				]
+			},
+			{
+				"start": 1632,
+				"end": 1662,
+				"happiness": 5,
+				"location": "Middelburg",
+				"events": [
+					"continued painting and engraving"
+				]
+			}
+		],
+		"genre": [
+			"genre painting",
+			"book illustration",
+			"engraving"
+		]
+	}
+]

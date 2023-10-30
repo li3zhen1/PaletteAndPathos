@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Chuck Close",
+		"keywords": [
+			"portraits",
+			"photorealism",
+			"large-scaling"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Monroe, Washington, USA",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1988,
+				"happiness": 7,
+				"location": "New York, New York, USA",
+				"events": [
+					"graduated from Yale University",
+					"began to gain recognition for large-scale photorealistic portraits"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2018,
+				"happiness": 3,
+				"location": "New York, New York, USA",
+				"events": [
+					"suffered a severe spinal artery collapse",
+					"continued to paint using assistive devices"
+				]
+			}
+		],
+		"genre": [
+			"Photorealism",
+			"Abstract"
+		]
+	}
+]

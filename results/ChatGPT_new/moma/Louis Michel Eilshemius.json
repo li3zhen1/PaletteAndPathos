@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Louis Michel Eilshemius",
+		"keywords": [
+			"isolation",
+			"nudes",
+			"landscapes",
+			"self-taught",
+			"outsider art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1864,
+				"end": 1891,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Studied in Paris"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1898,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Started producing his eerie and moody landscapes"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1917,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"Started painting nudes",
+					"Had a period of intense productivity"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1932,
+				"happiness": 2,
+				"location": "New York, USA",
+				"events": [
+					"Started to lose his mental health"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1941,
+				"happiness": 1,
+				"location": "New York, USA",
+				"events": [
+					"Eventually became reclusive and paranoid"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"nude"
+		]
+	}
+]

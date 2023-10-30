@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Donald Sultan",
+		"keywords": [
+			"industrial",
+			"symbolic",
+			"monochrome",
+			"minimalism",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1951,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Asheville, North Carolina",
+				"events": [
+					"developed passion for art"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1980,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"graduated from the School of the Art Institute of Chicago",
+					"moved to New York City"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"began working on his 'Industrial' series",
+					"his work become well recognized"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Minimalism",
+			"Contemporary"
+		]
+	}
+]

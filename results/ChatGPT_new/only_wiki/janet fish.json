@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Janet Fish",
+		"keywords": [
+			"still life",
+			"glass objects",
+			"reflections",
+			"lights",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1956,
+				"happiness": 6,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Hanover, New Hampshire",
+				"events": [
+					"Studied at Smith College"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1963,
+				"happiness": 7,
+				"location": "New Haven, Connecticut",
+				"events": [
+					"Studied at Yale University School of Art and Architecture"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Her works became popular",
+					"Gained recognition as a leading American contemporary artist"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Still life"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Nicolae Tonitza",
+		"keywords": [
+			"portraits",
+			"still life",
+			"rural life",
+			"children",
+			"innocence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1902,
+				"happiness": 6,
+				"location": "Bârlad, Romania",
+				"events": [
+					"childhood and early interest in drawing"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1908,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"attended the School of Fine Arts",
+					"developed his unique style"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied at The Royal Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Iaşi, Romania",
+				"events": [
+					"Became professor at the School of Fine Arts",
+					"drew many of his well-known portraits"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Exhibited works at the Venice Biennale"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"political activism",
+					"Exhibited works in numerous exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"post-impressionism",
+			"realism"
+		]
+	}
+]

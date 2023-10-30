@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Karin Sander",
+		"keywords": [
+			"Minimalism",
+			"Spatial perception",
+			"Reflective qualities",
+			"Interactivity",
+			"Hybrid"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Bensberg, Germany",
+				"events": [
+					"Studied under Fritz Schwegler at the Staatlichen Kunstakademie in Düsseldorf",
+					"Appointed Professor at University of the Arts, Berlin"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Minimalism"
+		]
+	}
+]

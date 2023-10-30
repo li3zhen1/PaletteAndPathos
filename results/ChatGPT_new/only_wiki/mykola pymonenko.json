@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Mykola Pymonenko",
+		"keywords": [
+			"rural life",
+			"ethnicity",
+			"nature",
+			"peasantry",
+			"Ukrainian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1869,
+				"happiness": 6,
+				"location": "Prylbychi, Kingdom of Galicia and Lodomeria",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1884,
+				"happiness": 7,
+				"location": "Lviv, Kingdom of Galicia and Lodomeria",
+				"events": [
+					"moved to Lviv with family"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1912,
+				"happiness": 7,
+				"location": "Kyiv, Russian Empire",
+				"events": [
+					"became a member of the Association of South Russian Artists",
+					"gained popularity"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1912,
+				"happiness": 3,
+				"location": "Kyiv, Russian Empire",
+				"events": [
+					"died at the age of 50"
+				]
+			}
+		],
+		"genre": [
+			"genre painting",
+			"landscape"
+		]
+	}
+]

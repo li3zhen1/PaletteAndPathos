@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Eleanore Mikus",
+		"keywords": [
+			"abstract",
+			"monochrome",
+			"minimalism",
+			"imprints",
+			"tabs"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Detroit, Michigan",
+				"events": [
+					"Born to Lithuanian immigrants"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Detroit, Michigan",
+				"events": [
+					"World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Grosse Pointe, Michigan",
+				"events": [
+					"Attended the Grosse Pointe University School"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1955,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"Began studies at the Art Students League"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1959,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Studied at the New York Studio School"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1972,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"First solo exhibition at the Stedelijk Museum in Amsterdam",
+					"Included in the Whitney Annual"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2017,
+				"happiness": 6,
+				"location": "Denton, Texas",
+				"events": [
+					"Taught at the University of North Texas",
+					"Continued to exhibit her work"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract art"
+		]
+	}
+]

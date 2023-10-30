@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Max Beckmann",
+		"keywords": [
+			"expressionism",
+			"symbolism",
+			"portraits",
+			"abstract art",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1904,
+				"happiness": 7,
+				"location": "Leipzig, Germany",
+				"events": [
+					"Born into a middle-class family",
+					"Started drawing at a very young age"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1915,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"Enrolled in Berlin Weißensee Art School",
+					"Joined Berlin secession group"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Germany",
+				"events": [
+					"Active service in World War I",
+					"Suffered a nervous breakdown"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Frankfurt, Germany",
+				"events": [
+					"Appointed a professor at the Städelschule"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"His work denounced by Nazi regime",
+					"Emigrated to Amsterdam after Hitler's rise to power"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 6,
+				"location": "United States",
+				"events": [
+					"Moves to United States",
+					"Becomes teacher at the Brooklyn Museum"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"New Objectivity"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Andrea del Castagno",
+		"keywords": [
+			"historical figures",
+			"religion",
+			"portraits",
+			"Italian Renaissance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1419,
+				"end": 1457,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"Received his training in Florence",
+					"Painted a series of frescoes at the Villa Carducci in Legnaia"
+				]
+			}
+		],
+		"genre": [
+			"Fresco",
+			"Tempera"
+		]
+	}
+]

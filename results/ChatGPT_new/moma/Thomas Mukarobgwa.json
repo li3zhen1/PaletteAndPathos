@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Thomas Mukarobgwa",
+		"keywords": [
+			"African life",
+			"culture",
+			"nature",
+			"mysticism",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Zimbabwe",
+				"events": [
+					"one of the founders of the first African art gallery",
+					"contributed in preserving Zimbabwe's art and culture"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Sculpture",
+			"Printmaking"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Cornelis Vreedenburgh",
+		"keywords": [
+			"landscape",
+			"cityscape",
+			"still life",
+			"nature",
+			"water"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Woerden, Netherlands",
+				"events": [
+					"birth",
+					"early education"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1903,
+				"happiness": 6,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"studied at the Royal Academy of Art"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1928,
+				"happiness": 7,
+				"location": "Eemnes, Netherlands",
+				"events": [
+					"met his wife",
+					"started focusing on painting landscapes and city views"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 6,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"lived in The Hague",
+					"continued to paint landscapes and city views"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Laren, Netherlands",
+				"events": [
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"cityscape painting",
+			"still life"
+		]
+	}
+]

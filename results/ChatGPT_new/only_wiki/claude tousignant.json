@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Claude Tousignant",
+		"keywords": [
+			"geometric",
+			"abstraction",
+			"minimalism",
+			"chromatic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Montreal, Canada",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Montreal, Canada",
+				"events": [
+					"Attended School of Furniture and Woodwork",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"Studied at École des beaux-arts de Montréal"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1962,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Studied and worked in Paris",
+					"Started creating monochrome paintings"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Montreal, Canada",
+				"events": [
+					"Made significant contributions to the development of painting in Quebec",
+					"Won the Louis-Philippe Hébert prize in 1993"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Montreal, Canada",
+				"events": [
+					"Continued to create and exhibit work"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

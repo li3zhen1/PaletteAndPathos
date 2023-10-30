@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Georg Baselitz",
+		"keywords": [
+			"deconstruction",
+			"figuration",
+			"expressionism",
+			"apprehension",
+			"fame"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1956,
+				"happiness": 3,
+				"location": "Deutschbaselitz, Germany",
+				"events": [
+					"born in a village",
+					"survived World War II"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"studied at the Berlin University of The Arts",
+					"named himself after his home village"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1969,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"created his famous painting “The Naked Man”",
+					"made a breakthrough with upside-down images"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Derneburg, Germany",
+				"events": [
+					"focused on sculpture work",
+					"received international recognition"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1992,
+				"happiness": 8,
+				"location": "Derneburg, Germany",
+				"events": [
+					"became the first living German artist to hold a solo exhibition at the Metropolitan Museum of Art in New York"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Derneburg, Germany",
+				"events": [
+					"continued to work and exhibit internationally"
+				]
+			}
+		],
+		"genre": [
+			"neo-expressionism",
+			"postmodernism"
+		]
+	}
+]

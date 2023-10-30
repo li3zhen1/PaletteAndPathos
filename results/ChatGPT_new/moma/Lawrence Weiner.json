@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Lawrence Weiner",
+		"keywords": [
+			"conceptual art",
+			"language",
+			"installation",
+			"typography",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Bronx, New York, USA",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Bronx, New York, USA",
+				"events": [
+					"Developed an interest in art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Rose to prominence as a central figure in the Conceptual Art movement",
+					"Started using language as the primary medium for his artwork"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Continued to create and exhibit his art internationally"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Installation art"
+		]
+	}
+]

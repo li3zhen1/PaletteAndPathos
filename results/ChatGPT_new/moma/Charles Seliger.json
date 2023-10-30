@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Charles Seliger",
+		"keywords": [
+			"abstract",
+			"nature",
+			"intricacy",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 2009,
+				"happiness": 7,
+				"location": "Manhattan, New York, USA",
+				"events": [
+					"became youngest member of The Federation of Modern Painters and Sculptors",
+					"exhibited work in Whitney Museum of American Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

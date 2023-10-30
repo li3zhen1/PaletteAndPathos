@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Lidy Prati",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"minimalism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 2008,
+				"happiness": 5,
+				"location": "Esperanza, Argentina",
+				"events": [
+					"Started studying Fine Arts",
+					"Moved to Buenos Aires"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Joined the Arte Concreto-Invención Association",
+					"Developed her iconic geometric style"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 2008,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Moved towards minimalistic art",
+					"Received the Konex Award (1982)"
+				]
+			}
+		],
+		"genre": [
+			"Concrete art",
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

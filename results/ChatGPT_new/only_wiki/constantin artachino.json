@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Constantin Artachino",
+		"keywords": [
+			"landscapes",
+			"seascapes",
+			"garden scenes",
+			"urban views"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1906,
+				"happiness": 4,
+				"location": "Iași, Romania",
+				"events": [
+					"showed artistic talent from a young age",
+					"studied at the Academy of Fine Arts in Munich"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"became part of the artistic life of Bucharest",
+					"exhibited at the Official Salon"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"genre painting"
+		]
+	}
+]

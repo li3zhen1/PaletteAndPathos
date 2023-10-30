@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Konrad Lueg",
+		"keywords": [
+			"consumer culture",
+			"pop art",
+			"modernity",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1996,
+				"happiness": 6,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Partnership with Gerhard Richter",
+					"Changed name to Konrad Fischer"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Conceptual Art",
+			"Contemporary"
+		]
+	}
+]

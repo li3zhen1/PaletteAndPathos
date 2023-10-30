@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Edouard Vuillard",
+		"keywords": [
+			"intimism",
+			"domestic life",
+			"portraits",
+			"interiors",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1897,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Ecole des Beaux-Arts",
+					"founded the Nabis group"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"painted a series of decorative panels",
+					"became a successful portraitist"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"affected by the World War I",
+					"created many landscapes"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism",
+			"Nabis"
+		]
+	}
+]

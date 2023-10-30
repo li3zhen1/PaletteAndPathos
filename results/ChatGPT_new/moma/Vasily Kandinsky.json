@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Vasily Kandinsky",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"expressionist",
+			"non-objective",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1866,
+				"end": 1896,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Studied law and economics at the University of Moscow"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Re-located to Munich to study art",
+					"Founded Phalanx, an art group"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"Returned to Russia due to outbreak of World War I"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Weimar/Berlin, Germany",
+				"events": [
+					"Taught at the Bauhaus school of art and architecture"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1944,
+				"happiness": 3,
+				"location": "Neuilly-sur-Seine, France",
+				"events": [
+					"Fled to France due to the rise of Nazi regime",
+					"Died in Neuilly-sur-Seine"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Expressionism"
+		]
+	}
+]

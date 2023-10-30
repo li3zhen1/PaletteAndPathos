@@ -1,0 +1,65 @@
+[
+	{
+		"name": "August Macke",
+		"keywords": [
+			"Expressionism",
+			"Fauvism",
+			"Cubism",
+			"scenes of everyday life",
+			"simplification"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1898,
+				"happiness": 7,
+				"location": "Meschede, Germany",
+				"events": [
+					"Studied at the Düsseldorf Academy of Arts"
+				]
+			},
+			{
+				"start": 1899,
+				"end": 1904,
+				"happiness": 8,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Started to develop his style"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1908,
+				"happiness": 8,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Joined 'Die Rheinischen Expressionisten' artist group",
+					"Met painter Franz Marc"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1912,
+				"happiness": 8,
+				"location": "Bonn, Germany",
+				"events": [
+					"Became part of the Blue Rider movement"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1914,
+				"happiness": 3,
+				"location": "Bonn, Germany",
+				"events": [
+					"Died in World War I"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Fauvism",
+			"Cubism"
+		]
+	}
+]

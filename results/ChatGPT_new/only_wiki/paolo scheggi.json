@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Paolo Scheggi",
+		"keywords": [
+			"geometry",
+			"spatialism",
+			"minimalism",
+			"monochromatic",
+			"depth"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"learned painting at the Institute of Art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"rose to prominence in the art scene",
+					"collaborated with others in the Spatialism movement"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"spatialism",
+			"minimalism"
+		]
+	}
+]

@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Billy Al Bengston",
+		"keywords": [
+			"abstract",
+			"culture",
+			"sports",
+			"nature",
+			"Californian lifestyle"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1955,
+				"happiness": 4,
+				"location": "Dodge City, Kansas",
+				"events": [
+					"born",
+					"discovered passion for art"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1966,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"became involved with the Ferus Gallery group",
+					"made his first solo exhibition"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"created the infamous 'Dento' sculptures",
+					"started experimenting with aerosol paint"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1986,
+				"happiness": 8,
+				"location": "Los Angeles, California",
+				"events": [
+					"collaborated with world renowned artists",
+					"his work was exhibited at the Newport Harbor Art Museum"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Venice, California",
+				"events": [
+					"continued creating artwork",
+					"participated in many group and solo exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"hard-edged abstraction",
+			"assemblage"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Waldemar Cordeiro",
+		"keywords": [
+			"concretism",
+			"computational art",
+			"abstract",
+			"geometric patterns",
+			"digital"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"immigrated to Brazil",
+					"started as a journalist for a daily newspaper"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1968,
+				"happiness": 8,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"founded the Ruptura Group",
+					"focused on artwork"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"started creating computational art"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"won the Bienal de Sao Paulo"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1978,
+				"happiness": 4,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"health declined",
+					"continued to produce artwork despite health"
+				]
+			}
+		],
+		"genre": [
+			"Digital Art",
+			"Concrete Art",
+			"Computer Art"
+		]
+	}
+]

@@ -1,0 +1,93 @@
+[
+	{
+		"name": "Arthur Dove",
+		"keywords": [
+			"abstract",
+			"nature",
+			"rhythm",
+			"water",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1898,
+				"happiness": 6,
+				"location": "Canandaigua, New York",
+				"events": [
+					"Birth",
+					"Started artistic training"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1903,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Studied at the Pratt Institute"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1909,
+				"happiness": 7,
+				"location": "France",
+				"events": [
+					"Introduced to modern art in Paris",
+					"Marriage to Florence Dorsey"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1910,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Exhibition at Alfred Stieglitz's 291 gallery"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1922,
+				"happiness": 4,
+				"location": "Westport, Connecticut",
+				"events": [
+					"Divorce from Florence Dorsey",
+					"Marriage to Reds Torre"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Geneva, New York",
+				"events": [
+					"Purchased a sailboat, Dove began to paint the surrounding landscape"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Huntington, New York",
+				"events": [
+					"Financially supported by Duncan Phillips, founder of The Phillips Collection in Washington, D.C."
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Centreport, New York",
+				"events": [
+					"Struggled with serious health issues"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Isaac Levitan",
+		"keywords": [
+			"nature",
+			"seasons",
+			"emotionality",
+			"landscapes",
+			"Russian countryside"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1873,
+				"happiness": 5,
+				"location": "Kybartai, Lithuania",
+				"events": [
+					"born into a poor but educated Jewish family"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1885,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Moscow School of Painting, Sculpture and Architecture",
+					"death of his mother and brother"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Plyos, Russia",
+				"events": [
+					"creation of his most important landscapes",
+					"rise to prominence in the Russian art scene"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"diagnosed with a heart condition",
+					"death of Anton Chekhov, a close friend"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting",
+			"Realism"
+		]
+	}
+]

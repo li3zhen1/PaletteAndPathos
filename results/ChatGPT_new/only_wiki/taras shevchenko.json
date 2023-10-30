@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Taras Shevchenko",
+		"keywords": [
+			"patriotism",
+			"rural life",
+			"social injustice",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1814,
+				"end": 1829,
+				"happiness": 2,
+				"location": "Kiev Oblast",
+				"events": [
+					"born into serfdom"
+				]
+			},
+			{
+				"start": 1831,
+				"end": 1832,
+				"happiness": 4,
+				"location": "Vilnius",
+				"events": [
+					"purchased from serfdom"
+				]
+			},
+			{
+				"start": 1838,
+				"end": 1845,
+				"happiness": 5,
+				"location": "Saint Petersburg",
+				"events": [
+					"published first book of poetry"
+				]
+			},
+			{
+				"start": 1847,
+				"end": 1857,
+				"happiness": 1,
+				"location": "Orsk",
+				"events": [
+					"was arrested and sentenced to military service"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1861,
+				"happiness": 4,
+				"location": "Nizhny Novgorod",
+				"events": [
+					"released from military service"
+				]
+			}
+		],
+		"genre": [
+			"romanticism",
+			"realism",
+			"ethnography"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Constantine Maleas",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"urban",
+			"symbolism",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1879,
+				"end": 1902,
+				"happiness": 5,
+				"location": "Constantinople, Ottoman Empire",
+				"events": [
+					"Got an education in Constantinople"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied at the Munich School of Fine Arts"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Athens, Greece",
+				"events": [
+					"One of the founding members of 'Techni Group'",
+					"Helped to popularize Impressionism and the return-to-nature movement in Greece"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"Impressionism",
+			"Symbolism"
+		]
+	}
+]

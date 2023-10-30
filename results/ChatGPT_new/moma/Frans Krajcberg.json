@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Frans Krajcberg",
+		"keywords": [
+			"nature",
+			"environmentalism",
+			"destruction",
+			"rebirth",
+			"wilderness"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"experienced World War II",
+					"lost his family in the Holocaust"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"studied at the Academy of Fine Arts Stuttgart"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Brazil",
+				"events": [
+					"migrated to Brazil"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Amazon Rainforest, Brazil",
+				"events": [
+					"started his environmental protection work",
+					"used natural materials in his art"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2017,
+				"happiness": 4,
+				"location": "Nova Viçosa, Brazil",
+				"events": [
+					"continued environmentalism and art",
+					"witnessed the devastation of the rainforest",
+					"used his art to protest against deforestation"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Engraving",
+			"Photography"
+		]
+	}
+]

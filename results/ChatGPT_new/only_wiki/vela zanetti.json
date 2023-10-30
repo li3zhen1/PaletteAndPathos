@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Vela Zanetti",
+		"keywords": [
+			"muralism",
+			"religion",
+			"social issues",
+			"peace",
+			"humanity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Burgos, Spain",
+				"events": [
+					"Birth and early childhood"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Burgos, Spain",
+				"events": [
+					"started artistic training",
+					"interest in muralism"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Burgos, Spain",
+				"events": [
+					"Exiled due to Spanish Civil War",
+					"Created war influenced artwork"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1960,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"Commissioned by UN for Mural",
+					"International recognition"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1999,
+				"happiness": 8,
+				"location": "Burgos, Spain",
+				"events": [
+					"Continued artistic career",
+					"Created mural for hometown"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2003,
+				"happiness": 8,
+				"location": "Burgos, Spain",
+				"events": [
+					"Received a gold medal for fine arts",
+					"Died in 2003 at the age of 90"
+				]
+			}
+		],
+		"genre": [
+			"Murals",
+			"social realism"
+		]
+	}
+]

@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Óscar Domínguez",
+		"keywords": [
+			"surrealism",
+			"decalsomania",
+			"automatism",
+			"exoticism",
+			"erotic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1918,
+				"happiness": 5,
+				"location": "San Cristóbal de La Laguna, Spain",
+				"events": []
+			},
+			{
+				"start": 1918,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Spain",
+				"events": [
+					"Live with his family, a time of relative happiness"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1947,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Introduced in the surrealist group in Paris by André Breton",
+					"Developed decalcomania technique"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1957,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Suffered from mental health problems",
+					"Suicidal tendencies"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism"
+		]
+	}
+]

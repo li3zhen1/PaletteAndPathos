@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Jorge Eielson",
+		"keywords": [
+			"abstract",
+			"texture",
+			"color",
+			"materiality",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Lima, Peru",
+				"events": [
+					"began artistic training"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Lima, Peru",
+				"events": [
+					"started to explore abstract art",
+					"first public recognition and exhibitions"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1960,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"won the National Prize for Poetry in Peru",
+					"started to explore textile art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1972,
+				"happiness": 5,
+				"location": "Milan, Italy",
+				"events": [
+					"developed his work 'Quipus', a series of knot sculptures with textile",
+					"first major exhibitions in Europe"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1994,
+				"happiness": 5,
+				"location": "Milan, Italy",
+				"events": [
+					"continued to develop and exhibit his work"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2006,
+				"happiness": 4,
+				"location": "Milan, Italy",
+				"events": [
+					"won the International Prize for Plastic Arts at the Venice Biennale",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"sculpture",
+			"textile art"
+		]
+	}
+]

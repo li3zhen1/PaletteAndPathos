@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Jean Hey",
+		"keywords": [
+			"religion",
+			"royalty",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1475,
+				"end": 1505,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"became a court painter",
+					"painted Moulins triptych"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Portraiture"
+		]
+	}
+]

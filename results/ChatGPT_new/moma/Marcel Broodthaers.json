@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Marcel Broodthaers",
+		"keywords": [
+			"literature",
+			"symbolism",
+			"collage",
+			"installations",
+			"critique"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Grew up in a poor family"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1963,
+				"happiness": 4,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Struggled as a poet and photographer",
+					"Worked as a bookseller"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Made his first assemblage",
+					"Had solo exhibitions"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Cologne, Germany",
+				"events": [
+					"Elected to Documenta 1 editorial board",
+					"Represented Germany at Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Visual Art"
+		]
+	}
+]

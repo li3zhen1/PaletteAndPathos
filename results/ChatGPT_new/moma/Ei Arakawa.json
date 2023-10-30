@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Ei Arakawa",
+		"keywords": [
+			"performance",
+			"collaboration",
+			"video"
+		],
+		"lifePeriods": [
+			{
+				"start": 1977,
+				"end": 2001,
+				"happiness": 6,
+				"location": "Fukushima, Japan",
+				"events": [
+					"Born in Japan"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2003,
+				"happiness": 7,
+				"location": "Los Angeles, United States",
+				"events": [
+					"Studied at CalArts"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"Started working extensively in performance",
+					"Performed at notable galleries and institutions"
+				]
+			}
+		],
+		"genre": [
+			"Performance Art",
+			"Installation Art"
+		]
+	}
+]

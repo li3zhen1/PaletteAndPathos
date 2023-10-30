@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Lois Dodd",
+		"keywords": [
+			"nature",
+			"rural",
+			"daily life",
+			"still life",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Montclair, New Jersey",
+				"events": [
+					"early years and education"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1952,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"studied at the Cooper Union"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"co-founded the Tanager Gallery"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Midcoast Maine and New York City",
+				"events": [
+					"started teaching at Brooklyn College"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Midcoast Maine and New York City",
+				"events": [
+					"continued to paint and exhibit her works"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"Still Life",
+			"Portraits"
+		]
+	}
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"name": "María Freire",
+		"keywords": [
+			"abstraction",
+			"geometry",
+			"space",
+			"motion",
+			"contrast"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"Born and spent early childhood"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1943,
+				"happiness": 6,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"Studied at the Círculo de Bellas Artes"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Académies de la Grande Chaumière"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"Founded the group Art Non Figuratif"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2015,
+				"happiness": 8,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"Her work was included in the São Paulo Art Biennial",
+					"Received the Figari Award from the Central Banco de Uruguay"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Modern Art"
+		]
+	}
+]

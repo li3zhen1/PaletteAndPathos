@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Gerd Leufert",
+		"keywords": [
+			"graphic design",
+			"typography",
+			"symbols",
+			"natura",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Königsberg, Prussia, Germany (now Kaliningrad, Russia)",
+				"events": [
+					"studied architecture"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Zürich, Switzerland",
+				"events": [
+					"graduated from Swiss School of Art",
+					"met his wife, Nedo"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1968,
+				"happiness": 9,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"became a professor at the School of Architecture at the Central University of Venezuela",
+					"became a citizen of Venezuela"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1996,
+				"happiness": 8,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"created an influential series of prints known as ‘Naturalezas’ (‘Natures’)"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2014,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"received the National Prize for Plastic Art of Venezuela"
+				]
+			}
+		],
+		"genre": [
+			"Graphic Design",
+			"Symbolist Art"
+		]
+	}
+]

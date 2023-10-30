@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Takeo Yamaguchi",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"minimalist"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Kagoshima, Japan",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1931,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"enrolled in the Tokyo School of Fine Arts"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"drastically changed his painting style",
+					"experience in the Second World War"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1983,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"recognition and development of his recognizable style"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

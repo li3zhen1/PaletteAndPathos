@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Roger Brown",
+		"keywords": [
+			"architecture",
+			"pop culture",
+			"disaster",
+			"politics",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1946,
+				"happiness": 7,
+				"location": "Hamilton, Alabama",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Opelika, Alabama",
+				"events": []
+			},
+			{
+				"start": 1959,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Tuscaloosa, Alabama",
+				"events": [
+					"studied at University of Alabama"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Chicago, Illinois",
+				"events": [
+					"Attended School of the Art Institute of Chicago",
+					"became associated with Chicago Imagists"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1973,
+				"happiness": 6,
+				"location": "New Buffalo, Michigan",
+				"events": [
+					"purchased home in New Buffalo"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1997,
+				"happiness": 6,
+				"location": "Chicago, Illinois",
+				"events": [
+					"professional career",
+					"diagnosed with AIDS"
+				]
+			},
+			{
+				"start": 1997,
+				"end": 1997,
+				"happiness": 2,
+				"location": "Atlanta, Georgia",
+				"events": [
+					"died of illness"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Installation Art"
+		]
+	}
+]

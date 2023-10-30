@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Adnan Coker",
+		"keywords": [
+			"abstract",
+			"geometric shapes",
+			"construction",
+			"contrast",
+			"squares and rectangles"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"grew up in a conservative family",
+					"early exposure to art"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"joined Istanbul Fine Arts Academy"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at Académie de la Grande Chaumière",
+					"developed his abstract style"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1986,
+				"happiness": 8,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"became a prominent figure in the Turkish art scene",
+					"started the 'Quadrilaterals' series"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 2006,
+				"happiness": 7,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"continued creating significant series of works",
+					"awarded the State Painting and Sculpture Prize"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

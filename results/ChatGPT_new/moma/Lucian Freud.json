@@ -1,0 +1,108 @@
+[
+	{
+		"name": "Lucian Freud",
+		"keywords": [
+			"human body",
+			"nude",
+			"animals",
+			"introspection",
+			"alienation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"Born to a Jewish family",
+					"Moved to England due to rising Nazism"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1942,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Began studying at the East Anglian School of Painting and Drawing"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1950,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Geometric style became less pronounced",
+					"Developed style focusing more on the human form"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Completed some of his most important works",
+					"Got married and divorced"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Focused on portraiture",
+					"His artwork became more personal"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Achieved great recognition",
+					"Paintings became more vivid"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Continued to earn international recognition",
+					"Paintings started fetching high prices"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Received various international awards",
+					"Paintings became even more valuable"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2011,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Remained active until his death",
+					"Died at the age of 88"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"figurative art",
+			"portraits"
+		]
+	}
+]

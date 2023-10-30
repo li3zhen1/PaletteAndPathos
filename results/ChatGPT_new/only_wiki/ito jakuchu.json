@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Ito Jakuchu",
+		"keywords": [
+			"nature",
+			"birds-and-flowers",
+			"Buddhist symbolism",
+			"traditional Japanese"
+		],
+		"lifePeriods": [
+			{
+				"start": 1716,
+				"end": 1724,
+				"happiness": 7,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1724,
+				"end": 1755,
+				"happiness": 6,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Started working in his father's grocery business"
+				]
+			},
+			{
+				"start": 1755,
+				"end": 1785,
+				"happiness": 8,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Began focusing on his painting career",
+					"Established a painting school"
+				]
+			},
+			{
+				"start": 1785,
+				"end": 1800,
+				"happiness": 6,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Devoted himself to Buddhist devotion and painting"
+				]
+			}
+		],
+		"genre": [
+			"Japanese painting",
+			"Edo period"
+		]
+	}
+]

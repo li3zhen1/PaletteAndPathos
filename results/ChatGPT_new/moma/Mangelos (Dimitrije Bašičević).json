@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Mangelos (Dimitrije Bašičević)",
+		"keywords": [
+			"anti-art",
+			"manifestos",
+			"visual poetry",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1987,
+				"happiness": 5,
+				"location": "Virovitica, Croatia",
+				"events": [
+					"formed 'Gorgona' group with other Croatian artists",
+					"created the theory of anti-art"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Anti-art"
+		]
+	}
+]

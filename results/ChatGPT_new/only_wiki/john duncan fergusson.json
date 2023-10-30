@@ -1,0 +1,59 @@
+[
+	{
+		"name": "John Duncan Fergusson",
+		"keywords": [
+			"expressionism",
+			"abstract",
+			"landscape",
+			"nude studies",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1874,
+				"end": 1907,
+				"happiness": 5,
+				"location": "Leith, Scotland",
+				"events": [
+					"Started his formal art training",
+					"Travelled to France and Spain"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1913,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became part of the avant-garde scene",
+					"Met future partner Margaret Morris"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Cap d'Antibes, France",
+				"events": [
+					"Established art school with Margaret Morris",
+					"Exploration of sculpture form"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1961,
+				"happiness": 8,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"Margaret Morris's founding of the Celtic Ballet",
+					"Creation of the JD Fergusson Arts Foundation"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Fauvism",
+			"Modernism"
+		]
+	}
+]

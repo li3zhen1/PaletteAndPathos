@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Luis Martínez Pedro",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"nautilus",
+			"Cuban culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Sagua la Grande, Cuba",
+				"events": [
+					"Born in Sagua la Grande"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Sagua la Grande, Cuba",
+				"events": [
+					"Early childhood"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Havana, Cuba",
+				"events": [
+					"Studied at San Alejandro Academy of Fine Arts",
+					"co-founded the Association of Painters and Sculptors"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Havana, Cuba",
+				"events": [
+					"joined the 'Los Once' group",
+					"created his iconic 'Nautilus' series"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Havana, Cuba",
+				"events": [
+					"exhibited his work internationally"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1989,
+				"happiness": 6,
+				"location": "Havana, Cuba",
+				"events": [
+					"Continued working until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract painting",
+			"Geometric abstraction"
+		]
+	}
+]

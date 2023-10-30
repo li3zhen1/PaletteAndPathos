@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Jacques Villon",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"etchings",
+			"lithography",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Damville, Eure",
+				"events": [
+					"born into an artistic family"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1894,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"studied at Lycée Condorcet, Paris"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"worked as a lawyer's clerk",
+					"started creating cartoons"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"started painting seriously"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Inspired by cubism",
+					"made series of color lithographs"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"exhibited widely and achieved success"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Abstract art"
+		]
+	}
+]

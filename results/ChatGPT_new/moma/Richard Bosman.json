@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Richard Bosman",
+		"keywords": [
+			"drama",
+			"adventure",
+			"violence",
+			"mystery",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 1966,
+				"happiness": 5,
+				"location": "Madras, India",
+				"events": [
+					"Born in India",
+					"Spent early life in India, Australia and Egypt"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1971,
+				"happiness": 6,
+				"location": "New York, U.S.A",
+				"events": [
+					"Immigrated to United States"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1985,
+				"happiness": 7,
+				"location": "New York, U.S.A",
+				"events": [
+					"Established himself as an artist through circulating exhibitions of paintings and prints"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2001,
+				"happiness": 7,
+				"location": "New York, U.S.A",
+				"events": [
+					"Harmonious and stable painting career"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, U.S.A",
+				"events": [
+					"Continued to be active and work as an artist"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Adventure genre",
+			"Narrative painting"
+		]
+	}
+]

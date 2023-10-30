@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Vincent van Gogh",
+		"keywords": [
+			"expression",
+			"emotion",
+			"nature",
+			"loneliness",
+			"insanity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1853,
+				"end": 1869,
+				"happiness": 7,
+				"location": "Groot-Zundert, Netherlands",
+				"events": [
+					"born into a religious family",
+					"educated at home"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1880,
+				"happiness": 4,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"worked for art dealers Goupil & Cie",
+					"dismissed from job"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1886,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"decided to become an artist",
+					"studied at the Royal Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1888,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"lived with his brother Theo",
+					"met Paul Gauguin"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1890,
+				"happiness": 2,
+				"location": "Saint-Rémy-de-Provence, France",
+				"events": [
+					"suffered from severe mental illness",
+					"painted 'Starry Night'"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism",
+			"Realism"
+		]
+	}
+]

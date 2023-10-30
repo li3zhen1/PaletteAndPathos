@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Théodore Chassériau",
+		"keywords": [
+			"orientalism",
+			"portraits",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1819,
+				"end": 1856,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"studied under Ingres",
+					"became known for his portraits and historical paintings"
+				]
+			}
+		],
+		"genre": [
+			"history painting",
+			"portrait"
+		]
+	}
+]

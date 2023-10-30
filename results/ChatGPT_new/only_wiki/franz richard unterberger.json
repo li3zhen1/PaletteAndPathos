@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Franz Richard Unterberger",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"marine",
+			"mountains",
+			"sea"
+		],
+		"lifePeriods": [
+			{
+				"start": 1838,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Innsbruck, Austria",
+				"events": [
+					"Born into a family of Austrian Tyrolese painters"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1857,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied at the Munich Academy of Fine Arts."
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1860,
+				"happiness": 7,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"Joined Antwerp's Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1864,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Produced many of his well-known landscape paintings"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1867,
+				"happiness": 8,
+				"location": "Italy",
+				"events": [
+					"Travelled widely and created artworks inspired by Italian scenery"
+				]
+			},
+			{
+				"start": 1867,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Neuilly-sur-Seine, France",
+				"events": [
+					"His works were accepted to be displayed in the Paris Salon exhibitions",
+					"Passed away at the age of 44"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Landscapes",
+			"Marine art"
+		]
+	}
+]

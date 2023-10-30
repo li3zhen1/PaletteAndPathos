@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Mary Heilmann",
+		"keywords": [
+			"abstract",
+			"shapes",
+			"colour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1967,
+				"happiness": 6,
+				"location": "San Francisco",
+				"events": [
+					"Received degree in literature",
+					"studied ceramics and sculpture"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Moved to New York",
+					"Started painting"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Major retrospective at the Whitechapel Gallery in London",
+					"Awarded the Francis J. Greenburger Award"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Post-Minimalism"
+		]
+	}
+]

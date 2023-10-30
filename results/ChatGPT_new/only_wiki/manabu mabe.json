@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Manabu Mabe",
+		"keywords": [
+			"abstract",
+			"nature",
+			"emotions",
+			"colors",
+			"duality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Kumamoto Prefecture, Japan",
+				"events": [
+					"born into a family of farmers",
+					"dreamed of being an artist"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1957,
+				"happiness": 6,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"immigrated to Brazil to work on a coffee plantation",
+					"started painting"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1967,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"won the Foreign Minister Award at the Brazilian Modern Art Biennial",
+					"relocated to Paris and developed his abstract style"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1977,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"returned to Japan",
+					"continued to produce artworks"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1997,
+				"happiness": 4,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"relocated back to Brazil",
+					"developed Alzheimer's disease"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Modern Art",
+			"Brazilian Art"
+		]
+	}
+]

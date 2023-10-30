@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Maurice de Vlaminck",
+		"keywords": [
+			"landscapes",
+			"urban scenes",
+			"still lifes",
+			"bold colors",
+			"emotional expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1892,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"born into a musical family"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1900,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"studied under a local painter"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"met André Derain and formed Fauvist group",
+					"exhibited at 'Salon d'Automne'"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Experienced World War I",
+					"his style became more restrained during the war"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"started writing and published three novels"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1958,
+				"happiness": 6,
+				"location": "Rueil-la-Gadelière, France",
+				"events": [
+					"continued his art and writing work",
+					"died in 1958"
+				]
+			}
+		],
+		"genre": [
+			"Fauvism",
+			"Impressionism"
+		]
+	}
+]

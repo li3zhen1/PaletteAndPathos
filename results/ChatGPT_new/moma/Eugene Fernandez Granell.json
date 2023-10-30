@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Eugene Fernandez Granell",
+		"keywords": [
+			"surrealism",
+			"war",
+			"transformation",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"started his artistic career",
+					"involved in the political activism",
+					"influenced by surrealism"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1939,
+				"happiness": 2,
+				"location": "Spain",
+				"events": [
+					"Experiencing the Spanish Civil War",
+					"started creating art inspired by the war"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1952,
+				"happiness": 4,
+				"location": "Dominican Republic",
+				"events": [
+					"Exile from Spain",
+					"continued his artistic work",
+					"started teaching"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1985,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"moved to the USA",
+					"became a part of New York avant-garde society",
+					"held numerous exhibitions"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2001,
+				"happiness": 8,
+				"location": "Spain",
+				"events": [
+					"returned to Spain",
+					"received numerous awards and honors"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"spanish art",
+			"modern art"
+		]
+	}
+]

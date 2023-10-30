@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Jackson Pollock",
+		"keywords": [
+			"abstract",
+			"drip painting",
+			"expression",
+			"energy",
+			"unconscious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1928,
+				"happiness": 4,
+				"location": "Cody, Wyoming, US",
+				"events": [
+					"Born into a farming family",
+					"Moved frequently during childhood"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Los Angeles, California, US",
+				"events": [
+					"Studied at Manual Arts High School"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1942,
+				"happiness": 6,
+				"location": "New York, NY, US",
+				"events": [
+					"Worked for the WPA Federal Art Project"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Springs, East Hampton, New York, US",
+				"events": [
+					"Married artist Lee Krasner",
+					"Developed 'drip technique'"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1956,
+				"happiness": 2,
+				"location": "Springs, East Hampton, New York, US",
+				"events": [
+					"Dealt with alcoholism",
+					"Produced very little work"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Action painting"
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Sven Lukin",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"illusion",
+			"architecture",
+			"movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 2019,
+				"happiness": 7,
+				"location": "Riga, Latvia",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1951,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Immigrated to Argentina from Latvia"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 2019,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Immigrated to the United States",
+					"Produced most of his artwork"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

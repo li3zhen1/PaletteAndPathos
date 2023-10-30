@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Georges Lemmen",
+		"keywords": [
+			"Neo-Impressionism",
+			"pointillism",
+			"divisionism",
+			"women",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1865,
+				"end": 1876,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"childhood"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1888,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"initial artistic training"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1891,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"joined the Neo-Impressionist movement",
+					"exhibition with Les XX"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"development of personal style"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1916,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"artistic maturity",
+					"exhibition at La Libre Esthétique"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Impressionism",
+			"pointillism"
+		]
+	}
+]

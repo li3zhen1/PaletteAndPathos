@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Walter Battiss",
+		"keywords": [
+			"abstract",
+			"fantasy",
+			"tribal",
+			"colourful",
+			"primitive"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Somerset East, South Africa",
+				"events": []
+			},
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Pretoria, South Africa",
+				"events": [
+					"became founding member of New Group",
+					"began teaching at Pretoria Boys High School"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Johannesburg, South Africa",
+				"events": [
+					"founded the South African Association of Arts",
+					"began work on his Fook Island concept"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1982,
+				"happiness": 8,
+				"location": "Johannesburg, South Africa",
+				"events": [
+					"won the Molteno Prize for Lifetime Achievement in Art",
+					"received honorary doctorate from University of Pretoria"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"tribal",
+			"expressionism"
+		]
+	}
+]

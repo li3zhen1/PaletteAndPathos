@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Joseph Glasco",
+		"keywords": [
+			"abstract",
+			"collage",
+			"sculpture",
+			"Expressionism",
+			"Modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1943,
+				"happiness": 7,
+				"location": "Pauls Valley, Oklahoma, USA",
+				"events": [
+					"Born to a poor family"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Worldwide",
+				"events": [
+					"Served in the US army during World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1956,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Studied art",
+					"Met leaders of the New York School of artists"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1999,
+				"happiness": 5,
+				"location": "Texas, USA",
+				"events": [
+					"Produced a substantial number of paintings, drawings, sculpture, and graphics",
+					"Established Joseph & Margaret Glasco Charitable Foundation"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modern Sculpture"
+		]
+	}
+]

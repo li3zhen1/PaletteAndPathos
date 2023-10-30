@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Amedee Ozenfant",
+		"keywords": [
+			"architecture",
+			"simplicity",
+			"abstraction",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1915,
+				"happiness": 5,
+				"location": "Saint-Quentin, France",
+				"events": [
+					"began to study art",
+					"met Max Jacob"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1924,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"co-founded the art journal 'L'Elan'",
+					"founded Purism movement with Le Corbusier"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France / London, England",
+				"events": [
+					"published 'Foundations of Modern Art'",
+					"established 'Ozenfant Studio of Fine Arts' in London"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1942,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"escaped from Europe due to World War II"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1966,
+				"happiness": 5,
+				"location": "France",
+				"events": [
+					"returned to France after the war"
+				]
+			}
+		],
+		"genre": [
+			"Purism",
+			"cubism"
+		]
+	}
+]

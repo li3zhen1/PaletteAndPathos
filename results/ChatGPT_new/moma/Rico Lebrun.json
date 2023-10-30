@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Rico Lebrun",
+		"keywords": [
+			"human condition",
+			"suffering",
+			"religious themes",
+			"figurative art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Naples, Italy",
+				"events": [
+					"Began training as a painter and sculptor"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Worked in commercial art",
+					"Started teaching drawing"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1945,
+				"happiness": 5,
+				"location": "California, United States",
+				"events": [
+					"Began focusing on independent art",
+					"First major exhibition in Los Angeles"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1963,
+				"happiness": 4,
+				"location": "California, United States",
+				"events": [
+					"Developed his significant works",
+					"Received honors and awards"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1964,
+				"happiness": 2,
+				"location": "California, United States",
+				"events": [
+					"Diagnosed with cancer",
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Figurative art",
+			"Symbolism",
+			"Abstract expressionism"
+		]
+	}
+]

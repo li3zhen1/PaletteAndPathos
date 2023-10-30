@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Stefan Luchian",
+		"keywords": [
+			"nature",
+			"flowers",
+			"still life",
+			"rural life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1885,
+				"happiness": 7,
+				"location": "Stephani, Romania",
+				"events": [
+					"Childhood",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Studied at the School of Fine Arts",
+					"Met Nicolae Grigorescu"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1895,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Attended Académie Julian",
+					"Influenced by Impressionism"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Returned to Romania",
+					"Diagnosed with Multiple Sclerosis"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1916,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Remaining years spent in illness",
+					"Continued painting despite illness"
+				]
+			}
+		],
+		"genre": [
+			"Post-impressionism",
+			"Realism"
+		]
+	}
+]

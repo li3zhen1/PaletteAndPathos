@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Theodore Rousseau",
+		"keywords": [
+			"nature",
+			"landscape",
+			"light",
+			"forests",
+			"rural life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1812,
+				"end": 1822,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"born into a bourgeois family"
+				]
+			},
+			{
+				"start": 1822,
+				"end": 1826,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"began studying painting"
+				]
+			},
+			{
+				"start": 1826,
+				"end": 1836,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"work frequently rejected by the esteemed Paris Salon",
+					"spent time studying landscape and nature"
+				]
+			},
+			{
+				"start": 1836,
+				"end": 1867,
+				"happiness": 5,
+				"location": "Barbizon",
+				"events": [
+					"met Jean-François Millet",
+					"co-founded the Barbizon school"
+				]
+			},
+			{
+				"start": 1867,
+				"end": 1867,
+				"happiness": 3,
+				"location": "Barbizon",
+				"events": [
+					"passed away from a blood disease"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"barbizon school"
+		]
+	}
+]

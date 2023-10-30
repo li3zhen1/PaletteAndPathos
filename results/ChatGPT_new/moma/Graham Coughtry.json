@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Graham Coughtry",
+		"keywords": [
+			"human body",
+			"emotion",
+			"movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1966,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Studied at Ontario College of Art",
+					"Co-founded the Isaacs Gallery"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Algonquin Park, Canada",
+				"events": [
+					"Shifted the main focus of his painting to human form",
+					"Received the order of Canada"
+				]
+			}
+		],
+		"genre": [
+			"Figurative",
+			"Abstract"
+		]
+	}
+]

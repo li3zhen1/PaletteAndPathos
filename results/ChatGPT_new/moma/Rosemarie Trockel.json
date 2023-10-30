@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Rosemarie Trockel",
+		"keywords": [
+			"feminism",
+			"Society critique",
+			"Objects",
+			"Materials",
+			"Nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1952,
+				"end": 1974,
+				"happiness": 4,
+				"location": "Schwerte, Germany",
+				"events": [
+					"Developed an interest in arts"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Cologne, Germany",
+				"events": [
+					"Studied at the regional arts school (Kölner Werkschulen)"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Cologne, Germany",
+				"events": [
+					"Gained recognition in the art world",
+					"engaged in sociopolitical debates through her work"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Cologne, Germany",
+				"events": [
+					"Had several solo exhibitions all around the world",
+					"Received multiple awards"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Contemporary Art"
+		]
+	}
+]

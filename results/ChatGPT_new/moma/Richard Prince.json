@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Richard Prince",
+		"keywords": [
+			"appropriation",
+			"photography",
+			"nurse paintings",
+			"advertisements",
+			"American consumer culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Panama Canal Zone, Panama",
+				"events": [
+					"Born to American parents"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1983,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Began working at Time magazine",
+					"started re-photographing advertisements"
+				]
+			},
+			{
+				"start": 1983,
+				"end": 1999,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"First solo exhibition",
+					"development of 'The Cowboys and Girlfriends series'"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Created the 'Nurse Paintings'",
+					"record sale for 'Nurse of Greenmeadow'"
+				]
+			}
+		],
+		"genre": [
+			"Photography",
+			"Painting"
+		]
+	}
+]

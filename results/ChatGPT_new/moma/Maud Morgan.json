@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Maud Morgan",
+		"keywords": [
+			"abstract",
+			"passion",
+			"dynamic",
+			"color",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1913,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Greenwich, USA",
+				"events": [
+					"Started painting classes at an early age"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Studied art in Paris",
+					"Influenced by avant-garde and cubist movements"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Boston, USA",
+				"events": [
+					"Moved to Boston",
+					"Focused on creating abstract art"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Cambridge, USA",
+				"events": [
+					"Established herself as a leading abstract painter",
+					"Had significant art exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

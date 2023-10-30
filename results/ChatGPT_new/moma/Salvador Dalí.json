@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Salvador Dalí",
+		"keywords": [
+			"surrealism",
+			"dreams",
+			"landscapes",
+			"religion",
+			"eroticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Figueres, Spain",
+				"events": [
+					"discovered his love for painting"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"attended Royal Academy of Fine Arts",
+					"met future wife Gala"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1930,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"became a key figure in the Surrealist movement",
+					"created the Persistence of Memory"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"escaped World War II",
+					"his work was used in film and theatre"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1989,
+				"happiness": 4,
+				"location": "Figueres, Spain",
+				"events": [
+					"continued to produce art",
+					"Gala died"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Symbolism",
+			"Post-Impressionism"
+		]
+	}
+]

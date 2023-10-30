@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Georgios Jakobides",
+		"keywords": [
+			"children",
+			"domestic scenes",
+			"everyday life",
+			"portraits",
+			"folk"
+		],
+		"lifePeriods": [
+			{
+				"start": 1853,
+				"end": 1869,
+				"happiness": 5,
+				"location": "Chidira, Lesvos, Greece",
+				"events": [
+					"born into a poor family"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1882,
+				"happiness": 7,
+				"location": "Athens, Greece",
+				"events": [
+					"studied at the Athens School of Fine Arts"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied in Munich",
+					"became part of the Munich School"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"exhibited at the Paris Exposition Universelle"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1932,
+				"happiness": 7,
+				"location": "Athens, Greece",
+				"events": [
+					"regulated the affairs of the Athens School of Fine Arts",
+					"became a member of the Athens Academy"
+				]
+			}
+		],
+		"genre": [
+			"oils",
+			"prints",
+			"watercolors"
+		]
+	}
+]

@@ -1,0 +1,78 @@
+[
+	{
+		"name": "József Rippl-Rónai",
+		"keywords": [
+			"family life",
+			"rural scenes",
+			"figure painting",
+			"intimacy",
+			"interior"
+		],
+		"lifePeriods": [
+			{
+				"start": 1861,
+				"end": 1874,
+				"happiness": 5,
+				"location": "Kaposvár, Hungary",
+				"events": [
+					"Born to a old bourgeois family"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1884,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Studied at the free school of drawing",
+					"Began working at the Mint"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1887,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied at the Academy",
+					"Met his future wife, Lazarine"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Joined the Nabis",
+					"Met the Maus family",
+					"Had personal exhibitions"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1915,
+				"happiness": 5,
+				"location": "Kaposvár, Hungary",
+				"events": [
+					"Married to Lazarine",
+					"Bought a large estate and focused on painting rural life"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1927,
+				"happiness": 4,
+				"location": "Kaposvár, Hungary",
+				"events": [
+					"Lost his wife",
+					"His health declined"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Post-Impressionism"
+		]
+	}
+]

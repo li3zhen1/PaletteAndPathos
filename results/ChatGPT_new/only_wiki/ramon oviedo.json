@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Ramon Oviedo",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"social issues"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 2015,
+				"happiness": 5,
+				"location": "San Pedro de Macorís, Dominican Republic",
+				"events": [
+					"born into a poor family",
+					"self-taught in art"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Santo Domingo, Dominican Republic",
+				"events": [
+					"moved to Santo Domingo",
+					"started to work as an office messenger"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Santo Domingo, Dominican Republic",
+				"events": [
+					"became a member of the National School of Fine Arts",
+					"worked as a painter decorator"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Santo Domingo, Dominican Republic",
+				"events": [
+					"explored abstract expressionism",
+					"established his own art studio"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 2015,
+				"happiness": 7,
+				"location": "Santo Domingo, Dominican Republic",
+				"events": [
+					"became a significant figure in Dominican art",
+					"died at the age of 92"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Social Realism"
+		]
+	}
+]

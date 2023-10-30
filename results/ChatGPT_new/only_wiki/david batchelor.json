@@ -1,0 +1,59 @@
+[
+	{
+		"name": "David Batchelor",
+		"keywords": [
+			"color",
+			"urban life",
+			"beauty",
+			"plastic materials",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Dundee, Scotland",
+				"events": [
+					"Born in Scotland"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1980,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Enrolled at the London’s Trent Polytechnic",
+					"Graduated with a degree in Fine Art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Started teaching at the University of Brighton",
+					"Exhibited at the Galerie Xippas, Paris"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"First solo exhibition in the US",
+					"Published 'Chromophobia'",
+					"Exhibited at the Fruitmarket Gallery, Edinburgh"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Installation art",
+			"Non-traditional art"
+		]
+	}
+]

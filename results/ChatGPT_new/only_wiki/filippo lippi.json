@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Fra Filippo Lippi",
+		"keywords": [
+			"religion",
+			"monastic life",
+			"portraits",
+			"beauty"
+		],
+		"lifePeriods": [
+			{
+				"start": 1406,
+				"end": 1421,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"became a novice in the Monastery of the Carmine"
+				]
+			},
+			{
+				"start": 1421,
+				"end": 1459,
+				"happiness": 8,
+				"location": "Florence, Italy",
+				"events": [
+					"ordained as a priest",
+					"renowned for his artistic skills",
+					"imprisoned by Barbadori family for seduction"
+				]
+			},
+			{
+				"start": 1459,
+				"end": 1464,
+				"happiness": 5,
+				"location": "Spoleto, Italy",
+				"events": [
+					"commissioned to paint the apse of the Spoleto Cathedral",
+					"died under mysterious circumstances"
+				]
+			}
+		],
+		"genre": [
+			"Early Renaissance",
+			"Religious painting"
+		]
+	}
+]

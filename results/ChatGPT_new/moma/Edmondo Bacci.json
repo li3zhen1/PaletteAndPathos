@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Edmondo Bacci",
+		"keywords": [
+			"Abstract",
+			"Venetian",
+			"visual effects",
+			"cosmic",
+			"dynamic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Venice, Italy",
+				"events": [
+					"Born in Venice"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": []
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Began artistic career"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Held first solo exhibition"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": [
+					"Attended the Venice Biennale",
+					"Started working on 'Venetian Landscape'"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": []
+			},
+			{
+				"start": 1975,
+				"end": 1993,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

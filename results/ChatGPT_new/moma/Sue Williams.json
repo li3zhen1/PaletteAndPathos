@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Sue Williams",
+		"keywords": [
+			"feminism",
+			"violence",
+			"sexuality",
+			"politics",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Chicago Heights, Illinois",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1981,
+				"happiness": 6,
+				"location": "New York, NY",
+				"events": [
+					"studied at California Institute of the Arts"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1994,
+				"happiness": 4,
+				"location": "New York, NY",
+				"events": [
+					"involved in activism",
+					"began creating art addressing gender and sexuality issues"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2002,
+				"happiness": 5,
+				"location": "New York, NY",
+				"events": [
+					"art gained recognition"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2022,
+				"happiness": 6,
+				"location": "New York, NY",
+				"events": [
+					"continued to promote her feminist message through her work"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"illustration"
+		]
+	}
+]

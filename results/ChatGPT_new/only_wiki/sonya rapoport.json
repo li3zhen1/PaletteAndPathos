@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Sonya Rapoport",
+		"keywords": [
+			"digital",
+			"conceptual",
+			"scientific data",
+			"identity",
+			"culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Boston, USA",
+				"events": [
+					"completed B.A. in Fine Arts",
+					"married Henry Rapoport"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Berkeley, USA",
+				"events": [
+					"beginning of her career as an artist",
+					"received Post-Baccalaureate Certificate in Painting"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1989,
+				"happiness": 7,
+				"location": "Berkeley, USA",
+				"events": [
+					"began creating conceptual art"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2015,
+				"happiness": 7,
+				"location": "Berkeley, USA",
+				"events": [
+					"became increasingly involved with digital art",
+					"was awarded the Lifetime Achievement Award from the Women’s Caucus for Art"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"digital art"
+		]
+	}
+]

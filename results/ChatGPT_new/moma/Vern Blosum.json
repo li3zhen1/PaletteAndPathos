@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Vern Blosum",
+		"keywords": [
+			"fiction",
+			"critique",
+			"protest",
+			"humour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 2022,
+				"happiness": 6,
+				"location": "United States",
+				"events": [
+					"Started painting non-functioning parking meters",
+					"Disappearance from the art world"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Pop Art"
+		]
+	}
+]

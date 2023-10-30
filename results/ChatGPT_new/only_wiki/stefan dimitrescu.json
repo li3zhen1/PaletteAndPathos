@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Stefan Dimitrescu",
+		"keywords": [
+			"realism",
+			"rustic",
+			"rural life",
+			"patriotism",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1902,
+				"happiness": 7,
+				"location": "Iasi, Romania",
+				"events": [
+					"Born into a modest family"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Iasi, Romania",
+				"events": [
+					"Started studying art at the Iasi School of Fine Arts",
+					"Graduated with high honors"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Bucharest National University of Arts",
+					"Received a scholarship to study in Paris"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "European theatres of World War I",
+				"events": [
+					"Participated in World War I as a war artist"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Iasi & Cluj, Romania",
+				"events": [
+					"Became professor at the Fine Arts Academy in Iasi",
+					"Established 'The Group of Four' artist group in Bucharest"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Iasi, Romania",
+				"events": [
+					"Suffered from tuberculosis"
+				]
+			}
+		],
+		"genre": [
+			"Post-impressionism",
+			"Realism",
+			"War art"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Henri Martin",
+		"keywords": [
+			"nature",
+			"impressionism",
+			"symbolism",
+			"rural life",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Toulouse, France",
+				"events": [
+					"Studied at the Toulouse School of the Fine Arts"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became a member of the French Académie des Beaux-Arts",
+					"Won several awards at the Salon"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1943,
+				"happiness": 6,
+				"location": "Labastide-du-Vert, France",
+				"events": [
+					"Became mayor of the town",
+					"Focused on painting landscapes and rural life"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism"
+		]
+	}
+]

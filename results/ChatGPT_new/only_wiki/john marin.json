@@ -1,0 +1,56 @@
+[
+	{
+		"name": "John Marin",
+		"keywords": [
+			"landscape",
+			"cityscape",
+			"cubism",
+			"abstract",
+			"watercolor"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1899,
+				"happiness": 5,
+				"location": "Rutherford, New Jersey",
+				"events": [
+					"discovered love for painting"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1909,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Académie Julian",
+					"developed etching skills"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1935,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"established as leading modern artist in America"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Addison, Maine",
+				"events": [
+					"painted Maine seascapes"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Abstract Art",
+			"Cubism"
+		]
+	}
+]

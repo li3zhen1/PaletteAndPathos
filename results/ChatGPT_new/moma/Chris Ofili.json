@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Chris Ofili",
+		"keywords": [
+			"culture",
+			"religion",
+			"nature",
+			"race",
+			"identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1968,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Manchester, United Kingdom",
+				"events": [
+					"Born to Nigerian parents",
+					"Developed an interest in art during childhood"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 1993,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"Attended the Chelsea School of Art",
+					"Completed his MA at the Royal College of Art"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 1998,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"Rose to prominence in the art world",
+					"Won the Turner Prize"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2005,
+				"happiness": 7,
+				"location": "Trinidad and Tobago",
+				"events": [
+					"Relocated to Trinidad",
+					"Further developed his artistic style"
+				]
+			},
+			{
+				"start": 2005,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Trinidad and Tobago",
+				"events": [
+					"Continued to work and exhibit internationally"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"drawing",
+			"installation art"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Howard Hodgkin",
+		"keywords": [
+			"emotion",
+			"memory",
+			"abstraction",
+			"gestural brushwork",
+			"bright color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1941,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"Begun attend the Sandroyd School"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1949,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"First art classes at Camberwell Art School"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Bath, England",
+				"events": [
+					"Married Julia Lane",
+					"Early exhibitions of his work"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1979,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Appointed the trustee of Tate and National Galleries",
+					"Represented Britain in the Venice Biennale"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1999,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Won the Turner Prize",
+					"Retrospective exhibition at the Metropolitan Museum of Art in New York"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2017,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Paintings exhibited in several major galleries worldwide",
+					"Continued to create work until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modern art"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Pavel Filonov",
+		"keywords": [
+			"analytical art",
+			"realism",
+			"symbolism",
+			"nature",
+			"workers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Imperial Academy of Arts",
+					"developed the principles of Analytical Realism"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Petrograd, Russia",
+				"events": [
+					"participated in the first official Soviet art exhibition"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Petrograd, Russia",
+				"events": [
+					"worked as an instructor of Youth Art Classes",
+					"had his own art school"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1941,
+				"happiness": 2,
+				"location": "Leningrad, Russia",
+				"events": [
+					"officially criticized by the Soviet regime",
+					"banned from exhibiting",
+					"died of starvation during Siege of Leningrad"
+				]
+			}
+		],
+		"genre": [
+			"non-objective art",
+			"analytical realism",
+			"formalism"
+		]
+	}
+]

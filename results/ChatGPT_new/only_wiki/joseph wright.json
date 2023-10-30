@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Joseph Wright",
+		"keywords": [
+			"industrial revolution",
+			"science",
+			"philosophy",
+			"landscape",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1734,
+				"end": 1797,
+				"happiness": 5,
+				"location": "Derby, England",
+				"events": [
+					"influenced by the philosophy of Thomas Wright",
+					"painted portraits of luminaries of the time"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Landscape",
+			"Genre art"
+		]
+	}
+]

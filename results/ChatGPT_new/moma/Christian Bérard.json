@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Christian Bérard",
+		"keywords": [
+			"theater",
+			"fashion",
+			"surrealism",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Started education at a young age"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Attended the Académie Ranson",
+					"met fellow students Pavel Tchelitchew and Jean Hugo"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Began working as a theatrical designer",
+					"Designed costumes and sets for Ballets Russes and Ballets des Champs-Elysées"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1949,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Took up painting full time",
+					"Work became deeply influenced by surrealism"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Portrait Painting",
+			"Theatrical design"
+		]
+	}
+]

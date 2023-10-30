@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Nicolas de Staël",
+		"keywords": [
+			"abstract",
+			"landscapes",
+			"portraits",
+			"still life",
+			"football"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 3,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"born",
+					"early life"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1933,
+				"happiness": 2,
+				"location": "Brussels, Belgium",
+				"events": [
+					"his parents died",
+					"studied art"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1938,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"met his first wife",
+					"joined French Foreign Legion"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1943,
+				"happiness": 3,
+				"location": "Nice, France",
+				"events": [
+					"lived in hiding",
+					"continued his artistry in the war"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Antibes, France",
+				"events": [
+					"met his second wife",
+					"his artworks were highly regarded"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"figurative art",
+			"landscape art"
+		]
+	}
+]

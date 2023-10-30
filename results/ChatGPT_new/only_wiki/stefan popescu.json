@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Stefan Popescu",
+		"keywords": [
+			"portrait",
+			"nude",
+			"landscape",
+			"realism",
+			"eroticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Got trained in Paris",
+					"Established Bucharest's National School of Fine Arts"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1948,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Got memberships in French artistic societies including the Society of Independent Artists",
+					"Participation in local exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"nude",
+			"landscape"
+		]
+	}
+]

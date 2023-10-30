@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Alberto da Veiga Guignard",
+		"keywords": [
+			"nature",
+			"Brazilian landscapes",
+			"cities",
+			"nostalgia",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at the École Nationale Supérieure des Beaux-Arts",
+					"exhibited work at the Salon d'Automne"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"invited to teach at the National School of Fine Arts",
+					"married Norma Stambowsky"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Belo Horizonte, Brazil",
+				"events": [
+					"founded the Guignard School of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Landscape painting"
+		]
+	}
+]

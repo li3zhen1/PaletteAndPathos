@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Ay-O",
+		"keywords": [
+			"rainbows",
+			"environments",
+			"interaction",
+			"prints"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Ibaraki Prefecture, Japan",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Tokyo",
+				"events": [
+					"trained in Western oil painting and printmaking at Tokyo University of the Arts"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1975,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"became internationally recognized for his 'finger boxes'",
+					"participated in the first Fluxus International Festival of New Music and Anti-Art"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Japan",
+				"events": [
+					"continued creating and exhibiting his rainbow-themed works"
+				]
+			}
+		],
+		"genre": [
+			"printmaking",
+			"installations",
+			"Fluxus"
+		]
+	}
+]

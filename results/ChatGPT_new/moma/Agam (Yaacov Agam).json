@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Yaacov Agam",
+		"keywords": [
+			"kinetic art",
+			"abstract art",
+			"interaction",
+			"change",
+			"unity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Rishon LeZion, British Mandate of Palestine (now Israel)",
+				"events": [
+					"born into a religious family"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"developed style of kinetic art",
+					"established himself as a successful artist"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"received commissions for public art"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"continued creating kinetic art"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2021,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"continued working on art despite getting older"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Kinetic art"
+		]
+	}
+]

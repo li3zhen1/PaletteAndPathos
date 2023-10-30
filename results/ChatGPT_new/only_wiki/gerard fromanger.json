@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Gérard Fromanger",
+		"keywords": [
+			"Social",
+			"Political",
+			"Humanity",
+			"Everyday life",
+			"Color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 2022,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"Associated with the 'Narrative Figuration' movement",
+					"Worked with cinematographer Godard"
+				]
+			}
+		],
+		"genre": [
+			"Narrative Figuration",
+			"Contemporary"
+		]
+	}
+]

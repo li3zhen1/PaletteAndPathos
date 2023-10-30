@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Walt Kuhn",
+		"keywords": [
+			"portraiture",
+			"circus performance",
+			"landscapes",
+			"American modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1913,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Studied in Europe",
+					"Worked as a cartoonist and illustrator"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1939,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Organized the Armory Show",
+					"Traveled with the Ringling Bros. Circus"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1949,
+				"happiness": 3,
+				"location": "New York City",
+				"events": [
+					"Suffered from an ulcer resulting in surgery",
+					"Died at the age of 72"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Modernism"
+		]
+	}
+]

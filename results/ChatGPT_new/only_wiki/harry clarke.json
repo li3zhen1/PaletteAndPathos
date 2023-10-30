@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Harry Clarke",
+		"keywords": [
+			"stained glass",
+			"book illustrations",
+			"gothic",
+			"fairy tales",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1913,
+				"happiness": 7,
+				"location": "Dublin, Ireland",
+				"events": [
+					"Started attending Dublin Metropolitan School of Art"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1925,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Created stained glass works for Irish institutions",
+					"Began illustrating books"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1931,
+				"happiness": 4,
+				"location": "Dublin, Ireland",
+				"events": [
+					"Health declined due to tuberculosis",
+					"Continued to create major works until his death"
+				]
+			}
+		],
+		"genre": [
+			"Stained glass",
+			"Book illustration"
+		]
+	}
+]

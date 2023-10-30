@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Georgia O'Keeffe",
+		"keywords": [
+			"flowers",
+			"skulls",
+			"New Mexico landscapes",
+			"cityscapes",
+			"nudes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Town of Sun Prairie, Wisconsin, United States",
+				"events": [
+					"grew up on a farm",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1908,
+				"happiness": 5,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"attended the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1912,
+				"happiness": 4,
+				"location": "New York City, New York, United States",
+				"events": [
+					"stopped creating art for four years due to financial problems"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1929,
+				"happiness": 6,
+				"location": "New York City, New York, United States",
+				"events": [
+					"met photographer and art dealer Alfred Stieglitz",
+					"inspired by Arthur Wesley Dow"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1946,
+				"happiness": 7,
+				"location": "Abiquiu, New Mexico, United States",
+				"events": [
+					"began spending summers painting in New Mexico"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1986,
+				"happiness": 5,
+				"location": "Abiquiu, New Mexico, United States",
+				"events": [
+					"continued to live and paint in New Mexico after Stieglitz's death",
+					"lost her central vision and began to work in charcoal and pottery"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"American Modernism"
+		]
+	}
+]

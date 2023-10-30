@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Edgar Degas",
+		"keywords": [
+			"ballet",
+			"realism",
+			"women",
+			"French bourgeoisie",
+			"cafe life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1834,
+				"end": 1855,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1861,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied art at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1866,
+				"happiness": 6,
+				"location": "Italy",
+				"events": [
+					"Traveled to Italy to study Italian Renaissance artists"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1874,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Began painting ballet dancers",
+					"His father's death"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1886,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Participated in the first Impressionist Exhibition",
+					"Beginning of his blindness"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1917,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"Continued painting despite declining eyesight",
+					"Isolated himself due to his behavior"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

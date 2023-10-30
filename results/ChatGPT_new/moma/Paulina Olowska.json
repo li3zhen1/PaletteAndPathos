@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Paulina Olowska",
+		"keywords": [
+			"feminism",
+			"historical narratives",
+			"pop culture",
+			"realism",
+			"political"
+		],
+		"lifePeriods": [
+			{
+				"start": 1976,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Gdańsk, Poland",
+				"events": [
+					"started her interest in art",
+					"obtained her first degree in Fine Arts"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2002,
+				"happiness": 7,
+				"location": "Chicago, USA",
+				"events": [
+					"studied at Chicago's Art Institute",
+					"began her exploration on feminist themes"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2019,
+				"happiness": 7,
+				"location": "Rabka, Poland",
+				"events": [
+					"searched new artistic forms by mixing Polish and Foreign influences",
+					"exhibited work globally"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Pop Art",
+			"Contemporary"
+		]
+	}
+]

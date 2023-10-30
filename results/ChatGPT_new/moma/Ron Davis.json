@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Ron Davis",
+		"keywords": [
+			"geometric",
+			"illusion",
+			"abstract",
+			"perspective",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Palo Alto, California, USA",
+				"events": []
+			},
+			{
+				"start": 1956,
+				"end": 1959,
+				"happiness": 7,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"studied at the San Francisco Art Institute"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"started his Slip Paintings series",
+					"exhibited at the Whitney Annual Exhibition"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Arroyo Hondo, New Mexico, USA",
+				"events": [
+					"worked mostly in digital art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism",
+			"Hard-edge painting"
+		]
+	}
+]

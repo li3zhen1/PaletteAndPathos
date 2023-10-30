@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Andrei Cadere",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"minimalism",
+			"conceptual",
+			"performance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1953,
+				"happiness": 3,
+				"location": "Barlad, Romania",
+				"events": [
+					"Born into a persecuted family during World War II"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1967,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Studied at the Bucharest Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1978,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Emigrated to France",
+					"Made his first round bar of wood"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Conceptual Art"
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Jenny Holzer",
+		"keywords": [
+			"feminism",
+			"public space",
+			"politics",
+			"abuse",
+			"consumerism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1950,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Gallipolis, Ohio",
+				"events": [
+					"raised in rural Ohio"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1976,
+				"happiness": 8,
+				"location": "Duke University, North Carolina",
+				"events": [
+					"studied at Duke University"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"studied at Independent Study Program at the Whitney Museum of American Art",
+					"began her first public works"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"produced The Inflammatory Essays",
+					"started the 'Survival Series'"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"worked on installations and public works"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2022,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"continuation of her installation and public works"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"public art"
+		]
+	}
+]

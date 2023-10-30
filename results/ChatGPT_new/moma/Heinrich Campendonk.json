@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Heinrich Campendonk",
+		"keywords": [
+			"nature",
+			"religion",
+			"expressionism",
+			"symbolism",
+			"animals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Krefeld, Germany",
+				"events": []
+			},
+			{
+				"start": 1905,
+				"end": 1911,
+				"happiness": 8,
+				"location": "Munich, Germany",
+				"events": [
+					"joined 'Der Blaue Reiter' group",
+					"studied under Lovis Corinth"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1923,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"developed his signature style"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"teaching at the Rijksakademie"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"fled to Amsterdam due to Nazi persecution"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Symbolism"
+		]
+	}
+]

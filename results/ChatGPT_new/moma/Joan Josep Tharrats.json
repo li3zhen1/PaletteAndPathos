@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Joan Josep Tharrats",
+		"keywords": [
+			"abstract",
+			"geometrical",
+			"colorful",
+			"community"
+		],
+		"lifePeriods": [
+			{
+				"start": 1918,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Received education in Jesuit school"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Founded magazine 'Dau al Set'",
+					"developed his abstract art style"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Became an influential figure in Spanish painting"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2001,
+				"happiness": 5,
+				"location": "Barcelona, Spain",
+				"events": []
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

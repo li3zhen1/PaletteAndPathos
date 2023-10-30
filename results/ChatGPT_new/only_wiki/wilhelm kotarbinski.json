@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Wilhelm Kotarbinski",
+		"keywords": [
+			"mythology",
+			"folklore",
+			"religion",
+			"death",
+			"fantasy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1849,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Poland",
+				"events": [
+					"studied in Krakow Academy of Fine Arts",
+					"established himself as a genre painter"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Genre painting"
+		]
+	}
+]

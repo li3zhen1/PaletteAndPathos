@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Edwin Henry Landseer",
+		"keywords": [
+			"animals",
+			"nature",
+			"human-animal relationship",
+			"portraits",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1802,
+				"end": 1832,
+				"happiness": 6,
+				"location": "London",
+				"events": [
+					"Trained by his father John Landseer",
+					"Gained popularity for animal portraits"
+				]
+			},
+			{
+				"start": 1832,
+				"end": 1873,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"Knighted by Queen Victoria",
+					"Developed mental health issues"
+				]
+			}
+		],
+		"genre": [
+			"Animal painting",
+			"Portraiture"
+		]
+	}
+]

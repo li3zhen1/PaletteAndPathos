@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Giorgione",
+		"keywords": [
+			"nature",
+			"love",
+			"beauty",
+			"mystery",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1477,
+				"end": 1510,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"won the patronage of the Venetian state",
+					"became renowned for his portraiture"
+				]
+			}
+		],
+		"genre": [
+			"High Renaissance",
+			"portraiture",
+			"landscape"
+		]
+	}
+]

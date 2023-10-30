@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Zoran Mušič",
+		"keywords": [
+			"deportees",
+			"deaths",
+			"landscapes",
+			"expressionism",
+			"extermination"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1943,
+				"happiness": 6,
+				"location": "Bukovica, Slovenia",
+				"events": [
+					"studied at the Zagreb Academy of Fine Arts",
+					"travelled extensively across Spain"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1945,
+				"happiness": 0,
+				"location": "Dachau concentration camp",
+				"events": [
+					"deported to Dachau concentration camp",
+					"inspired to create 'We are not the last' series"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 2005,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"married Ida Barbarigo",
+					"received the Grand Prix at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"abstract expressionism"
+		]
+	}
+]

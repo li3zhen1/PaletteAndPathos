@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Jean Honore Fragonard",
+		"keywords": [
+			"love",
+			"pleasure",
+			"nature",
+			"beauty"
+		],
+		"lifePeriods": [
+			{
+				"start": 1732,
+				"end": 1748,
+				"happiness": 5,
+				"location": "Grasse, France",
+				"events": [
+					"Born into a family of artisans"
+				]
+			},
+			{
+				"start": 1748,
+				"end": 1752,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Started training with Chardin",
+					"Moved to Paris"
+				]
+			},
+			{
+				"start": 1752,
+				"end": 1756,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Continued studies under Boucher",
+					"won the Prix de Rome"
+				]
+			},
+			{
+				"start": 1756,
+				"end": 1761,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Stayed at the French Academy in Rome"
+				]
+			},
+			{
+				"start": 1761,
+				"end": 1780,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Became a member of the Académie Royale de Peinture et de Sculpture",
+					"Had a successful career as a commercial artist"
+				]
+			},
+			{
+				"start": 1780,
+				"end": 1806,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"The French Revolution resulted in a loss of patrons",
+					"Death of his wife"
+				]
+			}
+		],
+		"genre": [
+			"Rococo",
+			"Genre painting",
+			"Portraiture"
+		]
+	}
+]

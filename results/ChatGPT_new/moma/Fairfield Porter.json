@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Fairfield Porter",
+		"keywords": [
+			"reality",
+			"naturalism",
+			"landscapes",
+			"domestic life",
+			"ordinary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1907,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Winnetka, Illinois",
+				"events": [
+					"childhood years"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1928,
+				"happiness": 7,
+				"location": "Cambridge, Massachusetts",
+				"events": [
+					"studied at Harvard University",
+					"developed artistic skills"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1939,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"married poet Anne Channing Porter",
+					"started painting career"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Southampton, New York",
+				"events": [
+					"moved to Southampton",
+					"struggled with mental health"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Southampton, New York",
+				"events": [
+					"became established artist",
+					"created many landscape paintings"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1975,
+				"happiness": 8,
+				"location": "Southampton, New York",
+				"events": [
+					"worked as art critic",
+					"produced much of his best work"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Naturalism"
+		]
+	}
+]

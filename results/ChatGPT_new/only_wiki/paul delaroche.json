@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Paul Delaroche",
+		"keywords": [
+			"history",
+			"realism",
+			"completion",
+			"royalty",
+			"death"
+		],
+		"lifePeriods": [
+			{
+				"start": 1797,
+				"end": 1816,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"born to a wealthy family"
+				]
+			},
+			{
+				"start": 1816,
+				"end": 1822,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"entered the famous Lycée Louis-le-Grand school",
+					"decided to pursue art"
+				]
+			},
+			{
+				"start": 1822,
+				"end": 1832,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"started studying in the atelier of Antoine-Jean Gros"
+				]
+			},
+			{
+				"start": 1832,
+				"end": 1845,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"won the Paris Salon",
+					"married Louise Vernet",
+					"his famous work 'The Execution of Lady Jane Grey' was exhibited"
+				]
+			},
+			{
+				"start": 1845,
+				"end": 1856,
+				"happiness": 2,
+				"location": "Paris",
+				"events": [
+					"Louise Vernet died",
+					"he withdrew from the public"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1857,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"started working again"
+				]
+			}
+		],
+		"genre": [
+			"historical scenes",
+			"portraits",
+			"religious subjects"
+		]
+	}
+]

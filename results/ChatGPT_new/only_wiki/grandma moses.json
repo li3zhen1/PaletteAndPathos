@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Grandma Moses",
+		"keywords": [
+			"rural",
+			"folk art",
+			"autumn",
+			"Americana",
+			"self-taught"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Greenwich, New York",
+				"events": [
+					"got married"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1961,
+				"happiness": 7,
+				"location": "Eagle Bridge, New York",
+				"events": [
+					"started painting",
+					"gained recognition"
+				]
+			}
+		],
+		"genre": [
+			"folk art",
+			"naive art"
+		]
+	}
+]

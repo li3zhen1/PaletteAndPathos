@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Carlos Rivera",
+		"keywords": [
+			"music",
+			"pop"
+		],
+		"lifePeriods": [
+			{
+				"start": 1986,
+				"end": 2004,
+				"happiness": 5,
+				"location": "Huamantla, Mexico",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2018,
+				"happiness": 8,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"won reality TV show La Academia",
+					"started music career"
+				]
+			},
+			{
+				"start": 2018,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"expanded his career",
+					"met his partner"
+				]
+			}
+		],
+		"genre": [
+			"Latin pop",
+			"Ranchera"
+		]
+	}
+]

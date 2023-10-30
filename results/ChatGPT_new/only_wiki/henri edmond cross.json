@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Henri Edmond Cross",
+		"keywords": [
+			"nature",
+			"light",
+			"color",
+			"landscapes",
+			"Neo-Impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1856,
+				"end": 1878,
+				"happiness": 5,
+				"location": "Douai, France",
+				"events": [
+					"began his studies in art"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"established his career in Paris as an illustrator",
+					"changed his name to 'Henri Cross' to honor his mother"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1899,
+				"happiness": 7,
+				"location": "Alpes-Maritimes, France",
+				"events": [
+					"adopted the Neo-Impressionist style",
+					"co-founded the Société des Artistes Indépendants"
+				]
+			},
+			{
+				"start": 1899,
+				"end": 1910,
+				"happiness": 4,
+				"location": "Saint-Clair, France",
+				"events": [
+					"suffered from rheumatism",
+					"worked on large decorative works"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Impressionism",
+			"Pointillism",
+			"post-Impressionism"
+		]
+	}
+]

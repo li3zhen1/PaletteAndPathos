@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Adolphe Joseph Thomas Monticelli",
+		"keywords": [
+			"landscape",
+			"figures",
+			"floral",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1824,
+				"end": 1855,
+				"happiness": 4,
+				"location": "Marseille, France",
+				"events": [
+					"graduated from the École des Beaux-Arts",
+					"met Paul Cézanne"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"made friends with Narcisse Diaz",
+					"introduced to the public at the Salon"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1886,
+				"happiness": 3,
+				"location": "Marseille, France",
+				"events": [
+					"begun drinking heavily",
+					"organised public exhibitions of his work"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"figure painting"
+		]
+	}
+]

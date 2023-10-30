@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Giorgio de Chirico",
+		"keywords": [
+			"metaphysical",
+			"dreamlike",
+			"surreal",
+			"symbolism",
+			"arcade"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1911,
+				"happiness": 6,
+				"location": "Volos, Greece",
+				"events": [
+					"developed interest in art",
+					"trained in Athens"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1915,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"met Pablo Picasso",
+					"developed metaphysical painting style"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Ferrara, Italy",
+				"events": [
+					"served in Italian Army during WWI",
+					"painted metaphysical town squares"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"painted ballet designs"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"affiliated with Surrealists",
+					"distanced himself from innovative works"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"painted traditional style",
+					"died at 90"
+				]
+			}
+		],
+		"genre": [
+			"Metaphysical art",
+			"Surrealism",
+			"Symbolism"
+		]
+	}
+]

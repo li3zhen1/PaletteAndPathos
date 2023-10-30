@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Roy Adzak",
+		"keywords": [
+			"abstraction",
+			"nature",
+			"materiality",
+			"light",
+			"contrast"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1943,
+				"happiness": 2,
+				"location": "Reading, England",
+				"events": [
+					"began to show interest in the arts"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1948,
+				"happiness": 3,
+				"location": "Italy",
+				"events": [
+					"served in the British Army in Italy during World War II"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1957,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"worked as a graphic designer in an advertising agency"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"became prominent in the Parisian art scene",
+					"exhibited at the Galerie Karl Flinker"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1987,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"continued to create artworks and sculptures",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"sculpture"
+		]
+	}
+]

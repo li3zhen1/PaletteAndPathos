@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Philip Evergood",
+		"keywords": [
+			"socialism",
+			"justice",
+			"workers' rights",
+			"war",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1922,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"born into a well-off family",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Oxford, England",
+				"events": [
+					"studied at Slade School of Art, University College, London",
+					"trained under the modernist painting teacher Henry Tonks"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"took lessons from Fernand Léger at the Académie Moderne",
+					"studied sculpture with British artist, Ossip Zadkine"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1943,
+				"happiness": 4,
+				"location": "New York City, USA",
+				"events": [
+					"painted social realism themes related to the Great Depression",
+					"active in Workers' Progress Administration"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1953,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"created works on World War II themes",
+					"gained recognition for his paintings"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1963,
+				"happiness": 5,
+				"location": "Connecticut, USA",
+				"events": [
+					"worked and lived in Bridgewater, Connecticut",
+					"continued to explore social and political themes"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1973,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"recognized as a prominent figure in American Social Realism",
+					"exhibited his works extensively"
+				]
+			}
+		],
+		"genre": [
+			"Social realism",
+			"Modernism"
+		]
+	}
+]

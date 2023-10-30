@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Michel Majerus",
+		"keywords": [
+			"pop culture",
+			"digital media",
+			"abstraction",
+			"video game imagery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 2002,
+				"happiness": 6,
+				"location": "Luxembourg",
+				"events": [
+					"graduated from Staatliche Akademie der Bildenden Künste Stuttgart",
+					"featured at the Berlin Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"Pop art",
+			"Abstract art"
+		]
+	}
+]

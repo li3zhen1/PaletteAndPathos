@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Reuven Rubin",
+		"keywords": [
+			"Jewish Culture",
+			"Israel",
+			"Rural life",
+			"Portraits",
+			"Landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1912,
+				"happiness": 6,
+				"location": "Galati, Romania",
+				"events": [
+					"Started to express interest in arts"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Started studying at Ecole Nationale Superieure des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Jerusalem, Israel",
+				"events": [
+					"Returned to Jerusalem",
+					"Participated in World War I"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1929,
+				"happiness": 7,
+				"location": "Tel Aviv, Israel",
+				"events": [
+					"Elected first President of the Association of Painters and Sculptors of Palestine",
+					"Met his wife"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1934,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Created his well-known artwork 'The Day of Atonement'"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1974,
+				"happiness": 6,
+				"location": "Tel Aviv, Israel",
+				"events": [
+					"Appointed the first Israeli ambassador to Romania",
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Symbolist",
+			"Landscape",
+			"Portraits"
+		]
+	}
+]

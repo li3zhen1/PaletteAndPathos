@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Donald Judd",
+		"keywords": [
+			"minimalism",
+			"space",
+			"industrial materials",
+			"geometry",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 7,
+				"location": "Excelsior Springs, Missouri",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"served in the United States Army",
+					"studied at the Art Students League of New York and Columbia University"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1968,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"began creating his first artworks",
+					"worked as an art critic"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1994,
+				"happiness": 6,
+				"location": "Marfa, Texas",
+				"events": [
+					"bought buildings for displaying his art",
+					"established the Judd Foundation"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Sculpture"
+		]
+	}
+]

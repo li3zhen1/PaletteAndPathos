@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Viorel Marginean",
+		"keywords": [
+			"landscape",
+			"balneotherapy",
+			"Bucovina",
+			"poetic",
+			"harmony"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Radauti, Romania",
+				"events": [
+					"graduated from the 'Ion Andreescu' Institute of Fine Arts",
+					"became president of the Union of Fine Artists of Romania"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting"
+		]
+	}
+]

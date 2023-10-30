@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Red Grooms",
+		"keywords": [
+			"urban life",
+			"humor",
+			"pop art",
+			"sculpture",
+			"installation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Nashville, Tennessee, USA",
+				"events": [
+					"born as Charles Rogers Grooms"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Chicago, Illinois, USA",
+				"events": [
+					"studied at the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"founded the experimental film collective, the Film-Makers' Cooperative"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York City, New York, USA",
+				"events": [
+					"created distinctive sculptural installations, like 'Ruckus Manhattan'"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, New York, USA",
+				"events": [
+					"continued to create and exhibit work",
+					"major retrospectives held at various institutions"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Happening",
+			"Installation Art"
+		]
+	}
+]

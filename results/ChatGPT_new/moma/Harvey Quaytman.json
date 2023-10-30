@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Harvey Quaytman",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"minimalist",
+			"color",
+			"shape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Far Rockaway, New York",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1967,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"attended The Cooper Union for the Advancement of Science and Art"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1999,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"established his abstract and geometric style",
+					"participated in numerous exhibitions"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2002,
+				"happiness": 5,
+				"location": "New York, New York",
+				"events": [
+					"continued working despite declining health"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2002,
+				"happiness": 3,
+				"location": "New York, New York",
+				"events": [
+					"died of lung cancer"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

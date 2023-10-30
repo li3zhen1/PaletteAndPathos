@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Malcolm Morley",
+		"keywords": [
+			"chaos",
+			"precision",
+			"love",
+			"nostalgia",
+			"imagination"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1949,
+				"happiness": 2,
+				"location": "London, UK",
+				"events": [
+					"Lost family home to a bomb during WWII",
+					"Imprisoned for theft"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1958,
+				"happiness": 5,
+				"location": "London, UK",
+				"events": [
+					"Attended the Camberwell School of Arts and Crafts",
+					"Graduated from the Royal College of Art"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Emigrated to the United States",
+					"Known for his super realist works"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1984,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Turned to neo-expressionism",
+					"Won the Turner Prize in 1984"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 2018,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Known for his vibrant color and loosely rendered style"
+				]
+			}
+		],
+		"genre": [
+			"Superrealism",
+			"Neo-expressionism"
+		]
+	}
+]

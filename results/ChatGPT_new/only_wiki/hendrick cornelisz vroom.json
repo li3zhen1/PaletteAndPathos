@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Hendrick Cornelisz Vroom",
+		"keywords": [
+			"maritime",
+			"nautical",
+			"seascapes",
+			"battles",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1560,
+				"end": 1585,
+				"happiness": 4,
+				"location": "Haarlem, Netherlands",
+				"events": [
+					"Started career as an apprentice of his father, a shipsurgeon and later an innkeeper."
+				]
+			},
+			{
+				"start": 1585,
+				"end": 1592,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Moved to England to improve financial condition.",
+					"Enjoyed royal patronage."
+				]
+			},
+			{
+				"start": 1592,
+				"end": 1640,
+				"happiness": 5,
+				"location": "Haarlem, Netherlands",
+				"events": [
+					"Returned to Netherlands.",
+					"Started painting seascapes which define his career."
+				]
+			}
+		],
+		"genre": [
+			"Marine art",
+			"Dutch Golden Age painting"
+		]
+	}
+]

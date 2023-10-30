@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Lynd Ward",
+		"keywords": [
+			"wood engraving",
+			"storytelling",
+			"social criticism",
+			"human condition",
+			"silent narrative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Chicago, USA",
+				"events": [
+					"born in Chicago",
+					"studied art in Leipzig, Germany"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1953,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"married May McNeer",
+					"published six wordless novels"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1985,
+				"happiness": 8,
+				"location": "Reston, Virginia, USA",
+				"events": [
+					"won Caldecott Medal for his picture book",
+					"continued wood engraving"
+				]
+			}
+		],
+		"genre": [
+			"graphic novels",
+			"children's literature"
+		]
+	}
+]

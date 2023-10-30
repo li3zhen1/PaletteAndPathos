@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Will Insley",
+		"keywords": [
+			"architecture",
+			"space",
+			"unknown",
+			"alternative reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 2011,
+				"happiness": 7,
+				"location": "Indianapolis, USA",
+				"events": [
+					"birth",
+					"developed interest in architecture and art"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Bloomington, USA",
+				"events": [
+					"studied at Indiana University",
+					"graduated with a Bachelor of Fine Arts"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 2011,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"moved to New York City",
+					"began working on 'ONECITY' project"
+				]
+			}
+		],
+		"genre": [
+			"architecture",
+			"conceptual art",
+			"drawing"
+		]
+	}
+]

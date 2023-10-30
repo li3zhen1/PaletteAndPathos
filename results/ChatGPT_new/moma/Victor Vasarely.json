@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Victor Vasarely",
+		"keywords": [
+			"geometric",
+			"optical illusion",
+			"kinetic",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Pécs, Hungary",
+				"events": [
+					"Finished secondary education"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Studied medicine at university",
+					"Began studying art at the Budapest 'Muhely', the Hungarian equivalent of the Bauhaus"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1944,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris in 1930",
+					"Met his future wife Claire Spinner",
+					"Developed his geometric abstract style"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1965,
+				"happiness": 8,
+				"location": "Gordes, France",
+				"events": [
+					"Moved to Gordes",
+					"Started working on the integration of graphic art and architecture"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1997,
+				"happiness": 7,
+				"location": "Annet-sur-Marne, France",
+				"events": [
+					"Opened the Vasarely Museum in Gordes",
+					"Established foundations in France and Hungary",
+					"Recognized as significant contributor to the Op Art movement"
+				]
+			}
+		],
+		"genre": [
+			"Op Art",
+			"Abstract Art",
+			"Kinetic Art"
+		]
+	}
+]

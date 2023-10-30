@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Carlos Orozco Romero",
+		"keywords": [
+			"Mexican culture",
+			"portraits",
+			"landscapes",
+			"surrealism",
+			"human condition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1984,
+				"happiness": 6,
+				"location": "Guadalajara, Mexico",
+				"events": [
+					"studied at the Academy of San Carlos",
+					"helped establish the Mexican Mural Movement"
+				]
+			}
+		],
+		"genre": [
+			"Muralism",
+			"Portrait",
+			"Surrealism"
+		]
+	}
+]

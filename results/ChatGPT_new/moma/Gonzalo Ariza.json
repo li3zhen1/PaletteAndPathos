@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Gonzalo Ariza",
+		"keywords": [
+			"landscapes",
+			"native",
+			"colombian scenes",
+			"fantastical",
+			"tropical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1995,
+				"happiness": 5,
+				"location": "Bogota, Colombia",
+				"events": [
+					"studied under Spanish painter Cecilio Pla",
+					"exhibited work at the Colombian National Salon of Artists"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1942,
+				"happiness": 4,
+				"location": "New York City, USA",
+				"events": [
+					"studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Bogota, Colombia",
+				"events": [
+					"founded the Sibundoy museum-reserve in the Colombian Amazon"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1948,
+				"happiness": 3,
+				"location": "Bogota, Colombia",
+				"events": [
+					"lived through the tragic events of 'El Bogotazo'",
+					"captured the chaos of the event in a series of works"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1954,
+				"happiness": 4,
+				"location": "Rionegro, Colombia",
+				"events": [
+					"continued to paint despite the violent political climate"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Bogota, Colombia",
+				"events": [
+					"won first prize in the Colombian National Salon of Artists",
+					"his work was recognized internationally"
+				]
+			}
+		],
+		"genre": [
+			"landscapes",
+			"realism",
+			"abstract"
+		]
+	}
+]

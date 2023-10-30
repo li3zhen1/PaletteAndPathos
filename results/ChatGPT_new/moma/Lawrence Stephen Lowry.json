@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Lawrence Stephen Lowry",
+		"keywords": [
+			"industrial landscapes",
+			"human figures",
+			"weeping",
+			"joy",
+			"isolation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1919,
+				"happiness": 4,
+				"location": "Manchester",
+				"events": [
+					"born and lived in a suburb",
+					"toiled as a rent collector"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Pendlebury",
+				"events": [
+					"attended art school",
+					"worked as a rent collector and clerk"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Manchester",
+				"events": [
+					"experienced widespread recognition",
+					"awarded honorary Doctor of Letters"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"realism",
+			"naive art"
+		]
+	}
+]

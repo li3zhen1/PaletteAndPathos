@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Ilka Gedo",
+		"keywords": [
+			"existentialism",
+			"self-portrait",
+			"war",
+			"surrealism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1943,
+				"happiness": 2,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Born into a middle-class Jewish family",
+					"Started her art studies"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1945,
+				"happiness": 1,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Survived the Holocaust",
+					"Lived in hiding during German occupation"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1957,
+				"happiness": 4,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Continued her art in secrecy due to political climate"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Started exhibiting her work"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2001,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Accepted into the Hungarian Art Academy",
+					"Received recognition for her art"
+				]
+			}
+		],
+		"genre": [
+			"Self-portrait",
+			"Surrealism"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Egon Schiele",
+		"keywords": [
+			"expressionism",
+			"self-portraits",
+			"eroticism",
+			"disease",
+			"death"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1906,
+				"happiness": 5,
+				"location": "Tulln an der Donau, Austria",
+				"events": [
+					"Started drawing at an early age"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1909,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"Accepted into the Vienna Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1912,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"Left the Academy to found the Neukunstgruppe",
+					"Met Gustav Klimt who became his mentor"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1915,
+				"happiness": 4,
+				"location": "Vienna, Austria",
+				"events": [
+					"Trial for public immorality",
+					"The death of his father figure Gustav Klimt"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Vienna, Austria",
+				"events": [
+					"Married Edith Harms",
+					"Flu pandemic caused the death of Egon and his spouse"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Portraiture"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Lennart Rodhe",
+		"keywords": [
+			"Abstract",
+			"Nature",
+			"Geography",
+			"Geometry",
+			"Colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 2005,
+				"happiness": 5,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"Joined the Swedish Association of Abstract Art",
+					"Taught at the Royal Institute of Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

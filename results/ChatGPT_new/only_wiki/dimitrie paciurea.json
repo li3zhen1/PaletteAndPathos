@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Dimitrie Paciurea",
+		"keywords": [
+			"mythology",
+			"symbolism",
+			"fantasy",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1889,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"born",
+					"early education"
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied sculpture at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1894,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"continuing his studies",
+					"exposed to new artistic influences"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1932,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"returned home",
+					"became professor at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1933,
+				"happiness": 2,
+				"location": "Bucharest, Romania",
+				"events": [
+					"struggled with health problems",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"symbolism"
+		]
+	}
+]

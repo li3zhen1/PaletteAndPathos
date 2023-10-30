@@ -1,0 +1,47 @@
+[
+	{
+		"name": "John Singer Sargent",
+		"keywords": [
+			"portraits",
+			"high society",
+			"Impressionism",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1856,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"born in Florence",
+					"studied painting in Paris"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"established as a portrait artist",
+					"creating scandal with 'Portrait of Madame X'"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1925,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"worked on mural assignments",
+					"died from heart disease"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Impressionism"
+		]
+	}
+]

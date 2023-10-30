@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Canaletto",
+		"keywords": [
+			"landscapes",
+			"architecture",
+			"urban life",
+			"Venice"
+		],
+		"lifePeriods": [
+			{
+				"start": 1697,
+				"end": 1736,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Began his career as a theater scene painter",
+					"Started painting the daily life of the city of Venice"
+				]
+			},
+			{
+				"start": 1736,
+				"end": 1746,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"Shifted his focus from painting to etching",
+					"His work became popular in England"
+				]
+			},
+			{
+				"start": 1746,
+				"end": 1768,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Returned to Venice and continued painting",
+					"Dealt with the declining health in his last years"
+				]
+			}
+		],
+		"genre": [
+			"veduta",
+			"landscape art",
+			"etching"
+		]
+	}
+]

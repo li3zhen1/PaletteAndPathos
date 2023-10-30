@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Paul Feeley",
+		"keywords": [
+			"abstract",
+			"shapes",
+			"colors",
+			"minimalism",
+			"symmetry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1966,
+				"happiness": 6,
+				"location": "Des Moines, Iowa, USA",
+				"events": [
+					"born",
+					"studied art at Menlo College, California"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1966,
+				"happiness": 7,
+				"location": "Bennington, Vermont, USA",
+				"events": [
+					"taught at Bennington College",
+					"became head of the art department"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1966,
+				"happiness": 6,
+				"location": "New York City, New York, USA",
+				"events": [
+					"represented by Betty Parsons Gallery",
+					"made a significant impact on Color Field painting and minimalism"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"minimalism",
+			"painting"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Hubert Robert",
+		"keywords": [
+			"ruins",
+			"landscapes",
+			"architecture",
+			"gardens",
+			"fantasy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1733,
+				"end": 1765,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied in Rome",
+					"Achieved recognition for his work"
+				]
+			},
+			{
+				"start": 1765,
+				"end": 1793,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Became a member of the Academie Royale",
+					"Appointed as a Custodian of the Louvre"
+				]
+			},
+			{
+				"start": 1793,
+				"end": 1795,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Imprisoned during the French Revolution"
+				]
+			},
+			{
+				"start": 1795,
+				"end": 1808,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Freed from prison",
+					"Continued painting and exhibiting"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"capriccio"
+		]
+	}
+]

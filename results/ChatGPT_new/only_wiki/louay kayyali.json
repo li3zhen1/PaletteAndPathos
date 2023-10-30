@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Louay Kayyali",
+		"keywords": [
+			"suffering",
+			"hardship",
+			"portraits",
+			"middle class",
+			"workers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Aleppo, Syria",
+				"events": [
+					"Born into a middle-class family"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1957,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"Studied art",
+					"Won a scholarship to the Accademia di Belle Arti"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Aleppo, Syria",
+				"events": [
+					"Started teaching drawing",
+					"Returned to Syria"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 6,
+				"location": "Aleppo, Syria",
+				"events": [
+					"Became a prominent figure in the social realism movement"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1978,
+				"happiness": 2,
+				"location": "Aleppo, Syria",
+				"events": [
+					"Suffered from severe depression",
+					"Withdrew from public life"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1978,
+				"happiness": 0,
+				"location": "Aleppo, Syria",
+				"events": [
+					"Died in a fire"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Portraiture"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Sandro Chia",
+		"keywords": [
+			"expressionism",
+			"figurative",
+			"symbolism",
+			"mythology",
+			"anthropomorphism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1969,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"studied at the Accademia di Belle Arti in Florence"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"recognized as a main member of the Italian Transavanguardia movement",
+					"won Premio Marescalco in 1971"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"established international recognition",
+					"had his first solo exhibition in United States",
+					"taught at School of Visual Arts"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Monteriggioni, Italy",
+				"events": [
+					"established a studio in Monteriggioni"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Expressionism",
+			"Transavanguardia"
+		]
+	}
+]

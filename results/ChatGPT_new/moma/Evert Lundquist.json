@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Evert Lundquist",
+		"keywords": [
+			"portraits",
+			"landscape",
+			"still life",
+			"expressionism",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"Studied at the Royal Swedish Academy of Fine Arts",
+					"Started teaching at the academy in 1944"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1994,
+				"happiness": 6,
+				"location": "Drottningholm, Sweden",
+				"events": [
+					"Had own art studio in The Royal Court Theatre",
+					"Shown in National Museum’s exhibition of ’50 Artists’"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Portraiture",
+			"Landscape"
+		]
+	}
+]

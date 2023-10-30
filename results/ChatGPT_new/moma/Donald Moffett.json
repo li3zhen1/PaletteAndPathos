@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Donald Moffett",
+		"keywords": [
+			"political activism",
+			"abstract",
+			"nature",
+			"minimalism",
+			"texture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1973,
+				"happiness": 7,
+				"location": "San Antonio, Texas, United States",
+				"events": [
+					"grew up in the suburbs"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1987,
+				"happiness": 7,
+				"location": "Austin, Texas, United States",
+				"events": [
+					"studied at The University of Texas"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York, New York, United States",
+				"events": [
+					"co-founded the AIDS activist collective Gran Fury",
+					"established a career in painting and installations"
+				]
+			}
+		],
+		"genre": [
+			"abstraction",
+			"installation",
+			"political art"
+		]
+	}
+]

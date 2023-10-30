@@ -1,0 +1,56 @@
+[
+	{
+		"name": "On Kawara",
+		"keywords": [
+			"conceptual art",
+			"time",
+			"existance",
+			"date",
+			"daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Kariya, Aichi, Japan",
+				"events": [
+					"World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Began his artistic career"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Met Dolores Fonzi"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2014,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Started 'Today' series",
+					"Work presented in Documenta",
+					"Work presented in Venice Biennial"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"conceptual art"
+		]
+	}
+]

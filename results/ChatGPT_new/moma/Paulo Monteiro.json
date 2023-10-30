@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Paulo Monteiro",
+		"keywords": [
+			"abstract",
+			"simplicity",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1961,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Sao Paulo",
+				"events": [
+					"associated with Sao Paulo art scene",
+					"work exhibited internationally"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract Art"
+		]
+	}
+]

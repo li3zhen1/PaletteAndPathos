@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Johan Christian Dahl",
+		"keywords": [
+			"landscapes",
+			"romanticism",
+			"light",
+			"weather",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1788,
+				"end": 1811,
+				"happiness": 7,
+				"location": "Bergen, Norway",
+				"events": [
+					"born in Bergen, apprenticed to a painter at a young age"
+				]
+			},
+			{
+				"start": 1811,
+				"end": 1818,
+				"happiness": 8,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"studied at the Royal Danish Academy of Fine Arts",
+					"made a stable living painting portraits and landscapes"
+				]
+			},
+			{
+				"start": 1818,
+				"end": 1820,
+				"happiness": 5,
+				"location": "Dresden, Germany",
+				"events": [
+					"experienced hardship and poverty"
+				]
+			},
+			{
+				"start": 1820,
+				"end": 1824,
+				"happiness": 8,
+				"location": "Italy",
+				"events": [
+					"traveled and painted extensively in Italy"
+				]
+			},
+			{
+				"start": 1824,
+				"end": 1857,
+				"happiness": 8,
+				"location": "Dresden, Germany",
+				"events": [
+					"became a professor at the Dresden Academy",
+					"made several trips home to Norway to paint and collect inspiration for future works"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Landscape painting"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Pericles Pantazis",
+		"keywords": [
+			"Impressionism",
+			"still life",
+			"landscapes",
+			"portraits",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1849,
+				"end": 1884,
+				"happiness": 4,
+				"location": "Athens, Greece",
+				"events": [
+					"born into a wealthy merchant family",
+					"moved to Athens"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at the École des Beaux-Arts",
+					"embraced Impressionism"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1875,
+				"happiness": 5,
+				"location": "Munich, Germany",
+				"events": [
+					"Joined the Munich School",
+					"established himself as professional artist"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1877,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"return to Paris",
+					"established an art studio"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1884,
+				"happiness": 5,
+				"location": "Brussels, Belguim",
+				"events": [
+					"Moved to Brussels",
+					"his health started to deteriorate"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Genre art"
+		]
+	}
+]

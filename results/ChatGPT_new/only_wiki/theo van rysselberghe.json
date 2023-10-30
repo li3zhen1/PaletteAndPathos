@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Theo Van Rysselberghe",
+		"keywords": [
+			"pointillism",
+			"impressionism",
+			"landscapes",
+			"portraits",
+			"marine"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1879,
+				"happiness": 5,
+				"location": "Ghent, Belgium",
+				"events": [
+					"Started showing an interest in art"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1886,
+				"happiness": 8,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Studied at the Academy of Brussels",
+					"Travelled in Spain and Morocco for inspiration and study"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1897,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Engagement with the Parisian artistic scene",
+					"Became familiar with the neo-impressionist movement"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Various locations across Europe",
+				"events": [
+					"Shifted from pointillism to a more classical form of impressionism"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Saint-Clair, Var, France",
+				"events": [
+					"Death of his eldest brother, Charles"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Impressionism",
+			"Pointillism",
+			"Impressionism"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Wojciech Fangor",
+		"keywords": [
+			"abstract",
+			"space",
+			"illusion",
+			"geometric",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Survived World War II",
+					"began his painting career"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Became well-known for his socialist realism artworks"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1966,
+				"happiness": 8,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Changed his style to abstract",
+					"Experienced international recognition"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to the United States",
+					"Taught at the School of Visual Arts in New York"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2015,
+				"happiness": 7,
+				"location": "Bialowieza, Poland",
+				"events": [
+					"Returned to Poland"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Socialist realism"
+		]
+	}
+]

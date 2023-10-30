@@ -1,0 +1,28 @@
+[
+	{
+		"name": "General Idea",
+		"keywords": [
+			"pop art",
+			"conceptual art",
+			"media criticism",
+			"AIDS",
+			"beauty pageants"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 1994,
+				"happiness": 3,
+				"location": "Toronto, Canada",
+				"events": [
+					"formed the group",
+					"Foundation of AIDS logo"
+				]
+			}
+		],
+		"genre": [
+			"installation art",
+			"conceptual art"
+		]
+	}
+]

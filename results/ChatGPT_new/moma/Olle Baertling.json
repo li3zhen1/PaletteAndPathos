@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Olle Baertling",
+		"keywords": [
+			"geometricity",
+			"minimalism",
+			"abstraction",
+			"perspective",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Halmstad, Sweden",
+				"events": [
+					"born in Halmstad"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"started his art career",
+					"developed his distinctive style"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"achieved significant recognition",
+					"participated in numerous exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

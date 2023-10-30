@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Keith Sonnier",
+		"keywords": [
+			"light",
+			"neon",
+			"space",
+			"architecture",
+			"interaction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 2020,
+				"happiness": 6,
+				"location": "Grand Mamou, Louisiana",
+				"events": [
+					"Born and spent early life"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1966,
+				"happiness": 7,
+				"location": "New Brunswick, New Jersey",
+				"events": [
+					"Started studying at Rutgers University"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Started his light installations",
+					"Became part of the Process Art Movement"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Minimalist Art",
+			"Environment Art"
+		]
+	}
+]

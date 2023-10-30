@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Willi Baumeister",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"myths",
+			"primitivism",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"attended art academy",
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Frankfurt, Germany",
+				"events": [
+					"served as professor at Frankfurt Art School",
+					"experienced the rise of Nazism"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"prohibited from exhibiting under Nazi rule",
+					"survived World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"revisited painting",
+					"successful exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"graphic art",
+			"scenic design"
+		]
+	}
+]

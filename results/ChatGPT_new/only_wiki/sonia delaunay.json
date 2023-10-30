@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Sonia Delaunay",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"color",
+			"rhythm",
+			"movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1910,
+				"happiness": 4,
+				"location": "Gradizhsk, Ukraine",
+				"events": [
+					"orphaned at a young age",
+					"adopted by her wealthy uncle and aunt"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1935,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"married Robert Delaunay and adopted his love of color",
+					"started her own business"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1979,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Founded the House of Sonia Delaunay, a design business",
+					"Established the Salon des Realites Nouvelles, promoting non-figurative art"
+				]
+			}
+		],
+		"genre": [
+			"Orphism",
+			"Abstract art",
+			"Avant-garde"
+		]
+	}
+]

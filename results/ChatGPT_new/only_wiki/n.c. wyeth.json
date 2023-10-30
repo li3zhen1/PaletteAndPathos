@@ -1,0 +1,63 @@
+[
+	{
+		"name": "N.C. Wyeth",
+		"keywords": [
+			"adventure",
+			"illustrations",
+			"fiction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1889,
+				"happiness": 7,
+				"location": "Needham, Massachusetts",
+				"events": [
+					"Born into a family of four"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1902,
+				"happiness": 6,
+				"location": "Needham, Massachusetts",
+				"events": [
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1911,
+				"happiness": 7,
+				"location": "Chadds Ford, Pennsylvania",
+				"events": [
+					"Studied under Howard Pyle",
+					"Started career as an illustrator"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Chadds Ford, Pennsylvania",
+				"events": [
+					"Established himself as a notable illustrator",
+					"Married Carolyn Bockius"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Chadds Ford, Pennsylvania",
+				"events": [
+					"Died in a car accident"
+				]
+			}
+		],
+		"genre": [
+			"Illustration",
+			"Realism"
+		]
+	}
+]

@@ -1,0 +1,90 @@
+[
+	{
+		"name": "Arnold Böcklin",
+		"keywords": [
+			"mythology",
+			"fantasy",
+			"romanticism",
+			"death",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1827,
+				"end": 1846,
+				"happiness": 5,
+				"location": "Basel, Switzerland",
+				"events": [
+					"born into a middle-class family"
+				]
+			},
+			{
+				"start": 1846,
+				"end": 1850,
+				"happiness": 6,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"trained at Düsseldorf Academy"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1857,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"inspired by Italian Renaissance"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1871,
+				"happiness": 7,
+				"location": "Hanover, Germany",
+				"events": [
+					"married first wife, Angela Rosa Lorenza Pascucci"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1876,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"became professor of Fine Arts Academy"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1885,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"painted 'Island Of The Dead'"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1892,
+				"happiness": 4,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"death of first wife"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1901,
+				"happiness": 6,
+				"location": "San Domenico, Italy",
+				"events": [
+					"married second wife, Antonietta Vitali"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Romanticism"
+		]
+	}
+]

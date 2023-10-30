@@ -1,0 +1,56 @@
+[
+	{
+		"name": "K.O.S. (Kids of Survival)",
+		"keywords": [
+			"politics",
+			"culture",
+			"education",
+			"collaboration",
+			"interactive"
+		],
+		"lifePeriods": [
+			{
+				"start": 1982,
+				"end": 1985,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"established by Tim Rollins"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"rise to prominence through group-based works"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2010,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"exhibited at numerous museums and galleries",
+					"achieved international acclaim"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"continued collaborative works"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"educational art",
+			"collaborative art"
+		]
+	}
+]

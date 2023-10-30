@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Edward Avedisian",
+		"keywords": [
+			"abstract",
+			"color",
+			"minimalism",
+			"hard-edge painting"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2007,
+				"happiness": 7,
+				"location": "Lowell, Massachusetts, USA",
+				"events": [
+					"Born and raised in Lowell, Massachusetts"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 2007,
+				"happiness": 8,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Moved to New York City to pursue art",
+					"Became part of the Color Field movement"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Color Field",
+			"Hard-edge painting"
+		]
+	}
+]

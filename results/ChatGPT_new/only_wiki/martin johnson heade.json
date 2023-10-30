@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Martin Johnson Heade",
+		"keywords": [
+			"nature",
+			"light",
+			"tropics",
+			"birds",
+			"flowers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1819,
+				"end": 1843,
+				"happiness": 5,
+				"location": "Lumberville, Pennsylvania",
+				"events": [
+					"early education"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1857,
+				"happiness": 6,
+				"location": "Rome",
+				"events": [
+					"studied in Europe"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1860,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Lived in New York and painted Hudson River School landscapes"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1863,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Painted works depicting tropical birds"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1880,
+				"happiness": 8,
+				"location": "Saint Augustine, Florida",
+				"events": [
+					"Painted tropical landscapes and seascapes"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1904,
+				"happiness": 7,
+				"location": "Saint Augustine, Florida",
+				"events": [
+					"Late career painting floral still lifes"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting",
+			"Still life",
+			"Bird portraiture"
+		]
+	}
+]

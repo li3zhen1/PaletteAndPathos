@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Grace Hartigan",
+		"keywords": [
+			"Abstract Expressionism",
+			"modernism",
+			"urban life",
+			"femininity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Newark, New Jersey",
+				"events": [
+					"born to a working-class family"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Los Angeles, California",
+				"events": [
+					"moved to Los Angeles",
+					"married Robert Jachens"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1955,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"divorced first husband",
+					"joined the New York School of painters and poets"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1962,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"held first major exhibition",
+					"married second husband, Winston Price"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1968,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"divorced second husband"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2008,
+				"happiness": 7,
+				"location": "Baltimore, Maryland",
+				"events": [
+					"moved to Baltimore",
+					"directed the graduate School of Painting at the Maryland Institute College of Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

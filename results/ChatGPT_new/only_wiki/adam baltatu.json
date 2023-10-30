@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Adam Baltatu",
+		"keywords": [
+			"portraits",
+			"landscapes",
+			"interior scenes",
+			"light and shadow"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1974,
+				"happiness": 6,
+				"location": "Bucharest",
+				"events": [
+					"studied at the National University of Arts in Bucharest",
+					"became member of the Romanian Artists Union"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

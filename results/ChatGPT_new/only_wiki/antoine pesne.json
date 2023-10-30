@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Antoine Pesne",
+		"keywords": [
+			"portraiture",
+			"royalty",
+			"rococo"
+		],
+		"lifePeriods": [
+			{
+				"start": 1683,
+				"end": 1757,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied painting",
+					"moved to Berlin"
+				]
+			},
+			{
+				"start": 1705,
+				"end": 1757,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"court painter to Frederick I of Prussia",
+					"made a full member of the Prussian Academy of Arts"
+				]
+			}
+		],
+		"genre": [
+			"portraiture",
+			"historical painting"
+		]
+	}
+]

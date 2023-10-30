@@ -1,0 +1,60 @@
+[
+	{
+		"name": "Marcel Duchamp",
+		"keywords": [
+			"readymades",
+			"Dadaism",
+			"conceptual art",
+			"irony",
+			"satire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1898,
+				"happiness": 7,
+				"location": "Blainville-Crevon, France",
+				"events": [
+					"Discovered interest in art"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Académie Julian",
+					"Started creating work inspired by Impressionism and Post-Impressionism"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1923,
+				"happiness": 5,
+				"location": "New York City, U.S.A",
+				"events": [
+					"Met members of the Dada movement",
+					"Produced 'Fountain'",
+					"Left art world in favor of chess"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Married Lydia Sylvette David",
+					"Produced 'The Large Glass'",
+					"Returned to public conception of art"
+				]
+			}
+		],
+		"genre": [
+			"Dada",
+			"Conceptual Art",
+			"Surrealism"
+		]
+	}
+]

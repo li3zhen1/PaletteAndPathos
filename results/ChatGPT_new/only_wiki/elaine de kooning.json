@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Elaine de Kooning",
+		"keywords": [
+			"abstract expressionism",
+			"portraiture",
+			"landscapes",
+			"gender roles"
+		],
+		"lifePeriods": [
+			{
+				"start": 1918,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Brooklyn, New York",
+				"events": [
+					"Born as Elaine Marie Catherine Fried"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1943,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Studied at the Leonardo da Vinci Art School",
+					"Studied at the American Artists School"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1957,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Married Willem de Kooning",
+					"Joined the Artists’ Club"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1971,
+				"happiness": 5,
+				"location": "East Hampton, NY",
+				"events": [
+					"Separated from Willem de Kooning",
+					"Taught at University of New Mexico",
+					"Began painting a series of bullfight and cave paintings"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Albuquerque, New Mexico",
+				"events": [
+					"Taught at University of Albuquerque"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1989,
+				"happiness": 7,
+				"location": "East Hampton, NY",
+				"events": [
+					"Returned to East Hampton",
+					"Reconciled with Willem de Kooning"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 1989,
+				"happiness": 3,
+				"location": "New York City",
+				"events": [
+					"Died of lung cancer"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Portraiture"
+		]
+	}
+]

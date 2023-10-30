@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Karl Schmidt-Rottluff",
+		"keywords": [
+			"landsacpes",
+			"portraits",
+			"still lifes",
+			"woodcuts",
+			"churches"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Rottluff, Germany",
+				"events": [
+					"born"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Dresden, Germany",
+				"events": [
+					"co-founded the artist group 'Die Brücke'",
+					"became engaged to Emy Frisch"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "various battlefields",
+				"events": [
+					"fought in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"prominent in the Weimar Republic art scene"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 1,
+				"location": "Berlin, Germany",
+				"events": [
+					"branded a 'degenerate artist' by the Nazis",
+					"artwork confiscated"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"had his artist privileges restored after the war",
+					"received numerous awards"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Primitivism"
+		]
+	}
+]

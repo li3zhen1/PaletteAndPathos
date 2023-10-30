@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Carl Bloch",
+		"keywords": [
+			"religion",
+			"biblical scenes",
+			"portraits",
+			"Christ"
+		],
+		"lifePeriods": [
+			{
+				"start": 1834,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"Studied at Royal Danish Academy of Fine Arts",
+					"Received a grant from Neuhausenske Prize",
+					"Visited Italy"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Religious Art",
+			"Portraits"
+		]
+	}
+]

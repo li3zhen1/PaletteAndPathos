@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Giuseppe De Nittis",
+		"keywords": [
+			"impressionism",
+			"landscapes",
+			"urban scenes",
+			"high society",
+			"elegance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1846,
+				"end": 1859,
+				"happiness": 4,
+				"location": "Barletta, Italy",
+				"events": [
+					"Born into a middle class family"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1867,
+				"happiness": 5,
+				"location": "Naples, Italy",
+				"events": [
+					"Studied at the Naples Institute of Fine Arts"
+				]
+			},
+			{
+				"start": 1868,
+				"end": 1884,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Showed his work at the Salon",
+					"Became friends with Edgar Degas",
+					"Married Leontine Gruvelle"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

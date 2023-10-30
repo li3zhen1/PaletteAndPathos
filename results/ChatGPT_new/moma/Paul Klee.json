@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Paul Klee",
+		"keywords": [
+			"surrealism",
+			"expressionism",
+			"abstraction",
+			"nature",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1879,
+				"end": 1898,
+				"happiness": 7,
+				"location": "Münchenbuchsee, Switzerland",
+				"events": [
+					"birth",
+					"education in traditional academic art"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1906,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Bern, Switzerland",
+				"events": [
+					"got married",
+					"birth of his son"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Germany",
+				"events": [
+					"served in World War I",
+					"start to experiment with abstract art"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1933,
+				"happiness": 9,
+				"location": "Weimar, Germany",
+				"events": [
+					"joined Bauhaus school",
+					"artistic maturation and recognition"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1940,
+				"happiness": 2,
+				"location": "Bern, Switzerland",
+				"events": [
+					"fled Nazi Germany",
+					"suffered from a disease"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"expressionism",
+			"abstract art"
+		]
+	}
+]

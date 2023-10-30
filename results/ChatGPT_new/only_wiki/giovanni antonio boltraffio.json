@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Giovanni Antonio Boltraffio",
+		"keywords": [
+			"religious",
+			"portraits",
+			"renaissance",
+			"humanism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1466,
+				"end": 1516,
+				"happiness": 6,
+				"location": "Milan",
+				"events": [
+					"became student of Leonardo da Vinci",
+					"completed the painting 'Madonna and Child'"
+				]
+			}
+		],
+		"genre": [
+			"High Renaissance"
+		]
+	}
+]

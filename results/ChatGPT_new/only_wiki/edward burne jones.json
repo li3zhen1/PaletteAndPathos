@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Edward Burne-Jones",
+		"keywords": [
+			"Medievalism",
+			"Fantasy",
+			"Love",
+			"Mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1833,
+				"end": 1853,
+				"happiness": 5,
+				"location": "Birmingham, England",
+				"events": []
+			},
+			{
+				"start": 1853,
+				"end": 1860,
+				"happiness": 7,
+				"location": "Oxford, England",
+				"events": [
+					"met his wife Georgiana",
+					"met William Morris and Dante Gabriel Rossetti",
+					"joined the Pre-Raphaelite Brotherhood"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1870,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"began designing stained glass for Morris & Co.",
+					"his wife Georgiana gave birth to their daughter"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1898,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"experienced diphtheria",
+					"painted some of his most famous works like 'The Beguiling of Merlin' and 'The Golden Stairs'",
+					"faced criticism for his Aestheticism"
+				]
+			}
+		],
+		"genre": [
+			"Pre-Raphaelite",
+			"Aesthetic movement",
+			"Stained glass"
+		]
+	}
+]

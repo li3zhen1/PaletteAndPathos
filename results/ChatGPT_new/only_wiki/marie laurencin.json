@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Marie Laurencin",
+		"keywords": [
+			"women",
+			"pastel tones",
+			"femininity",
+			"muted",
+			"cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1904,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Birth",
+					"Attended school"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1909,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied painting at the Académie Humbert",
+					"Met Picasso"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"First solo exhibition",
+					"Joined Puteaux Group"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Married German Baron Otto von Waëtjen",
+					"Exiled to Spain during World War I"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1956,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Divorced von Waëtjen",
+					"Achieved commercial success"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"symbolism"
+		]
+	}
+]

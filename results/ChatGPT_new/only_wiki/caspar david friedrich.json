@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Caspar David Friedrich",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"romanticism",
+			"rural life",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1774,
+				"end": 1798,
+				"happiness": 4,
+				"location": "Greifswald, Germany",
+				"events": [
+					"Birth and early life",
+					"Mother's death in 1781"
+				]
+			},
+			{
+				"start": 1798,
+				"end": 1818,
+				"happiness": 6,
+				"location": "Dresden, Germany",
+				"events": [
+					"Studies at the Copenhagen Academy",
+					"Begins to develop his landscape art style"
+				]
+			},
+			{
+				"start": 1818,
+				"end": 1835,
+				"happiness": 7,
+				"location": "Dresden, Germany",
+				"events": [
+					"Marries Caroline Bommer in 1818",
+					"Rises to prominence as an artist"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1840,
+				"happiness": 5,
+				"location": "Dresden, Germany",
+				"events": [
+					"Suffers a stroke",
+					"Artistic output declines"
+				]
+			},
+			{
+				"start": 1840,
+				"end": 1840,
+				"happiness": 2,
+				"location": "Dresden, Germany",
+				"events": [
+					"Second stroke leads to partial paralysis"
+				]
+			},
+			{
+				"start": 1840,
+				"end": 1845,
+				"happiness": 2,
+				"location": "Dresden, Germany",
+				"events": [
+					"Death of his daughter in 1842",
+					"Health continues to decline"
+				]
+			},
+			{
+				"start": 1845,
+				"end": 1845,
+				"happiness": 2,
+				"location": "Dresden, Germany",
+				"events": [
+					"Passes away on May 7, 1845"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Landscape art"
+		]
+	}
+]

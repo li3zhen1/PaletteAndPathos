@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Ion Theodorescu-Sion",
+		"keywords": [
+			"rural life",
+			"peasants",
+			"orthodox icons",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied at the Academy of Fine Arts in Munich",
+					"joins the Army in World War I"
+				]
+			}
+		],
+		"genre": [
+			"Neo-romanticism",
+			"Realism"
+		]
+	}
+]

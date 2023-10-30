@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Theodor Pallady",
+		"keywords": [
+			"impressionism",
+			"portraits",
+			"nudes",
+			"still life",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1891,
+				"happiness": 5,
+				"location": "Iasi, Romania",
+				"events": [
+					"born and early life"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1892,
+				"happiness": 6,
+				"location": "Dresden, Germany",
+				"events": [
+					"attended the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"enrolled in a school of painting and sculpture",
+					"met and became friends with Henri Matisse"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"returned to Romania",
+					"became member of the Romanian Academy",
+					"involved in the decoration of the Romanian Athenaeum"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"donated his collection to the Romanian state"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Portraiture",
+			"Still life",
+			"Landscape"
+		]
+	}
+]

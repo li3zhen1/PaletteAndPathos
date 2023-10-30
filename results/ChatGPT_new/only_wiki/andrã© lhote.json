@@ -1,0 +1,57 @@
+[
+	{
+		"name": "André Lhote",
+		"keywords": [
+			"cubism",
+			"academism",
+			"teaching"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Bordeaux, France",
+				"events": [
+					"Began art as a wood carver and painter of decorative works",
+					"Travelled to Paris to study sculpture"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Served in the French army during World War I",
+					"Resumed painting after war and started adopting Cubism style"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Held his first solo exhibition",
+					"Visited the United States and Canada to lecture on art"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Named Chevalier of the Legion of Honor",
+					"Lectured extensively on French culture and art"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Portraiture",
+			"Landscape"
+		]
+	}
+]

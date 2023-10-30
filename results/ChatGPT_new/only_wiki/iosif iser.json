@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Iosif Iser",
+		"keywords": [
+			"portraits",
+			"daily life",
+			"nature",
+			"nude",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied in Munich, Germany",
+					"founded the Artists Union of Romania"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"post-impressionism",
+			"expressionism"
+		]
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Antonello da Messina",
+		"keywords": [
+			"religious",
+			"portraits",
+			"light",
+			"detail",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1430,
+				"end": 1479,
+				"happiness": 4,
+				"location": "Messina and Venice",
+				"events": [
+					"Trained in Flemish techniques",
+					"Introduced oil painting and Flemish techniques to Italian Renaissance"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Portrait",
+			"Religious"
+		]
+	}
+]

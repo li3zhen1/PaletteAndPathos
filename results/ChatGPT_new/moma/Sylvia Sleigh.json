@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Sylvia Sleigh",
+		"keywords": [
+			"feminism",
+			"realism",
+			"gender",
+			"human body",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Swansea, United Kingdom",
+				"events": [
+					"Began art studies",
+					"Married her first husband"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Married Lawrence Alloway",
+					"Participated in the beginning of the feminist art movement"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2010,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Continued to paint despite declining health",
+					"Died in 2010"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"portrait",
+			"feminism"
+		]
+	}
+]

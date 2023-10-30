@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Robert Delaunay",
+		"keywords": [
+			"Imagery",
+			"Color",
+			"Cubism",
+			"Abstract",
+			"Circles"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1903,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became an apprentice theatre designer",
+					"Aunt adopted him"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Met Jean Metzinger",
+					"Became involved in the 'Salon d'Automne'"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1921,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Married fellow artist Sonia Terk",
+					"Started painting eiffel tower series"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Created 'Les Fenetres' series",
+					"Began Large-scale mural works"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Montpellier, France",
+				"events": [
+					"Escaped Paris during German invasion",
+					"Died of Cancer"
+				]
+			}
+		],
+		"genre": [
+			"Fauvism",
+			"Cubism",
+			"Abstract art"
+		]
+	}
+]

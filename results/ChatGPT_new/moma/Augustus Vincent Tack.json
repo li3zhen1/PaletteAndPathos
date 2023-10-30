@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Augustus Vincent Tack",
+		"keywords": [
+			"expressionism",
+			"spirituality",
+			"abstract",
+			"nature",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1885,
+				"happiness": 6,
+				"location": "Pittsburgh, Pennsylvania",
+				"events": [
+					"Born into a comfortable middle-class family"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1893,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Studied at Art Students League of New York",
+					"Began to attract attention with his portraits"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Académie Julian"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Washington, D.C.",
+				"events": [
+					"Became an artistic advisor",
+					"Began to paint more abstract expressions"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Washington, D.C.",
+				"events": [
+					"Explored abstraction and landscapes in his art"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Washington, D.C.",
+				"events": [
+					"Painted 'Time and Timeless', his best-known work",
+					"Died at the age of 79"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism"
+		]
+	}
+]

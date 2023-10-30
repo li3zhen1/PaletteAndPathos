@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Ásgrímur Jónsson",
+		"keywords": [
+			"landscape",
+			"natute",
+			"nationalism",
+			"Iceland",
+			"rural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1958,
+				"happiness": 6,
+				"location": "Skogar, Iceland",
+				"events": [
+					"studied at the Royal Danish Academy of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting"
+		]
+	}
+]

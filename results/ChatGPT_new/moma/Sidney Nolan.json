@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Sidney Nolan",
+		"keywords": [
+			"outback",
+			"Ned Kelly",
+			"abstract landscapes",
+			"portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Carlton, Melbourne, Australia",
+				"events": []
+			},
+			{
+				"start": 1927,
+				"end": 1945,
+				"happiness": 5,
+				"location": "St Kilda, Melbourne, Australia",
+				"events": [
+					"attended art school"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Heide, Melbourne, Australia",
+				"events": [
+					"started the Ned Kelly series"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1953,
+				"happiness": 5,
+				"location": "Europe",
+				"events": [
+					"traveled across Europe"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1978,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"held solo exhibitions"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Herefordshire, England",
+				"events": [
+					"continued to paint",
+					"did occasional travels"
+				]
+			}
+		],
+		"genre": [
+			"modern",
+			"abstract"
+		]
+	}
+]

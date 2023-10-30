@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Wladyslaw Strzemiński",
+		"keywords": [
+			"avant-garde",
+			"functionalism",
+			"post-impressionism",
+			"unism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1920,
+				"happiness": 2,
+				"location": "Minsk, Russian Empire",
+				"events": [
+					"World War I",
+					"lost arm and leg"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Warsaw, Poland",
+				"events": [
+					"met wife Katarzyna Kobro",
+					"founded Strzemiński Artistic Club in Łódź"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1952,
+				"happiness": 3,
+				"location": "Łódź, Poland",
+				"events": [
+					"divorce from wife",
+					"fired from job due to his non-compliance with Socialist Realism"
+				]
+			}
+		],
+		"genre": [
+			"avant-garde",
+			"post-impressionism",
+			"functionalism"
+		]
+	}
+]

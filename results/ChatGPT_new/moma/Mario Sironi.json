@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Mario Sironi",
+		"keywords": [
+			"modernism",
+			"futurism",
+			"architecture",
+			"machinery",
+			"urban landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"studied engineering at the University of Rome",
+					"started painting and drawing"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Milan, Italy",
+				"events": [
+					"fought in World War I",
+					"joined futuristic movement"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Milan, Italy",
+				"events": [
+					"started monumental painting",
+					"became member of 'Novecento Italiano' group"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"left the Novecento Italiano group",
+					"started working on large scale public murals"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1961,
+				"happiness": 3,
+				"location": "Milan, Italy",
+				"events": [
+					"faced criticism for involvement with fascism",
+					"reduced artistic output due to poor health"
+				]
+			}
+		],
+		"genre": [
+			"Futurism",
+			"Metaphysical art",
+			"Modernism"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Endre Bálint",
+		"keywords": [
+			"surrealism",
+			"abstract",
+			"symbolism",
+			"nature",
+			"loneliness"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1929,
+				"happiness": 6,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Started drawing from an early age"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1941,
+				"happiness": 7,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Studied in the College of Fine Arts",
+					"Co-founded the European school, a progressive art movement"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Survived the Second World War"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Began producing surrealist inspired works"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1986,
+				"happiness": 8,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Received international recognition with solo exhibitions in Paris, London, New York"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract art",
+			"Symbolism"
+		]
+	}
+]

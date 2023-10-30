@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Wols (A. O. Wolfgang Schulze)",
+		"keywords": [
+			"abstract",
+			"expressive",
+			"surreal",
+			"chaos",
+			"fragility"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1951,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"Born in Berlin",
+					"Studied at the Dresden Academy"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1933,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"Left Germany due to rise of Nazi regime"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Initiated into surrealistic circle",
+					"Interned by French as an enemy alien"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1941,
+				"happiness": 2,
+				"location": "Camp des Milles, France",
+				"events": [
+					"Interned in Camp des Milles during WWII"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1951,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"Developed alcoholism",
+					"Created his major paintings"
+				]
+			}
+		],
+		"genre": [
+			"Tachisme",
+			"Abstract Expressionism",
+			"Art Informel"
+		]
+	}
+]

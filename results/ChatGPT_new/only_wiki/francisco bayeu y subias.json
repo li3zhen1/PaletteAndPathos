@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Francisco Bayeu y Subias",
+		"keywords": [
+			"religion",
+			"mythology",
+			"royalty",
+			"portraits",
+			"court"
+		],
+		"lifePeriods": [
+			{
+				"start": 1734,
+				"end": 1747,
+				"happiness": 7,
+				"location": "Zaragoza, Spain",
+				"events": []
+			},
+			{
+				"start": 1748,
+				"end": 1751,
+				"happiness": 5,
+				"location": "Zaragoza, Spain",
+				"events": [
+					"began painting training"
+				]
+			},
+			{
+				"start": 1751,
+				"end": 1758,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"studied in Real Academia de Bellas Artes de San Fernando"
+				]
+			},
+			{
+				"start": 1758,
+				"end": 1766,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"became a court painter",
+					"started working on royal commissions"
+				]
+			},
+			{
+				"start": 1767,
+				"end": 1788,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"started working on El Prado Museum"
+				]
+			},
+			{
+				"start": 1788,
+				"end": 1795,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"worked on royal tapestry factory"
+				]
+			},
+			{
+				"start": 1796,
+				"end": 1795,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"health declined"
+				]
+			}
+		],
+		"genre": [
+			"Neoclassicism",
+			"Rococo"
+		]
+	}
+]

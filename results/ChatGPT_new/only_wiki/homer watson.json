@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Homer Watson",
+		"keywords": [
+			"landscape",
+			"rural",
+			"nature",
+			"seasons",
+			"historical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1855,
+				"end": 1880,
+				"happiness": 5,
+				"location": "Kitchener, Ontario, Canada",
+				"events": [
+					"began painting",
+					"self-taught artist"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Doon, Ontario, Canada",
+				"events": [
+					"sold paintings to the Marquis of Lorne and Princess Louise, the Duke of Connaught, Sir John A. Macdonald and Sir Wilfrid Laurier",
+					"became internationally recognized"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"Rural scenes"
+		]
+	}
+]

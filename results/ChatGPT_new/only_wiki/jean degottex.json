@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Jean Degottex",
+		"keywords": [
+			"abstract",
+			"calligraphy",
+			"nature",
+			"minimalism",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1918,
+				"end": 1943,
+				"happiness": 6,
+				"location": "Lyon, France",
+				"events": [
+					"studied at the Ecole des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"emerged as a significant figure in the post-war French art scene",
+					"became a member of the Nouveau Réalisme movement"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1988,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"loss of his wife led him to delve into spiritual themes in his art",
+					"founded the group 'Achse' with German painter Winfred Gaul"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2001,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"recognition of his work increased"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Nouveau Réalisme"
+		]
+	}
+]

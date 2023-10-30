@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Ed Moses",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"landscape",
+			"action painting",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Long Beach, California",
+				"events": [
+					"joined Navy during World War II"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"participated in Abstract Expressionism Movement"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"transitioned to Minimalism"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2018,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"inducted into California Hall of Fame"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Minimalism",
+			"Post-Minimalism"
+		]
+	}
+]

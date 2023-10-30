@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Ryan Sullivan",
+		"keywords": [
+			"abstraction",
+			"process-oriented",
+			"latent images",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1983,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Graduated from the Rhode Island school of design",
+					"Work exhibited at the Museum of Modern Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

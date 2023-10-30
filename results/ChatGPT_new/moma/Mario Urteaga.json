@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Mario Urteaga",
+		"keywords": [
+			"Cajamarca",
+			"portraits",
+			"religious themes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Cajamarca, Peru",
+				"events": [
+					"Influence of his teacher Radolinsky",
+					"Emergence as an academic painter"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Portraiture"
+		]
+	}
+]

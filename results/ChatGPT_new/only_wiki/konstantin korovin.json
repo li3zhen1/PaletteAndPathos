@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Konstantin Korovin",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"impressionism",
+			"portraits",
+			"theatre"
+		],
+		"lifePeriods": [
+			{
+				"start": 1861,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Started attending the Moscow School of Painting",
+					"Adopted impressionism after a trip to Paris"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Became a highly demanded in painting theatre",
+					"His work was popular among the Moscow art and theatre circles"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1923,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"His work saw success overseas",
+					"Decorated the Armenian Pavilion at the World Fair in Paris"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Left Russia after the October Revolution",
+					"Lived in financial hardship"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Post-Impressionism"
+		]
+	}
+]

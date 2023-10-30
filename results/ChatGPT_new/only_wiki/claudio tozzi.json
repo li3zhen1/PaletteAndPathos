@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Claudio Tozzi",
+		"keywords": [
+			"pop art",
+			"symbolism",
+			"protest",
+			"suburban",
+			"Brazil"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 2018,
+				"happiness": 7,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Became a leading figure in the Brazilian Pop Art movement",
+					"Received Prêmio Acquisition Contemporary Art Salon of Santo André"
+				]
+			}
+		],
+		"genre": [
+			"Pop art",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Natalia Goncharova",
+		"keywords": [
+			"religion",
+			"peasantry",
+			"nature",
+			"cubism",
+			"primitivism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1915,
+				"happiness": 6,
+				"location": "Russia",
+				"events": [
+					"met her lifelong partner, Mikhail Larionov",
+					"co-founded the Jack of Diamonds art group",
+					"became involved in the Russian Futurist movement"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"designed sets and costumes for Ballets Russes",
+					"started focusing on book illustrations",
+					"broke away from futurism and embraced a neoclassical style"
+				]
+			}
+		],
+		"genre": [
+			"avant-garde",
+			"cubism",
+			"primitivism"
+		]
+	}
+]

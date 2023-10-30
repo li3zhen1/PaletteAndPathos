@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Myron Stout",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"geometry",
+			"monochrome",
+			"precision"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Denton, Texas, United States",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1934,
+				"happiness": 7,
+				"location": "North Texas State Teachers College, Denton, Texas",
+				"events": [
+					"Studied art"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Urbana, Illinois",
+				"events": [
+					"Studied at University of Illinois"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1947,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"Exposed to abstract art",
+					"Impacted by the art of Piet Mondrian"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Provincetown, Massachusetts",
+				"events": [
+					"Started creating geometrical abstract compositions"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1987,
+				"happiness": 7,
+				"location": "Provincetown, Massachusetts",
+				"events": [
+					"Created his most significant artworks",
+					"Lived a secluded life focused on his art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

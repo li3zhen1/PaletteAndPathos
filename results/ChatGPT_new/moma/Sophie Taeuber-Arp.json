@@ -1,0 +1,105 @@
+[
+	{
+		"name": "Sophie Taeuber-Arp",
+		"keywords": [
+			"geometry",
+			"abstraction",
+			"Dadaism",
+			"constructivism",
+			"textiles"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1899,
+				"happiness": 7,
+				"location": "Davos, Switzerland",
+				"events": [
+					"born into a well-to-do family"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Switzerland",
+				"events": [
+					"received education in a private institution"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1911,
+				"happiness": 7,
+				"location": "St. Gallen, Switzerland",
+				"events": [
+					"studied at the School of Applied Arts"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1915,
+				"happiness": 8,
+				"location": "Munich, Germany",
+				"events": [
+					"studied at the workshop of Wilhelm von Debschitz",
+					"exposed to abstraction and constructivism"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"became part of the Dada movement",
+					"met her future husband, Hans Arp"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1928,
+				"happiness": 9,
+				"location": "Strasbourg, France",
+				"events": [
+					"married Hans Arp",
+					"established a constructive art practice with her husband"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1938,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"co-founded and participated in the Cercle et Carre (Circle and Square) group",
+					"evolved her art style"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1943,
+				"happiness": 5,
+				"location": "southern France",
+				"events": [
+					"escaped to southern France from Paris due to World War II",
+					"their artworks were labeled as degenerate by the Nazis"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1943,
+				"happiness": 0,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"died tragically in a domestic accident"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"constructivism",
+			"Dadaism"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Camille Bombois",
+		"keywords": [
+			"countryside",
+			"circus",
+			"still life",
+			"portraits",
+			"vibrant colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1907,
+				"happiness": 4,
+				"location": "Venarey-les-Laumes, France",
+				"events": [
+					"born to a family of rural laborers",
+					"worked on farms and roads"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"joined a travelling show as a wrestler",
+					"started painting"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Western Front, France",
+				"events": [
+					"fought in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"painted at night after work",
+					"selected to exhibit at the Salon des Independants"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1935,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"gained recognition as a primitivist painter"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"severe eye condition affected his work",
+					"inducted into the French Legion of Honor"
+				]
+			}
+		],
+		"genre": [
+			"Primitivistic paintings",
+			"Naïve art"
+		]
+	}
+]

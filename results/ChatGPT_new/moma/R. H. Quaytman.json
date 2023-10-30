@@ -1,0 +1,65 @@
+[
+	{
+		"name": "R. H. Quaytman",
+		"keywords": [
+			"abstraction",
+			"optical patterns",
+			"historical narratives",
+			"personal elements",
+			"photographic silkscreen"
+		],
+		"lifePeriods": [
+			{
+				"start": 1961,
+				"end": 1979,
+				"happiness": 6,
+				"location": "Boston, USA",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1983,
+				"happiness": 7,
+				"location": "Hanover, USA",
+				"events": [
+					"Studied at the Fine Arts School, Dartmouth College"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Studied at the Gerrit Rietveld Academie"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Joined the faculty of Bard College's MFA program",
+					"Began the ongoing 'Chapter' series"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"Recognized by 55th Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract art",
+			"Photography"
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Ross Bleckner",
+		"keywords": [
+			"nature",
+			"illusion",
+			"homage",
+			"memorial",
+			"remembrance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 1967,
+				"happiness": 6,
+				"location": "New York, NY",
+				"events": [
+					"born into a middle-class Jewish family"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Pittsburgh, PA",
+				"events": [
+					"studied at Carnegie Mellon University"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1973,
+				"happiness": 8,
+				"location": "New York, NY",
+				"events": [
+					"graduated from California Institute of the Arts"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1980,
+				"happiness": 6,
+				"location": "New York, NY",
+				"events": [
+					"struggled to find his unique style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York, NY",
+				"events": [
+					"recognized as one of the leading American artists",
+					"active in AIDS-related causes"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, NY",
+				"events": [
+					"continued to contribute to the art scene"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"symbolic",
+			"contemporary"
+		]
+	}
+]

@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Giuseppe Capogrossi",
+		"keywords": [
+			"abstract",
+			"sign",
+			"linear",
+			"monochrome",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Born into an aristocratic family."
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Studied law at the University of Rome, discovered passion for art."
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Became a founding member of Forma 1 group, turned to geometric abstraction in his art."
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Began producing his 'sign' compositions, represented Italy at the Venice Biennale."
+				]
+			}
+		],
+		"genre": [
+			"abstract art"
+		]
+	}
+]

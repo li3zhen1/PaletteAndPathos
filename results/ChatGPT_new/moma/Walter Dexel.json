@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Walter Dexel",
+		"keywords": [
+			"geometric",
+			"minimalistic",
+			"abstract",
+			"advertisement",
+			"traffic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Munich, Germany",
+				"events": [
+					"attended the Royal Bavarian Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 7,
+				"location": "Jena, Germany",
+				"events": [
+					"became head of the Jena Art Society",
+					"designed traffic and advertising systems"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Jena, Germany",
+				"events": [
+					"labelled as 'degenerate' by Nazi regime",
+					"removed from his positions",
+					"prohibited from painting"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1973,
+				"happiness": 5,
+				"location": "Munich, Germany",
+				"events": [
+					"returned to painting",
+					"passed away in 1973"
+				]
+			}
+		],
+		"genre": [
+			"Concrete art",
+			"Constructivism"
+		]
+	}
+]

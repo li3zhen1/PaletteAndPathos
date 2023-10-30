@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Eduardo Viana",
+		"keywords": [
+			"modernism",
+			"cubism",
+			"expressionism",
+			"still life",
+			"portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Began his artistic studies"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Fine Arts School"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Joined the Modernist movement in Portugal",
+					"Exhibited at the first Modernist Exhibitions"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1967,
+				"happiness": 4,
+				"location": "Sintra, Portugal",
+				"events": [
+					"Spent hermit life"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"cubism",
+			"expressionism"
+		]
+	}
+]

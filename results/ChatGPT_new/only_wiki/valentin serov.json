@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Valentin Serov",
+		"keywords": [
+			"portraits",
+			"impressionism",
+			"realism",
+			"nature",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1865,
+				"end": 1871,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Born into an artistically gifted family"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1880,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Childhood spent travelling in Munich and Paris",
+					"Received first art education"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1897,
+				"happiness": 8,
+				"location": "Moscow, Russia",
+				"events": [
+					"Studied in Moscow School of Painters",
+					"Became one of the premier portrait artists in Russia"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1911,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Led the 'World of Art' movement",
+					"Experienced artistic burnout"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

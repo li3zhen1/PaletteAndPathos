@@ -1,0 +1,74 @@
+[
+	{
+		"name": "LeRoy Neiman",
+		"keywords": [
+			"sports",
+			"leisure",
+			"celebrities",
+			"expressionism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1938,
+				"happiness": 3,
+				"location": "Saint Paul, Minnesota",
+				"events": [
+					"dealing with economic hardship of the Great Depression"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Europe",
+				"events": [
+					"served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Chicago, Illinois",
+				"events": [
+					"studied at the School of the Art Institute of Chicago",
+					"teaches at the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"got a job at ‘Playboy’ magazine"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 9,
+				"location": "New York, New York",
+				"events": [
+					"achieved immense popularity",
+					"depicted sports events"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2012,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"further acclaim with Olympics artwork"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Contemporary art"
+		]
+	}
+]

@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Guy Rose",
+		"keywords": [
+			"Impressionism",
+			"California landscapes",
+			"flowers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1879,
+				"happiness": 7,
+				"location": "San Gabriel, California",
+				"events": [
+					"Childhood in California",
+					"Influenced by the beautiful environment"
+				]
+			},
+			{
+				"start": 1879,
+				"end": 1888,
+				"happiness": 7,
+				"location": "San Francisco, California",
+				"events": [
+					"Began Art Career",
+					"Entered San Francisco School of Design"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1893,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Académie Julian",
+					"Influenced by French Impressionism"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1899,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Worked as an illustrator",
+					"Married Ethel Boardman"
+				]
+			},
+			{
+				"start": 1899,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Giverny, France",
+				"events": [
+					"Influenced by Claude Monet",
+					"Developed his Impressionist style"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Los Angeles, USA",
+				"events": [
+					"Taught at Stickney Memorial School of Art"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1925,
+				"happiness": 4,
+				"location": "Los Angeles, California",
+				"events": [
+					"Suffered from a debilitating stroke"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Landscape art",
+			"Still life"
+		]
+	}
+]

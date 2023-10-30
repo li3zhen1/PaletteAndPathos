@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Nikolas Gambaroff",
+		"keywords": [
+			"abstract",
+			"contemporary",
+			"materialism",
+			"consumption",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1979,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2007,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Studied at Bard College"
+				]
+			},
+			{
+				"start": 2007,
+				"end": 2016,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Developed his unique style",
+					"Started getting recognition"
+				]
+			},
+			{
+				"start": 2016,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Continuing to practice and exhibit his work"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Contemporary art"
+		]
+	}
+]

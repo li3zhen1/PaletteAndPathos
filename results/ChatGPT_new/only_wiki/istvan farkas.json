@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Istvan Farkas",
+		"keywords": [
+			"surrealism",
+			"portraits",
+			"nature",
+			"depression",
+			"death"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"studied at the Academy of Fine Arts in Munich"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "World War I Frontlines",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1934,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"opened Istvan Farkas Studio"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1944,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"migrated back to Hungary"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1944,
+				"happiness": 0,
+				"location": "Auschwitz-Birkenau, Poland",
+				"events": [
+					"executed at Auschwitz-Birkenau during the Holocaust"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Symbolism",
+			"Surrealism"
+		]
+	}
+]

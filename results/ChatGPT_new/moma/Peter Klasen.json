@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Peter Klasen",
+		"keywords": [
+			"urban",
+			"industrial",
+			"mechanical",
+			"isolation",
+			"modern society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Lübeck, Germany",
+				"events": [
+					"studied fine arts",
+					"was apprenticed to a painter"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"studied in Berlin University of the Arts",
+					"started to create his unique style"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to France",
+					"joined the Narrative Figuration movement"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2010,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"celebrated as a prominent artist",
+					"exhibitions around the world"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"continued his artistic work",
+					"maintains his unique style"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Narrative Figuration"
+		]
+	}
+]

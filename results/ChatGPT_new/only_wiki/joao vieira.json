@@ -1,0 +1,30 @@
+[
+	{
+		"ArtistLife": {
+			"name": "João Vieira",
+			"keywords": [
+				"modern art",
+				"colors",
+				"vibrant",
+				"portuguese culture"
+			],
+			"lifePeriods": [
+				{
+					"start": 1934,
+					"end": 2009,
+					"happiness": 6,
+					"location": "Vila Franca de Xira, Portugal",
+					"events": [
+						"weekends spent at the Graça Morais' house",
+						"won the prestigious AICA Award"
+					]
+				}
+			],
+			"genre": [
+				"Modern Art",
+				"Painting",
+				"Sculpture"
+			]
+		}
+	}
+]

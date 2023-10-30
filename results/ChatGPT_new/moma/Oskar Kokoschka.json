@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Oskar Kokoschka",
+		"keywords": [
+			"expressionism",
+			"psychological drama",
+			"war",
+			"love",
+			"deep human emotions"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1914,
+				"happiness": 3,
+				"location": "Vienna, Austria",
+				"events": [
+					"studied at the School of Arts and Crafts",
+					"had a passionate, but stormy love affair with Alma Mahler"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 2,
+				"location": "Vienna, Austria",
+				"events": [
+					"served in World War I",
+					"was seriously injured"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Dresden, Germany",
+				"events": [
+					"taught at the Dresden Academy"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1953,
+				"happiness": 2,
+				"location": "London, UK",
+				"events": [
+					"fled to the UK due to the rise of Nazism",
+					"work was declared 'degenerate' by Nazis"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Villeneuve, Switzerland",
+				"events": []
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Portraits",
+			"Landscapes"
+		]
+	}
+]

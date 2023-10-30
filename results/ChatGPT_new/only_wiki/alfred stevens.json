@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Alfred Stevens",
+		"keywords": [
+			"women",
+			"genre-scenes",
+			"portraits",
+			"interiors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1823,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"studied under François-Joseph Navez",
+					"went to Paris"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Genre art",
+			"Portraiture"
+		]
+	}
+]

@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Willem Kalf",
+		"keywords": [
+			"still life",
+			"luxury",
+			"wealth",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1619,
+				"end": 1629,
+				"happiness": 6,
+				"location": "Rotterdam, Netherlands",
+				"events": [
+					"born in Rotterdam"
+				]
+			},
+			{
+				"start": 1630,
+				"end": 1639,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"early career"
+				]
+			},
+			{
+				"start": 1640,
+				"end": 1649,
+				"happiness": 6,
+				"location": "Hoorn, Netherlands",
+				"events": [
+					"return to the Netherlands"
+				]
+			},
+			{
+				"start": 1650,
+				"end": 1693,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"established his career",
+					"married in 1654"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Still life"
+		]
+	}
+]

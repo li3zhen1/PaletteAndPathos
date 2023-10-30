@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Karl Benjamin",
+		"keywords": [
+			"Geometric Abstract",
+			"Parallel Stripes",
+			"Shapes",
+			"Color Interaction",
+			"Abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1943,
+				"happiness": 7,
+				"location": "Chicago, Illinois",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Worldwide",
+				"events": [
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"Studied at University of Redlands",
+					"Started teaching career"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1979,
+				"happiness": 8,
+				"location": "Pomona, California",
+				"events": [
+					"Became an influential figure in LA's art scene",
+					"Started his 'Abstract Classicist' movement"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 2012,
+				"happiness": 5,
+				"location": "Claremont, California",
+				"events": [
+					"Retired from teaching",
+					"In 2007, featured in the exhibition 'Birth of the Cool'"
+				]
+			}
+		],
+		"genre": [
+			"Geometric Abstract Art",
+			"Abstract Classicism"
+		]
+	}
+]

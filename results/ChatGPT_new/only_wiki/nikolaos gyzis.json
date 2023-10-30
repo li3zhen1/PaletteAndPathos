@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Nikolaos Gyzis",
+		"keywords": [
+			"children",
+			"fantasy",
+			"mysticism",
+			"emotion",
+			"human condition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1842,
+				"end": 1865,
+				"happiness": 5,
+				"location": "Tinos, Greece",
+				"events": [
+					"started his art studies",
+					"moved to Athens"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1880,
+				"happiness": 8,
+				"location": "Munich, Germany",
+				"events": [
+					"enrolled in Munich Fine Arts Academy",
+					"recognized as a significant artist"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1887,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"developed his personal artistic style",
+					"gained international recognition"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1901,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"appointed professor at the Munich Fine Arts Academy",
+					"painted one of his most famous works, 'The Secret School'"
+				]
+			}
+		],
+		"genre": [
+			"Academic Art",
+			"Symbolism",
+			"Realism"
+		]
+	}
+]

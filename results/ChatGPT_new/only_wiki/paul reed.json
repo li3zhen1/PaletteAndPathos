@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Paul Reed",
+		"keywords": [
+			"abstract",
+			"color field",
+			"geometric shapes",
+			"hard-edged abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1998,
+				"happiness": 6,
+				"location": "Washington, D.C., United States",
+				"events": [
+					"part of the Washington Color School",
+					"participated in the Art in Embassies Program"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2015,
+				"happiness": 7,
+				"location": "Arlington, Virginia, United States",
+				"events": [
+					"his works were collected by major institutions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Hard-edge painting",
+			"Color Field"
+		]
+	}
+]

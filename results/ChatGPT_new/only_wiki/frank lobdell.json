@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Frank Lobdell",
+		"keywords": [
+			"abstract",
+			"emotion",
+			"contemporary",
+			"human condition",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Kansas City, Missouri",
+				"events": [
+					"Started interest in art"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"Served in World War II",
+					"Studied at St. Louis School of Fine Arts via the G.I. Bill"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 6,
+				"location": "California",
+				"events": [
+					"Attended California School of Fine Arts",
+					"Met Richard Diebenkorn"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1990,
+				"happiness": 7,
+				"location": "San Francisco, California",
+				"events": [
+					"Became an influential figure in Bay Area art scene",
+					"Taught at Stanford University"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2013,
+				"happiness": 7,
+				"location": "Palo Alto, California",
+				"events": [
+					"Named California Artist of the Year"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Figurative Art"
+		]
+	}
+]

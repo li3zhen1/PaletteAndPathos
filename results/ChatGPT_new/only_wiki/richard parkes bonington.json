@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Richard Parkes Bonington",
+		"keywords": [
+			"landscape",
+			"marine",
+			"historical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1802,
+				"end": 1828,
+				"happiness": 4,
+				"location": "Arnold, UK",
+				"events": [
+					"Born to a family of artisans"
+				]
+			},
+			{
+				"start": 1817,
+				"end": 1818,
+				"happiness": 7,
+				"location": "Calais, France",
+				"events": [
+					"Moved to France with family"
+				]
+			},
+			{
+				"start": 1818,
+				"end": 1824,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Louvre",
+					"Met Eugene Delacroix"
+				]
+			},
+			{
+				"start": 1824,
+				"end": 1826,
+				"happiness": 8,
+				"location": "London, UK",
+				"events": [
+					"His works exhibited at Royal Academy"
+				]
+			},
+			{
+				"start": 1826,
+				"end": 1828,
+				"happiness": 3,
+				"location": "London, UK",
+				"events": [
+					"Struggled with tuberculosis",
+					"Died prematurely at the age of 25"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Landscape painting",
+			"Marine art"
+		]
+	}
+]

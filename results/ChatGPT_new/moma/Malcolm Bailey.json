@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Malcolm Bailey",
+		"keywords": [
+			"politics",
+			"black culture",
+			"pop art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1947,
+				"end": 2015,
+				"happiness": 6,
+				"location": "South Bronx, New York City, United States",
+				"events": [
+					"joined Just Above Midtown gallery"
+				]
+			}
+		],
+		"genre": [
+			"Pop art",
+			"Political art"
+		]
+	}
+]

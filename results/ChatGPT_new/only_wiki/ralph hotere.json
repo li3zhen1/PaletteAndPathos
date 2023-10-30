@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Ralph Hotere",
+		"keywords": [
+			"political statement",
+			"nature",
+			"darkness",
+			"Maori culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Mitimiti, New Zealand",
+				"events": [
+					"grew up in a large family",
+					"worked in Australian mining industry"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1973,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"studied at Central School of Art",
+					"won a Frances Hodgkins Fellowship"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2013,
+				"happiness": 6,
+				"location": "Dunedin, New Zealand",
+				"events": [
+					"held multiple solo exhibitions",
+					"awarded with an honorary doctorate in literature"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"landscape art",
+			"political art"
+		]
+	}
+]

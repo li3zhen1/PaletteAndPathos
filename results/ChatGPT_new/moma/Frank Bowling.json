@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Frank Bowling",
+		"keywords": [
+			"abstract",
+			"color",
+			"map-like imagery",
+			"pouring technique",
+			"colonialism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Bartica, British Guiana",
+				"events": [
+					"Born on February 26, 1934"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1959,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Emigrated to England"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1962,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Attended the Royal College of Art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1966,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Struggled to establish his career as an artist"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1975,
+				"happiness": 9,
+				"location": "New York City, USA",
+				"events": [
+					"Moved to New York City",
+					"Developed his 'Map Paintings'"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"Further developed his distinct abstract style"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2020,
+				"happiness": 8,
+				"location": "New York City, USA and London, England",
+				"events": [
+					"Became a transatlantic artist dividing his time between NYC and London"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Modern Art"
+		]
+	}
+]

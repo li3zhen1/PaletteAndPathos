@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Arthur Segal",
+		"keywords": [
+			"expressionism",
+			"abstract",
+			"realism",
+			"cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1892,
+				"happiness": 5,
+				"location": "Jassy, Romania",
+				"events": [
+					"born into a Jewish family"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"found his artistic calling",
+					"expansion of artistic expressions"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"active in various avant-garde movements"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"started experimenting with abstraction"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1944,
+				"happiness": 4,
+				"location": "London, United Kingdom",
+				"events": [
+					"left war-torn Europe for London"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1944,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"abstract art",
+			"expressionism"
+		]
+	}
+]

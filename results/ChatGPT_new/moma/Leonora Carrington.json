@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Leonora Carrington",
+		"keywords": [
+			"surrealism",
+			"fantasy",
+			"women",
+			"animals",
+			"magic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Clayton Green, Lancaster, England",
+				"events": [
+					"Born into a wealthy family",
+					"Started painting in her childhood"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1940,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Met and fell in love with Max Ernst",
+					"Experienced surrealism"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1942,
+				"happiness": 2,
+				"location": "Madrid, Spain",
+				"events": [
+					"Suffered from mental instability following Max Ernst's arrest"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Moved to Mexico with Renato Leduc",
+					"Made major contributions to the Mexican Surrealist movement"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2011,
+				"happiness": 9,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Enjoyed international recognition"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"modernism"
+		]
+	}
+]

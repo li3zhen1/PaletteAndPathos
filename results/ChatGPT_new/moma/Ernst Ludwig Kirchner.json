@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Ernst Ludwig Kirchner",
+		"keywords": [
+			"urban life",
+			"nudes",
+			"nature",
+			"primitive art",
+			"dislocation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Aschaffenburg, Germany",
+				"events": [
+					"formed close-knit group of friends at arts and crafts school"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Dresden, Germany",
+				"events": [
+					"formed Die Brücke (The Bridge) group",
+					"began painting city life and nudes"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"painted vivid scenes of city life",
+					"broke with Die Brücke",
+					"faced scandal involving public nudity"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1915,
+				"happiness": 2,
+				"location": "German army, World War I",
+				"events": [
+					"mentally and physically ruined by the war"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Davos, Switzerland",
+				"events": [
+					"nervous breakdown",
+					"healed through intense painting"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1938,
+				"happiness": 3,
+				"location": "Davos, Switzerland",
+				"events": [
+					"labeled 'degenerate' by Nazis",
+					"suicide due to despair"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Modernism"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Magnus Plessen",
+		"keywords": [
+			"abstract",
+			"figurative",
+			"repetition",
+			"displacement",
+			"transformation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 1991,
+				"happiness": 5,
+				"location": "Hamburg, Germany",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1994,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Studied at Chelsea College of Art and Design"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Hamburg, Germany",
+				"events": [
+					"Studied at Hochschule für bildende Künste"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"Started gaining recognition for his work",
+					"Held several solo exhibitions"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"Continued to improve and develop his work",
+					"Participated in multiple group exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Figurative Art"
+		]
+	}
+]

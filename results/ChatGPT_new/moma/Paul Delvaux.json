@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Paul Delvaux",
+		"keywords": [
+			"dreams",
+			"nudity",
+			"surrealism",
+			"trains",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Antheit, Belgium",
+				"events": [
+					"transition from traditional education to art studies"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1935,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"studied at the Royal Academy of Fine Arts",
+					"explored Post-Impressionism and Expressionism"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"developed his unique surrealistic style",
+					"exhibited with the Surrealists"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Brussels, Belgium",
+				"events": [
+					"turbulent period during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Saint-Idesbald, Belgium",
+				"events": [
+					"consistent painting despite post-war artistic trends",
+					"continued investigations into the dream world"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1994,
+				"happiness": 5,
+				"location": "Furnes, Belgium",
+				"events": [
+					"became a member of the Royal Academy of Belgium",
+					"passed away in 1994"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Symbolism",
+			"Impressionism"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Klavdy Lebedev",
+		"keywords": [
+			"Russian history",
+			"genre art",
+			"religious art",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1852,
+				"end": 1883,
+				"happiness": 5,
+				"location": "Pavlovsk",
+				"events": [
+					"began painting at a young age",
+					"joined the Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1912,
+				"happiness": 6,
+				"location": "Saint Petersburg",
+				"events": [
+					"became a member of the Peredvizhniki",
+					"painted 'The Rooks Have Come Back'"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1916,
+				"happiness": 4,
+				"location": "Saint Petersburg",
+				"events": [
+					"health began to decline",
+					"continued to paint despite poor health"
+				]
+			}
+		],
+		"genre": [
+			"Genre art",
+			"History painting"
+		]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Gilbert Proesch",
+		"keywords": [
+			"humor",
+			"identity",
+			"cultural commentary",
+			"violent imagery",
+			"bisexuality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1967,
+				"happiness": 5,
+				"location": "San Martin de Tor, Italy",
+				"events": [
+					"studied at the Dolomiti Art Academy in Italy",
+					"served temporary stints as a nurse and a nanny"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1970,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"met George Passmore at Saint Martins School of Art",
+					"formed art duo Gilbert & George"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2022,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"established themselves as 'live' sculptures",
+					"won the Turner Prize in 1986"
+				]
+			}
+		],
+		"genre": [
+			"Performance Art",
+			"Contemporary Art"
+		]
+	}
+]

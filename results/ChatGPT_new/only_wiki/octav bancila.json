@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Octav Băncilă",
+		"keywords": [
+			"peasantry",
+			"soldiers",
+			"social themes",
+			"life struggle",
+			"reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1894,
+				"happiness": 3,
+				"location": "Botoșani, Romania",
+				"events": [
+					"Young and formative years"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1899,
+				"happiness": 5,
+				"location": "Munich and Paris",
+				"events": [
+					"Graduated from the Munich Fine Arts Academy",
+					"Exposed to European art"
+				]
+			},
+			{
+				"start": 1899,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Botoșani, Romania",
+				"events": [
+					"Returned home from abroad"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Iași, Romania",
+				"events": [
+					"Painted major works",
+					"Joined the Social-Democratic Party"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"social realism"
+		]
+	}
+]

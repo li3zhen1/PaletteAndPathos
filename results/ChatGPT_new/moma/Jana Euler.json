@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Jana Euler",
+		"keywords": [
+			"abstract",
+			"realism",
+			"humor",
+			"surrealistic",
+			"body"
+		],
+		"lifePeriods": [
+			{
+				"start": 1982,
+				"end": 2018,
+				"happiness": 6,
+				"location": "Friedberg",
+				"events": [
+					"commenced studying at the Staedelschule in Frankfurt",
+					"founded the project space 'More Soon'"
+				]
+			},
+			{
+				"start": 2018,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Berlin",
+				"events": [
+					"featured in solo exhibitions in major institutions",
+					"promoted to professor at the University of Fine Arts in Hamburg"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

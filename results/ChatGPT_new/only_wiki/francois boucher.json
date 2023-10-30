@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Francois Boucher",
+		"keywords": [
+			"romance",
+			"mythology",
+			"nature",
+			"nudity",
+			"rococo"
+		],
+		"lifePeriods": [
+			{
+				"start": 1703,
+				"end": 1770,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Won the prestigious Prix de Rome",
+					"Became a faculty member at Royal Academy of Painting and Sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Rococo"
+		]
+	}
+]

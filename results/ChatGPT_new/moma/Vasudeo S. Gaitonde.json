@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Vasudeo S. Gaitonde",
+		"keywords": [
+			"abstract",
+			"formless",
+			"silence",
+			"nature",
+			"harmony"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1948,
+				"happiness": 7,
+				"location": "Nagpur, India",
+				"events": [
+					"Started learning art",
+					"Completed his art education at the J. J. School of Art in Bombay"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Bombay, India",
+				"events": [
+					"Joined Progressive Artists' Group (PAG)",
+					"Transitioned from figurative to abstract art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Bombay, India",
+				"events": [
+					"Received Rockefeller Fellowship",
+					"Inspired by Zen Buddhism",
+					"Experimented with form and color"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1988,
+				"happiness": 6,
+				"location": "New Delhi, India",
+				"events": [
+					"Received Padma Shri from Government of India",
+					"worked in silence and isolation"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2001,
+				"happiness": 5,
+				"location": "New Delhi, India",
+				"events": [
+					"Sick and paralyzed but continued to paint"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

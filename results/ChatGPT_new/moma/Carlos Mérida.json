@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Carlos Mérida",
+		"keywords": [
+			"indigenous culture",
+			"geometry",
+			"color",
+			"modernism",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1899,
+				"happiness": 5,
+				"location": "Quetzaltenango, Guatemala",
+				"events": [
+					"born into an indigenous K’iche' Maya family"
+				]
+			},
+			{
+				"start": 1899,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied musical theory",
+					"decided to dedicate his life to the arts instead of music"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"became a part of the intellectual and artistic circles",
+					"began defining his personal style in painting"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"started applying more abstract forms in his work",
+					"focused on mural paintings"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"his work adopted increased geometric abstraction",
+					"published his book, The Dance of the Sun"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1984,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"developed into a fully abstract artist",
+					"died at the age of 93 in Mexico City"
+				]
+			}
+		],
+		"genre": [
+			"muralism",
+			"modernism",
+			"abstract art"
+		]
+	}
+]

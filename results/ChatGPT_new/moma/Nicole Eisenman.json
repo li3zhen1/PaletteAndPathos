@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Nicole Eisenman",
+		"keywords": [
+			"gender",
+			"sexuality",
+			"socio-political",
+			"pop-culture",
+			"daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1965,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Scarsdale, New York",
+				"events": [
+					"Born into a family of intellectuals"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1987,
+				"happiness": 8,
+				"location": "Providence, Rhode Island",
+				"events": [
+					"Studied at Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 1996,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Established herself in the New York art scene"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2015,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Received multiple recognitions including a Guggenheim fellowship",
+					"Was named a MacArthur fellow"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"Continued to exhibit internationally and receive acclaim for her work"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Figurative Art",
+			"Contemporary Art"
+		]
+	}
+]

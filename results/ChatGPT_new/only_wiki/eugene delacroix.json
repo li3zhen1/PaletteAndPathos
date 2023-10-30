@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Eugene Delacroix",
+		"keywords": [
+			"emotions",
+			"exoticism",
+			"freedom",
+			"wildlife",
+			"orientalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1798,
+				"end": 1822,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"early training in Paris studio of Pierre-Narcisse Guérin"
+				]
+			},
+			{
+				"start": 1822,
+				"end": 1832,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Introduced to literary Paris and Charles Baudelaire",
+					"Began using expressive brush strokes and color",
+					"completed 'Dante and Virgil'"
+				]
+			},
+			{
+				"start": 1832,
+				"end": 1847,
+				"happiness": 5,
+				"location": "Morocco",
+				"events": [
+					"A trip to Morocco",
+					"created 'Women of Algiers in their Apartment'"
+				]
+			},
+			{
+				"start": 1847,
+				"end": 1863,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Completed a series of murals for the Chapel of Holy Angels in the Church of St. Sulpice",
+					"his health gradually deteriorated"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Historical painting",
+			"Orientalism"
+		]
+	}
+]

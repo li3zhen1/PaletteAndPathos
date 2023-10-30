@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Jose Guerrero",
+		"keywords": [
+			"abstract",
+			"colorfield",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Granada, Spain",
+				"events": [
+					"studied at the School of Arts and Crafts"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"met his wife Roxane Pollock",
+					"experienced early artistic success"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"pushed his career internationally",
+					"influenced by the Abstract Expressionist movement"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Granada, Spain",
+				"events": [
+					"returned to homeland",
+					"experienced critical and popular success"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color field"
+		]
+	}
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Pavel Fedotov",
+		"keywords": [
+			"everyday life",
+			"domestic scenes",
+			"criticism of society",
+			"psychological"
+		],
+		"lifePeriods": [
+			{
+				"start": 1815,
+				"end": 1828,
+				"happiness": 7,
+				"location": "Moscow, Russian Empire",
+				"events": [
+					"born into a serf family"
+				]
+			},
+			{
+				"start": 1828,
+				"end": 1844,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"joined the Imperial Guard"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1852,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"began painting",
+					"retired from the Imperial Guard"
+				]
+			},
+			{
+				"start": 1852,
+				"end": 1852,
+				"happiness": 2,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"diagnosed with severe tuberculosis"
+				]
+			},
+			{
+				"start": 1852,
+				"end": 1852,
+				"happiness": 1,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"mental illness worsened",
+					"hospitalized"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Genre painting"
+		]
+	}
+]

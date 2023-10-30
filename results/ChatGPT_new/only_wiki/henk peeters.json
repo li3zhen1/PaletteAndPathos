@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Henk Peeters",
+		"keywords": [
+			"minimalism",
+			"monochrome",
+			"nature",
+			"organic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 2013,
+				"happiness": 7,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"studied at the Royal Academy of Art",
+					"co-founded the Nul movement"
+				]
+			}
+		],
+		"genre": [
+			"minimalistic art",
+			"zero art"
+		]
+	}
+]

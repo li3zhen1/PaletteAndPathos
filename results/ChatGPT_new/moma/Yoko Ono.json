@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Yoko Ono",
+		"keywords": [
+			"peace",
+			"feminism",
+			"love",
+			"loss",
+			"activism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Survived the bombing of Tokyo in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Became part of the downtown artist scene",
+					"Met and married composer Toshi Ichiyanagi"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1969,
+				"happiness": 5,
+				"location": "London, UK",
+				"events": [
+					"Met John Lennon",
+					"She exhibited her art and released her experimental music"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Married John Lennon",
+					"John Lennon was murdered"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2020,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Continued her art and activism"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Experimental Music",
+			"Performance Art"
+		]
+	}
+]

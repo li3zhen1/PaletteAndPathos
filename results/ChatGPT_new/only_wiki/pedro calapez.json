@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Pedro Calapez",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"color",
+			"geometry",
+			"composition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1953,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Attended the School of Fine Arts of Lisbon",
+					"Exhibited work in numerous individual and collective exhibitions in Portugal and abroad"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"sculpture",
+			"installation"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Burhan Doğançay",
+		"keywords": [
+			"urban walls",
+			"posters",
+			"graffiti",
+			"decollage",
+			"photo-collage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"Passed his youth"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied law in Paris",
+					"Started his painting career"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Ankara, Turkey",
+				"events": [
+					"Served in the Turkish diplomatic service"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2013,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York",
+					"Focused on walls around the world"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Collage Art"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Grigoriy Myasoyedov",
+		"keywords": [
+			"peasant life",
+			"historical",
+			"nature",
+			"rural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1834,
+				"end": 1870,
+				"happiness": 7,
+				"location": "Pavlovsk, Russia",
+				"events": [
+					"Studied at the Imperial Academy of Arts",
+					"Traveled abroad for further studies"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1890,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Joined the Artel of Artists",
+					"Participated in the establishment of the Association of Travelling Art Exhibitions"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1911,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Paintings exhibited in major art exhibitions",
+					"Became a member of the Academy of Arts"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Genre Painting"
+		]
+	}
+]

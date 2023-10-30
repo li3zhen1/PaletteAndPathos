@@ -1,0 +1,77 @@
+[
+	{
+		"name": "André Masson",
+		"keywords": [
+			"surrealism",
+			"mythology",
+			"eroticism",
+			"nature",
+			"freedom"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1915,
+				"happiness": 5,
+				"location": "Balagny, France",
+				"events": [
+					"learnt painting and drawing at the age of 11"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1917,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"served in World War I",
+					"was seriously injured in the war"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Associated with Surrealist movement",
+					"developed 'automatic' method of painting"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Distanced himself from Surrealism",
+					"experimented with cubism and symbolism"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 3,
+				"location": "USA",
+				"events": [
+					"Fled to USA due to World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1987,
+				"happiness": 7,
+				"location": "France",
+				"events": [
+					"Returned to France after World War II",
+					"Received international recognition in his later career"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Cubism",
+			"Symbolism"
+		]
+	}
+]

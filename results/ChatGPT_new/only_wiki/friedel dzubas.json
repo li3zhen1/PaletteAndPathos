@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Friedel Dzubas",
+		"keywords": [
+			"abstract",
+			"large-scale",
+			"color field",
+			"lyrical",
+			"post-war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1933,
+				"happiness": 2,
+				"location": "Berlin, Germany",
+				"events": [
+					"experienced post-war hardship",
+					"began training in art"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"deepened his art studies",
+					"escaped from Nazi Germany"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1958,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"influenced by Jackson Pollock",
+					"joined the New York School"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1994,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"moved towards color field painting",
+					"experienced commercial and critical success"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Lyrical Abstraction",
+			"Color Field"
+		]
+	}
+]

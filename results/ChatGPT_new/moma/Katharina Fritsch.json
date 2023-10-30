@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Katharina Fritsch",
+		"keywords": [
+			"conceptual",
+			"minimalism",
+			"monochrome",
+			"symbolism",
+			"mass-production"
+		],
+		"lifePeriods": [
+			{
+				"start": 1956,
+				"end": 1977,
+				"happiness": 6,
+				"location": "Essen, West Germany",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1984,
+				"happiness": 7,
+				"location": "Dusseldorf, West Germany",
+				"events": [
+					"studied art at the Kunstakademie",
+					"influenced by Joseph Beuys and Fritz Schwegler"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Dusseldorf, West Germany",
+				"events": [
+					"created first largescale sculpture 'Rattenkonig'",
+					"participated in important exhibitions"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2010,
+				"happiness": 8,
+				"location": "Dusseldorf, Germany",
+				"events": [
+					"won the Golden Lion at the Venice Biennale",
+					"exhibited her works internationally"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Dusseldorf, Germany",
+				"events": [
+					"continued to participate in international exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"conceptual sculpture"
+		]
+	}
+]

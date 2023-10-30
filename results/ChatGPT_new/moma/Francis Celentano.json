@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Francis Celentano",
+		"keywords": [
+			"geometry",
+			"optical illusion",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1938,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Born to Italian immigrants"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1946,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Experiences of World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Studied at City College of New York"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Europe",
+				"events": [
+					"Studied and traveled in Europe"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1981,
+				"happiness": 8,
+				"location": "Seattle, USA",
+				"events": [
+					"Taught at University of Washington",
+					"Started experimenting with kinetic art"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Seattle, USA",
+				"events": [
+					"Continued to innovate in the realm of geometric abstraction"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2016,
+				"happiness": 7,
+				"location": "Seattle, USA",
+				"events": [
+					"Retired, but continued to create art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Kinetic art",
+			"Op art"
+		]
+	}
+]

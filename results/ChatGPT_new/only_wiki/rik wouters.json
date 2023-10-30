@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Rik Wouters",
+		"keywords": [
+			"impressionism",
+			"family",
+			"domestic scenes",
+			"nature",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1900,
+				"happiness": 4,
+				"location": "Mechelen, Belgium",
+				"events": [
+					"Born into a working-class family",
+					"Began apprenticeship as a sculptor"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Studied at the Académie Royale des Beaux-Arts",
+					"Married his muse Hélène Philomène Duerinckx (Nel)"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Developed his distinctive style",
+					"Produced some of his most known works"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1916,
+				"happiness": 3,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Moved due to World War I",
+					"Diagnosed with facial cancer"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Brabantine Fauvism"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Franz Xaver Winterhalter",
+		"keywords": [
+			"royalty",
+			"portraits",
+			"elegance",
+			"fashion",
+			"romanticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1805,
+				"end": 1835,
+				"happiness": 4,
+				"location": "Menzenschwand, Germany",
+				"events": [
+					"studied at the Academy of Arts in Munich"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1841,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"apprenticed for Paul Delaroche",
+					"began painting portraits"
+				]
+			},
+			{
+				"start": 1841,
+				"end": 1861,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"became court painter for Queen Victoria",
+					"gained international reputation"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"continued painting for royalty",
+					"faced hardships during Franco-Prussian War"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1873,
+				"happiness": 3,
+				"location": "Frankfurt, Germany",
+				"events": [
+					"health deteriorated",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"portrait painting",
+			"history painting"
+		]
+	}
+]

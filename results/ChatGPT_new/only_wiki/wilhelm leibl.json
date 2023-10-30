@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Wilhelm Leibl",
+		"keywords": [
+			"realism",
+			"rural life",
+			"portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1844,
+				"end": 1864,
+				"happiness": 7,
+				"location": "Cologne, Germany",
+				"events": [
+					"Received his initial training at the Cologne art school"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1869,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"Trained in the Munich Academy",
+					"Met Gustave Courbet"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1882,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Impacted by the artwork of Gustave Courbet",
+					"Returned to Munich due to the outbreak of Franco Prussian War"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Rural Bavaria, Germany",
+				"events": [
+					"Founded the 'Leibl-Kreis' group of artists",
+					"Focused on rural and peasant themes"
+				]
+			}
+		],
+		"genre": [
+			"Realism"
+		]
+	}
+]

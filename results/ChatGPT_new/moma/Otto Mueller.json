@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Otto Mueller",
+		"keywords": [
+			"expressionism",
+			"nudes",
+			"gypsies",
+			"nature",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1874,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Liebau, Kingdom of Prussia",
+				"events": [
+					"Born into a middle-class family",
+					"Studied at the Academy of Fine Arts in Dresden"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"Moved to Berlin",
+					"Joined 'Die Brücke', a group of German expressionist artists",
+					"Exhibited his work in several major German cities"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 8,
+				"location": "Breslau, Poland",
+				"events": [
+					"Appointed professor at the Breslau Academy",
+					"Created his celebrated gypsy themed paintings"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Painting",
+			"Drawing"
+		]
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Ivan Serpa",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"modernism",
+			"groups",
+			"educational work"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"founded the Front Group",
+					"served as a teacher at Museum of Modern Art in Rio de Janeiro"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric art",
+			"Modernist"
+		]
+	}
+]

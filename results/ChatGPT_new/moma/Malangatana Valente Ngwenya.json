@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Malangatana Valente Ngwenya",
+		"keywords": [
+			"politic",
+			"culture",
+			"society",
+			"Mozambique",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2011,
+				"happiness": 4,
+				"location": "Mozambique",
+				"events": [
+					"Became involved in the colonial liberation struggle",
+					"Started painting career"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2011,
+				"happiness": 6,
+				"location": "Mozambique and Portugal",
+				"events": [
+					"Received recognition for his artwork internationally",
+					"Advocated for culture and arts in his native Mozambique"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"African Art",
+			"Cubism"
+		]
+	}
+]

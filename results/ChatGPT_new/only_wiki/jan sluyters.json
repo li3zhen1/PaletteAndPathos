@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Jan Sluyters",
+		"keywords": [
+			"colorism",
+			"luminism",
+			"expressionism",
+			"still life",
+			"nudes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1910,
+				"happiness": 5,
+				"location": "'s-Hertogenbosch, Netherlands",
+				"events": [
+					"studied at Royal Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"met his wife",
+					"his work was prominently featured in De Moderne Kunstkring exhibition"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Became member of the Royal Netherlands Academy of Arts and Sciences"
+				]
+			}
+		],
+		"genre": [
+			"Post-impressionism",
+			"Fauvism",
+			"Expressionism"
+		]
+	}
+]

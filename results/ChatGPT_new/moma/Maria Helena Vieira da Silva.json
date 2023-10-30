@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Maria Helena Vieira da Silva",
+		"keywords": [
+			"abstract",
+			"labyrinths",
+			"cities",
+			"buildings",
+			"human condition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Started drawing lessons at an early age"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1928,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Studied painting and sculpture",
+					"Met her future husband Árpád Szenes"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"First exhibition in Paris",
+					"The break out of World War II"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Escaped from Nazi-occupied France",
+					"Unable to exhibit her work"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1992,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Returned to Paris",
+					"Won the Grand Prix for painting at the 1961 São Paulo Art Biennial"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

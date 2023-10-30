@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Gerard Ter Borch",
+		"keywords": [
+			"domestic life",
+			"military",
+			"portraits",
+			"elegance",
+			"children"
+		],
+		"lifePeriods": [
+			{
+				"start": 1617,
+				"end": 1625,
+				"happiness": 5,
+				"location": "Zwolle, Netherlands",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1625,
+				"end": 1633,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"start of painting apprenticeship"
+				]
+			},
+			{
+				"start": 1633,
+				"end": 1635,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"travel and training"
+				]
+			},
+			{
+				"start": 1635,
+				"end": 1646,
+				"happiness": 7,
+				"location": "Italy and Spain",
+				"events": [
+					"travel and influence from Italian and Spanish masters"
+				]
+			},
+			{
+				"start": 1646,
+				"end": 1648,
+				"happiness": 6,
+				"location": "Münster, Germany",
+				"events": [
+					"recorded the Peace of Westphalia"
+				]
+			},
+			{
+				"start": 1648,
+				"end": 1681,
+				"happiness": 7,
+				"location": "Deventer, Netherlands",
+				"events": [
+					"settled back in Netherlands",
+					"became a renowned portrait artist"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Genre art",
+			"Portrait painting"
+		]
+	}
+]

@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Theodor Werner",
+		"keywords": [
+			"realism",
+			"portraits",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": []
+			},
+			{
+				"start": 1917,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Berlin, Germany",
+				"events": [
+					"fought in World War I"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"Received recognition for his art"
+				]
+			}
+		],
+		"genre": [
+			"realism"
+		]
+	}
+]

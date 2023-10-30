@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Jules Joseph Lefebvre",
+		"keywords": [
+			"Women",
+			"Academicism",
+			"Life studies",
+			"Portraiture",
+			"Nude"
+		],
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1846,
+				"happiness": 6,
+				"location": "Tournan-en-Brie, France",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1847,
+				"end": 1852,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Started studies at Lycée Louis-le-Grand"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1861,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Entered Ecole des Beaux-Arts",
+					"Started studies under Léon Cogniet"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1912,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Won the Prix de Rome",
+					"Painted numerous well-received nudes and portraits",
+					"Became teacher at the Académie Julian"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Nude studies",
+			"Academicism"
+		]
+	}
+]

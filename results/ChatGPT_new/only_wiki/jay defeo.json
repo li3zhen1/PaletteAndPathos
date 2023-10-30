@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Jay DeFeo",
+		"keywords": [
+			"abstract expressions",
+			"transformation",
+			"obsession"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1965,
+				"happiness": 5,
+				"location": "San Francisco, U.S.A",
+				"events": [
+					"became a central figure of the bohemian community",
+					"created her most famous work 'The Rose'"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1989,
+				"happiness": 4,
+				"location": "San Francisco, U.S.A",
+				"events": [
+					"'The Rose' got sealed behind a wall",
+					"endured a creative crisis"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"assemblage"
+		]
+	}
+]

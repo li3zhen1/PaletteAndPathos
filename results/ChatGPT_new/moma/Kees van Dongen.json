@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Kees van Dongen",
+		"keywords": [
+			"Fauvism",
+			"Expressionism",
+			"Portraits",
+			"Nudes",
+			"Urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1889,
+				"happiness": 5,
+				"location": "Delfshaven, Netherlands",
+				"events": [
+					"Born into a middle-class family"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1897,
+				"happiness": 6,
+				"location": "Rotterdam, Netherlands",
+				"events": [
+					"Studied at the Royal Academy of Fine Arts in Rotterdam"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1918,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Joined the Fauvist movement",
+					"Gained recognition for his colorful and provocative paintings"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Monte Carlo, Monaco",
+				"events": [
+					"Known for his colorful portraits and depictions of lavish social life"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Monte Carlo, Monaco",
+				"events": [
+					"Died at the age of 91"
+				]
+			}
+		],
+		"genre": [
+			"Fauvism",
+			"Portraiture",
+			"Modernism"
+		]
+	}
+]

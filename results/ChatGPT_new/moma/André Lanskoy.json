@@ -1,0 +1,46 @@
+[
+	{
+		"name": "André Lanskoy",
+		"keywords": [
+			"abstract",
+			"explosion of color",
+			"energy",
+			"movement",
+			"emotions"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"Served in the Imperial Russian Army during World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1938,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Studied and worked as a painter",
+					"Began association with the School of Paris"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Developed his distinctive abstract style",
+					"Became recognized as one of the most important abstract painters"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

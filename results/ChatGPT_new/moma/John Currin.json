@@ -1,0 +1,55 @@
+[
+	{
+		"name": "John Currin",
+		"keywords": [
+			"eroticism",
+			"satire",
+			"social issues",
+			"gender norms",
+			"art history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1962,
+				"end": 1983,
+				"happiness": 6,
+				"location": "Boulder, Colorado, United States",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1986,
+				"happiness": 7,
+				"location": "New Haven, Connecticut, United States",
+				"events": [
+					"graduated Yale School of Art"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2010,
+				"happiness": 8,
+				"location": "New York, New York, United States",
+				"events": [
+					"held numerous successful solo exhibitions",
+					"married fellow artist Rachel Feinstein"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, New York, United States",
+				"events": [
+					"continued to work and exhibit"
+				]
+			}
+		],
+		"genre": [
+			"figurative painting",
+			"contemporary art"
+		]
+	}
+]

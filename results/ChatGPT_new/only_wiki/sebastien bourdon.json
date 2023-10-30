@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Sebastien Bourdon",
+		"keywords": [
+			"religious",
+			"mythical",
+			"portraits",
+			"historical",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1616,
+				"end": 1640,
+				"happiness": 4,
+				"location": "Montpellier",
+				"events": [
+					"began art study",
+					"moved to Paris"
+				]
+			},
+			{
+				"start": 1640,
+				"end": 1652,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"established as an independent master",
+					"invited to become a member of the Royal Academy of Painting and Sculpture"
+				]
+			},
+			{
+				"start": 1652,
+				"end": 1671,
+				"happiness": 6,
+				"location": "Stockholm",
+				"events": [
+					"appointed as the 'Premier Peintre du Roi' for Queen Christina of Sweden",
+					"appointment ended abruptly, he returned to Montpellier"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"History painting",
+			"Landscape art"
+		]
+	}
+]

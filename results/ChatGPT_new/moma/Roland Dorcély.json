@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Roland Dorcély",
+		"keywords": [
+			"abstract",
+			"spirituality",
+			"Haitian culture",
+			"universal symbols"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Port-au-Prince, Haiti",
+				"events": [
+					"Studied under Lucien Price"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to France"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2014,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": []
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

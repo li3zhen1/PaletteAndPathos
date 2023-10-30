@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Utagawa Kunisada",
+		"keywords": [
+			"depictions of kabuki actors",
+			"beautiful women",
+			"landscape",
+			"history",
+			"everyday life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1786,
+				"end": 1820,
+				"happiness": 5,
+				"location": "Edo, Japan",
+				"events": [
+					"Started his studies under Utagawa Toyokuni",
+					"became a prolific designer of actor prints"
+				]
+			},
+			{
+				"start": 1820,
+				"end": 1850,
+				"happiness": 6,
+				"location": "Edo, Japan",
+				"events": [
+					"Experienced significant commercial success",
+					"Established his own school"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1865,
+				"happiness": 4,
+				"location": "Edo, Japan",
+				"events": [
+					"Went through a period of hardship due to changes in the popular tastes and the death of his master, Toyokuni"
+				]
+			}
+		],
+		"genre": [
+			"Ukiyo-e",
+			"Woodblock prints",
+			"Paintings"
+		]
+	}
+]

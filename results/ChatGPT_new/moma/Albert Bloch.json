@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Albert Bloch",
+		"keywords": [
+			"expressionism",
+			"symbolism",
+			"human figures",
+			"cubism",
+			"conflict"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1916,
+				"happiness": 5,
+				"location": "St. Louis, Missouri",
+				"events": [
+					"Albert Bloch became the only American to exhibit with the Blue Rider group in Munich.",
+					"He worked as a cartoonist for the St. Louis Star newspaper."
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Lawrence, Kansas",
+				"events": [
+					"Appointed to the faculty of the University of Kansas",
+					"Retired from teaching in 1947"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Symbolism"
+		]
+	}
+]

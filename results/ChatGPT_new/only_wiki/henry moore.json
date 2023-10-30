@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Henry Moore",
+		"keywords": [
+			"Mother and Child",
+			"abstract",
+			"nuclear energy",
+			"human form",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1915,
+				"happiness": 5,
+				"location": "Castleford, West Yorkshire, England",
+				"events": [
+					"Started to sketch and show interest in art"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1919,
+				"happiness": 1,
+				"location": "France",
+				"events": [
+					"Served in the World War I"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Studied at the Royal College of Art",
+					"Became an instructor at the college"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Became established as a leading avant-garde artist"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1950,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"Documented the London Blitz during World War II"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Perry Green, England",
+				"events": [
+					"Received international acclaim",
+					"Initiated the Henry Moore Foundation for the promotion of fine arts"
+				]
+			}
+		],
+		"genre": [
+			"Modern sculpture",
+			"abstract art"
+		]
+	}
+]

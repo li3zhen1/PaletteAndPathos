@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Kumi Sugai",
+		"keywords": [
+			"abstract",
+			"symbolism",
+			"nature",
+			"urban life",
+			"japanese aesthetics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Kobe, Japan",
+				"events": [
+					"Born into a family dedicated to the manufacture of sake",
+					"Studied traditional Japanese painting"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Worked as a graphic designer"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1996,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris to focus on painting",
+					"Participated in Paris Biennale",
+					"Received the Education Ministry’s Art Encouragement Prize"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Post-war art"
+		]
+	}
+]

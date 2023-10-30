@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Anton Refregier",
+		"keywords": [
+			"social realism",
+			"workers",
+			"culture",
+			"history",
+			"public art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1979,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Born in Russia",
+					"Migrated to the USA in 1920"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Studied at the Rhode Island School of Design",
+					"Studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1948,
+				"happiness": 5,
+				"location": "San Francisco, USA",
+				"events": [
+					"Received commission for murals of the Rincon Post Office",
+					"Struggled with controversy over art's content"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1979,
+				"happiness": 7,
+				"location": "Woodstock, New York , USA",
+				"events": [
+					"Moved to Woodstock, New York",
+					"Died of heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Mural"
+		]
+	}
+]

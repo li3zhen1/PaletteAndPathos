@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Frank Stella",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"geometric",
+			"colorful",
+			"industrial"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Malden, Massachusetts",
+				"events": [
+					"Studied history at Princeton University",
+					"Moved to New York"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Became influential in the development of minimalism",
+					"Received a National Medal of Arts from President Obama"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalist art",
+			"Hard-edge painting"
+		]
+	}
+]

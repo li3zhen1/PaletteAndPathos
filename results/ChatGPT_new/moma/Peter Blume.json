@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Peter Blume",
+		"keywords": [
+			"surrealism",
+			"nature",
+			"industrialism",
+			"patriotism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1917,
+				"happiness": 8,
+				"location": "Smorgon, Russia (now Belarus)",
+				"events": [
+					"Born and spent childhood"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"Emigrated to the United States"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1927,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Studied at the Educational Alliance",
+					"Member of Society of Independent Artists"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1940,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Married Grace Douglas Craton",
+					"Won Logan Medal of the Arts"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1947,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Produced the painting The Rock, which entered the collection of MoMA"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Sherman, United States",
+				"events": [
+					"Moved to Sherman, Connecticut",
+					"Became a member of the American Academy of Arts and Letters"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1992,
+				"happiness": 5,
+				"location": "Sherman, United States",
+				"events": [
+					"His wife passed away",
+					"Blume passed away"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Surrealism"
+		]
+	}
+]

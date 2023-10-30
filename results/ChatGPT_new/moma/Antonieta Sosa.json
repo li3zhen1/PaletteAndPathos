@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Antonieta Sosa",
+		"keywords": [
+			"minimal art",
+			"body",
+			"kinetic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Born and grew up"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Academie de la Grande Chaumiere"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2015,
+				"happiness": 6,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Started teaching",
+					"Developed her unique art style"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2018,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Retirement from teaching"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Kinetic art"
+		]
+	}
+]

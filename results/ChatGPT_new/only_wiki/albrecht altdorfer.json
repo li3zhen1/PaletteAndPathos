@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Albrecht Altdorfer",
+		"keywords": [
+			"landscape",
+			"architecture",
+			"religious",
+			"mystical",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1480,
+				"end": 1538,
+				"happiness": 6,
+				"location": "Regensburg, Germany",
+				"events": [
+					"became a citizen of Regensburg",
+					"appointed as the town architect and assessor"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"Early Renaissance",
+			"Landscape painting"
+		]
+	}
+]

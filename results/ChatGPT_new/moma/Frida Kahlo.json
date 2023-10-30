@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Frida Kahlo",
+		"keywords": [
+			"pain",
+			"love",
+			"identity",
+			"female experience",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1907,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Coyoacán, Mexico City, Mexico",
+				"events": [
+					"Born into a German-Mexican family"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1932,
+				"happiness": 2,
+				"location": "Coyoacán, Mexico City, Mexico",
+				"events": [
+					"Survived a tragic bus accident",
+					"Started painting during recovery"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Coyoacán, Mexico City, Mexico",
+				"events": [
+					"Married Diego Rivera",
+					"Travelled to the United States"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1940,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Divorced Diego Rivera",
+					"Exhibited her art in France"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1954,
+				"happiness": 3,
+				"location": "Coyoacán, Mexico City, Mexico",
+				"events": [
+					"Remarried Diego Rivera",
+					"Health deteriorated",
+					"Died in the Blue House"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Symbolism",
+			"Magic Realism"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Arkhip Kuindzhi",
+		"keywords": [
+			"nature",
+			"rural scenes",
+			"moonlight",
+			"light phenomena",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1842,
+				"end": 1860,
+				"happiness": 3,
+				"location": "Mariupol, Russian Empire",
+				"events": [
+					"orphaned at age six",
+					"started work as a builder's assistant"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1865,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"became a student of the Russian Academy of Arts"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1890,
+				"happiness": 8,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"Became a full member of the Academy of Arts",
+					"traveled to Germany, France and Switzerland"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"Started teaching at the St. Petersburg Academy of Arts",
+					"founded the Kuindzhi Society"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"realism"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "George Bouzianis",
+		"keywords": [
+			"expressionism",
+			"abstract",
+			"pottery",
+			"humanities",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Athens, Greece",
+				"events": [
+					"developed his expressionist style",
+					"faced hardships of World War II"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Abstract art"
+		]
+	}
+]

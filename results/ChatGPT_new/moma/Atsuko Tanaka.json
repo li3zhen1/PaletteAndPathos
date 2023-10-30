@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Atsuko Tanaka",
+		"keywords": [
+			"Abstract",
+			"Gutai",
+			"Experiential",
+			"Performance",
+			"Sound"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Moriguchi, Osaka, Japan",
+				"events": [
+					"World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Studied at Kyoto City Specialist School of Arts"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Joined the Gutai Art Association",
+					"Created her famous artwork 'Electric Dress'"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Nara, Japan",
+				"events": [
+					"Continued to create experiential art",
+					"Gained recognition within the avant-garde art community"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2005,
+				"happiness": 5,
+				"location": "Nara, Japan",
+				"events": [
+					"Her health deteriorated",
+					"She passed away in 2005"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Performance Art",
+			"Sound Art"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Patrick Caulfield",
+		"keywords": [
+			"simplification",
+			"still life",
+			"interior",
+			"light",
+			"shadow"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1960,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"grew up in a working-class family",
+					"served as an airframe fitter for the Royal Air Force"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"studied at Chelsea School of Art",
+					"rose to prominence for his early work"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"consolidated his reputation with major exhibitions"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2005,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"continued to produce significant works",
+					"Diagnosed with cancer"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Abstract Expressionism"
+		]
+	}
+]

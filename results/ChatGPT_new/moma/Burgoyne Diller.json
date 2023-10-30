@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Burgoyne Diller",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"structure",
+			"minimalism",
+			"balance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1919,
+				"happiness": 5,
+				"location": "The Bronx, New York, USA",
+				"events": []
+			},
+			{
+				"start": 1920,
+				"end": 1943,
+				"happiness": 6,
+				"location": "New York City, New York, USA",
+				"events": [
+					"studied at the Art Students League",
+					"led the development of the Federal Art Project"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"worked as teacher at Brooklyn College"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction"
+		]
+	}
+]

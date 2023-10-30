@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Pauline Boty",
+		"keywords": [
+			"pop art",
+			"feminism",
+			"nudity",
+			"celebrity",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1966,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Studied at the Wimbledon School of Art",
+					"Became a central figure in the British Pop Art movement"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Feminism"
+		]
+	}
+]

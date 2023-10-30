@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Everett Spruce",
+		"keywords": [
+			"nature",
+			"rural life",
+			"Texas landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1927,
+				"happiness": 5,
+				"location": "Arkansas",
+				"events": [
+					"born into a poor sharecropper's family"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Dallas, Texas",
+				"events": [
+					"Received a scholarship to attend the Dallas Art Institute",
+					"employed as a mural painter"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Dallas, Texas",
+				"events": [
+					"Became a professor at the Art Institute of Dallas",
+					"had several exhibitions"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2002,
+				"happiness": 6,
+				"location": "Dallas, Texas",
+				"events": [
+					"retired",
+					"Received the Lifetime Achievement Award from the Dallas Historical Society"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Regionalism"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Albert Huie",
+		"keywords": [
+			"landscape",
+			"portrait",
+			"Caribbean",
+			"rural",
+			"culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Falmouth, Jamaica",
+				"events": [
+					"Started drawing and painting at a young age"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Kingston, Jamaica",
+				"events": [
+					"Studied under Armenian painter Koren der Harootian",
+					"Began gaining recognition for his work"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Baltimore, Maryland, USA",
+				"events": [
+					"Studied at Ontario College of Art",
+					"Held successful exhibitions"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Baltimore, Maryland, USA",
+				"events": [
+					"Continued painting and held exhibitions",
+					"Passing away at the age of 89"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Neo-Impressionism"
+		]
+	}
+]

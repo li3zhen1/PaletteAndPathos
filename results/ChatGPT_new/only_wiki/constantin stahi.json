@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Constantin Stahi",
+		"keywords": [
+			"portraits",
+			"battlescenes",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Iasi, Romania",
+				"events": [
+					"founded Iasi's School of Fine Arts",
+					"painted portraits of famous Romanian personalities"
+				]
+			}
+		],
+		"genre": [
+			"realism"
+		]
+	}
+]

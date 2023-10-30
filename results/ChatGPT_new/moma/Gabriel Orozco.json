@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Gabriel Orozco",
+		"keywords": [
+			"everyday objects",
+			"symbolism",
+			"social critique",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1962,
+				"end": 1981,
+				"happiness": 7,
+				"location": "Veracruz, Mexico",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1986,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Studied at the Escuela Nacional de Artes Plásticas"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1991,
+				"happiness": 6,
+				"location": "Costa Rica, Costa Rica",
+				"events": []
+			},
+			{
+				"start": 1991,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Started receiving international recognition",
+					"Exhibited at the Museum of Modern Art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2010,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": []
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Exhibited at the Tate Modern"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"Sculpture",
+			"Photography"
+		]
+	}
+]

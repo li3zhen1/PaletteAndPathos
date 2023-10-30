@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Guido Molinari",
+		"keywords": [
+			"abstraction",
+			"hard-edge",
+			"color dynamics",
+			"minimalism",
+			"geometric"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 7,
+				"location": "Montreal, Canada",
+				"events": [
+					"Born into a French-Canadian family",
+					"First exposure to art"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"Started studies in Arts at École des beaux-arts de Montréal",
+					"first exhibited his artworks"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1965,
+				"happiness": 8,
+				"location": "Montreal, Canada",
+				"events": [
+					"Gained recognition for his abstract paintings"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1980,
+				"happiness": 9,
+				"location": "Montreal, Canada",
+				"events": [
+					"Won a competition for a large mural",
+					"Represented Canada at the Venice Biennale"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2004,
+				"happiness": 5,
+				"location": "Montreal, Canada",
+				"events": [
+					"Became a professor of painting",
+					"inducted into the Order of Canada"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Hard-edge painting",
+			"Color Field painting"
+		]
+	}
+]

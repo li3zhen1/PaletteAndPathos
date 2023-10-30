@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Walter Stuempfig",
+		"keywords": [
+			"urban decay",
+			"portraits",
+			"landscapes",
+			"churches",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"studied at the Pennsylvania Academy of the Fine Arts",
+					"served in World War II"
+				]
+			}
+		],
+		"genre": [
+			"Realism"
+		]
+	}
+]

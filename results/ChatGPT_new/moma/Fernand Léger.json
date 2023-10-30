@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Fernand Léger",
+		"keywords": [
+			"modernism",
+			"cubism",
+			"machines",
+			"workers",
+			"urban landscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at École des Beaux-Arts",
+					"established his style in line with the early cubism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Western Front, Europe",
+				"events": [
+					"participated in World War I",
+					"Began his 'mechanical' period influenced by the war"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"developed a style with bold, machine-like shapes",
+					"his work was associated with the Purist movement"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1945,
+				"happiness": 4,
+				"location": "United States",
+				"events": [
+					"exiled to the United States during World War II",
+					"developed his 'aeropainting' style"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"returned to France after World War II",
+					"founded his own art school"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"modernism"
+		]
+	}
+]

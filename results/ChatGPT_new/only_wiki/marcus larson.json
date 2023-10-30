@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Marcus Larson",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"rain",
+			"storm",
+			"marine"
+		],
+		"lifePeriods": [
+			{
+				"start": 1825,
+				"end": 1845,
+				"happiness": 5,
+				"location": "Karlskrona, Sweden",
+				"events": [
+					"born into a middle-class family"
+				]
+			},
+			{
+				"start": 1846,
+				"end": 1852,
+				"happiness": 7,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"studied at the Royal Swedish Academy of Arts",
+					"garnered recognition for his talent"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1856,
+				"happiness": 8,
+				"location": "Dusseldorf, Germany",
+				"events": [
+					"studied landscape painting",
+					"made his breakout in the art world"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1862,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"improved his skills and techniques",
+					"impacted by the salon paintings"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1864,
+				"happiness": 4,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"struggled with health issues due to overwork"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"marine art"
+		]
+	}
+]

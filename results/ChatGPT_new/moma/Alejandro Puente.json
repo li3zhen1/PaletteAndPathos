@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Alejandro Puente",
+		"keywords": [
+			"Abstraction",
+			"Geometric",
+			"Color",
+			"Minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 2013,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Became a prominent figure in the Argentine art scene",
+					"Taught at Escuela de Bellas Artes in Buenos Aires"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

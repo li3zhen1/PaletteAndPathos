@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Horace Pippin",
+		"keywords": [
+			"war",
+			"race",
+			"religion",
+			"american life",
+			"self-taught"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1917,
+				"happiness": 5,
+				"location": "West Chester, Pennsylvania",
+				"events": [
+					"born into poverty",
+					"started drawing and painting as a child"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"served in World War I",
+					"got injured in the war"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1937,
+				"happiness": 5,
+				"location": "West Chester, Pennsylvania",
+				"events": [
+					"returned home from the war",
+					"continued painting using his left hand due to his war injury"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1946,
+				"happiness": 7,
+				"location": "West Chester, Pennsylvania",
+				"events": [
+					"gained recognition as an artist",
+					"had first solo exhibition"
+				]
+			}
+		],
+		"genre": [
+			"primitive art",
+			"folk art"
+		]
+	}
+]

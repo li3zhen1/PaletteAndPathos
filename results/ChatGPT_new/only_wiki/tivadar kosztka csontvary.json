@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Tivadar Kosztka Csontváry",
+		"keywords": [
+			"landscape",
+			"architecture",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1853,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Desseldorf, Germany",
+				"events": [
+					"Studied pharmacy"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1893,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Met with artistic greats of the time"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1919,
+				"happiness": 4,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Exhibited his work independently",
+					"Struggle with loneliness"
+				]
+			}
+		],
+		"genre": [
+			"Post-impressionism",
+			"Symbolism"
+		]
+	}
+]

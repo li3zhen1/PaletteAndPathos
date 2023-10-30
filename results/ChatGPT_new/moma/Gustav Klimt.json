@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Gustav Klimt",
+		"keywords": [
+			"eroticism",
+			"symbolism",
+			"beauty",
+			"women",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1876,
+				"happiness": 7,
+				"location": "Vienna",
+				"events": [
+					"Started academic drawing classes at Kunstgewerbeschule"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Vienna",
+				"events": [
+					"Met his brother Ernst, who later became a collaborator",
+					"Started working as an architectural decorator"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1902,
+				"happiness": 8,
+				"location": "Vienna",
+				"events": [
+					"Co-founded the Vienna Secession",
+					"Painted his famous 'Portrait of Adele Bloch-Bauer I'"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Vienna",
+				"events": [
+					"Started focusing on portraits and landscapes",
+					"Suffered the loss of his father and brother"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Vienna",
+				"events": [
+					"His health started to decline",
+					"Painted 'The Kiss' and 'Portrait of Adele Bloch-Bauer II'"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau"
+		]
+	}
+]

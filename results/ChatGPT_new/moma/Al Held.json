@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Al Held",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"perspective",
+			"color",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1939,
+				"happiness": 3,
+				"location": "New York City",
+				"events": [
+					"Grew up in a poor family during the Great Depression"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Various",
+				"events": [
+					"Served in the U.S. Navy during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Studied at the Art Students League of New York",
+					"Moved to Paris"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1962,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Involved in the Abstract Expressionist movement"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2005,
+				"happiness": 6,
+				"location": "Various",
+				"events": [
+					"Evolved his style to Hard-edge painting",
+					"Became a professor at Yale University"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Hard-edge Painting"
+		]
+	}
+]

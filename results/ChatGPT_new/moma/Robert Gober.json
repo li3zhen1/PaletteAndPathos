@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Robert Gober",
+		"keywords": [
+			"symbolism",
+			"surrealism",
+			"minimalism",
+			"everyday objects",
+			"social-political critique"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Wallingford, Connecticut",
+				"events": [
+					"born and raised",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Moved to New York",
+					"attended Middlebury College"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"started working as an artist",
+					"had his first solo exhibition"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"renowned artist in contemporary art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"continued working and exhibiting widely"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"installation art",
+			"contemporary art"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Louis Valtat",
+		"keywords": [
+			"Nude",
+			"Landscapes",
+			"Exoticism",
+			"Intimism",
+			"Animals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1869,
+				"end": 1886,
+				"happiness": 6,
+				"location": "Dieppe, France",
+				"events": [
+					"Born into family of wealth and status",
+					"Developed interest in art at a young age"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1893,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Ecole des Beaux-Arts",
+					"Had his first exhibition at the Salon of 1889 in Paris"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Contracted Tuberculosis",
+					"Started to focus on landscape and maritime scenes"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Paris and Cagnes-sur-Mer, France",
+				"events": [
+					"Helped develop the Fauvist movement",
+					"Became visually impaired"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Fauvism",
+			"Post-Impressionism"
+		]
+	}
+]

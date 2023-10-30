@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Gustave Doré",
+		"keywords": [
+			"biblical themes",
+			"fantasy",
+			"literature",
+			"death",
+			"darkness"
+		],
+		"lifePeriods": [
+			{
+				"start": 1832,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"started drawing at a young age",
+					"published his first illustrated story at 15"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1883,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"created the Doré Gallery"
+				]
+			}
+		],
+		"genre": [
+			"wood engraving",
+			"oil painting",
+			"sculpture"
+		]
+	}
+]

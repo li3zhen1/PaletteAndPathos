@@ -1,0 +1,65 @@
+[
+	{
+		"name": "James Bishop",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"minimalism",
+			"color",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Neosho, Missouri",
+				"events": [
+					"Childhood"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Started studying painting",
+					"Served in the U.S. Navy"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1958,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Continued his art studies"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Blévy, France",
+				"events": [
+					"Focused on his art ",
+					"Took a minimalist turn in his artwork"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2021,
+				"happiness": 5,
+				"location": "Blévy, France",
+				"events": [
+					"Continued developing his unique painting style"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Minimalism"
+		]
+	}
+]

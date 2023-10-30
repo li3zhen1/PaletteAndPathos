@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Carlos Sáenz de Tejada",
+		"keywords": [
+			"war",
+			"fashion",
+			"social class"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1958,
+				"happiness": 4,
+				"location": "Madrid",
+				"events": [
+					"Influenced by father",
+					"Served in the Spanish civil war"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Actively involved in exhibition",
+					"Worked as fashion illustrator"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Madrid",
+				"events": [
+					"Faced consequences of the civil war",
+					"Produced important graphic works"
+				]
+			}
+		],
+		"genre": [
+			"Illustrator",
+			"Graphic arts",
+			"Fashion"
+		]
+	}
+]

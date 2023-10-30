@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Jules Chéret",
+		"keywords": [
+			"poster",
+			"joy",
+			"colors",
+			"women",
+			"Paris"
+		],
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1846,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Born into poor parents",
+					"Started apprenticed as a lithographer at age 13"
+				]
+			},
+			{
+				"start": 1846,
+				"end": 1854,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Started his career"
+				]
+			},
+			{
+				"start": 1854,
+				"end": 1866,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"Influenced by British printing techniques",
+					"Return to Paris"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1919,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Rise to fame for his Parisian posters"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Nice",
+				"events": [
+					"Retirement years",
+					"Died at the age of 96"
+				]
+			}
+		],
+		"genre": [
+			"poster",
+			"Belle Époque",
+			"illustration"
+		]
+	}
+]

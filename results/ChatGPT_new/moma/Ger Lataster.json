@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Ger Lataster",
+		"keywords": [
+			"abstract",
+			"nature",
+			"emotion",
+			"colors",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1942,
+				"happiness": 7,
+				"location": "Schaesberg, Netherlands",
+				"events": [
+					"born and grew up"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"started arts education",
+					"World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"continued art education",
+					"met his wife Hermine van Hall"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"became a well-known artist",
+					"developed his own style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2012,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"continued to create expressive art",
+					"received numerous awards"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Abstract Art",
+			"Expressionism"
+		]
+	}
+]

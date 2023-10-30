@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Alberto Carneiro",
+		"keywords": [
+			"nature",
+			"spirituality",
+			"man-nature relationship",
+			"minimalism",
+			"body"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Coronado, Portugal",
+				"events": [
+					"Born into a family of country people"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1951,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"Began his training as a woodcarver at the Escola Soares dos Reis"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Porto, Portugal",
+				"events": [
+					"Continued his artistic studies at the Escola Superior de Belas Artes do Porto"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1963,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Received a scholarship to study sculpture at the Saint Martins School of Art"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1967,
+				"happiness": 7,
+				"location": "Porto, Portugal",
+				"events": [
+					"Was a founding member of the Pró-Évora Group"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Porto, Portugal",
+				"events": [
+					"Became a Professor at the Escola Superior de Belas Artes do Porto"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2017,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"Exhibited widely both in Portugal and abroad",
+					"His works can be found in several public collections"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Land Art",
+			"Environmental Art"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Laura Owens",
+		"keywords": [
+			"playful",
+			"bold",
+			"abstraction",
+			"realism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1970,
+				"end": 1992,
+				"happiness": 7,
+				"location": "Euclid, Ohio",
+				"events": [
+					"Born into an artistic family"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 1994,
+				"happiness": 7,
+				"location": "Providence, Rhode Island",
+				"events": [
+					"Graduated from Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 1996,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"Studied at the California Institute of the Arts"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2004,
+				"happiness": 8,
+				"location": "Los Angeles, California",
+				"events": [
+					"Had her first LA solo show at the ACME Gallery",
+					"Created a big stir in the art world"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Los Angeles, California",
+				"events": [
+					"Continued to explore multiple styles",
+					"Launched her own exhibition space, 356 Mission"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art"
+		]
+	}
+]

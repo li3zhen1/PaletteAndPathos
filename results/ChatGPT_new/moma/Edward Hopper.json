@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Edward Hopper",
+		"keywords": [
+			"isolation",
+			"city life",
+			"rural scenes",
+			"architecture",
+			"women"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1899,
+				"happiness": 6,
+				"location": "Nyack, New York",
+				"events": [
+					"Began drawing at a young age"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1906,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Studied at the New York School of Art",
+					"met future wife, Josephine Nivison",
+					"influenced by Robert Henri and John Sloan"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Made three trips to Europe",
+					"exposure to Impressionist art"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1923,
+				"happiness": 5,
+				"location": "New York, New York",
+				"events": [
+					"Struggled to get recognition",
+					"worked as illustrator for income"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1934,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"Married Josephine Nivison",
+					"gained success after 'The House by the Railroad' was bought by the Museum of Modern Art",
+					"produced many of his most famous paintings"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1967,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Recognized as major American artist",
+					"struggled with health issues"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"American realism"
+		]
+	}
+]

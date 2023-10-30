@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Leo Villareal",
+		"keywords": [
+			"light",
+			"movement",
+			"technology",
+			"interaction",
+			"perception"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Albuquerque, New Mexico",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New Haven, Connecticut",
+				"events": [
+					"studied at Yale University"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1994,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Started his career as a sculptor"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2001,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"Shifted focus to digital art"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2010,
+				"happiness": 9,
+				"location": "New York, New York",
+				"events": [
+					"Created Bay Lights"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 9,
+				"location": "New York, New York",
+				"events": [
+					"Continued work on light sculptures and installations"
+				]
+			}
+		],
+		"genre": [
+			"Digital art",
+			"Light and space",
+			"Interactive art"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "David Burliuk",
+		"keywords": [
+			"expressionism",
+			"futurism",
+			"war",
+			"nature",
+			"people"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1902,
+				"happiness": 4,
+				"location": "Kharkov",
+				"events": [
+					"attended local art school",
+					"became interested in impressionism"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1904,
+				"happiness": 3,
+				"location": "Odessa",
+				"events": [
+					"studied at Odessa Art School"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Moscow",
+				"events": [
+					"became one of the founders of Russian Futurism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Japan",
+				"events": [
+					"exiled after the October Revolution",
+					"started to include elements of Japanese art in his works"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1967,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"moved to the United States",
+					"exhibited his work globally"
+				]
+			}
+		],
+		"genre": [
+			"Expressionist Art",
+			"Futurist Art"
+		]
+	}
+]

@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Bruce Nauman",
+		"keywords": [
+			"conceptual",
+			"performance",
+			"video"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Fort Wayne, Indiana",
+				"events": [
+					"Born to an engineer and a homemaker"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Madison, Wisconsin",
+				"events": [
+					"Studied at the University of Wisconsin"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1970,
+				"happiness": 6,
+				"location": "University of California in Davis",
+				"events": [
+					"Completed his Master's degree in Art",
+					"Established his studio"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New Mexico",
+				"events": [
+					"Developed a body of work involving performances, neon, video and drawings"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New Mexico",
+				"events": []
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New Mexico",
+				"events": [
+					"Made a significant mark in the international art world"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New Mexico",
+				"events": [
+					"Continued to expand his influence through his practice"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"performance art",
+			"video art"
+		]
+	}
+]

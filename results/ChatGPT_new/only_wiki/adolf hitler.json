@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Adolf Hitler",
+		"keywords": [
+			"war",
+			"politics",
+			"landscapes",
+			"buildings"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1907,
+				"happiness": 3,
+				"location": "Braunau, Austria",
+				"events": [
+					"Born and raised",
+					"Death of his father"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1913,
+				"happiness": 4,
+				"location": "Vienna, Austria",
+				"events": [
+					"Aspired to be a painter",
+					"Rejection from Vienna Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1919,
+				"happiness": 2,
+				"location": "Munich, Germany",
+				"events": [
+					"World War I",
+					"Iron Cross First Class"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"Rise in politics",
+					"Imprisonment for failed coup attempt"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Berlin, Germany",
+				"events": [
+					"Became dictator",
+					"World War II",
+					"Suicide"
+				]
+			}
+		],
+		"genre": [
+			"Political Propaganda",
+			"Landscape Painting"
+		]
+	}
+]

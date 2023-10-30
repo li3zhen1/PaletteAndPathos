@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Nicholas Roerich",
+		"keywords": [
+			"spirituality",
+			"nature",
+			"mythology",
+			"peace",
+			"sacred"
+		],
+		"lifePeriods": [
+			{
+				"start": 1874,
+				"end": 1897,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"birth",
+					"studied law and art at university"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1917,
+				"happiness": 8,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"married Helena, who became a collaborator in his work",
+					"founded 'The Blue Rose' art group"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1920,
+				"happiness": 2,
+				"location": "London, UK, and New York, USA",
+				"events": [
+					"fled Russia after the revolution"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1928,
+				"happiness": 7,
+				"location": "India and Central Asia",
+				"events": [
+					"expedition across the Himalayas",
+					"established the Institute of Himalayan Studies 'Urusvati'"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Kullu, India",
+				"events": [
+					"settled in the Kullu Valley",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"symbolism",
+			"modernism",
+			"orientalism"
+		]
+	}
+]

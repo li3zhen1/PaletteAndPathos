@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Doug Ohlson",
+		"keywords": [
+			"minimalism",
+			"abstract",
+			"geometry",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Webster, South Dakota",
+				"events": [
+					"discovered his passion for art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"completed education at Hunter College",
+					"began exploring Abstract Expressionism"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"achieved recognition in the art world"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"continued to create and exhibit artwork"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

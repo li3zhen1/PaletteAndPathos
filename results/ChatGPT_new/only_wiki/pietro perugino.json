@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Pietro Perugino",
+		"keywords": [
+			"religion",
+			"Renaissance",
+			"mythology",
+			"humanism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1446,
+				"end": 1523,
+				"happiness": 5,
+				"location": "Perugia",
+				"events": [
+					"studied under Andrea del Verrocchio",
+					"taught Raphael"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"religious"
+		]
+	}
+]

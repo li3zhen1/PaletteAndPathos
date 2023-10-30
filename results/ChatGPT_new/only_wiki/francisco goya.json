@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Francisco Goya",
+		"keywords": [
+			"war",
+			"royalty",
+			"society",
+			"surrealism",
+			"violence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1746,
+				"end": 1771,
+				"happiness": 6,
+				"location": "Fuendetodos, Spain",
+				"events": [
+					"Born to a modest family"
+				]
+			},
+			{
+				"start": 1771,
+				"end": 1789,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Studied under leading Spanish painters",
+					"Became a court painter"
+				]
+			},
+			{
+				"start": 1789,
+				"end": 1792,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Reached height of his success as an official portraitist"
+				]
+			},
+			{
+				"start": 1792,
+				"end": 1808,
+				"happiness": 2,
+				"location": "Madrid, Spain",
+				"events": [
+					"Serious illness left him deaf",
+					"Began focusing on darker themes"
+				]
+			},
+			{
+				"start": 1808,
+				"end": 1814,
+				"happiness": 1,
+				"location": "Madrid, Spain",
+				"events": [
+					"Survived Peninsular War",
+					"Depicted horrors of war in his work"
+				]
+			},
+			{
+				"start": 1814,
+				"end": 1824,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"Political tension and criticism resulted in his removal from court"
+				]
+			},
+			{
+				"start": 1824,
+				"end": 1828,
+				"happiness": 5,
+				"location": "Bordeaux, France",
+				"events": [
+					"Moved to France",
+					"Continued to produce art until his death"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Portraits",
+			"History painting"
+		]
+	}
+]

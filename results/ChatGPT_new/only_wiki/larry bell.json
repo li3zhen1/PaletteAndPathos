@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Larry Bell",
+		"keywords": [
+			"minimalism",
+			"light and space",
+			"glass",
+			"reflection",
+			"transparency"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Chicago",
+				"events": [
+					"born in Chicago",
+					"started studying at Chouinard Art Institute"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"opened his studio",
+					"started creating glass cubes"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2007,
+				"happiness": 7,
+				"location": "Taos, New Mexico",
+				"events": [
+					"moved to Taos",
+					"experimented with different materials"
+				]
+			},
+			{
+				"start": 2007,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Taos, New Mexico",
+				"events": [
+					"continued working on his glass installations",
+					"received recognition and awards"
+				]
+			}
+		],
+		"genre": [
+			"minimalism",
+			"contemporary art"
+		]
+	}
+]

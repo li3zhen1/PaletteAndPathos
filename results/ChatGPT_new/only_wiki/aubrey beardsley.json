@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Aubrey Beardsley",
+		"keywords": [
+			"Sexuality",
+			"Death",
+			"Mythology",
+			"Decorative",
+			"Black and white"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Brighton, England",
+				"events": [
+					"Childhood"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1888,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Studied at Bristol Grammar School",
+					"Diagnosed with tuberculosis"
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1894,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Worked at an insurance company",
+					"Studied at the Westminster School of Art"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1896,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Became prominent in the Art Nouveau movement",
+					"Designed posters and books"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1898,
+				"happiness": 4,
+				"location": "Menton, France",
+				"events": [
+					"Worked on a personal magazine",
+					"Converted to Catholicism"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau",
+			"Illustration"
+		]
+	}
+]

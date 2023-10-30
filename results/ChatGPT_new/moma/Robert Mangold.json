@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Robert Mangold",
+		"keywords": [
+			"minimalism",
+			"geometric abstraction",
+			"shape",
+			"color",
+			"line"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 2021,
+				"happiness": 7,
+				"location": "North Tonawanda, New York, USA",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Cleveland, Ohio, USA",
+				"events": [
+					"attended the Cleveland Institute of Art"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1962,
+				"happiness": 8,
+				"location": "New York, New York, USA",
+				"events": [
+					"studied at the Yale University School of Art and Architecture",
+					"met wife Sylvia Plimack"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Washingtonville, New York, USA",
+				"events": [
+					"established as a professional artist",
+					"participated in numerous exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Geometric abstraction"
+		]
+	}
+]

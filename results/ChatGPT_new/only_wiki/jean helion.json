@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Jean Hélion",
+		"keywords": [
+			"Still-life",
+			"Abstract",
+			"Figurative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Couterne, France",
+				"events": [
+					"Birth"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Joined the group 'Art Concret'",
+					"Shifted to Abstract art"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Established Abstract Artist",
+					"Presented first solo exhibition at Galerie de France"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Captured and imprisoned during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Renounced Abstract art and returned to Figurative"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1987,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Continued painting until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Figurative Art"
+		]
+	}
+]

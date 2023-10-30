@@ -1,0 +1,71 @@
+[
+	{
+		"name": "William Scott",
+		"keywords": [
+			"still life",
+			"abstraction",
+			"everyday objects",
+			"form",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Greenock, Scotland",
+				"events": [
+					"Born into working class family"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1935,
+				"happiness": 6,
+				"location": "Belfast, Northern Ireland",
+				"events": [
+					"Started attending Belfast School of Art"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1942,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Awarded scholarship to Royal Academy Schools"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Served in various places",
+				"events": [
+					"Served in Royal Engineers during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1972,
+				"happiness": 7,
+				"location": "London, England and Somerset, England",
+				"events": [
+					"Established his career as an artist",
+					"International recognition of his work"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1989,
+				"happiness": 5,
+				"location": "Somerset, England",
+				"events": []
+			}
+		],
+		"genre": [
+			"Still life",
+			"Abstraction"
+		]
+	}
+]

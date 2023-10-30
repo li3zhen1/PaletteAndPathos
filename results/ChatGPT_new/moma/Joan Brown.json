@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Joan Brown",
+		"keywords": [
+			"Self-portrait",
+			"family",
+			"domestic life",
+			"colorful",
+			"figurative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1955,
+				"happiness": 5,
+				"location": "San Francisco, California",
+				"events": [
+					"Started showing interest in art"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1960,
+				"happiness": 7,
+				"location": "San Francisco, California",
+				"events": [
+					"Studied at California School of Fine Art, now San Francisco Art Institute"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 6,
+				"location": "San Francisco, California",
+				"events": [
+					"Became an influential member of the Bay Area Figurative Movement",
+					"Got divorced"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "San Francisco, California",
+				"events": [
+					"Explored themes of personal and spiritual quests"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 5,
+				"location": "San Francisco, California",
+				"events": [
+					"Became more focused on depictions of domestic and everyday life"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1990,
+				"happiness": 0,
+				"location": "Puttaparthi, Andhra Pradesh, India",
+				"events": [
+					"Died in an accidental electrical fire"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Figurative Art"
+		]
+	}
+]

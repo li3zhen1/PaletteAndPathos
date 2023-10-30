@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Vicente Manansala",
+		"keywords": [
+			"cubism",
+			"Filipino life",
+			"folklore",
+			"poverty",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Macabebe, Philippines",
+				"events": [
+					"Interest in art sparked"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 8,
+				"location": "Manila, Philippines",
+				"events": [
+					"Studied at U.P. School of fine arts",
+					"Began professional art career"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 3,
+				"location": "Manila, Philippines",
+				"events": [
+					"Survived World War II",
+					"Lost his home and workshop"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 9,
+				"location": "Manila, Philippines",
+				"events": [
+					"Won several art awards",
+					"Recognized as National Artist"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1981,
+				"happiness": 7,
+				"location": "Manila, Philippines",
+				"events": [
+					"Influence in Philippine modern art",
+					"Death in 1981"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Modernism"
+		]
+	}
+]

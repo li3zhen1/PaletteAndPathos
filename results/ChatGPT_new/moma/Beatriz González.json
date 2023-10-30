@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Beatriz González",
+		"keywords": [
+			"colorful",
+			"pop art",
+			"material experimentation",
+			"Colombian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1958,
+				"happiness": 6,
+				"location": "Bucaramanga, Colombia",
+				"events": [
+					"birth",
+					"early exposure to artistic culture"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Bogotá, Colombia",
+				"events": [
+					"studied fine arts at the Universidad de los Andes"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Bogotá, Colombia",
+				"events": [
+					"Started working on 'The Suicides of the Sisga'",
+					"exhibited at the Museum of Modern Art of Bogotá"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1992,
+				"happiness": 7,
+				"location": "Bogotá, Colombia",
+				"events": [
+					"Made the 'Interior Decorations' series of artworks",
+					"important retrospective at the Museo de Arte Moderno de Bogotá"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Bogotá, Colombia",
+				"events": [
+					"Restored the 'Sistine Chapel' artwork",
+					"displayed at international exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Colombian Art"
+		]
+	}
+]

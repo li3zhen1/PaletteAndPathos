@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Ben Vautier",
+		"keywords": [
+			"fluxus",
+			"dada",
+			"conceptual",
+			"performance",
+			"text-based"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Naples, Italy",
+				"events": [
+					"born to Swiss mother and French-Italian father"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Tunis, Tunisia",
+				"events": [
+					"parents divorced",
+					"moved with mother"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Nice, France",
+				"events": [
+					"began art career",
+					"met French artist Arman"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Nice, France",
+				"events": [
+					"became a leading member of Fluxus group",
+					"opened a record store"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Nice, France",
+				"events": [
+					"recognized as key figure in European avant-garde"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"fluxus",
+			"performance art"
+		]
+	}
+]

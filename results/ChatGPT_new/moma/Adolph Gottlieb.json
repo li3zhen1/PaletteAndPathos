@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Adolph Gottlieb",
+		"keywords": [
+			"abstraction",
+			"symbols",
+			"pictographs",
+			"cosmology",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1920,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Parents were supportive of his artistic interests"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1921,
+				"happiness": 8,
+				"location": "France",
+				"events": [
+					"studied at the Académie de la Grande Chaumière in Paris"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1935,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"formed the Art Front, an artists' union"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1955,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"became a founding member of 'The Ten', a group of expressionist artists",
+					"Founded the 'Subjects of the Artist' School with Mark Rothko and others"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1974,
+				"happiness": 6,
+				"location": "East Hampton, United States",
+				"events": [
+					"Worked on his famous 'Burst' series until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"color field"
+		]
+	}
+]

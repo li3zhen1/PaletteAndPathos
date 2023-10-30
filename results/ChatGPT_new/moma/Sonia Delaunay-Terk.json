@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Sonia Delaunay-Terk",
+		"keywords": [
+			"abstract art",
+			"geometric shapes",
+			"bold colors",
+			"rhythm",
+			"simultaneity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1909,
+				"happiness": 4,
+				"location": "Gradizhsk, Ukraine",
+				"events": [
+					"moved to St. Petersburg after the death of her mother"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1919,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"met her husband Robert Delaunay",
+					"began working on simultaneous contrasts"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"exhibited in the Salon des Indépendants",
+					"founded the Simultaneist movement with her husband"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1979,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"continued to create works despite the outbreak of World War II",
+					"Robert Delaunay died in 1941"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Simultanism",
+			"Orphism"
+		]
+	}
+]

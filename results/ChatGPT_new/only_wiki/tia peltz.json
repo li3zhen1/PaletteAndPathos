@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Tia Peltz",
+		"keywords": [
+			"Jewish life",
+			"womanhood",
+			"portraits",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1944,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Born and raised",
+					"Developed her artistic career"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1944,
+				"happiness": 0,
+				"location": "Auschwitz concentration camp, Poland",
+				"events": [
+					"Sent to Auschwitz",
+					"Died in the Holocaust"
+				]
+			}
+		],
+		"genre": [
+			"Portraits",
+			"Jewish Art"
+		]
+	}
+]

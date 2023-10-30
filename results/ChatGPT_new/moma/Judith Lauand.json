@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Judith Lauand",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"minimalism",
+			"Brazilian Modernism",
+			"precision"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 2017,
+				"happiness": 7,
+				"location": "Araraquara, Brazil",
+				"events": [
+					"born in Araraquara",
+					"graduated from the Escola de Belas Artes"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1963,
+				"happiness": 8,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"joined Grupo Ruptura",
+					"established herself as a leading figure in Brazilian Modernism"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 2017,
+				"happiness": 6,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Embarked on her solo career",
+					"Remained an active contributor to the art scene until her death"
+				]
+			}
+		],
+		"genre": [
+			"Geometric abstract art",
+			"minimalism",
+			"modernism"
+		]
+	}
+]

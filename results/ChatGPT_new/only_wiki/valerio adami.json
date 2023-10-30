@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Valerio Adami",
+		"keywords": [
+			"abstraction",
+			"contemporary",
+			"vibrant color",
+			"pop culture",
+			"figuration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Bologna, Italy",
+				"events": [
+					"Born in Bologna, developed an interest in painting"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Milan, Italy",
+				"events": [
+					"Studied painting under Achille Funi at the Brera Academy"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Exhibited at the Venice Biennale",
+					"Developed his signature style"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Established his career globally",
+					"Continued to create influential artwork"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Modernism"
+		]
+	}
+]

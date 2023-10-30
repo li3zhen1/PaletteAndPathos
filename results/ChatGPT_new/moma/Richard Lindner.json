@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Richard Lindner",
+		"keywords": [
+			"caricature",
+			"modern society",
+			"street scenes",
+			"urban life",
+			"eroticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Hamburg, Germany",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"Attended Kunstgewerbeschule (School of Applied Arts)"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1941,
+				"happiness": 2,
+				"location": "Germany",
+				"events": [
+					"Suffered under the Nazi regime"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1958,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Immigrated to the United States",
+					"Worked as an illustrator and designer for Vogue and Harper's Bazaar"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1978,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Became known for his paintings",
+					"Started teaching at Yale University"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Expressionism"
+		]
+	}
+]

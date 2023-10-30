@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Anne Truitt",
+		"keywords": [
+			"minimalism",
+			"abstraction",
+			"color",
+			"three-dimensional"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Baltimore, Maryland, United States",
+				"events": [
+					"grew up",
+					"received a bachelor’s degree Psychology from Bryn Mawr College"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1961,
+				"happiness": 7,
+				"location": "Washington, D.C., United States",
+				"events": [
+					"got married to James Truitt",
+					"began artistic career by drawing and painting"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1971,
+				"happiness": 8,
+				"location": "Washington, D.C., United States",
+				"events": [
+					"had her first major exhibition",
+					"received Guggenheim Fellowship"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Washington, D.C., United States",
+				"events": [
+					"transitioned to sculpture",
+					"wrote three memoirs about her life and artistic process"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Process Art"
+		]
+	}
+]

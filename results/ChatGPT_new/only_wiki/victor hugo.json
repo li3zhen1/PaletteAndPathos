@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Victor Hugo",
+		"keywords": [
+			"romanticism",
+			"social issues",
+			"society",
+			"love",
+			"revolution"
+		],
+		"lifePeriods": [
+			{
+				"start": 1802,
+				"end": 1822,
+				"happiness": 6,
+				"location": "Besançon, France",
+				"events": [
+					"Born into a family with a Napoleonic leaning",
+					"Received minimal formal education"
+				]
+			},
+			{
+				"start": 1822,
+				"end": 1830,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Married childhood friend Adele Foucher",
+					"Published first collection of poetry"
+				]
+			},
+			{
+				"start": 1830,
+				"end": 1851,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Published 'The Hunchback of Notre Dame'",
+					"Became active in politics"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1870,
+				"happiness": 4,
+				"location": "Guernsey, Channel Islands",
+				"events": [
+					"Went into political exile after Napoleon III's coup",
+					"Wrote 'Les Misérables'"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Returned to France after the fall of Napoleon III",
+					"Increased political activism",
+					"Died of pneumonia"
+				]
+			}
+		],
+		"genre": [
+			"Romantic literature",
+			"Poetry",
+			"Drama"
+		]
+	}
+]

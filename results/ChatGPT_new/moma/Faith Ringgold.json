@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Faith Ringgold",
+		"keywords": [
+			"civil rights",
+			"racial justice",
+			"gender equality",
+			"African-American heritage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1955,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"Graduated from City College of New York"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1975,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Began creating political paintings",
+					"Involved in the feminist art movement"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1995,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"Created the famous 'Tar Beach' quilt",
+					"Started writing children's books"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New Jersey, United States",
+				"events": [
+					"Received numerous awards and honors"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Feminist Art"
+		]
+	}
+]

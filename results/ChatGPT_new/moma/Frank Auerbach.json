@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Frank Auerbach",
+		"keywords": [
+			"portraiture",
+			"cityscapes",
+			"expressionism",
+			"bold colors",
+			"thick strokes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"Born into a Jewish family"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1945,
+				"happiness": 1,
+				"location": "London, England",
+				"events": [
+					"Sent to Britain to escape the Holocaust",
+					"Parents killed in concentration camps"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"Studied at St. Martin's School of Art",
+					"Moved on to Royal College of Art"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1983,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"First solo exhibition at Beaux Arts Gallery",
+					"Developed distinctive style of thickly applied paint"
+				]
+			},
+			{
+				"start": 1983,
+				"end": 2022,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Awarded the Golden Lion for lifetime achievement at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Figurative Art"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Geta Brătescu",
+		"keywords": [
+			"identity",
+			"femininity",
+			"abstract",
+			"self-portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Bucharest",
+				"events": [
+					"Survived World War II"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1969,
+				"happiness": 6,
+				"location": "Bucharest",
+				"events": [
+					"Became teacher at Bucharest's Institute of Fine Arts"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1989,
+				"happiness": 5,
+				"location": "Bucharest",
+				"events": [
+					"Survived oppressive Ceausescu regime",
+					"Had major solo exhibition"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 2018,
+				"happiness": 6,
+				"location": "Bucharest",
+				"events": [
+					"Received international recognition and exhibited globally"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"drawing",
+			"photography"
+		]
+	}
+]

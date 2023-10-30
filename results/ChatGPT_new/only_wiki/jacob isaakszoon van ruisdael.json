@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Jacob Isaakszoon van Ruisdael",
+		"keywords": [
+			"landscapes",
+			"nature",
+			"waterfalls",
+			"cities",
+			"ruins"
+		],
+		"lifePeriods": [
+			{
+				"start": 1629,
+				"end": 1682,
+				"happiness": 5,
+				"location": "Haarlem, Netherlands",
+				"events": [
+					"studied with his father Isaack van Ruisdael",
+					"joined the Haarlem Guild of Saint Luke"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"baroque"
+		]
+	}
+]

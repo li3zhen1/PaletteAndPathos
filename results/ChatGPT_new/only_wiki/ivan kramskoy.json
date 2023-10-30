@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Ivan Kramskoy",
+		"keywords": [
+			"realism",
+			"portraiture",
+			"peasantry",
+			"unknown woman",
+			"revolution"
+		],
+		"lifePeriods": [
+			{
+				"start": 1837,
+				"end": 1857,
+				"happiness": 5,
+				"location": "Ostrogozhsk, Russia",
+				"events": [
+					"born in a modest family"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1863,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied at the Imperial Academy of Arts",
+					"Became a founding member of the Artel of Artists"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1887,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"lead the creation of the Peredvizhniki society",
+					"Painted 'The Mermaids' and 'Portrait of an Unknown Woman'"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Portrait"
+		]
+	}
+]

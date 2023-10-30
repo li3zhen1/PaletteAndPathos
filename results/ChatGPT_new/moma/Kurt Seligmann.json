@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Kurt Seligmann",
+		"keywords": [
+			"surrealism",
+			"magic",
+			"fantasy",
+			"mythology",
+			"death"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Basel, Switzerland",
+				"events": [
+					"Began his studies at the Ecole des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Introduced to Surrealism",
+					"Became involved with the Parisian Surrealist Movement"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Faced the rise of the Nazi Regime"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1962,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Escaped from Europe during WWII",
+					"Worked as a Professor at the Brooklyn College"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"magic realism"
+		]
+	}
+]

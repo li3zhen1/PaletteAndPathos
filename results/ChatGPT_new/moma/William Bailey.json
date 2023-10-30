@@ -1,0 +1,67 @@
+[
+	{
+		"name": "William Bailey",
+		"keywords": [
+			"still life",
+			"figure paintings",
+			"minimalism",
+			"serenity",
+			"details"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Council Bluffs, Iowa, United States",
+				"events": [
+					"born and childhood"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Kansas City, Missouri, United States",
+				"events": [
+					"studied at the Kansas City Art Institute"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1957,
+				"happiness": 4,
+				"location": "United States",
+				"events": [
+					"served in the United States Army",
+					"studied at Yale University"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1969,
+				"happiness": 7,
+				"location": "New Haven, Connecticut, United States",
+				"events": [
+					"teaching at Yale University",
+					"first gallery show at Staempfli Gallery in New York"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 2020,
+				"happiness": 8,
+				"location": "New Haven, Connecticut, United States",
+				"events": [
+					"recognized as one of the leading realist painters",
+					"retired from teaching in 1995"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Still life",
+			"Figurative Painting"
+		]
+	}
+]

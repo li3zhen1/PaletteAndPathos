@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Cheyney Thompson",
+		"keywords": [
+			"abstraction",
+			"mathematics",
+			"time",
+			"economy",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1975,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Baton Rouge, Louisiana, USA",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Boston, USA",
+				"events": [
+					"studied at Massachusetts College of Art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"moved to",
+					"build his career"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Abstract Art"
+		]
+	}
+]

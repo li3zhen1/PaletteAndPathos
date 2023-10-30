@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Mira Schendel",
+		"keywords": [
+			"identity",
+			"spirituality",
+			"geometry",
+			"language",
+			"philosophy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"born in Switzerland to Catholic mother and Jewish father",
+					"moved to Italy to study philosophy"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1949,
+				"happiness": 2,
+				"location": "Milan, Italy",
+				"events": [
+					"fled Italy due to anti-Semitic legislation",
+					"lost a lot of her family in Holocaust"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"started creating art",
+					"met her future husband, Knut Schendel"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1973,
+				"happiness": 8,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"immigrated to Brazil",
+					"became a key figure in Brazilian art scene",
+					"had a major exhibition at the Bienal de São Paulo"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1988,
+				"happiness": 6,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"continued to work until her death"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"conceptual art",
+			"minimalism"
+		]
+	}
+]

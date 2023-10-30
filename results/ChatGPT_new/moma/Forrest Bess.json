@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Forrest Bess",
+		"keywords": [
+			"abstract",
+			"visionary",
+			"symbolic",
+			"androgyny",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1941,
+				"happiness": 4,
+				"location": "Bay City, Texas",
+				"events": [
+					"Studied architecture at Texas A&M"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Pacific Ocean",
+				"events": [
+					"Served as a marine during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1970,
+				"happiness": 4,
+				"location": "Bay City, Texas",
+				"events": [
+					"Lived in semi-seclusion",
+					"Underwent self-surgery"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1977,
+				"happiness": 2,
+				"location": "Bay City, Texas",
+				"events": [
+					"Hospitalized for schizophrenia"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Visionary Art"
+		]
+	}
+]

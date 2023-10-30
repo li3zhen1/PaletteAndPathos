@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Cima da Conegliano",
+		"keywords": [
+			"religion",
+			"portraits",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1459,
+				"end": 1517,
+				"happiness": 5,
+				"location": "Conegliano, Italy",
+				"events": [
+					"schooling and early learning in painting"
+				]
+			},
+			{
+				"start": 1483,
+				"end": 1500,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": [
+					"moving to Venice to expand his career",
+					"painting altarpieces for churches"
+				]
+			},
+			{
+				"start": 1500,
+				"end": 1517,
+				"happiness": 6,
+				"location": "Conegliano, Italy",
+				"events": [
+					"Back to his hometown"
+				]
+			}
+		],
+		"genre": [
+			"High Renaissance",
+			"Portraits",
+			"Religious Art"
+		]
+	}
+]

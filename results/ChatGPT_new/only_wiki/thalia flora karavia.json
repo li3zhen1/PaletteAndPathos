@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Thalia Flora-Karavia",
+		"keywords": [
+			"wars",
+			"women",
+			"documentary",
+			"Balkan Wars",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Alexandroupoli, Greece",
+				"events": [
+					"born in Alexandroupoli, Greece"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1893,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied art at the Munich Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Greece",
+				"events": [
+					"illustrated the Greco-Turkish War",
+					"documented daily life during the Macedonian Struggle and the Balkan Wars",
+					"joined Artistic and Literary Circle of Athens"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Athens, Greece",
+				"events": [
+					"became the first woman to be elected a member of the Athens Academy",
+					"continued her work as an artist and illustrator"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"War Art"
+		]
+	}
+]

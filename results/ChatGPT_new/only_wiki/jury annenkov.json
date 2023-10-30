@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Yury Annenkov",
+		"keywords": [
+			"portraits",
+			"book illustrations",
+			"modernism",
+			"social realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1910,
+				"happiness": 5,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Studied in private art schools"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at various academies",
+					"Introduced to cubism"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1924,
+				"happiness": 4,
+				"location": "Russia",
+				"events": [
+					"Experienced Russian revolution",
+					"Created a series of portrait drawings of the leaders of the Revolution"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Emigrated to France",
+					"Worked as book illustrator",
+					"Became a member of the Parisian literary and artistic circles"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Book Illustrations",
+			"Stage Design"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Donatello",
+		"keywords": [
+			"religion",
+			"sculpture",
+			"renaissance",
+			"classical antiquity",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1386,
+				"end": 1407,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"received early education",
+					"discovered interest in sculpture"
+				]
+			},
+			{
+				"start": 1407,
+				"end": 1443,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"worked on Saint John the Evangelist",
+					"completed Saint George for the Confraternity of the Cuirass-makers"
+				]
+			},
+			{
+				"start": 1443,
+				"end": 1455,
+				"happiness": 8,
+				"location": "Padua, Italy",
+				"events": [
+					"completed the equestrian statue of the Venetian general Gattamelata",
+					"Carved the reliefs for the high altar of the Basilica of Saint Anthony of Padua"
+				]
+			},
+			{
+				"start": 1455,
+				"end": 1466,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"created bronze David",
+					"created sculpture of Mary Magdalene"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance sculpture",
+			"Statuary"
+		]
+	}
+]

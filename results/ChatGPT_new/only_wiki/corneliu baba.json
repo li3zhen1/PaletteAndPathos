@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Corneliu Baba",
+		"keywords": [
+			"realism",
+			"portraits",
+			"suffering",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Craiova, Romania",
+				"events": [
+					"studied in the local School of Arts and Crafts",
+					"worked as an attendant in a psychiatric hospital"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied at the Academy of Fine Arts",
+					"experienced World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1997,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"became professor at the Nicolae Grigorescu Institute",
+					"exhibited works in United States, China, and Russia"
+				]
+			}
+		],
+		"genre": [
+			"Portrait painting",
+			"History painting"
+		]
+	}
+]

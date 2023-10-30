@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Armand Guillaumin",
+		"keywords": [
+			"landscapes",
+			"seascapes",
+			"colorful",
+			"nature",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1841,
+				"end": 1927,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became a member of Les XX",
+					"Won the French state lottery"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Landscape art"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Varvara Stepanova",
+		"keywords": [
+			"abstract",
+			"fashion",
+			"propaganda",
+			"modernism",
+			"social realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Kharkiv, Russian Empire",
+				"events": [
+					"settled in Paris",
+					"met Alexander Rodchenko"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1922,
+				"happiness": 7,
+				"location": "Moscow, Russian Soviet Federative Socialist Republic",
+				"events": [
+					"joined Productivist group",
+					"became an editor of LEF magazine"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1932,
+				"happiness": 6,
+				"location": "Moscow, Russian SFSR, Soviet Union",
+				"events": [
+					"created designs for sports clothing",
+					"accused of 'formalism'",
+					"worked on theater and film"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Moscow, Russian SFSR, Soviet Union",
+				"events": [
+					"worked quietly due to political repression"
+				]
+			}
+		],
+		"genre": [
+			"Avant-garde",
+			"Constructivism",
+			"Productivism"
+		]
+	}
+]

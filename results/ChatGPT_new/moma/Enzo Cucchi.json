@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Enzo Cucchi",
+		"keywords": [
+			"Neo-Expressionism",
+			"Italian Transavanguardia",
+			"head",
+			"inscriptions",
+			"morphed figures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Morro d'Alba, Italy",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Perugia, Italy",
+				"events": [
+					"studied at the Isherwood Foundation in Bournemouth, England"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1981,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"met Achille Bonito Oliva",
+					"group of artists named the Transavanguardia movement was formed with Enzo as a key member"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"exhibited at the Venice Biennale",
+					"began to achieve international recognition"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"continues to exhibit and create art"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Expressionism",
+			"Transavanguardia"
+		]
+	}
+]

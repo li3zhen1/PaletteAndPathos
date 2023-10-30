@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Moses Soyer",
+		"keywords": [
+			"realism",
+			"portraits",
+			"dance",
+			"figures",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Borisoglebsk, Russia",
+				"events": [
+					"born into a large Jewish family of intellectuals and painters"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1917,
+				"happiness": 4,
+				"location": "New York, United States",
+				"events": [
+					"immigrated to the US",
+					"studied at the Ferrer School"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1935,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"met his wife, Ida",
+					"started teaching at the Ferrer School"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1987,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"won several major awards for his paintings",
+					"recognized as a leading figure in American Realism"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Figurative Art",
+			"Portraiture"
+		]
+	}
+]

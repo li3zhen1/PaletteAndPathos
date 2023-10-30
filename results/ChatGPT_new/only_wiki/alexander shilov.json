@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Alexander Shilov",
+		"keywords": [
+			"portraits",
+			"realistic",
+			"forms",
+			"colors",
+			"human"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1954,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"born during the World War II"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"attended secondary school"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Moscow Secondary Art School",
+					"studied at the Surikov Art Institute"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"first steps in professional art"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Moscow, Russia",
+				"events": [
+					"became the youngest artist given a solo exhibition in the Tretyakov Gallery",
+					"awarded the State Prize of the USSR"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"continued artificial work",
+					"awarded Artist of the Year"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"realism"
+		]
+	}
+]

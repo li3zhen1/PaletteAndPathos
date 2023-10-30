@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Sonja Sekula",
+		"keywords": [
+			"abstract",
+			"surrealism",
+			"psyche"
+		],
+		"lifePeriods": [
+			{
+				"start": 1918,
+				"end": 1944,
+				"happiness": 3,
+				"location": "Lucerne, Switzerland",
+				"events": [
+					"born to Swiss parents",
+					"studied arts and crafts in Zurich"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1951,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"immigrated to the USA",
+					"active in the New York School of abstract expressionists"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1963,
+				"happiness": 2,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"suffered from mental health issues",
+					"eventually took her own life"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Surrealism"
+		]
+	}
+]

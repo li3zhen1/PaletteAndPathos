@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Heorhiy Narbut",
+		"keywords": [
+			"vignettes",
+			"banknotes",
+			"stamps",
+			"book illustrations",
+			"Ukrainian heraldry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Polibino, Duchy of Polotsk, Russian Empire",
+				"events": [
+					"born",
+					"started art studies"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Kyiv, Ukrainian State",
+				"events": [
+					"Head of the Arts Department at the Ministry of Education",
+					"died of typhus"
+				]
+			}
+		],
+		"genre": [
+			"graphic arts",
+			"heraldry"
+		]
+	}
+]

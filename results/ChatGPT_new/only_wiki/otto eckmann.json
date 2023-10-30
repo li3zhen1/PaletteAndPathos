@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Otto Eckmann",
+		"keywords": [
+			"Nature",
+			"Symbols",
+			"Art Nouveau",
+			"Ornament",
+			"Graphic arts"
+		],
+		"lifePeriods": [
+			{
+				"start": 1865,
+				"end": 1884,
+				"happiness": 6,
+				"location": "Hamburg, Germany",
+				"events": [
+					"Started to show interest in arts"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Joined the Munich Academy of Fine Arts",
+					"Known for his pivotal role in the Jugendstil movement"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1908,
+				"happiness": 4,
+				"location": "Baden-Baden, Germany",
+				"events": [
+					"Focused more on writing and theorizing on design rather than practicing it"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1907,
+				"happiness": 5,
+				"location": "Baden-Baden, Germany",
+				"events": [
+					"Passionate work in textile design"
+				]
+			}
+		],
+		"genre": [
+			"Art Nouveau",
+			"Jugendstil",
+			"Graphic design"
+		]
+	}
+]

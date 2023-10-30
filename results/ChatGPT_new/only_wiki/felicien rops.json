@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Felicien Rops",
+		"keywords": [
+			"eroticism",
+			"mortality",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1833,
+				"end": 1857,
+				"happiness": 5,
+				"location": "Namur, Belgium",
+				"events": [
+					"Got his education in Namur"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1862,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Founded a satirical journal"
+				]
+			},
+			{
+				"start": 1862,
+				"end": 1874,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Worked for popular French magazines",
+					"Became associated with the symbolist movement"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Essonnes, France",
+				"events": [
+					"Painted some of his most notable symbolic works"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Printmaking"
+		]
+	}
+]

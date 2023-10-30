@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Peter Doig",
+		"keywords": [
+			"landscape",
+			"memory",
+			"abstract",
+			"culturally loaded images",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1959,
+				"end": 1979,
+				"happiness": 6,
+				"location": "Edinburgh, Scotland",
+				"events": [
+					"born in Scotland",
+					"moved to Trinidad at an early age"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1983,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"studied painting at the Wimbledon School of Art"
+				]
+			},
+			{
+				"start": 1983,
+				"end": 2002,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"attended Saint Martin's School of Art",
+					"attended Chelsea School of Art",
+					"recognized as one of the important artists of his generation"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Port of Spain, Trinidad",
+				"events": [
+					"moved to Trinidad",
+					"his work was sold for a record price at auction"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Post-Impressionism",
+			"Magical Realism"
+		]
+	}
+]

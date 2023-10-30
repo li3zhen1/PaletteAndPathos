@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Osman Hamdi Bey",
+		"keywords": [
+			"culture",
+			"heritage",
+			"archaeology",
+			"orientalism",
+			"Islamic art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1842,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Istanbul, Ottoman Empire",
+				"events": [
+					"studied law and painting in Paris",
+					"founded the Istanbul Archaeology Museums"
+				]
+			}
+		],
+		"genre": [
+			"Orientalism",
+			"Realism"
+		]
+	}
+]

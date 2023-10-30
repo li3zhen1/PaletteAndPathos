@@ -1,0 +1,76 @@
+[
+	{
+		"name": "William Holman Hunt",
+		"keywords": [
+			"spirituality",
+			"love",
+			"religion",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1827,
+				"end": 1844,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"childhood",
+					"early education"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1854,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"founded Pre-Raphaelite Brotherhood",
+					"began painting career"
+				]
+			},
+			{
+				"start": 1854,
+				"end": 1860,
+				"happiness": 5,
+				"location": "Middle East",
+				"events": [
+					"travelled to Middle East for painting orientalist themes"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1866,
+				"happiness": 3,
+				"location": "Italy",
+				"events": [
+					"wife's death during childbirth"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1875,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"marriage with wife's sister",
+					"created significant art pieces"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1910,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"continued painting and exhibition",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Pre-Raphaelite",
+			"Symbolist",
+			"Christian Art"
+		]
+	}
+]

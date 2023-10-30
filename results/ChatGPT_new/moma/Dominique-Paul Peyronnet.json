@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Dominique-Paul Peyronnet",
+		"keywords": [
+			"political",
+			"people",
+			"portraits",
+			"social"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1943,
+				"happiness": 7,
+				"location": "France",
+				"events": [
+					"Studied at the Académie Julian",
+					"Exhibited at the Salon des Artistes Français"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"genre art",
+			"political art"
+		]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Lajos Tihanyi",
+		"keywords": [
+			"modernism",
+			"portraits",
+			"still-life",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1919,
+				"happiness": 6,
+				"location": "Budapest, Hungary",
+				"events": [
+					"studied at the Hungarian Royal National School of Arts and Crafts",
+					"became a member of the 'Eight' (Nyolcak)"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"escaped from post-war Hungary",
+					"established his abstract style"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1948,
+				"happiness": 2,
+				"location": "New York, United States",
+				"events": [
+					"immigrated due to the expansion of Nazi regime in Europe",
+					"died suddenly and alone"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Expressionism",
+			"Abstract art"
+		]
+	}
+]

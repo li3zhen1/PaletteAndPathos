@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Zbigniew Makowski",
+		"keywords": [
+			"abstract",
+			"surreal",
+			"cosmic",
+			"spiritual",
+			"complexity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Warszawa, Poland",
+				"events": [
+					"born into a family of artists",
+					"survived the horrors of World War II"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Warszawa, Poland",
+				"events": [
+					"graduated from the Academy of Fine Arts in Warsaw"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1989,
+				"happiness": 8,
+				"location": "Warszawa, Poland",
+				"events": [
+					"participated in numerous exhibitions in Poland and abroad",
+					"won the Critics Prize"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Warszawa, Poland",
+				"events": [
+					"was a professor at the Academy of Fine Arts in Warsaw",
+					"collected prestigious awards and recognitions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Surrealism"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Tarsila do Amaral",
+		"keywords": [
+			"Modernism",
+			"avant-garde",
+			"Brazilian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1914,
+				"happiness": 6,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Born into a wealthy family",
+					"Received a classical education"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 7,
+				"location": "São Paulo, Brazil and Paris, France",
+				"events": [
+					"Started to learn painting",
+					"Moved to Paris to study art"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1928,
+				"happiness": 8,
+				"location": "Paris, France and São Paulo, Brazil",
+				"events": [
+					"Married Oswald de Andrade",
+					"Participated in the Modern Art Week of 1922 in São Paulo"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1943,
+				"happiness": 4,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Divorced Oswald de Andrade",
+					"Faced financial difficulties"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1973,
+				"happiness": 5,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Continued to live and work in São Paulo",
+					"Honored with a retrospective exhibition at the São Paulo Museum of Art in 1969"
+				]
+			}
+		],
+		"genre": [
+			"Modernist",
+			"Cubist"
+		]
+	}
+]

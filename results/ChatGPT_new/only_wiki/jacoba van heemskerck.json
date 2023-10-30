@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Jacoba van Heemskerck",
+		"keywords": [
+			"abstract",
+			"pattern",
+			"nature",
+			"theosophy",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1923,
+				"happiness": 4,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"studied at the Royal Academy of Art",
+					"developed interest in Theosophy"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Symbolism"
+		]
+	}
+]

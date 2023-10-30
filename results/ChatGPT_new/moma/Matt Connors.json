@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Matt Connors",
+		"keywords": [
+			"abstract",
+			"experimentation",
+			"color",
+			"shape",
+			"structure"
+		],
+		"lifePeriods": [
+			{
+				"start": 1973,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Chicago",
+				"events": [
+					"Born and brought up"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 1999,
+				"happiness": 8,
+				"location": "New Hampshire",
+				"events": [
+					"Studied painting at Bennington College"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2010,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Studied at Yale University",
+					"Started active painting career"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Work internationally exhibited"
+				]
+			}
+		],
+		"genre": [
+			"Abstract"
+		]
+	}
+]

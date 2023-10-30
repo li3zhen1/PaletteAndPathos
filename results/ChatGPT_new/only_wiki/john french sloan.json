@@ -1,0 +1,48 @@
+[
+	{
+		"name": "John French Sloan",
+		"keywords": [
+			"urban life",
+			"social realism",
+			"landscapes",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Philadelphia, USA",
+				"events": [
+					"began working as an illustrator for newspapers",
+					"Studied at Pennsylvania Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1931,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"became a leading figure in the Ashcan School of realist artists",
+					"taught at the Art Students League"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1951,
+				"happiness": 4,
+				"location": "Santa Fe, New Mexico, USA",
+				"events": [
+					"his health began to decline",
+					"continued to create artwork reflecting social issues"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Ashcan School",
+			"Social Realism"
+		]
+	}
+]

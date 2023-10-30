@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Naotaka Hiro",
+		"keywords": [
+			"body",
+			"performance",
+			"process",
+			"discovery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1972,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Osaka, Japan; Los Angeles, USA",
+				"events": [
+					"Moved to Los Angeles",
+					"Established himself as a contemporary artist"
+				]
+			}
+		],
+		"genre": [
+			"Performance Art",
+			"Sculpture"
+		]
+	}
+]

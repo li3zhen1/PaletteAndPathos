@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Bhupen P. Khakhar",
+		"keywords": [
+			"Identity",
+			"Sexuality",
+			"Everyday life",
+			"Class struggle",
+			"Identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Bombay, India",
+				"events": [
+					"Birth",
+					"Early education"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Bombay, India",
+				"events": [
+					"Studied accountancy",
+					"Started working as a chartered accountant"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Baroda, India",
+				"events": [
+					"Joined Faculty of Fine Arts",
+					"Publicly declared his homosexuality"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2003,
+				"happiness": 4,
+				"location": "Baroda, India",
+				"events": [
+					"Was diagnosed with cancer",
+					"Received Prince Claus Award"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Narrative Art",
+			"Figurative Painting"
+		]
+	}
+]

@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Carlos Cruz-Diez",
+		"keywords": [
+			"color",
+			"light",
+			"kinetic",
+			"movement",
+			"op art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"studied at the School of Fine Arts in Caracas"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"worked as an illustrator and a creative consultant for the McCann Erickson advertising agency"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Barcelona, Spain",
+				"events": [
+					"traveled and lived in Spain researching and studying art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Attendance at the 'Denis Diderot' University where he studied Art and Archaeology"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1986,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"creation of Physichromie",
+					"work exhibited in the Museum of Modern Art (MoMA)"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 2019,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"retrospective exhibition at the Museum of Contemporary Art, Sofia Imber, Caracas"
+				]
+			}
+		],
+		"genre": [
+			"kinetic art",
+			"optical art"
+		]
+	}
+]

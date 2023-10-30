@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Arthur Verona",
+		"keywords": [
+			"landscapes",
+			"portraits",
+			"historical",
+			"symbolism",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1875,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"started art study in Paris"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1885,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"met his wife",
+					"took part in Salon event"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1890,
+				"happiness": 7,
+				"location": "Romania",
+				"events": [
+					"returned to Romania"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1906,
+				"happiness": 9,
+				"location": "Bucharest",
+				"events": [
+					"appointed director of the National School of Fine Arts"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Bucharest",
+				"events": [
+					"continued his work despite World War I"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Bucharest",
+				"events": [
+					"lived through World War II"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Symbolism",
+			"History painting"
+		]
+	}
+]

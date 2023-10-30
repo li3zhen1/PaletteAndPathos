@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Patrick Procktor",
+		"keywords": [
+			"portraits",
+			"landscapes",
+			"exotic",
+			"colourful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2003,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"Graduated from Royal College of Art",
+					"Became a prominent member of The London art scene in the 60s and 70s"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Landscape"
+		]
+	}
+]

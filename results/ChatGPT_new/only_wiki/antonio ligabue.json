@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Antonio Ligabue",
+		"keywords": [
+			"animals",
+			"nature",
+			"self-portrait",
+			"isolation",
+			"insanity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1919,
+				"happiness": 3,
+				"location": "Zürich, Switzerland",
+				"events": [
+					"abandonment by biological parents",
+					"adoption by the Löw family"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1937,
+				"happiness": 2,
+				"location": "Gualtieri, Italy",
+				"events": [
+					"deportation from Switzerland",
+					"living in poverty and isolation"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1941,
+				"happiness": 3,
+				"location": "Reggio Emilia, Italy",
+				"events": [
+					"discovery of painting and sculpting talent"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1958,
+				"happiness": 1,
+				"location": "Gualtieri, Italy",
+				"events": [
+					"institutionalization due to mental illness"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1965,
+				"happiness": 4,
+				"location": "Gualtieri, Italy",
+				"events": [
+					"recognition as a significant 'primitive' or 'naive' artist"
+				]
+			}
+		],
+		"genre": [
+			"naïve art",
+			"primitive art",
+			"expressionism"
+		]
+	}
+]

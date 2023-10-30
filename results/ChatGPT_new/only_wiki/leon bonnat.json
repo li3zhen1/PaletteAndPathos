@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Leon Bonnat",
+		"keywords": [
+			"Religion",
+			"Portraits",
+			"Historical Events"
+		],
+		"lifePeriods": [
+			{
+				"start": 1833,
+				"end": 1846,
+				"happiness": 5,
+				"location": "Bayonne, France",
+				"events": [
+					"Born to Spanish parents"
+				]
+			},
+			{
+				"start": 1846,
+				"end": 1853,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Moved to Madrid, started art training with his father"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Won the Prix de Rome",
+					"Visited Italy to study Italian masters",
+					"Established as a leading portrait painter"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1922,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Appointed director of the Ecole des Beaux-Arts",
+					"Received numerous awards"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Historical"
+		]
+	}
+]

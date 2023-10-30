@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Roberto Matta",
+		"keywords": [
+			"surrealism",
+			"abstract",
+			"psyche",
+			"mystery",
+			"unconscious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1934,
+				"happiness": 7,
+				"location": "Santiago, Chile",
+				"events": [
+					"studied architecture"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"associated with artists like Salvador Dalí",
+					"begun painting"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1948,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"introduced automatic drawing in America",
+					"a huge influence on Abstract Expressionism"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1968,
+				"happiness": 4,
+				"location": "Italy",
+				"events": [
+					"more involved in political activities, which affected his art",
+					"part of International protest against Vietnam War"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 2002,
+				"happiness": 6,
+				"location": "Civitella, Italy",
+				"events": [
+					"continued to paint",
+					"made significant contributions to European and Latin American art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Surrealism"
+		]
+	}
+]

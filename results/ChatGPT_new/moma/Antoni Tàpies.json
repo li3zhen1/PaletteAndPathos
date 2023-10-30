@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Antoni Tàpies",
+		"keywords": [
+			"abstract",
+			"texture",
+			"object",
+			"material",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Started law studies"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Began more formal art studies",
+					"Marriage to Teresa Barba Fabregas"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1969,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Received the Carnegie Prize",
+					"Exhibited work internationally"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1989,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Received the Prince of Asturias Award for the Arts",
+					"International recognition of his work"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2012,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Opening of the Fundació Antoni Tàpies",
+					"Received honorary doctorate from University of Barcelona"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Art Informel"
+		]
+	}
+]

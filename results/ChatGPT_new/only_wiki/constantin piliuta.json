@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Constantin Piliuta",
+		"keywords": [
+			"landscapes",
+			"nature",
+			"rural life",
+			"Romania",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1949,
+				"happiness": 3,
+				"location": "Izvoarele Sucevei, Romania",
+				"events": [
+					"born in rural Romania",
+					"practiced painting from a young age"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied at the Fine Arts Institute",
+					"began his professional painting career"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1975,
+				"happiness": 8,
+				"location": "Romania",
+				"events": [
+					"gained recognition within the Romanian art scene",
+					"established as a professional painter"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2003,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"celebrated for his depictions of the Romanian countryside",
+					"continued to paint until his death"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"impressionism",
+			"realism"
+		]
+	}
+]

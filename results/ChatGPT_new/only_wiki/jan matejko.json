@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Jan Matejko",
+		"keywords": [
+			"Wars",
+			"Battles",
+			"History",
+			"Historicism",
+			"Patriotism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1838,
+				"end": 1860,
+				"happiness": 5,
+				"location": "Kraków, Poland",
+				"events": [
+					"Born into a family of artists",
+					"Studied in School of Fine Arts in Kraków"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1880,
+				"happiness": 7,
+				"location": "Kraków, Poland",
+				"events": [
+					"Won a scholarship to study in France, Italy and Germany",
+					"Became a professor at the School of Fine Art in Kraków"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1893,
+				"happiness": 5,
+				"location": "Kraków, Poland",
+				"events": [
+					"Developed an eye condition",
+					"Died at the age of 58"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Portraiture"
+		]
+	}
+]

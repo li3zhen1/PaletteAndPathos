@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Giuseppe Arcimboldo",
+		"keywords": [
+			"nature",
+			"fantasy",
+			"renaissance",
+			"bizarre",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1526,
+				"end": 1593,
+				"happiness": 7,
+				"location": "Milan",
+				"events": [
+					"Born to a family of painters",
+					"Studied drawing and painting"
+				]
+			},
+			{
+				"start": 1562,
+				"end": 1564,
+				"happiness": 8,
+				"location": "Prague",
+				"events": [
+					"Became court painter for Ferdinand I",
+					"Created the 'Four Seasons' series"
+				]
+			},
+			{
+				"start": 1564,
+				"end": 1587,
+				"happiness": 5,
+				"location": "Vienna",
+				"events": [
+					"Served as a court painter for Maximilian II and Rudolf II",
+					"Created his most famous work, 'The Librarian'"
+				]
+			},
+			{
+				"start": 1587,
+				"end": 1593,
+				"happiness": 6,
+				"location": "Milan",
+				"events": [
+					"Retired and returned to his hometown",
+					"Died and left a legacy in the world of art"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"Portrait painting",
+			"Allegorical painting"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Roger Fry",
+		"keywords": [
+			"Post-Impressionism",
+			"still life",
+			"landscape",
+			"portraits",
+			"domestic scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1866,
+				"end": 1891,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"attended Clifton College",
+					"won a scholarship to King's College, Cambridge"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1905,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Married artist Helen Coombe",
+					"became Curator of Paintings at the Metropolitan Museum of Art"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1910,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"formed the Fitzroy Street Group",
+					"suffered a mental breakdown"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1919,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"founded the Omega Workshops",
+					"organised the influential Post-Impressionist exhibitions in London"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1934,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"suffered from bouts of depression",
+					"continued to paint and work as a critic and lecturer"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Modernism"
+		]
+	}
+]

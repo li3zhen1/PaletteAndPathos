@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Konstantinos Parthenis",
+		"keywords": [
+			"religious",
+			"mythological",
+			"landscapes",
+			"seascapes",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Alexandria, Egypt",
+				"events": [
+					"born in Alexandria"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1899,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"studied in Vienna Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1967,
+				"happiness": 5,
+				"location": "Athens, Greece",
+				"events": [
+					"established himself as one of the most important Greek painters",
+					"taught in the Athens School of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Impressionism",
+			"Cubism"
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "James Rosenquist",
+		"keywords": [
+			"popular culture",
+			"advertising",
+			"surrealism",
+			"consumerism",
+			"commercial art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Grand Forks, North Dakota",
+				"events": [
+					"born into a family of pilots and mechanics"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Minneapolis, Minnesota",
+				"events": [
+					"studied art at the Minneapolis School of Art"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"worked as a commercial artist",
+					"studied at the Art Students League"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"began his career in fine art",
+					"gained recognition for his pop-art paintings"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Various",
+				"events": [
+					"created many significant art pieces",
+					"exhibited works internationally"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2017,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"continued to create art up until his death"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art"
+		]
+	}
+]

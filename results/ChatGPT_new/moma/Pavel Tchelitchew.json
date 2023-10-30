@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Pavel Tchelitchew",
+		"keywords": [
+			"Anatomy",
+			"Portraits",
+			"Surrealism",
+			"Fantasy",
+			"Dream"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Kalinovy, Russia",
+				"events": [
+					"Born into a noble family"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1920,
+				"happiness": 3,
+				"location": "Kiev, Ukraine",
+				"events": [
+					"Fled from the Russian Revolution",
+					"Started his art studies"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1923,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"Moved with friends"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Met Gertrude Stein and became part of her intellectual and artistic circle",
+					"Met his lifelong partner Charles Henri Ford"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1957,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Became an American citizen",
+					"Worked on set designs for George Balanchine"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Anatomical Art"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Franz Stuck",
+		"keywords": [
+			"Symbolism",
+			"mythology",
+			"feminine beauty",
+			"eroticism",
+			"mortality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1863,
+				"end": 1885,
+				"happiness": 6,
+				"location": "Tettenweis, Bavaria",
+				"events": [
+					"raised in rural Bavaria"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1892,
+				"happiness": 7,
+				"location": "Munich",
+				"events": [
+					"studied at the Munich Academy",
+					"won a gold medal for design"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1900,
+				"happiness": 8,
+				"location": "Munich",
+				"events": [
+					"became a founding member of the Munich Secession",
+					"established his own style within the symbolic and Jugendstil movements"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1915,
+				"happiness": 7,
+				"location": "Munich",
+				"events": [
+					"built his own mansion - Villa Stuck",
+					"received knighthood"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Munich",
+				"events": [
+					"served as a war artist during World War I"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau",
+			"Portraiture"
+		]
+	}
+]

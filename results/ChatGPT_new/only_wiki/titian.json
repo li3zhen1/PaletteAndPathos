@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Titian",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraiture",
+			"nature",
+			"illustrative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1477,
+				"end": 1518,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Educated in the studio of Giovanni Bellini",
+					"Became an independent master"
+				]
+			},
+			{
+				"start": 1518,
+				"end": 1530,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": [
+					"Created 'Assumption of the Virgin'",
+					"Married Cecilia"
+				]
+			},
+			{
+				"start": 1530,
+				"end": 1560,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Lost his wife and father",
+					"Painted 'Venus of Urbino'"
+				]
+			},
+			{
+				"start": 1560,
+				"end": 1576,
+				"happiness": 4,
+				"location": "Venice, Italy",
+				"events": [
+					"His eldest son died",
+					"Death of Titian due to plague"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Religious Art",
+			"Mythological Paintings"
+		]
+	}
+]

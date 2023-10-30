@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Eduard von Gebhardt",
+		"keywords": [
+			"religion",
+			"portraiture",
+			"domestic",
+			"life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1838,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Jelgava, Latvia",
+				"events": [
+					"studied at the Düsseldorf Academy"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"became a professor at the Düsseldorf Academy",
+					"naturalized as German"
+				]
+			}
+		],
+		"genre": [
+			"history",
+			"portrait"
+		]
+	}
+]

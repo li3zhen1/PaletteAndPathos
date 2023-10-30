@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Mario Schifano",
+		"keywords": [
+			"pop art",
+			"urban scenery",
+			"commercial logos",
+			"landscapes",
+			"cultural symbols"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Libya",
+				"events": [
+					"Born in Libya to Italian parents"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Moved back to Italy during World War II",
+					"Started self-taught painting"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1967,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Gained recognition as a leading figure in the Pop Art movement",
+					"First solo exhibition in Rome"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1979,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Created series of black and white landscapes",
+					"Started using television as medium"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1989,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Exhibition at Palazzo dei Diamanti in Ferrara"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1998,
+				"happiness": 3,
+				"location": "Rome, Italy",
+				"events": [
+					"Experienced declining health",
+					"Exhibition at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Neo-Dada",
+			"Postmodernism"
+		]
+	}
+]

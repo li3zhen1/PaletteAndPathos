@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Raoul Dufy",
+		"keywords": [
+			"leisure",
+			"light",
+			"colorful",
+			"pleasure",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1893,
+				"happiness": 5,
+				"location": "Le Havre, France",
+				"events": []
+			},
+			{
+				"start": 1893,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied painting at the École des Beaux-Arts in Paris"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Met and influenced by Henri Matisse",
+					"developed a colorful, decorative style"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"produced large murals and other public works",
+					"exhibited widely"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"struggled with rheumatoid arthritis"
+				]
+			}
+		],
+		"genre": [
+			"Fauvism",
+			"Modernism",
+			"Impressionism"
+		]
+	}
+]

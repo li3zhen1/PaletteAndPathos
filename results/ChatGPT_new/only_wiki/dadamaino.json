@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Dadamaino",
+		"keywords": [
+			"spirituality",
+			"perception",
+			"space",
+			"abstraction",
+			"psychology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Milan, Italy",
+				"events": [
+					"Born in Milan",
+					"Affected by post-war environment"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Milan, Italy",
+				"events": [
+					"Started her career as a self-taught artist",
+					"Took the pseudonym Dadamaino (Maino's Dada)"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Milan, Italy",
+				"events": [
+					"Joined the Milanese avant-garde scene",
+					"Developed the 'Volumes' series"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Milan, Italy",
+				"events": [
+					"Participated regularly in the Venice Biennale",
+					"Developed the 'In Mind' series"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Abstract Art"
+		]
+	}
+]

@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Constantin Flondor",
+		"keywords": [
+			"abstract",
+			"symbolism",
+			"experimental"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2017,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"started working on his artistic vision",
+					"graduated from the Institute of Fine Arts"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2017,
+				"happiness": 7,
+				"location": "Dusseldorf, Germany",
+				"events": [
+					"moved to Germany",
+					"became professor at the Kunstakademie Düsseldorf"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Symbolism"
+		]
+	}
+]

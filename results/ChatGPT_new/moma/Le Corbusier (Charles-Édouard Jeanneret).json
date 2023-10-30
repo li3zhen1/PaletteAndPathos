@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Le Corbusier (Charles-Édouard Jeanneret)",
+		"keywords": [
+			"architecture",
+			"modernism",
+			"urban planning",
+			"minimalism",
+			"functionalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1917,
+				"happiness": 5,
+				"location": "La Chaux-de-Fonds",
+				"events": [
+					"studied at Art School",
+					"travelled to Italy"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"changed his name to 'Le Corbusier'",
+					"published his thoughts in three volumes"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Paris",
+				"events": []
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"worked as a planner",
+					"designed the city of Chandigarh"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"completed the Unité d'Habitation",
+					"died while swimming"
+				]
+			}
+		],
+		"genre": [
+			"Architecture"
+		]
+	}
+]

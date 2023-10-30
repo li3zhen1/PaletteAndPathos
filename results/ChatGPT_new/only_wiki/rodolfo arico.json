@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Rodolfo Aricò",
+		"keywords": [
+			"Abstract",
+			"Visual",
+			"Geometric",
+			"Contemporary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Porto Recanati, Italy",
+				"events": [
+					"Born in Porto Recanati"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Milan, Italy",
+				"events": [
+					"Studied at the Accademia di Brera"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Milan, Italy",
+				"events": [
+					"Joined the T Group, abstract artists in Italy",
+					"Exhibited works in 'The New Perspective of Painting'"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2002,
+				"happiness": 6,
+				"location": "Milan, Italy",
+				"events": [
+					"Designed stained glass windows for the church of the Madonna dei Poveri",
+					"Passed away in Milan"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Modern Art",
+			"Geometric Art"
+		]
+	}
+]

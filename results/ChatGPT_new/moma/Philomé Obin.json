@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Philomé Obin",
+		"keywords": [
+			"society",
+			"history",
+			"everyday life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Cap-Haïtien",
+				"events": [
+					"founded the Centre d’Art in Port-au-Prince",
+					"witnessed the U.S. occupation of Haiti"
+				]
+			}
+		],
+		"genre": [
+			"naïve art",
+			"mural painting"
+		]
+	}
+]

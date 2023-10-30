@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Esteban Vicente",
+		"keywords": [
+			"Abstract Expressionism",
+			"color",
+			"light",
+			"nature",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Turégano, Spain",
+				"events": [
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Studied at the Royal Academy of Fine Arts",
+					"Began professional career as an artist"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1936,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Movements like Cubism and Surrealist influence his work"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1940,
+				"happiness": 3,
+				"location": "New York City, USA",
+				"events": [
+					"Escaped to the U.S. during the Spanish Civil War",
+					"Struggled to establish himself"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"Became part of Abstract Expressionism movement",
+					"Held solo exhibitions",
+					"Received Guggenheim Fellowship"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Bridgehampton, USA",
+				"events": [
+					"Continued to paint and exhibit despite advancing age",
+					"Made honorary member of Royal Academy of Fine Arts in Spain"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

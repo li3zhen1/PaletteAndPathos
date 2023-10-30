@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Horia Damian",
+		"keywords": [
+			"abstract",
+			"sculpture",
+			"architecture",
+			"space",
+			"universe"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1944,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Began studying at the School of Fine Arts in Bucharest"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1950,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Escaped from Communist Romania"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became associated with the surrealist group discussing the fourth dimension in the arts",
+					"Opened his architectural studio"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2012,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Received the Herder Prize",
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"painting",
+			"architecture"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Lev Lagorio",
+		"keywords": [
+			"landscapes",
+			"marines",
+			"reality",
+			"nature",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1826,
+				"end": 1842,
+				"happiness": 5,
+				"location": "Feodosia, Russian Empire",
+				"events": [
+					"Moved to Feodosia with his family"
+				]
+			},
+			{
+				"start": 1842,
+				"end": 1850,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"Studied at the Imperial Academy of Arts under Maxim Vorobiev",
+					"Awarded two silver medals for landscape painting"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1855,
+				"happiness": 6,
+				"location": "Various",
+				"events": [
+					"Travels to the Caucasus, Trinity Monastery of St. Sergius, Crimea",
+					"Painting studies"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"Received titles from the Academy including 'Academician' and 'Professor'"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russian Empire",
+				"events": [
+					"Painted many landscape and marine views of the Black Sea"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Landscape art",
+			"Marine art"
+		]
+	}
+]

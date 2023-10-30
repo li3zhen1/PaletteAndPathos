@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Lynette Yiadom-Boakye",
+		"keywords": [
+			"portrait",
+			"african diaspora",
+			"figuration",
+			"identity",
+			"imagination"
+		],
+		"lifePeriods": [
+			{
+				"start": 1977,
+				"end": 2022,
+				"happiness": 7,
+				"location": "London, UK",
+				"events": [
+					"graduated from Royal Academy Schools",
+					"shortlisted for Turner Prize"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"contemporary art"
+		]
+	}
+]

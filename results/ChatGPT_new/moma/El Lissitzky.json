@@ -1,0 +1,95 @@
+[
+	{
+		"name": "El Lissitzky",
+		"keywords": [
+			"geometry",
+			"innovation",
+			"propaganda",
+			"suprematism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1909,
+				"happiness": 6,
+				"location": "Smolensk, Russian Empire",
+				"events": [
+					"learned drawing and painting"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Germany",
+				"events": [
+					"studied architecture"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Moscow, Russian Empire",
+				"events": [
+					"World War I period",
+					"worked in industry and architecture"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Vitebsk and Moscow, Russian SFSR",
+				"events": [
+					"engaged with Constructivists and Suprematists",
+					"met Kazimir Malevich"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Germany",
+				"events": [
+					"collaborated with international artists and designers",
+					"developed Proun artworks"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Moscow, USSR",
+				"events": [
+					"promoted Soviet designs",
+					"worked as a professor and designer"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1933,
+				"happiness": 2,
+				"location": "Moscow, USSR",
+				"events": [
+					"contracted pulmonary tuberculosis"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1941,
+				"happiness": 2,
+				"location": "Moscow, USSR",
+				"events": [
+					"struggled with poor health",
+					"created works despite his illness"
+				]
+			}
+		],
+		"genre": [
+			"Avant-garde",
+			"Suprematism",
+			"Constructivism"
+		]
+	}
+]

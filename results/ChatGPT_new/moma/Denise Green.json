@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Denise Green",
+		"keywords": [
+			"abstract",
+			"monochrome",
+			"minimalism",
+			"meditative",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Brisbane, Australia",
+				"events": [
+					"birth",
+					"exposed to art and culture"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1972,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"studied at the School of Visual Arts"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2018,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"continued work as an artist"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Contemporary Art"
+		]
+	}
+]

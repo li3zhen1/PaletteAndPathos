@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Dalton Paula",
+		"keywords": [
+			"identity",
+			"culture",
+			"history",
+			"race"
+		],
+		"lifePeriods": [
+			{
+				"start": 1982,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Brasília, Brazil",
+				"events": [
+					"graduated from the University Of Goiás with a Fine Arts degree",
+					"participated in the 32nd São Paulo Biennial"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"Painting"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Terry Winters",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"organic forms",
+			"nature",
+			"technology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 1969,
+				"happiness": 5,
+				"location": "Brooklyn, New York",
+				"events": [
+					"born",
+					"attended High School of Art and Design"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1981,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"attended Pratt Institute",
+					"developed unique abstract style"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1999,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"held first solo exhibition",
+					"gained international recognition"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"continued exhibiting internationally",
+					"expanded work into digital realm"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"modern",
+			"printmaking"
+		]
+	}
+]

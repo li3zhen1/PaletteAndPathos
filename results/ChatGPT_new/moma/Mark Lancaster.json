@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Mark Lancaster",
+		"keywords": [
+			"Minimalism",
+			"Abstract",
+			"Color Theory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Sheffield, England",
+				"events": [
+					"born in Sheffield",
+					"graduate from Newcastle University"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1980,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"immigrated to United States",
+					"worked as a scenic designer for Merce Cunningham Dance Company"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2021,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"returned to England",
+					"became a professor at University of Sussex"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract",
+			"Color Field"
+		]
+	}
+]

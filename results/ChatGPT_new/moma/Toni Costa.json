@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Toni Costa",
+		"keywords": [
+			"kinetic art",
+			"movement",
+			"optical illusion",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Venice, Italy",
+				"events": [
+					"born in Venice",
+					"began learning about art"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"studied at the Academy of Fine Arts",
+					"developed his own style"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": [
+					"founded New Tendencies movement",
+					"exhibited in Zagreb"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2019,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"continued artistic work",
+					"death in Venice"
+				]
+			}
+		],
+		"genre": [
+			"kinetic art",
+			"geometric abstraction"
+		]
+	}
+]

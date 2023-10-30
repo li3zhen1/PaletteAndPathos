@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Joaquín Torres-García",
+		"keywords": [
+			"constructivism",
+			"man",
+			"nature",
+			"universal",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1874,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"Born in Montevideo"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Studied in the Academy of Fine Arts",
+					"Opened his own art school",
+					"Married Manolita Piña"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Became member of the group Cercle et Carré",
+					"Founded the magazine 'Cercle et Carré'"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1934,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"Formed the group Alhambra",
+					"Suffered from a high degree of incomprehension and financial problems"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Montevideo, Uruguay",
+				"events": [
+					"Returned to Uruguay",
+					"Founded the Asociación de Arte Constructivo",
+					"Formed the Taller Torres-García"
+				]
+			}
+		],
+		"genre": [
+			"modern art",
+			"constructivism"
+		]
+	}
+]

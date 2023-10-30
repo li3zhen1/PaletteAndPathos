@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Alexey Venetsianov",
+		"keywords": [
+			"peasant life",
+			"rural",
+			"nature",
+			"work",
+			"family"
+		],
+		"lifePeriods": [
+			{
+				"start": 1780,
+				"end": 1847,
+				"happiness": 5,
+				"location": "Moscow",
+				"events": [
+					"became a self-taught artist",
+					"established a drawing school for peasant children"
+				]
+			}
+		],
+		"genre": [
+			"Genre art",
+			"Portrait"
+		]
+	}
+]

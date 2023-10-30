@@ -1,0 +1,65 @@
+[
+	{
+		"name": "James Ensor",
+		"keywords": [
+			"symbolism",
+			"fantasy",
+			"death",
+			"religion",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1877,
+				"happiness": 5,
+				"location": "Ostend, Belgium",
+				"events": [
+					"born in a culturally rich family"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1883,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"studied at the Brussels Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1893,
+				"happiness": 3,
+				"location": "Ostend, Belgium",
+				"events": [
+					"rejected by art society for his unconventional works",
+					"foundered the group Les XX"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1913,
+				"happiness": 7,
+				"location": "Ostend, Belgium",
+				"events": [
+					"recognition and appreciation in European avant-garde circles"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Ostend, Belgium",
+				"events": [
+					"enshrined as an important Belgian artist",
+					"died at the age of 89"
+				]
+			}
+		],
+		"genre": [
+			"symbolism",
+			"modernism"
+		]
+	}
+]

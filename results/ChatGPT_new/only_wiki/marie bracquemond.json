@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Marie Bracquemond",
+		"keywords": [
+			"portrait",
+			"still life",
+			"landscape",
+			"impressionism",
+			"domestic life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1840,
+				"end": 1857,
+				"happiness": 3,
+				"location": "Landunvez, France",
+				"events": [
+					"Born into a poor family"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1860,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the studio of Ingres"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1869,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Married to Félix Bracquemond"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1874,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Introduced to the Impressionist movement",
+					"Participated in the first Impressionist Exhibition"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1900,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Stopped painting due to pressure from husband",
+					"Started focusing on family life"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1916,
+				"happiness": 2,
+				"location": "Sèvres, France",
+				"events": [
+					"Death at the age of 75"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Portraiture",
+			"Landscape painting"
+		]
+	}
+]

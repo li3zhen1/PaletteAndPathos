@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Wayne Thiebaud",
+		"keywords": [
+			"everyday life",
+			"still life",
+			"landscapes",
+			"cityscapes",
+			"nostalgia"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Southern California, USA",
+				"events": [
+					"grew up during the Great Depression"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Sacramento, California, USA",
+				"events": [
+					"started teaching at Sacramento City College"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1990,
+				"happiness": 8,
+				"location": "Sacramento, California, USA",
+				"events": [
+					"began making his iconic paintings",
+					"association with Pop Art movement"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Sacramento, California, USA",
+				"events": [
+					"continued to paint and inspire"
+				]
+			}
+		],
+		"genre": [
+			"Pop art",
+			"Still life",
+			"Landscapes"
+		]
+	}
+]

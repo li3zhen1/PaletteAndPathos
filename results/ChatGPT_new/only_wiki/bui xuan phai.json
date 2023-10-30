@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Bui Xuan Phai",
+		"keywords": [
+			"Hanoi",
+			"streets",
+			"people",
+			"tradition",
+			"cityscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1941,
+				"happiness": 4,
+				"location": "Nam Dinh, Vietnam",
+				"events": [
+					"Born to a middle-class intellectual family"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1954,
+				"happiness": 3,
+				"location": "Hanoi, Vietnam",
+				"events": [
+					"Studied at the Indochina Fine Arts College",
+					"witnessed the impacts of war in Vietnam"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1988,
+				"happiness": 3,
+				"location": "Hanoi, Vietnam",
+				"events": [
+					"Started depicting Hanoi's streets and people in his artwork",
+					"isolated by the Vietnamese government due to political reasons"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

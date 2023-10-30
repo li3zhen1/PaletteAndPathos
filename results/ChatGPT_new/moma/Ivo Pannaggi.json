@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Ivo Pannaggi",
+		"keywords": [
+			"painting",
+			"graphic design",
+			"architecture",
+			"modernism",
+			"movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Macerata, Italy",
+				"events": [
+					"Studied at the Academy of Fine Arts in Rome",
+					"Founded the 'Italian Futurist Movement'",
+					"Published Futurist Manifesto"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Futurism"
+		]
+	}
+]

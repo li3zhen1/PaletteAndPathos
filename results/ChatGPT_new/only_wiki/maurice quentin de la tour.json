@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Maurice Quentin de La Tour",
+		"keywords": [
+			"portraiture",
+			"pastel",
+			"aristocracy",
+			"royalty",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1704,
+				"end": 1725,
+				"happiness": 5,
+				"location": "Saint-Quentin, France",
+				"events": [
+					"Birth",
+					"Discovering artistic talent at primary school"
+				]
+			},
+			{
+				"start": 1725,
+				"end": 1735,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Study at the Guild of Saint Luke",
+					"Started own portraiture studio"
+				]
+			},
+			{
+				"start": 1735,
+				"end": 1750,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Gained fame with his pastel portraits",
+					"Became established as a leading portraitist"
+				]
+			},
+			{
+				"start": 1750,
+				"end": 1788,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Appointed as portraitist to Louis XV",
+					"Inducted as a member of the Académie Royale de Peinture et de Sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Rococo"
+		]
+	}
+]

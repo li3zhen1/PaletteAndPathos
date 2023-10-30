@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Louise Nevelson",
+		"keywords": [
+			"sculpture",
+			"assemblage",
+			"monochromatic",
+			"abstract",
+			"wood"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Pereyaslav, Ukraine -> Rockland, Maine, USA",
+				"events": [
+					"immigrated to United States with family"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1932,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"got married",
+					"studied at Art Students League of New York"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1937,
+				"happiness": 5,
+				"location": "Munich, Germany -> New York, USA",
+				"events": [
+					"divorced her husband",
+					"studied art in Munich"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"started creating wooden wall pieces",
+					"worked for Works Projects Administration"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1988,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"recognition as an artist",
+					"became member of American Academy of Arts and Letters"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"feminist art",
+			"abstract expressionism"
+		]
+	}
+]

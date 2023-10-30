@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Lucy McKenzie",
+		"keywords": [
+			"architectural",
+			"fashion",
+			"political",
+			"nostalgia",
+			"propaganda"
+		],
+		"lifePeriods": [
+			{
+				"start": 1977,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"started practicing art at an early age",
+					"enrolled in Duncan of Jordanstone College of Art and Design"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2008,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"won a scholarship at the Hochschule der Künste Berlin",
+					"won the EAST award at EAST International"
+				]
+			},
+			{
+				"start": 2009,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Brussels, Belgium",
+				"events": [
+					"represented by galleries internationally",
+					"collaborated with fashion designer Beca Lipscombe"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Appropriation",
+			"Installation Art"
+		]
+	}
+]

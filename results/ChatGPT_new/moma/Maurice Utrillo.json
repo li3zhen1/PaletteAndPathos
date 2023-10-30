@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Maurice Utrillo",
+		"keywords": [
+			"cityscapes",
+			"Montmartre",
+			"nostalgia"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1894,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Born to an artist mother"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1904,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Influenced by the artistic environment of his mother"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1914,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"Started painting to cure his alcoholism",
+					"Recognized for his cityscapes"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Montmartre",
+				"events": [
+					"Fame increased",
+					"First solo exhibition"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1934,
+				"happiness": 3,
+				"location": "Montmartre",
+				"events": [
+					"Mental and physical health declined",
+					"Continued to paint"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1955,
+				"happiness": 3,
+				"location": "Le Vésinet",
+				"events": [
+					"Moved to a nursing home"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1955,
+				"happiness": 2,
+				"location": "Dax",
+				"events": [
+					"Passed away at Dax"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Naïve art"
+		]
+	}
+]

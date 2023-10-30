@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Ree Morton",
+		"keywords": [
+			"relationships",
+			"humor",
+			"domestic life",
+			"feminism",
+			"ironic wit"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Ossining, New York",
+				"events": [
+					"grew up"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Various (due to husband's Navy duties)",
+				"events": [
+					"gave birth to three children",
+					"started painting as a hobby"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Philadelphia",
+				"events": [
+					"started formal art education at University of Rhode Island",
+					"graduated with a BFA"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1973,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"graduated with a MFA from Tyler School of Art",
+					"presented her first solo exhibition"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1977,
+				"happiness": 9,
+				"location": "New York City",
+				"events": [
+					"grew actively involved in the feminist art movement",
+					"won an individual artist's grant from the National Endowment for the Arts"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1977,
+				"happiness": 3,
+				"location": "Chicago",
+				"events": [
+					"died in a car crash"
+				]
+			}
+		],
+		"genre": [
+			"Feminist Art",
+			"Postminimalism",
+			"Conceptual Art"
+		]
+	}
+]

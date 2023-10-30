@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Leonard French",
+		"keywords": [
+			"religious",
+			"abstract",
+			"geometry",
+			"color",
+			"murals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Brunswick, Australia",
+				"events": [
+					"Childhood"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Australia",
+				"events": [
+					"World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1969,
+				"happiness": 7,
+				"location": "Melbourne, Australia",
+				"events": [
+					"Started using geometrical patterns",
+					"Became well-known for his murals"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2017,
+				"happiness": 7,
+				"location": "Heathcote, Australia",
+				"events": [
+					"Completed the stained glass ceiling for the National Gallery of Victoria"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Murals"
+		]
+	}
+]

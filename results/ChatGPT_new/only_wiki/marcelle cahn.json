@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Marcelle Cahn",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"simplicity",
+			"innovation",
+			"cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Strasbourg, France",
+				"events": [
+					"born into a Jewish family",
+					"childhood"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Strasbourg, France",
+				"events": [
+					"started her interest in art",
+					"attended local art school"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1937,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Académie de la Palette",
+					"transitioned to cubism and abstract art",
+					"participated in the First and Second Salon des Surindépendants"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1941,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"exhibited her work in the Guggenheim Jeune",
+					"affected by World War II"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Albi, France",
+				"events": [
+					"hidden during the war due to her Jewish origin",
+					"limited ability to work and create"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1981,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"recovery after the war",
+					"resumption of her artistic activities",
+					"awarded Chevalier de la Légion d'Honneur"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Cubism"
+		]
+	}
+]

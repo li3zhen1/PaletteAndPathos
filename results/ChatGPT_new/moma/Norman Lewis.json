@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Norman Lewis",
+		"keywords": [
+			"abstract expressionism",
+			"civil rights",
+			"social commentary",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1914,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Born into an Afro-Caribbean family"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1929,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Received his early education"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1949,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Started painting professionally",
+					"Got involved in the Harlem Artist Guild"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1969,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Worked on abstraction and civil rights issues",
+					"Participated in the Spiral Group"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1979,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Received a Guggenheim Fellowship"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Social Realism"
+		]
+	}
+]

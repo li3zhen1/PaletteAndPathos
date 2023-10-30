@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Sally Hazelet Drummond",
+		"keywords": [
+			"minimalism",
+			"geometry",
+			"tranquility",
+			"nature",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Paducah, Kentucky",
+				"events": [
+					"Begin studying at Murray State Teachers College"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Graduated from The Art Students League of New York",
+					"Exhibited at the Stable Gallery"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Sharon, Connecticut",
+				"events": [
+					"Joined Park Place Gallery",
+					"Exhibited at the Museum of Contemporary Art",
+					"Received a grant from the Pollock-Krasner Foundation"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction"
+		]
+	}
+]

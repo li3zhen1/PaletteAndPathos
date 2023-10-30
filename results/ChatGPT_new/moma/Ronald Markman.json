@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Ronald Markman",
+		"keywords": [
+			"satire",
+			"cartoons",
+			"colorful",
+			"mixed media",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 2017,
+				"happiness": 7,
+				"location": "Brooklyn, New York, USA",
+				"events": [
+					"born in Brooklyn",
+					"attended School of Industrial Art in Manhattan"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1953,
+				"happiness": 5,
+				"location": "USA",
+				"events": [
+					"served in the US Army during the Korean War"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New Haven, Connecticut, USA",
+				"events": [
+					"studied at Yale University School of Art and Architecture",
+					"received a Bachelor of Fine Arts and a Master of Fine Arts"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1977,
+				"happiness": 8,
+				"location": "Baltimore, Maryland, USA",
+				"events": [
+					"taught at Maryland Institute College of Art",
+					"created his own world of characters and places"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 2017,
+				"happiness": 7,
+				"location": "Baltimore, Maryland, USA",
+				"events": [
+					"continued creating art and teaching"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Mixed Media",
+			"Satire"
+		]
+	}
+]

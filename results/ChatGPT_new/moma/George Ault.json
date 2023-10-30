@@ -1,0 +1,45 @@
+[
+	{
+		"name": "George Ault",
+		"keywords": [
+			"precise",
+			"geometry",
+			"architecture",
+			"order"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1948,
+				"happiness": 2,
+				"location": "Cleveland, Ohio",
+				"events": [
+					"birth",
+					"early education"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1937,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"studied at Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1948,
+				"happiness": 3,
+				"location": "Woodstock, New York",
+				"events": [
+					"creation of most famous works",
+					"struggled with mental illness"
+				]
+			}
+		],
+		"genre": [
+			"Precisionism"
+		]
+	}
+]

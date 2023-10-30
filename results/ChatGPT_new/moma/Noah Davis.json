@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Noah Davis",
+		"keywords": [
+			"family",
+			"narrative",
+			"domestic life",
+			"social issues",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1983,
+				"end": 2015,
+				"happiness": 6,
+				"location": "Seattle, Washington",
+				"events": [
+					"studied at Cooper Union"
+				]
+			},
+			{
+				"start": 2007,
+				"end": 2015,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"founded the Underground Museum",
+					"exhibited works at major institutions"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Figurative Painting"
+		]
+	}
+]

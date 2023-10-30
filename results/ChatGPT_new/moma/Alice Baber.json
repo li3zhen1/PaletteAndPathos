@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Alice Baber",
+		"keywords": [
+			"abstract",
+			"color",
+			"expressionism",
+			"female empowerment"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Charleston, Illinois, USA",
+				"events": [
+					"born and raised",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1962,
+				"happiness": 7,
+				"location": "New York, NY, USA",
+				"events": [
+					"explore abstract expressionism",
+					"started gaining recognition"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York City, USA / Paris, France",
+				"events": [
+					"got married to Paul Jenkins",
+					"founded the International Women's Art Festival"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1982,
+				"happiness": 4,
+				"location": "East Hampton, NY, USA",
+				"events": [
+					"health decline",
+					"continued to paint despite illness"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Abstract Expressionism"
+		]
+	}
+]

@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Christopher Wool",
+		"keywords": [
+			"words",
+			"patterns",
+			"black and white",
+			"contemporary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Chicago",
+				"events": [
+					"born in Boston but grew up in Chicago"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1975,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"studied painting and photography at Sarah Lawrence College"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"studied at the New York Studio School",
+					"started developing his characteristic style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"had his first solo show"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"had significant national and international exhibitions"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 9,
+				"location": "New York",
+				"events": [
+					"occasionally collaborated with artist Richard Hell",
+					"his work Apocalypse Now sold for $26.5 million at auction"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"abstract art"
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Roger de La Fresnaye",
+		"keywords": [
+			"cubism",
+			"war",
+			"nature",
+			"human form",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1897,
+				"happiness": 7,
+				"location": "Le Mans, France",
+				"events": [
+					"born into a wealthy family"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1903,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Académie Julian"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1908,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Ecole des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"exhibited works at the Salon d'Automne",
+					"became associated with the Cubist movement"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Western Front, France",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1925,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"suffered from tuberculosis",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Modernism"
+		]
+	}
+]

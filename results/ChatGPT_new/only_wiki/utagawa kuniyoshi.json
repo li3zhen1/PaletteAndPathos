@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Utagawa Kuniyoshi",
+		"keywords": [
+			"samurai",
+			"folklore",
+			"animals",
+			"women",
+			"legends"
+		],
+		"lifePeriods": [
+			{
+				"start": 1797,
+				"end": 1830,
+				"happiness": 4,
+				"location": "Edo, Japan",
+				"events": [
+					"learning ukiyo-e printmaking",
+					"initial struggle period"
+				]
+			},
+			{
+				"start": 1830,
+				"end": 1850,
+				"happiness": 7,
+				"location": "Edo, Japan",
+				"events": [
+					"breakthrough in career",
+					"produced his famous warrior prints"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1861,
+				"happiness": 5,
+				"location": "Edo, Japan",
+				"events": [
+					"banned from producing warrior prints",
+					"Suffered suppression by government"
+				]
+			}
+		],
+		"genre": [
+			"ukiyo-e",
+			"woodblock prints",
+			"Yokai images"
+		]
+	}
+]

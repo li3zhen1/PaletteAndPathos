@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Alexander Orlowski",
+		"keywords": [
+			"battles",
+			"landscapes",
+			"peasantry",
+			"portraits",
+			"horses"
+		],
+		"lifePeriods": [
+			{
+				"start": 1777,
+				"end": 1797,
+				"happiness": 5,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Received education in art from Jan Piotr Norblin"
+				]
+			},
+			{
+				"start": 1797,
+				"end": 1802,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Began working at the Imperial Academy of Arts",
+					"Started painting battle scenes"
+				]
+			},
+			{
+				"start": 1802,
+				"end": 1832,
+				"happiness": 4,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Soldier in the war against Napoleon",
+					"Serious illness shortened his life"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Portrait painting",
+			"Battle painting"
+		]
+	}
+]

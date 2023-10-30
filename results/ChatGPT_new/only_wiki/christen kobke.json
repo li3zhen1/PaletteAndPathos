@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Christen Købke",
+		"keywords": [
+			"landscapes",
+			"portraits",
+			"marine",
+			"naturalism",
+			"danish culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1810,
+				"end": 1848,
+				"happiness": 7,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"studied at the Royal Danish Academy of Art",
+					"traveled to Rome"
+				]
+			}
+		],
+		"genre": [
+			"romanticism",
+			"realism"
+		]
+	}
+]

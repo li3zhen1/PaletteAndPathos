@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Edouard Cortes",
+		"keywords": [
+			"cityscapes",
+			"seasons",
+			"post-impressionism",
+			"atmosphere",
+			"Paris"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Lagny-sur-Marne, France",
+				"events": [
+					"studied at the École des Beaux-Arts under his father",
+					"found his own style and began painting Parisian cityscapes"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1969,
+				"happiness": 4,
+				"location": "France",
+				"events": [
+					"continued painting despite declining health",
+					"deterioration of vision"
+				]
+			}
+		],
+		"genre": [
+			"post-impressionism",
+			"cityscape"
+		]
+	}
+]

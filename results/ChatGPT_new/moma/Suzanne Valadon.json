@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Suzanne Valadon",
+		"keywords": [
+			"Portraits",
+			"nudes",
+			"still life",
+			"circus",
+			"motherhood"
+		],
+		"lifePeriods": [
+			{
+				"start": 1865,
+				"end": 1883,
+				"happiness": 5,
+				"location": "Bessines-sur-Gartempe, France",
+				"events": [
+					"Born as illegitimate child",
+					"Worked at a variety of jobs"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1894,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Became a circus acrobat",
+					"Became model for famous artists"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Montmartre, Paris, France",
+				"events": [
+					"Created first known paintings",
+					"Became first woman artist admitted to the Société Nationale des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Montmartre, Paris, France",
+				"events": [
+					"mother's death",
+					"Continued to paint despite failing health"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Joan Mitchell",
+		"keywords": [
+			"abstract",
+			"emotion",
+			"nature",
+			"landscape",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Chicago",
+				"events": [
+					"started her art education"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Chicago",
+				"events": [
+					"attended Smith College",
+					"graduated from the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1955,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"became part of the New York School of abstract expressionists"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"moved to Paris",
+					"met her lifelong companion, the Canadian painter Jean-Paul Riopelle"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1992,
+				"happiness": 7,
+				"location": "Vétheuil, France",
+				"events": [
+					"established her career as a leading abstract expressionist artist"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"abstract art"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Theodor Aman",
+		"keywords": [
+			"history",
+			"military",
+			"portraiture",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1831,
+				"end": 1838,
+				"happiness": 5,
+				"location": "Câmpulung, Romania",
+				"events": [
+					"born into a family of merchants"
+				]
+			},
+			{
+				"start": 1841,
+				"end": 1850,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1864,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"founded the first art school in Romania"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1879,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"appointed director of the new National School of Fine Arts",
+					"participated in the creation of Carol Park"
+				]
+			},
+			{
+				"start": 1879,
+				"end": 1891,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"struggled with declining health",
+					"continued to paint despite health issues"
+				]
+			}
+		],
+		"genre": [
+			"historical painting",
+			"portrait painting",
+			"military painting",
+			"genre painting"
+		]
+	}
+]

@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Abraham Palatnik",
+		"keywords": [
+			"kinetic",
+			"light",
+			"color",
+			"movement",
+			"technology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Tel Aviv, Israel",
+				"events": [
+					"born in Brazil but raised in Israel",
+					"early education"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Tel Aviv, Israel",
+				"events": [
+					"Studied at the Montefiore School",
+					"studied engineering and avionics"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Began his artistic career",
+					"created first kinetic object"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Recognition and awards for his artwork",
+					"innovative use of light and movement in art"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2020,
+				"happiness": 8,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"continued to work and innovate in kinetic art",
+					"death at the age of 92"
+				]
+			}
+		],
+		"genre": [
+			"Kinetic Art",
+			"Contemporary Art",
+			"Public Art"
+		]
+	}
+]

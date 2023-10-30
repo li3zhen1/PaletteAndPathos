@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Adriaen Brouwer",
+		"keywords": [
+			"Peasants",
+			"Taverns",
+			"Drunkenness",
+			"Vices"
+		],
+		"lifePeriods": [
+			{
+				"start": 1605,
+				"end": 1638,
+				"happiness": 4,
+				"location": "Oudenaarde, Belgium",
+				"events": [
+					"Born in Belgium",
+					"Started painting"
+				]
+			},
+			{
+				"start": 1631,
+				"end": 1633,
+				"happiness": 5,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"Established as a master painter",
+					"Involved in local Guild of Saint Luke"
+				]
+			},
+			{
+				"start": 1633,
+				"end": 1638,
+				"happiness": 4,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"Arrested and imprisoned",
+					"Died at a young age"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"Baroque"
+		]
+	}
+]

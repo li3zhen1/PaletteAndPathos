@@ -1,0 +1,61 @@
+[
+	{
+		"name": "Ralph Rosenborg",
+		"keywords": [
+			"Abstract",
+			"Nature",
+			"mysticism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1921,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": []
+			},
+			{
+				"start": 1921,
+				"end": 1938,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Studied under Arshile Gorky"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1940,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"Joined the American Abstract Artists group"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Work began to gain recognition",
+					"Teaching stint at University of Minnesota"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1992,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Exhibited widely",
+					"Evolution of his signature style"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

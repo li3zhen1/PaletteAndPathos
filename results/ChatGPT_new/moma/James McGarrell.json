@@ -1,0 +1,58 @@
+[
+	{
+		"name": "James McGarrell",
+		"keywords": [
+			"abstract",
+			"colorful",
+			"nature",
+			"human figures",
+			"surrealism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1953,
+				"happiness": 5,
+				"location": "Indianapolis, Indiana",
+				"events": [
+					"Born on November 22, 1930",
+					"Became interested in painting"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"Graduated from University of California, Los Angeles",
+					"Started teaching at Washington University"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Newfane, Vermont",
+				"events": [
+					"Retired from teaching",
+					"Continued painting from his studio in Vermont"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Newfane, Vermont",
+				"events": [
+					"Still lived and worked from his Vermont studio",
+					"Artworks regularly exhibited internationally"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"figurative painting"
+		]
+	}
+]

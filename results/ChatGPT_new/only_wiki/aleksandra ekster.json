@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Aleksandra Ekster",
+		"keywords": [
+			"cubism",
+			"constructivism",
+			"futurism",
+			"theatrical set design"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1908,
+				"happiness": 7,
+				"location": "Kiev, Russian Empire",
+				"events": [
+					"Studied art in Kiev and Paris"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Kiev, Russian Empire",
+				"events": [
+					"Married Nikolai Evgenyevich Ekster",
+					"Became a part of the Russian avant-garde art scene"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Moscow, Russian Empire",
+				"events": [
+					"Experienced World War I",
+					"Worked on Agitprop trains and boats and designed for theatre"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Experienced World War II",
+					"Worked as a costume designer in film studios"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Art Deco",
+			"Avant-garde"
+		]
+	}
+]

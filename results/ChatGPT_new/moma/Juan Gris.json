@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Juan Gris",
+		"keywords": [
+			"cubism",
+			"still life",
+			"synthetic cubism",
+			"portraits",
+			"landscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1906,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Began his studies in mechanical drawing",
+					"Attended Madrid's School of Arts and Sciences"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris and met Picasso, his influential friend",
+					"Started experimenting with cubism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1927,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Developed his unique style Synthetic Cubism",
+					"Suffered from chronic illness in the last years of his life"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Synthetic cubism"
+		]
+	}
+]

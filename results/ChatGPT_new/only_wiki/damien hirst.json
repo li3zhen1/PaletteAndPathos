@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Damien Hirst",
+		"keywords": [
+			"death",
+			"religion",
+			"science",
+			"wealth",
+			"pharmaceuticals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1965,
+				"end": 1986,
+				"happiness": 5,
+				"location": "Leeds, England",
+				"events": [
+					"grew up in single parent family",
+					"accepted into art college"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1991,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"studied at Goldsmiths, University of London",
+					"Curated 'Freeze' exhibition which launched Young British Artists movement"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2000,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"won Turner Prize",
+					"created his famous 'Spot Paintings'"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Devon, England",
+				"events": [
+					"became one of the richest living artists",
+					"created 'For the Love of God'"
+				]
+			}
+		],
+		"genre": [
+			"Young British Artists",
+			"conceptual art"
+		]
+	}
+]

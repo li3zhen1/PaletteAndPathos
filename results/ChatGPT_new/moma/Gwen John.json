@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Gwen John",
+		"keywords": [
+			"women",
+			"solitude",
+			"still lifes",
+			"portraits",
+			"Catholicism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Haverfordwest, Wales",
+				"events": [
+					"Raised in a family of artists"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1898,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Studied at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Met fellow artist Augustus John",
+					"Began life as an expatriate"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Met artist Auguste Rodin",
+					"Began intimate relationship with Rodin"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Meudon, France",
+				"events": [
+					"Continued relationship with Rodin",
+					"Converted to Catholicism"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Dieppe, France",
+				"events": [
+					"Lived in semi-seclusion",
+					"Deepened devotion to Catholicism"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Still Lifes"
+		]
+	}
+]

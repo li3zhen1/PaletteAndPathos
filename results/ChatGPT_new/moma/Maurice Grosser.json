@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Maurice Grosser",
+		"keywords": [
+			"ballet",
+			"opera",
+			"portraits",
+			"landscapes",
+			"abstract"
+		],
+		"genre": [
+			"portraiture",
+			"landscape",
+			"modernist"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1929,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Earned a Bachelor of Arts at Harvard University",
+					"Investigated cubism and modernist movements"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Engaged in set designing and writing on ballet and opera",
+					"Experienced world war II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1986,
+				"happiness": 6,
+				"location": "Taos, New Mexico, USA",
+				"events": [
+					"Worked extensively in portraiture and abstract",
+					"Received the Guggenheim Fellowship"
+				]
+			}
+		]
+	}
+]

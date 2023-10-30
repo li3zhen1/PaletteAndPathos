@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Richard Artschwager",
+		"keywords": [
+			"everyday objects",
+			"conceptual",
+			"geometric shapes",
+			"industrial materials"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Washington, D.C., USA",
+				"events": [
+					"Received education"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Europe",
+				"events": [
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1958,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Studied art",
+					"Started furniture business"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1970,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Furniture workshop destroyed in fire",
+					"Devoted himself to art"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Various exhibitions",
+					"Recognition increased"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2013,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Continued creating art till death"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Pop Art"
+		]
+	}
+]

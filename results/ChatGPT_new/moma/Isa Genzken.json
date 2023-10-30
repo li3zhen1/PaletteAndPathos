@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Isa Genzken",
+		"keywords": [
+			"urban environment",
+			"sculpture",
+			"abstraction",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Bad Oldesloe, Germany",
+				"events": [
+					"birth",
+					"upbringing"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1977,
+				"happiness": 7,
+				"location": "Hamburg and Berlin, Germany",
+				"events": [
+					"studied fine arts",
+					"focused on painting"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 2000,
+				"happiness": 5,
+				"location": "Cologne, Germany",
+				"events": [
+					"shifted focus to sculpture",
+					"marriage with artist Gerhard Richter"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"continued exploration of contemporary issues in art",
+					"participation in International exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"sculpture",
+			"mixed media"
+		]
+	}
+]

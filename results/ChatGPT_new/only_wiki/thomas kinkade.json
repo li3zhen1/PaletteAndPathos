@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Thomas Kinkade",
+		"keywords": [
+			"home",
+			"nature",
+			"light",
+			"nostalgia",
+			"peace"
+		],
+		"lifePeriods": [
+			{
+				"start": 1958,
+				"end": 1966,
+				"happiness": 5,
+				"location": "Sacramento, California",
+				"events": [
+					"learned to draw with his mother"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1976,
+				"happiness": 8,
+				"location": "Placerville, California",
+				"events": [
+					"improved his artistic skills",
+					"developed unique painting style"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1981,
+				"happiness": 7,
+				"location": "Berkeley, California",
+				"events": [
+					"studied at the University of California, Berkeley"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1989,
+				"happiness": 6,
+				"location": "Pleasant Hill, California",
+				"events": [
+					"married his wife",
+					"started to sell his artworks"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Los Gatos, California",
+				"events": [
+					"his artwork became popular",
+					"opened his own gallery"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2012,
+				"happiness": 5,
+				"location": "Monte Sereno, California",
+				"events": [
+					"business troubles",
+					"died unexpectedly"
+				]
+			}
+		],
+		"genre": [
+			"Pastoral",
+			"Fictional",
+			"Idyllic"
+		]
+	}
+]

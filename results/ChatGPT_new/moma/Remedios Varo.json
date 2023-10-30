@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Remedios Varo",
+		"keywords": [
+			"surrealism",
+			"mythic",
+			"nature",
+			"fantasy",
+			"alchemy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Anglès",
+				"events": [
+					"Started art education",
+					"moved to San Sebastian"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1941,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Influenced by Surrealist movement",
+					"suffered the Second World War"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Mexico City",
+				"events": [
+					"most mature period of her works",
+					"created her masterpiece 'The Invention of the Birds'"
+				]
+			}
+		],
+		"genre": [
+			"surrealist",
+			"painting",
+			"drawing"
+		]
+	}
+]

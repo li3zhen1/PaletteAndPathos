@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Arshile Gorky",
+		"keywords": [
+			"surrealism",
+			"abstract expressionism",
+			"nature",
+			"memory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1915,
+				"happiness": 3,
+				"location": "Khorgom, Ottoman Empire",
+				"events": [
+					"Gorky's father emigrated to America",
+					"Armenian Genocide"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1920,
+				"happiness": 2,
+				"location": "Tiflis, Georgia",
+				"events": [
+					"Survived Armenian Genocide",
+					"Mother died of starvation"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Started taking classes at the New School of Design",
+					"Became a US citizen"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1948,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Married Agnes Magruder and had two children",
+					"Battled depression"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"surrealism"
+		]
+	}
+]

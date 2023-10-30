@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Archibald John Motley Jr.",
+		"keywords": [
+			"racial conflicts",
+			"nightlife",
+			"African-American culture",
+			"urban scenes",
+			"Jazz Age"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Chicago",
+				"events": [
+					"graduated from the School of the Art Institute of Chicago",
+					"regularly exhibited his work at the Art Institute of Chicago's annual exhibitions"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1943,
+				"happiness": 8,
+				"location": "Chicago",
+				"events": [
+					"created his well-known painting 'The 'Octoroon Girl'",
+					"spent nine months in Paris as a holder of the Harmon Foundation Fellowship in Fine Arts"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Chicago",
+				"events": [
+					"difficulties with finding exhibitions and sales of his artwork"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1981,
+				"happiness": 5,
+				"location": "Chicago",
+				"events": [
+					"awarded the honorary degree of doctor of fine arts by the School of the Art Institute of Chicago"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Modernism",
+			"Cubism"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Ulysse Comtois",
+		"keywords": [
+			"sculpture",
+			"natural forms",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Trois-Rivières, Quebec, Canada",
+				"events": [
+					"Started his career as a painter",
+					"Shifted towards sculpture in early 1960s"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"painting",
+			"abstract art"
+		]
+	}
+]

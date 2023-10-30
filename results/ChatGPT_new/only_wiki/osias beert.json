@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Osias Beert",
+		"keywords": [
+			"still life",
+			"detail",
+			"floral",
+			"fruit",
+			"glassware"
+		],
+		"lifePeriods": [
+			{
+				"start": 1580,
+				"end": 1624,
+				"happiness": 5,
+				"location": "Antwerp",
+				"events": [
+					"Joined the Antwerp's Guild of Saint Luke",
+					"Opened his own workshop"
+				]
+			}
+		],
+		"genre": [
+			"Still life"
+		]
+	}
+]

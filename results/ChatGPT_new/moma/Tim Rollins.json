@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Tim Rollins",
+		"keywords": [
+			"Books",
+			"Education",
+			"Renaissance",
+			"Mythology",
+			"Collaboration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Pittsfield, Maine",
+				"events": [
+					"Born in Pittsfield"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Studied fine art at University of Maine",
+					"Started teaching art in South Bronx"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1995,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"Created Kids of Survival (K.O.S.)",
+					"Started creating artwork with students"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2017,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Continued to create and exhibit artworks globally with K.O.S."
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Contemporary Art"
+		]
+	}
+]

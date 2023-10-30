@@ -1,0 +1,25 @@
+[
+	{
+		"name": "John Singleton Copley",
+		"keywords": [
+			"portrait",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1738,
+				"end": 1815,
+				"happiness": 6,
+				"location": "Boston",
+				"events": [
+					"self-taught artist",
+					"emigrated to London"
+				]
+			}
+		],
+		"genre": [
+			"portrait painting",
+			"history painting"
+		]
+	}
+]

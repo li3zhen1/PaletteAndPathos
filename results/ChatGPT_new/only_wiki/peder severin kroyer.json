@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Peder Severin Krøyer",
+		"keywords": [
+			"beach",
+			"nature",
+			"women",
+			"society",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1851,
+				"end": 1861,
+				"happiness": 2,
+				"location": "Stavanger, Norway",
+				"events": [
+					"orphaned at the age of 9"
+				]
+			},
+			{
+				"start": 1862,
+				"end": 1870,
+				"happiness": 4,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"enrolled in the Royal Danish Academy of Art"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1887,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"generated significant attention at the Paris Salon",
+					"met his future wife Marie"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1908,
+				"happiness": 6,
+				"location": "Skagen, Denmark",
+				"events": [
+					"co-founded the Skagen Painters group"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1909,
+				"happiness": 3,
+				"location": "Skagen, Denmark",
+				"events": [
+					"struggled with final stages of syphilis"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism"
+		]
+	}
+]

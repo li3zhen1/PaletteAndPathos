@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Luis Feito",
+		"keywords": [
+			"abstraction",
+			"geometric",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"Birth and early childhood"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Studied at the Real Academia de Bellas Artes de San Fernando"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Foundation of El Paso Group",
+					"Won the Kandinsky Prize"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Held exhibitions across Europe"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2010,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Exhibition at the Spanish Museum of Contemporary Art",
+					"Worked as a professor at the Universidad Complutense de Madrid"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Retirement and last years"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Informalism"
+		]
+	}
+]

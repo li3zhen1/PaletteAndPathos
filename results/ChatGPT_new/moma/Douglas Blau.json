@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Douglas Blau",
+		"keywords": [
+			"narrative",
+			"symbolic",
+			"fairy tales",
+			"text",
+			"images"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Had Various gallery and museum exhibitions",
+					"Permanent installations at public sites"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Mixed Media",
+			"Installation Art"
+		]
+	}
+]

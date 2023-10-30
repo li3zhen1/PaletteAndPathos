@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Iurii Annenkov",
+		"keywords": [
+			"portraits",
+			"political figures",
+			"Book design"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Pavlovsk, Russia",
+				"events": [
+					"born into a wealthy family"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Petrograd, Russia",
+				"events": [
+					"Studied at the Imperial Academy of Arts",
+					"Involved in the Avant-garde movement"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1974,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Emigrated from Russia",
+					"Created book designs and illustrations"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Graphic art",
+			"Book design"
+		]
+	}
+]

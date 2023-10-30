@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Felix Gonzalez-Torres",
+		"keywords": [
+			"minimalism",
+			"nostalgia",
+			"mortality",
+			"intimacy",
+			"human condition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Guanabo, Cuba",
+				"events": []
+			},
+			{
+				"start": 1970,
+				"end": 1979,
+				"happiness": 7,
+				"location": "Puerto Rico",
+				"events": [
+					"Moved with his family from Cuba"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1987,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Started his art studies",
+					"met his partner Ross Laycock"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 1991,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Ross was diagnosed with AIDS"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1996,
+				"happiness": 1,
+				"location": "New York, USA",
+				"events": [
+					"Ross died from AIDS",
+					"Felix himself was diagnosed with AIDS"
+				]
+			}
+		],
+		"genre": [
+			"installation",
+			"conceptual art",
+			"minimalist"
+		]
+	}
+]

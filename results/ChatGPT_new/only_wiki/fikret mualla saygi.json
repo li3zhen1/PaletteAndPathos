@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Fikret Mualla Saygi",
+		"keywords": [
+			"self-portrait",
+			"chaos",
+			"sorrow",
+			"loneliness",
+			"paris"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Istanbul",
+				"events": [
+					"Born into a wealthy Ottoman family",
+					"Started drawing in his childhood"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1939,
+				"happiness": 3,
+				"location": "Germany",
+				"events": [
+					"Studied engineering",
+					"Received artistic training",
+					"Suffered a mental breakdown"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1950,
+				"happiness": 2,
+				"location": "Paris",
+				"events": [
+					"Moved to Paris",
+					"Had an accident which further affected his mental health"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1967,
+				"happiness": 1,
+				"location": "Paris",
+				"events": [
+					"Lived in poverty",
+					"Art was discovered and appreciated by the avant-garde circle"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Post-Impressionism"
+		]
+	}
+]

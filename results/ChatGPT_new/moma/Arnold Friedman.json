@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Arnold Friedman",
+		"keywords": [
+			"landscape",
+			"vibrant colors",
+			"urban scenes",
+			"nature",
+			"seascape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1874,
+				"end": 1946,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Struggled with financial instability",
+					"Received attention from important art figures later in life"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Modernism"
+		]
+	}
+]

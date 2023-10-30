@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Thomas Moran",
+		"keywords": [
+			"landscape",
+			"romanticism",
+			"nature",
+			"Grand Canyon",
+			"American West"
+		],
+		"lifePeriods": [
+			{
+				"start": 1837,
+				"end": 1844,
+				"happiness": 3,
+				"location": "Bolton, England",
+				"events": [
+					"Born into a family of textile workers",
+					"Started to gain interest in art"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1856,
+				"happiness": 5,
+				"location": "Philadelphia, United States",
+				"events": [
+					"Family moved to America for better life opportunity",
+					"Gained training in arts"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1872,
+				"happiness": 7,
+				"location": "Philadelphia, United States",
+				"events": [
+					"Began a successful career as an illustrator",
+					"Married Mary Nimmo Moran"
+				]
+			},
+			{
+				"start": 1872,
+				"end": 1900,
+				"happiness": 9,
+				"location": "New York, United States",
+				"events": [
+					"Became renown for his painting 'The Grand Canyon of the Yellowstone'",
+					"Participated in major expeditions to the American West"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Santa Barbara, United States",
+				"events": [
+					"Recognized as one of the foremost painters of the American landscape",
+					"Suffered from the death of his wife"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting",
+			"Illustration",
+			"Engraving"
+		]
+	}
+]

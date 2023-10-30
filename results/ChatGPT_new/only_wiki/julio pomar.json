@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Julio Pomar",
+		"keywords": [
+			"animals",
+			"human figures",
+			"color",
+			"movement",
+			"modernity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"began studying painting at an early age"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1974,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"participation in the anti-fascist movement",
+					"continued artistic development in harsh conditions"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"recognition as a prominent figure in modern art",
+					"creation of works for public spaces"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2018,
+				"happiness": 8,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"continued active artistic life",
+					"opening of Atelier-Museum Júlio Pomar"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Figurative"
+		]
+	}
+]

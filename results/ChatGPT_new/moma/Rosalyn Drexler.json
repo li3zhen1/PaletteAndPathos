@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Rosalyn Drexler",
+		"keywords": [
+			"pop art",
+			"theatre",
+			"novelist",
+			"social issues"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Started her career as a singer",
+					"Transitioned to visual arts and writing"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Literature"
+		]
+	}
+]

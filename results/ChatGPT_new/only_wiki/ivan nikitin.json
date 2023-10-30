@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Ivan Nikitin",
+		"keywords": [
+			"Portraits",
+			"royalty",
+			"OSC",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1690,
+				"end": 1696,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Born into a family of serfs"
+				]
+			},
+			{
+				"start": 1696,
+				"end": 1715,
+				"happiness": 6,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Worked as an assistant to court painter"
+				]
+			},
+			{
+				"start": 1715,
+				"end": 1733,
+				"happiness": 7,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Gained the favor of Peter the Great",
+					"Became court painter"
+				]
+			},
+			{
+				"start": 1733,
+				"end": 1741,
+				"happiness": 5,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Career declined after the death of Peter the Great"
+				]
+			},
+			{
+				"start": 1741,
+				"end": 1742,
+				"happiness": 4,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Died"
+				]
+			}
+		],
+		"genre": [
+			"Portrait"
+		]
+	}
+]

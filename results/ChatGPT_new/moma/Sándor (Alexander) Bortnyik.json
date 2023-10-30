@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Sándor (Alexander) Bortnyik",
+		"keywords": [
+			"cubism",
+			"modernism",
+			"graphic design",
+			"urban life",
+			"satire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Munkacs, Austro-Hungarian Empire",
+				"events": [
+					"trained as a painter"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"influenced by Constructivism and Dada movements",
+					"began creating graphic design and typography"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1938,
+				"happiness": 7,
+				"location": "Budapest, Hungary",
+				"events": [
+					"founded 'Muhely', the Hungarian Bauhaus"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Survived World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"continued his work in graphic design"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Lugano, Switzerland",
+				"events": [
+					"emigrated to Switzerland",
+					"worked in commercial art"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"modernism",
+			"constructivism"
+		]
+	}
+]

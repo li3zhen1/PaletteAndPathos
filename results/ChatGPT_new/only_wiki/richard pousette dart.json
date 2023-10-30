@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Richard Pousette-Dart",
+		"keywords": [
+			"abstraction",
+			"mysticism",
+			"nature",
+			"spirituality",
+			"music"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 1992,
+				"happiness": 5,
+				"location": "Saint Paul, Minnesota, United States",
+				"events": [
+					"born in a musical household",
+					"interest in art blossomed at a young age"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1942,
+				"happiness": 4,
+				"location": "New York City, New York, United States",
+				"events": [
+					"attended the Art Students League of New York",
+					"worked in his chosen field of abstract art"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Suffern, New York, United States",
+				"events": [
+					"moved to rural Rockland County",
+					"created sizable stone and wood sculptures"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Suffern, New York, United States",
+				"events": [
+					"continued working and exhibiting",
+					"died at the age of 76"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Painting",
+			"Sculpture"
+		]
+	}
+]

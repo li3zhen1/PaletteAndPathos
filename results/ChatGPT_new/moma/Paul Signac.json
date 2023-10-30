@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Paul Signac",
+		"keywords": [
+			"pointillism",
+			"neo-impressionism",
+			"color theory",
+			"seascapes",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1863,
+				"end": 1887,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Ecole des Arts Decoratifs",
+					"Met Georges Seurat and adopted his pointillist technique"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Death of his close associate Georges Seurat",
+					"Became a leader in the neo-impressionist movement"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1913,
+				"happiness": 8,
+				"location": "Saint-Tropez, France",
+				"events": [
+					"Established an artist colony in Saint-Tropez",
+					"Produced major works while embracing open-air painting"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Experienced World War I",
+					"Death of his son in 1925"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Impressionism",
+			"Pointillism"
+		]
+	}
+]

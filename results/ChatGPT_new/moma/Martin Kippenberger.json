@@ -1,0 +1,89 @@
+[
+	{
+		"name": "Martin Kippenberger",
+		"keywords": [
+			"abstract",
+			"satire",
+			"contemporary",
+			"criticism",
+			"multi-disciplinary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1953,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Dortmund, Germany",
+				"events": [
+					"Born",
+					"Early childhood "
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Essen, Germany",
+				"events": [
+					"High-school ",
+					"early interest in art"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Hamburg, Germany",
+				"events": [
+					"Studied at the Hamburg Fine Arts Academy",
+					"started creating art"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"Moved to Berlin",
+					"Exploration and innovation of his art style"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1990,
+				"happiness": 8,
+				"location": "Various locations",
+				"events": [
+					"International recognition",
+					"Exhibition tours"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1997,
+				"happiness": 4,
+				"location": "Various locations",
+				"events": [
+					"Continued producing art",
+					"Battled with alcoholism"
+				]
+			},
+			{
+				"start": 1997,
+				"end": 1997,
+				"happiness": 2,
+				"location": "Vienna, Austria",
+				"events": [
+					"Diagnosed with liver cancer",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"conceptual art",
+			"neo-expressionism"
+		]
+	}
+]

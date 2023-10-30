@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Séraphine Louis",
+		"keywords": [
+			"religion",
+			"nature",
+			"flowers",
+			"visionary",
+			"introspection"
+		],
+		"lifePeriods": [
+			{
+				"start": 1864,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"worked as a house cleaner"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"met art collector Wilhelm Uhde",
+					"start of her painting career"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1932,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"complication with mental health",
+					"admitted to psychiatric hospital"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1942,
+				"happiness": 1,
+				"location": "Clermont, France",
+				"events": [
+					"confined to psychiatric hospital until her death"
+				]
+			}
+		],
+		"genre": [
+			"Naïve art",
+			"Modern art"
+		]
+	}
+]

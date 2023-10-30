@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Derek Boshier",
+		"keywords": [
+			"pop culture",
+			"social commentary",
+			"everyday objects",
+			"political satire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Portsmouth, England",
+				"events": [
+					"born in Portsmouth, England"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1962,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"studied at Royal College of Art",
+					"emerged as a leading figure in the British Pop art movement"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"developed his art career",
+					"expressed social commentary through his artwork"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Los Angeles, USA",
+				"events": [
+					"moved to Los Angeles",
+					"continued to critique popular culture and politics through his art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Los Angeles, USA",
+				"events": [
+					"keeps working and exhibiting",
+					"expanded his mediums to film and photography"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Social Realism",
+			"Surrealism"
+		]
+	}
+]

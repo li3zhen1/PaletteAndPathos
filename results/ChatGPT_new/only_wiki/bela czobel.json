@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Béla Czóbel",
+		"keywords": [
+			"expressionism",
+			"woman",
+			"portrait",
+			"nude",
+			"reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1891,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"born to a prosperous Jewish family"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1904,
+				"happiness": 7,
+				"location": "Budapest, Hungary",
+				"events": [
+					"studied at the Budapest Art School",
+					"travelled extensively in Europe"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"became part of the École de Paris",
+					"exhibited work at Salon d'Automne"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"World War I",
+					"could not return to Paris"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"returned to Paris post-war",
+					"active in the artist colony at Szentendre"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1945,
+				"happiness": 1,
+				"location": "Budapest, Hungary",
+				"events": [
+					"World War II",
+					"Hide in Hungary due to Jewish heritage"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"moved back to Paris after the war",
+					"awarded Kossuth Prize"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"naturalism"
+		]
+	}
+]

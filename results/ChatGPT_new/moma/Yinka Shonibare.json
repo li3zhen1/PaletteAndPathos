@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Yinka Shonibare",
+		"keywords": [
+			"colonialism",
+			"culture",
+			"identity",
+			"class",
+			"race"
+		],
+		"lifePeriods": [
+			{
+				"start": 1962,
+				"end": 1979,
+				"happiness": 6,
+				"location": "London, United Kingdom",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1985,
+				"happiness": 3,
+				"location": "Lagos, Nigeria",
+				"events": [
+					"moved to Nigeria",
+					"diagnosed with transverse myelitis"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1991,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"studied Fine Art at Byam Shaw School of Art",
+					"studied Fine Art at Goldsmiths, University of London"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2004,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"exhibited widely",
+					"gained international recognition"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2022,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"nominated for the Turner Prize",
+					"kids workshops at Turner Prize 2004 exhibition",
+					"awarded CBE"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Installation art",
+			"Photography"
+		]
+	}
+]

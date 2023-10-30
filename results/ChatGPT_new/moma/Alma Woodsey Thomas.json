@@ -1,0 +1,93 @@
+[
+	{
+		"name": "Alma Woodsey Thomas",
+		"keywords": [
+			"nature",
+			"space",
+			"color",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1907,
+				"happiness": 5,
+				"location": "Columbus, Georgia",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Washington D.C.",
+				"events": [
+					"Moved to Washington D.C.",
+					"Attended Armstrong Technical High School"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1924,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"Studied Fine Arts at Howard University"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1948,
+				"happiness": 7,
+				"location": "Washington D.C.",
+				"events": [
+					"Graduated from Howard University",
+					"Began teaching art at Shaw Junior High School"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Washington D.C.",
+				"events": [
+					"Earned a master's degree in art education from Columbia University"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1972,
+				"happiness": 8,
+				"location": "Washington D.C.",
+				"events": [
+					"Retired from teaching",
+					"Focus on creating her own works"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1978,
+				"happiness": 9,
+				"location": "Washington D.C.",
+				"events": [
+					"Became the first African-American woman to have a solo exhibition at the Whitney Museum of American Art",
+					"Her painting 'Sky Light' was purchased by the White House"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Washington D.C.",
+				"events": [
+					"Died at the age of 86"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color Field"
+		]
+	}
+]

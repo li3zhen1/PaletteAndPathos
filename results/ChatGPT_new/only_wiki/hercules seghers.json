@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Hercules Seghers",
+		"keywords": [
+			"landscapes",
+			"etchings",
+			"mountains",
+			"innovation",
+			"surreal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1589,
+				"end": 1638,
+				"happiness": 3,
+				"location": "Haarlem",
+				"events": [
+					"born into a wealthy family",
+					"received art education"
+				]
+			},
+			{
+				"start": 1612,
+				"end": 1638,
+				"happiness": 2,
+				"location": "Amsterdam",
+				"events": [
+					"produced majority of his work",
+					"faced financial difficulties"
+				]
+			}
+		],
+		"genre": [
+			"dutch golden age",
+			"landscape art",
+			"printmaking"
+		]
+	}
+]

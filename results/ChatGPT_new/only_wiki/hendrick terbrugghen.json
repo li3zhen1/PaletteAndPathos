@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Hendrick ter Brugghen",
+		"keywords": [
+			"religion",
+			"mythology",
+			"violence",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1588,
+				"end": 1629,
+				"happiness": 7,
+				"location": "Utrecht",
+				"events": [
+					"Studied under Abraham Bloemaert",
+					"Travelled to Rome",
+					"Introduced Caravaggism in Utrecht"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Caravaggisti"
+		]
+	}
+]

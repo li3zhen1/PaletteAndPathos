@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Gerard David",
+		"keywords": [
+			"religious",
+			"realistic",
+			"delicate details",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1460,
+				"end": 1513,
+				"happiness": 5,
+				"location": "Bruges, Belgium",
+				"events": [
+					"Master of the Guild of Saint Luke",
+					"primacy in the artistic colony"
+				]
+			}
+		],
+		"genre": [
+			"Flemish Primitives",
+			"Northern Renaissance"
+		]
+	}
+]

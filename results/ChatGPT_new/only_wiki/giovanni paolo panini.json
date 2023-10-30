@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Giovanni Paolo Panini",
+		"keywords": [
+			"architecture",
+			"history",
+			"ruins",
+			"fantastical landscapes",
+			"Roman antiquity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1691,
+				"end": 1711,
+				"happiness": 5,
+				"location": "Piacenza",
+				"events": [
+					"Trained in the workshop of the painter Andrea Galluzzi"
+				]
+			},
+			{
+				"start": 1711,
+				"end": 1732,
+				"happiness": 7,
+				"location": "Rome",
+				"events": [
+					"Open a private school"
+				]
+			},
+			{
+				"start": 1732,
+				"end": 1764,
+				"happiness": 6,
+				"location": "Rome",
+				"events": [
+					"Became a faculty member of the Academy of Saint Luke",
+					"Taught in Rome's French Academy"
+				]
+			},
+			{
+				"start": 1764,
+				"end": 1765,
+				"happiness": 2,
+				"location": "Rome",
+				"events": [
+					"Health decline"
+				]
+			}
+		],
+		"genre": [
+			"veduta",
+			"history painting"
+		]
+	}
+]

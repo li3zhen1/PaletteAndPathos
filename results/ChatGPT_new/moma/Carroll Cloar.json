@@ -1,0 +1,93 @@
+[
+	{
+		"name": "Carroll Cloar",
+		"keywords": [
+			"nature",
+			"southern experiences",
+			"realism",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Earle, Arkansas, United States",
+				"events": [
+					"Born into a farming family"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Earle, Arkansas, United States",
+				"events": [
+					"On the farm, childhood experiences",
+					"Early exposure to folklore and nature"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Memphis, United States",
+				"events": [
+					"Attended Southwestern at Memphis (now Rhodes College)"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Memphis, United States",
+				"events": [
+					"Attended Memphis Academy of Arts"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 4,
+				"location": "United States",
+				"events": [
+					"Served in the Army Air Corps during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1955,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"Studied at the Art Students League of New York",
+					"Started creating major works"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Memphis, United States",
+				"events": [
+					"Returned to Memphis",
+					"Continued painting themes featuring the South and his experiences"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1993,
+				"happiness": 6,
+				"location": "Memphis, United States",
+				"events": [
+					"final years of life and work"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"southern art",
+			"folk art"
+		]
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Maxime Maufra",
+		"keywords": [
+			"landscape",
+			"sea",
+			"nature",
+			"rural",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1861,
+				"end": 1879,
+				"happiness": 6,
+				"location": "Nantes, France",
+				"events": [
+					"discovered love for art",
+					"began art training"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1890,
+				"happiness": 7,
+				"location": "Brittany, France",
+				"events": [
+					"inspired by Brittany landscape",
+					"met Paul Gauguin"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1918,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"exhibition with the Nabis",
+					"successful solo exhibition"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Synthetism",
+			"Nabis"
+		]
+	}
+]

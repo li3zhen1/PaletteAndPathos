@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Thomas Scheibitz",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"figurative",
+			"colorful",
+			"shapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1968,
+				"end": 1996,
+				"happiness": 7,
+				"location": "Radeberg, Germany",
+				"events": [
+					"studied at the Dresden Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2005,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"started his career as an independent artist",
+					"represented Germany at the 2005 Venice Biennale"
+				]
+			},
+			{
+				"start": 2005,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Berlin, Germany",
+				"events": [
+					"one of the most important artists of his generation"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Contemporary art"
+		]
+	}
+]

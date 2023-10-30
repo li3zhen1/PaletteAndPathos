@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Jack Levine",
+		"keywords": [
+			"social-commentary",
+			"satire",
+			"urban-life",
+			"political-figures",
+			"humanity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1924,
+				"happiness": 5,
+				"location": "South Boston",
+				"events": [
+					"Started drawing at the age of three"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1935,
+				"happiness": 5,
+				"location": "South Boston",
+				"events": [
+					"Attends classes at Harvard University at only ten years old"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1942,
+				"happiness": 4,
+				"location": "New York City",
+				"events": [
+					"Joined the Federal Art Project",
+					"Made his first major painting"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Army",
+				"events": [
+					"Served in the army during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 2010,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Achieved international recognition",
+					"became known for his social commentary and satiric art"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Social Realism"
+		]
+	}
+]

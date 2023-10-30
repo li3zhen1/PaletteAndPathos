@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Michael Bell",
+		"keywords": [
+			"crime",
+			"identity",
+			"family",
+			"storytelling",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1971,
+				"end": 2022,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"became a noted teacher",
+					"created a series about organized crime"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Portrait"
+		]
+	}
+]

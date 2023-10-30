@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Glenn Ligon",
+		"keywords": [
+			"race",
+			"language",
+			"identity",
+			"sexuality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1960,
+				"end": 1977,
+				"happiness": 5,
+				"location": "Bronx, New York, USA",
+				"events": [
+					"Childhood and Youth"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Providence, Rhode Island, USA",
+				"events": [
+					"Studied at Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York, New York, USA",
+				"events": [
+					"Worked as a proofreader for a law firm",
+					"Began art practice in earnest"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York, New York, USA",
+				"events": [
+					"One of his paintings entered the collection of The Museum of Modern Art, New York",
+					"Participated in Whitney Biennial"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2022,
+				"happiness": 9,
+				"location": "New York, New York, USA",
+				"events": [
+					"Received the David C. Driskell Prize",
+					"Major retrospectives of his work at Whitney Museum, LACMA"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Neo-conceptual Art"
+		]
+	}
+]

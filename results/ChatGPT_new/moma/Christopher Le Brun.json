@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Christopher Le Brun",
+		"keywords": [
+			"mythology",
+			"psychology",
+			"nature",
+			"mysticism",
+			"symbols"
+		],
+		"lifePeriods": [
+			{
+				"start": 1951,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Portsmouth, England",
+				"events": [
+					"grew up in a modest family"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1980,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"studied at the Slade School of Fine Art",
+					"gained reputation as young artist"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"exhibited in Venice Biennale",
+					"became famous"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2011,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"named Professor of Drawing at the Royal Academy",
+					"more exhibitions"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2021,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"became President of the Royal Academy",
+					"continued working on his artworks"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art",
+			"Symbolism"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Loren MacIver",
+		"keywords": [
+			"symbolism",
+			"still life",
+			"nature",
+			"cityscapes",
+			"subjects from daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1998,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"became a self-taught artist",
+					"first solo exhibition at Pierre Matisse Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Modernism"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Henrique Pousao",
+		"keywords": [
+			"landscape",
+			"romanticism",
+			"emotion",
+			"nature",
+			"rural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1859,
+				"end": 1884,
+				"happiness": 2,
+				"location": "Vila Viçosa, Portugal",
+				"events": [
+					"Born into humble beginnings"
+				]
+			},
+			{
+				"start": 1879,
+				"end": 1880,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Studied painting in Lisbon Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1882,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied in the atelier of Cabanel",
+					"Painted one of his masterpieces - 'Vinha da Rainha'"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1883,
+				"happiness": 3,
+				"location": "Italy",
+				"events": [
+					"Traveled to Italy to further his studies",
+					"Became seriously ill"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1884,
+				"happiness": 1,
+				"location": "Vila Viçosa, Portugal",
+				"events": [
+					"Returned home due to his illness",
+					"Died at an early age of 25"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Katherine S. Dreier",
+		"keywords": [
+			"abstract",
+			"modernism",
+			"avant-garde",
+			"spirituality",
+			"social reform"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1888,
+				"happiness": 6,
+				"location": "Brooklyn, New York",
+				"events": [
+					"Born into an affluent family"
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1911,
+				"happiness": 6,
+				"location": "Germany",
+				"events": [
+					"Studied art and music in Europe"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1932,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Established 'Societe Anonyme' with Marcel Duchamp and Man Ray",
+					"Organized the first Dadaist exhibition in America"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1950,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Donated her personal collection to a public museum",
+					"Worked on enhancing public interest in modern art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Milford, Connecticut",
+				"events": [
+					"Retirement"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modernism",
+			"Non-objective art"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "José de Almada Negreiros",
+		"keywords": [
+			"modernism",
+			"portrait",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1913,
+				"happiness": 4,
+				"location": "São Tomé and Príncipe, Portugal",
+				"events": [
+					"born in Portuguese colony",
+					"moved to Portugal"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"joined the Portuguese Modernist movement",
+					"wrote 'A Invenção do Dia Claro'"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1927,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"continued to create various art forms"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1932,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"collaborated with various Spanish artists"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"worked on murals",
+					"painted a fresco in the Lisbon City Hall"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"poetry",
+			"drawing"
+		]
+	}
+]

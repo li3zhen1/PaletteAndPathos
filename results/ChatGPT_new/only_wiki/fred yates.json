@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Fred Yates",
+		"keywords": [
+			"landscape",
+			"rustic life",
+			"bright colours",
+			"expressionism",
+			"self-taught"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Manchester, England",
+				"events": [
+					"Born and raised in Manchester"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Europe",
+				"events": [
+					"Served in the Grenadier Guards during World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Manchester, England",
+				"events": [
+					"Worked as an insurance clerk"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1969,
+				"happiness": 7,
+				"location": "Cornwall, England",
+				"events": [
+					"Became a full-time artist",
+					"Developed a self-taught expressionistic style"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Lancashire, England",
+				"events": [
+					"Moved to Fowey in Cornwall",
+					"Gained popularity for his optimistic and colorful style"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2008,
+				"happiness": 7,
+				"location": "France",
+				"events": [
+					"Moved to France and set up a studio",
+					"Continued painting until his death"
+				]
+			}
+		],
+		"genre": [
+			"Naive art",
+			"Expressionism"
+		]
+	}
+]

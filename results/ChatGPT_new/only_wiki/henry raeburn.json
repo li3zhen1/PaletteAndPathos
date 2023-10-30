@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Henry Raeburn",
+		"keywords": [
+			"portrait",
+			"Scottish enlightenment",
+			"realism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1756,
+				"end": 1780,
+				"happiness": 6,
+				"location": "Stockbridge, Edinburgh",
+				"events": [
+					"apprentice to goldsmith",
+					"Self-taught in painting"
+				]
+			},
+			{
+				"start": 1780,
+				"end": 1810,
+				"happiness": 8,
+				"location": "Edinburgh, Scotland",
+				"events": [
+					"Married Ann Edgar",
+					"Admitted to the Royal Academy"
+				]
+			},
+			{
+				"start": 1810,
+				"end": 1823,
+				"happiness": 7,
+				"location": "Edinburgh, Scotland",
+				"events": [
+					"Many of his subjects were fellow members of the Scottish Enlightenment"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"realism"
+		]
+	}
+]

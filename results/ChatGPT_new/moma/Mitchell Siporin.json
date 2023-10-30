@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Mitchell Siporin",
+		"keywords": [
+			"social realism",
+			"working class",
+			"industrial",
+			"portraiture",
+			"mural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1928,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"grew up in a middle-class family"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Chicago, USA",
+				"events": [
+					"attended the School of the Art Institute of Chicago",
+					"completed his mural for the Works Progress Administration"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1961,
+				"happiness": 7,
+				"location": "St. Louis, USA",
+				"events": [
+					"started teaching at Washington University in St. Louis",
+					"met his wife"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Marlborough, USA",
+				"events": [
+					"continued painting and teaching"
+				]
+			}
+		],
+		"genre": [
+			"Social realism",
+			"Mural"
+		]
+	}
+]

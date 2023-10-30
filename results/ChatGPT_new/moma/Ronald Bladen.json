@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Ronald Bladen",
+		"keywords": [
+			"abstract",
+			"monumental",
+			"sculpture",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1918,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Vancouver, Canada",
+				"events": [
+					"Born",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 6,
+				"location": "San Francisco, USA",
+				"events": [
+					"Studied and worked as an artist"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Became a part of the Minimalist movement",
+					"Created famous works like 'Three Elements'"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1988,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Received recognition for his work",
+					"Died of cancer"
+				]
+			}
+		],
+		"genre": [
+			"Abstract sculpture",
+			"Minimalism"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Pierre Alechinsky",
+		"keywords": [
+			"abstract",
+			"calligraphy",
+			"comic",
+			"book",
+			"imagination"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1944,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"began studies in drawing and printing"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"joined the COBRA group",
+					"began to develop his own style of painting"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1969,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"established reputation in the international art world",
+					"won the Guggenheim International Award"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1999,
+				"happiness": 8,
+				"location": "Bougival, France",
+				"events": [
+					"produced significant body of graphic work",
+					"held professorship at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 8,
+				"location": "Bougival, France",
+				"events": [
+					"continued to create and exhibit work internationally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Lyrical Abstraction"
+		]
+	}
+]

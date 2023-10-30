@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Natalia Dumitresco",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"reflections",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Bucharest",
+				"events": [
+					"Born in Bucharest, Romania"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Bucharest",
+				"events": [
+					"Received art education at the Fine Arts Academy, Bucharest"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1997,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Moved to Paris",
+					"Became a French citizen in 1956",
+					"Had a very prolific period of painting inspired by the light and geometry"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

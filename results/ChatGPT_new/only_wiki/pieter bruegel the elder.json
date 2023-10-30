@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Pieter Bruegel the Elder",
+		"keywords": [
+			"peasant life",
+			"nature",
+			"religion",
+			"allegory",
+			"satire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1525,
+				"end": 1569,
+				"happiness": 4,
+				"location": "Breda, Duchy of Brabant, Habsburg Netherlands",
+				"events": [
+					"Started his apprenticeship under Pieter Coecke van Aelst",
+					"Travelled to Italy for artistic realization"
+				]
+			},
+			{
+				"start": 1551,
+				"end": 1553,
+				"happiness": 6,
+				"location": "Antwerp, Duchy of Brabant, Habsburg Netherlands",
+				"events": [
+					"Joined the Antwerp painters' guild",
+					"Began designing engravings for publisher Hieronymus Cock"
+				]
+			},
+			{
+				"start": 1554,
+				"end": 1569,
+				"happiness": 5,
+				"location": "Brussels, Duchy of Brabant, Habsburg Netherlands",
+				"events": [
+					"Married Mayken Coecke, daughter of his master",
+					"Created his most well-known paintings"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Netherlandish Renaissance"
+		]
+	}
+]

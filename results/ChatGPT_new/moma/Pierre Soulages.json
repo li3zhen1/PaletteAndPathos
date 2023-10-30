@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Pierre Soulages",
+		"keywords": [
+			"abstract",
+			"darkness",
+			"light reflections",
+			"monochromatic",
+			"gestural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Rodez, France",
+				"events": [
+					"developed an interest in art during childhood"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"studied at École des Beaux-Arts",
+					"World War II period"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"gained international recognition - exhibitions in Paris, New York and Tokyo",
+					"known as 'the painter of black'"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Sète, France",
+				"events": [
+					"created his first 'Outrenoir' series"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2021,
+				"happiness": 9,
+				"location": "Paris, France",
+				"events": [
+					"opened the Musée Soulages in his hometown",
+					"Continued to create until his late years"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"tachisme"
+		]
+	}
+]

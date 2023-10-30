@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Robert Longo",
+		"keywords": [
+			"power",
+			"politics",
+			"society",
+			"pop culture",
+			"anxiety"
+		],
+		"lifePeriods": [
+			{
+				"start": 1953,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Brooklyn, NY",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Buffalo, NY",
+				"events": [
+					"received a scholarship to Buffalo State College"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1977,
+				"happiness": 8,
+				"location": "Florence, Italy",
+				"events": [
+					"studied fine arts in Italy",
+					"got exposed to fine art works"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York, NY",
+				"events": [
+					"rose to fame with 'Men in the Cities' series",
+					"involved in the punk rock scene"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Los Angeles, CA",
+				"events": [
+					"directed 'Johnny Mnemonic'"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, NY",
+				"events": [
+					"created artwork for music albums"
+				]
+			}
+		],
+		"genre": [
+			"Drawing",
+			"Sculpture",
+			"Installation"
+		]
+	}
+]

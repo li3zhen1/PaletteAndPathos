@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Elsa Gramcko",
+		"keywords": [
+			"abstract",
+			"symbolism",
+			"universal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1994,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"developed her own personal language of symbols",
+					"became a prominent figure in the Venezuelan art world"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Symbolism"
+		]
+	}
+]

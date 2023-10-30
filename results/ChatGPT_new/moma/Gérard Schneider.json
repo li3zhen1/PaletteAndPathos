@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Gérard Schneider",
+		"keywords": [
+			"lyrical abstraction",
+			"non-representational art",
+			"gestural mark-making",
+			"ritual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1903,
+				"happiness": 6,
+				"location": "Zürich",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Studied at the School of Applied Arts in Chaux-de-Fonds"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1927,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Studied under Fernand Léger and Amédée Ozenfant in Paris"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Life in Paris during WWII"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Achieved success with his Lyrical Abstraction work",
+					"Exhibited at the Salon des Realités Nouvelles"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1986,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Later life and continued artistic production"
+				]
+			}
+		],
+		"genre": [
+			"abstract painting",
+			"Lyrical Abstraction"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Piero Dorazio",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"color",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"studied architecture at Università di Roma La Sapienza",
+					"met fellow artists like Afro Basaldella, and Burri"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Rome, Italy and New York, USA",
+				"events": [
+					"founded 'Group Origine'",
+					"moved to the USA, met important abstract artists"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1994,
+				"happiness": 8,
+				"location": "Todi, Italy",
+				"events": [
+					"developed a mature style focused on color",
+					"founded The Interaction of Color"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2005,
+				"happiness": 7,
+				"location": "Perugia, Italy",
+				"events": [
+					"honored with a large retrospective exhibition in Rome",
+					"continued to work relentlessly"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction"
+		]
+	}
+]

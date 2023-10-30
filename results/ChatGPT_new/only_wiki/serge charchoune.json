@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Serge Charchoune",
+		"keywords": [
+			"abstract",
+			"surrealism",
+			"minimalism",
+			"symbolic",
+			"geometric"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Buguruslan, Russia",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"became involved in Dada movement",
+					"developed his own 'Orphic Cubism' style"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Barcelona, Spain",
+				"events": [
+					"World War II",
+					"immigrated to Spain to escape the war"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"returned to Paris after the war",
+					"continued his artistic career"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Dada",
+			"Surrealism"
+		]
+	}
+]

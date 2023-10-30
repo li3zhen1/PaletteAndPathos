@@ -1,0 +1,67 @@
+[
+	{
+		"name": "François Morellet",
+		"keywords": [
+			"geometry",
+			"light",
+			"minimalism",
+			"order",
+			"randomness"
+		],
+		"genre": [
+			"Geometric abstraction",
+			"Kinetic art",
+			"Light and Space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Cholet, France",
+				"events": [
+					"Born into a family of businesspersons and toy manufacturers"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Co-founded the Groupe de Recherche d’Art Visuel (GRAV)",
+					"Began experimenting with geometric shapes"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Produced his first light installation",
+					"Experimented with neon lighting"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Produced large scale public artworks",
+					"Received recognition internationally for his work"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2016,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Continued artistic production until his death"
+				]
+			}
+		]
+	}
+]

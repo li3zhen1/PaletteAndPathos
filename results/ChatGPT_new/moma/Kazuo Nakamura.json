@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Kazuo Nakamura",
+		"keywords": [
+			"geometric",
+			"mathematics",
+			"abstract",
+			"nature",
+			"universe"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Vancouver, Canada",
+				"events": [
+					"born into a family of farmers",
+					"began fascination with art"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1949,
+				"happiness": 1,
+				"location": "Tashme, British Columbia, Canada",
+				"events": [
+					"interned in a camp during World War II"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"joined Painters Eleven"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 2002,
+				"happiness": 8,
+				"location": "Toronto, Canada",
+				"events": [
+					"started to focus on geometric and mathematical patterns in his paintings"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Lyrical abstraction"
+		]
+	}
+]

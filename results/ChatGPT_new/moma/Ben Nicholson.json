@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Ben Nicholson",
+		"keywords": [
+			"abstract",
+			"cubism",
+			"geometry",
+			"nature",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1908,
+				"happiness": 6,
+				"location": "Denham, England",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1917,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Studied at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1931,
+				"happiness": 5,
+				"location": "Various cities in Europe",
+				"events": [
+					"Married first wife Winifred Roberts",
+					"Had three children",
+					"Started to attract attention with his abstract work"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1958,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Married second wife Barbara Hepworth",
+					"Co-founded the Unit One art movement",
+					"Divorced Hepworth"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1982,
+				"happiness": 4,
+				"location": "Switzerland",
+				"events": [
+					"Married third wife Felicitas Vogler",
+					"Divorced Vogler",
+					"Received numerous awards"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"cubism",
+			"still life"
+		]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"name": "David Simpson",
+		"keywords": [
+			"minimalism",
+			"geometric",
+			"monochrome",
+			"light",
+			"color interaction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Pasadena, California, USA",
+				"events": [
+					"Born in Pasadena"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1957,
+				"happiness": 7,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Studied at the San Francisco Art Institute",
+					"Started experiment with monochromatic painting"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 2015,
+				"happiness": 8,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Established himself as an influential artist in minimalism",
+					"Discovered Interference color (1970s)"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Hard-edge painting",
+			"Abstract art"
+		]
+	}
+]

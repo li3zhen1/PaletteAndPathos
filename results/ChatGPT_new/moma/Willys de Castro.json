@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Willys de Castro",
+		"keywords": [
+			"minimalism",
+			"geometric abstraction",
+			"poetry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1988,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"born in Rio de Janeiro",
+					"developed an interest in art"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1954,
+				"happiness": 6,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"founded the Grupo Ruptura",
+					"started creating concretist works"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1963,
+				"happiness": 5,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"developed the Neo-Concrete Manifesto",
+					"created his signature 'Active Objects'"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1988,
+				"happiness": 4,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"continued painting and sculpture",
+					"died in São Paulo"
+				]
+			}
+		],
+		"genre": [
+			"Concrete Art",
+			"Neo-Concrete Art"
+		]
+	}
+]

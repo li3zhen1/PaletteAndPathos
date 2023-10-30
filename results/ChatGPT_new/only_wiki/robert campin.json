@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Robert Campin",
+		"keywords": [
+			"religion",
+			"portraiture",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1375,
+				"end": 1444,
+				"happiness": 5,
+				"location": "Tournai, Belgium",
+				"events": [
+					"Established a significant workshop",
+					"Accused of heresy"
+				]
+			}
+		],
+		"genre": [
+			"Old Netherlandish art",
+			"Gothic art"
+		]
+	}
+]

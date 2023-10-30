@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Neil Jenney",
+		"keywords": [
+			"realism",
+			"minimalism",
+			"nature",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1964,
+				"happiness": 5,
+				"location": "Torrington, Connecticut, USA",
+				"events": [
+					"birth",
+					"early education"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"moved to New York",
+					"started his career as an artist"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"developed 'Bad Painting' style",
+					"work gained recognition"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"continued painting",
+					"exhibited works internationally"
+				]
+			}
+		],
+		"genre": [
+			"modern art",
+			"bad painting",
+			"minimalism"
+		]
+	}
+]

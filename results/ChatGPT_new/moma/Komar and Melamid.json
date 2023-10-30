@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Komar and Melamid",
+		"keywords": [
+			"society",
+			"culture",
+			"communism",
+			"satire",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"born during World War II"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1974,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"formed a creative duo",
+					"started the Sots Art movement"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1983,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"emigrated from Russia",
+					"continued artistic career despite changes",
+					"reached international recognition"
+				]
+			},
+			{
+				"start": 1983,
+				"end": 2003,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"started the project 'The Most Wanted and Unwanted Paintings'",
+					"presented their art in exhibitions worldwide"
+				]
+			},
+			{
+				"start": 2003,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"continued creating impactful art"
+				]
+			}
+		],
+		"genre": [
+			"Sots Art",
+			"Post-Conceptualism"
+		]
+	}
+]

@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Alighiero Boetti",
+		"keywords": [
+			"conceptualism",
+			"embroidery",
+			"maps",
+			"binary",
+			"time"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Turin, Italy",
+				"events": [
+					"started studying at a local art school"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1966,
+				"happiness": 6,
+				"location": "Turin, Italy",
+				"events": [
+					"met other artists",
+					"joined Arte Povera"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"started concentrating on conceptual art"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1979,
+				"happiness": 8,
+				"location": "Kabul, Afghanistan",
+				"events": [
+					"created 'Map of the World'",
+					"incorporated traditional Afghan craft"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"developed 'The Thousand Rivers' project"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1994,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"diagnosed with a brain tumor",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Arte Povera"
+		]
+	}
+]

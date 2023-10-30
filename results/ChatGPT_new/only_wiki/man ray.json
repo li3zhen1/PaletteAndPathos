@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Man Ray",
+		"keywords": [
+			"surrealism",
+			"abstract",
+			"dada",
+			"photography",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1915,
+				"happiness": 4,
+				"location": "Philadelphia, Pennsylvania, USA",
+				"events": [
+					"Born as Emmanuel Radnitzky",
+					"Early childhood and education"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1921,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Involved in the Dada and Modernist movements"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Influential in the Surrealist movement",
+					"Developed technique of Rayography"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 5,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Fled Europe due to World War II",
+					"Struggled to find success in Hollywood"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Return to Paris",
+					"Received recognition for his artworks"
+				]
+			}
+		],
+		"genre": [
+			"Dada",
+			"Surrealism",
+			"Modernism"
+		]
+	}
+]

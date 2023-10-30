@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Alan Shields",
+		"keywords": [
+			"Abstract",
+			"Color",
+			"Textiles",
+			"Geometry",
+			"Integration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 2005,
+				"happiness": 6,
+				"location": "Hutchinson, Kansas, USA",
+				"events": [
+					"Born and raised",
+					"Developed interest in color and form"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2005,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to start art career",
+					"Established himself in Post-minimalist art movement"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Post-minimalism"
+		]
+	}
+]

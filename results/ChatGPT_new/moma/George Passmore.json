@@ -1,0 +1,37 @@
+[
+	{
+		"name": "George Passmore",
+		"keywords": [
+			"minimalist",
+			"modernist",
+			"collage",
+			"contemporary",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 1969,
+				"happiness": 5,
+				"location": "Plymouth, United Kingdom",
+				"events": [
+					"Started studying art",
+					"Met Gilbert Proesch"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2022,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"Created 'Gilbert & George'",
+					"Won Turner Prize"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Lucas Cranach the Elder",
+		"keywords": [
+			"religious",
+			"portraits",
+			"mythology",
+			"allegories"
+		],
+		"lifePeriods": [
+			{
+				"start": 1472,
+				"end": 1553,
+				"happiness": 5,
+				"location": "Cronach",
+				"events": [
+					"became a successful painter",
+					"elected burgomaster of Wittenberg"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Portrait",
+			"Biblical Painting"
+		]
+	}
+]

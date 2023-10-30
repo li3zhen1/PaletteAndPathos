@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Avery Singer",
+		"keywords": [
+			"digital",
+			"analogue",
+			"charcoal",
+			"painting",
+			"neo-pop"
+		],
+		"lifePeriods": [
+			{
+				"start": 1987,
+				"end": 2007,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 2007,
+				"end": 2011,
+				"happiness": 8,
+				"location": "Rhode Island",
+				"events": [
+					"studied at Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"established as a prominent artist"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Contemporary Art"
+		]
+	}
+]

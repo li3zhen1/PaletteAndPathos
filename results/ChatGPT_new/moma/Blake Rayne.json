@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Blake Rayne",
+		"keywords": [
+			"abstract",
+			"conceptual",
+			"process-oriented",
+			"material concern",
+			"dualities"
+		],
+		"lifePeriods": [
+			{
+				"start": 1969,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Born in Brussels"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 1994,
+				"happiness": 7,
+				"location": "Austin, Texas, USA",
+				"events": [
+					"Attended the University of Texas at Austin",
+					"earned his BFA degree"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 1998,
+				"happiness": 7,
+				"location": "New Haven, Connecticut, USA",
+				"events": [
+					"Attended Yale University School of Art",
+					"earned his MFA degree"
+				]
+			},
+			{
+				"start": 1999,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Established his practice in New York",
+					"Gained initial recognition"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Continued his artistry",
+					"Exhibited internationally"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art",
+			"Conceptual Art"
+		]
+	}
+]

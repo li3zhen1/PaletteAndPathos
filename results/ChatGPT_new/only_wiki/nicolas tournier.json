@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Nicolas Tournier",
+		"keywords": [
+			"religious scenes",
+			"candlelight",
+			"baroque"
+		],
+		"lifePeriods": [
+			{
+				"start": 1590,
+				"end": 1639,
+				"happiness": 5,
+				"location": "France",
+				"events": [
+					"traveled to Italy to study art",
+					"became part of the Caravaggisti"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Religious"
+		]
+	}
+]

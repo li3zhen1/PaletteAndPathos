@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Frantisek Kupka",
+		"keywords": [
+			"abstraction",
+			"color",
+			"form",
+			"movement",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1887,
+				"happiness": 5,
+				"location": "Opocno, Czechoslovakia",
+				"events": [
+					"Started drawing lessons from town painter"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1892,
+				"happiness": 6,
+				"location": "Prague",
+				"events": [
+					"Attended the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Vienna",
+				"events": [
+					"Studied at the Academy of Fine Arts",
+					"Worked as an illustrator and caricaturist for magazines"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Became involved with the avant-garde",
+					"Exhibited at the Salon d'Automne"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Created his first abstract watercolor",
+					"Experienced World War I"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Experienced World War II",
+					"Became a French citizen"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Cubism",
+			"Symbolism"
+		]
+	}
+]

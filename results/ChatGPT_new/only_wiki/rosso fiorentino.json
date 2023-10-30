@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Rosso Fiorentino",
+		"keywords": [
+			"religion",
+			"mythology",
+			"death",
+			"emotion",
+			"nudity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1494,
+				"end": 1517,
+				"happiness": 6,
+				"location": "Florence",
+				"events": [
+					"trained under Andrea del Sarto",
+					"became a member of the Confraternity of St. Luke"
+				]
+			},
+			{
+				"start": 1517,
+				"end": 1523,
+				"happiness": 5,
+				"location": "Rome",
+				"events": [
+					"worked on frescoes for the Basilica of Santa Maria della Pace"
+				]
+			},
+			{
+				"start": 1523,
+				"end": 1527,
+				"happiness": 4,
+				"location": "Florence",
+				"events": [
+					"worked on The Deposition from the Cross"
+				]
+			},
+			{
+				"start": 1527,
+				"end": 1530,
+				"happiness": 4,
+				"location": "Volterra",
+				"events": [
+					"Sack of Rome in 1527, during which armaments destroyed the workshop"
+				]
+			},
+			{
+				"start": 1530,
+				"end": 1540,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"invited to France by Francis I",
+					"worked on the decoration of the Gallery Francis I at Fontainebleau"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"Italian Renaissance"
+		]
+	}
+]

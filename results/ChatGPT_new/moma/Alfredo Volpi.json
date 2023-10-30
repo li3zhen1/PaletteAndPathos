@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Alfredo Volpi",
+		"keywords": [
+			"geometric",
+			"color",
+			"flags",
+			"houses",
+			"windows"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1903,
+				"happiness": 7,
+				"location": "Lucca, Italy",
+				"events": [
+					"born in Italy"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"emigrated to Brazil",
+					"worked as a decorative painter"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"started painting in his free time"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"began gaining recognition for his works"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"participated in São Paulo Art Biennial",
+					"won International Painting Prize at 1953 São Paulo Art Biennial"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Concretism"
+		]
+	}
+]

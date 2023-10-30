@@ -1,0 +1,68 @@
+[
+	{
+		"name": "David Bomberg",
+		"keywords": [
+			"war",
+			"modernism",
+			"expressionism",
+			"cubism",
+			"urban landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1911,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"raised in a poor Jewish immigrant family",
+					"started drawing in his early childhood"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1914,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"joined the Slade School of Fine Art",
+					"took part in the pioneering post-impressionist exhibitions"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Western Front",
+				"events": [
+					"fought in World War I",
+					"severe effects on his mental and physical health"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1939,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"artwork rejected from galleries",
+					"taught at Borough Polytechnic"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1957,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"struggled for recognition",
+					"his work gained a retrospective at the Whitechapel Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Expressionism"
+		]
+	}
+]

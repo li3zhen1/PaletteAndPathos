@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Roberto Montenegro",
+		"keywords": [
+			"mythology",
+			"Mexican culture",
+			"religious symbolism",
+			"figurative",
+			"supernatural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"trained at the Academy of San Carlos",
+					"worked as an illustrator"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"influenced by the European modernist movement",
+					"became involved with the Mexican muralist movement"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1947,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"painted The Tree of Life",
+					"directed the Museum of Popular Art"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"continued his artistic and educational endeavors"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Symbolism",
+			"Mexican Muralism"
+		]
+	}
+]

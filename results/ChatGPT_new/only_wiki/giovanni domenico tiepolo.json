@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Giovanni Domenico Tiepolo",
+		"keywords": [
+			"religious",
+			"mythological",
+			"scenes of everyday life",
+			"Venetian",
+			"rococo"
+		],
+		"lifePeriods": [
+			{
+				"start": 1727,
+				"end": 1750,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": [
+					"Born into an artist family",
+					"Started training under his father, Giovanni Battista Tiepolo"
+				]
+			},
+			{
+				"start": 1750,
+				"end": 1760,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Collaborated with his father on many projects",
+					"Helped in the completion of the decoration of Villa Valmarana in Vicenza"
+				]
+			},
+			{
+				"start": 1760,
+				"end": 1770,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Continued to work closely with his father",
+					"Expanded his individual style"
+				]
+			},
+			{
+				"start": 1770,
+				"end": 1780,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Father's death",
+					"Became the head of the family workshop"
+				]
+			},
+			{
+				"start": 1780,
+				"end": 1804,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Created the series of etchings 'Ideas for capricious paintings'",
+					"Died in Venice"
+				]
+			}
+		],
+		"genre": [
+			"Rococo",
+			"History painting",
+			"Genre painting"
+		]
+	}
+]

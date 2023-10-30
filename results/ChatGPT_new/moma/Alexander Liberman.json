@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Alexander Liberman",
+		"keywords": [
+			"abstract",
+			"industrial",
+			"geometry",
+			"monumentality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1929,
+				"happiness": 6,
+				"location": "Kyiv, Russian Empire (now Ukraine)",
+				"events": [
+					"Born to a wealthy Jewish publisher",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Worked as a journalist",
+					"Married Tatiana du Plessix"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1959,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Immigrated to the United States",
+					"Became the artistic director of Vogue"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Started to create large-scale geometeric sculptures",
+					"Received honorary doctorate from the Rhode Island School of Design"
+				]
+			}
+		],
+		"genre": [
+			"abstract sculpture",
+			"photography",
+			"painting"
+		]
+	}
+]

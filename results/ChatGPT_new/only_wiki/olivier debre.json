@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Olivier Debré",
+		"keywords": [
+			"abstraction",
+			"lyricism",
+			"nature",
+			"expression",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Started art studies"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Became associated with Art Informel movement"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1999,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Became internationally recognized for his large-scale abstract paintings"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Lyric Abstraction",
+			"Art Informel"
+		]
+	}
+]

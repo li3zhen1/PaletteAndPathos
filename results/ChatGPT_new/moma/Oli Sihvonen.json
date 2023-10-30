@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Oli Sihvonen",
+		"keywords": [
+			"minimalism",
+			"hard-edge painting",
+			"geometric",
+			"color field",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Helsinki, Finland",
+				"events": [
+					"born in Helsinki",
+					"studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1973,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"became part of the hard-edge painting movement"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1991,
+				"happiness": 5,
+				"location": "New Mexico, USA",
+				"events": [
+					"moved to New Mexico",
+					"continued painting"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism",
+			"Hard-edge painting"
+		]
+	}
+]

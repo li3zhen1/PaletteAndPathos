@@ -1,0 +1,96 @@
+[
+	{
+		"name": "Sigmar Polke",
+		"keywords": [
+			"society",
+			"humor",
+			"experimentation",
+			"abstraction",
+			"surreal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Oels, Nazi Germany",
+				"events": [
+					"Born during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1953,
+				"happiness": 4,
+				"location": "East Germany",
+				"events": [
+					"Experienced post-war East Germany as a child"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1961,
+				"happiness": 7,
+				"location": "Dusseldorf, West Germany",
+				"events": [
+					"Family fled to West Germany",
+					"Began glass painting apprenticeship"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1967,
+				"happiness": 8,
+				"location": "Dusseldorf, West Germany",
+				"events": [
+					"Enrolled at the Düsseldorf Art Academy",
+					"Founded Capitalist Realism with Gerhard Richter and Konrad Lueg"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1977,
+				"happiness": 8,
+				"location": "Cologne, West Germany",
+				"events": [
+					"Developed raster dot method",
+					"First solo exhibition in the US"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1983,
+				"happiness": 7,
+				"location": "Cologne, West Germany",
+				"events": [
+					"Experimented with various materials and techniques"
+				]
+			},
+			{
+				"start": 1983,
+				"end": 1994,
+				"happiness": 8,
+				"location": "Cologne, Germany",
+				"events": [
+					"Exploration of printmaking",
+					"Worked with multi-layered translucent images"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2010,
+				"happiness": 7,
+				"location": "Cologne, Germany",
+				"events": [
+					"Awarded Golden Lion at the Venice Biennale",
+					"Health deteriorated"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Photography",
+			"Filmmaking"
+		]
+	}
+]

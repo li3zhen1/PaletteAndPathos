@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Tano Festa",
+		"keywords": [
+			"modern",
+			"pop",
+			"abstract",
+			"illusion",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1988,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Influenced by Baroque art",
+					"Began participating in the Art Informel movement",
+					"Associated with the School of Piazza del Popolo"
+				]
+			}
+		],
+		"genre": [
+			"Pop art",
+			"Abstract art"
+		]
+	}
+]

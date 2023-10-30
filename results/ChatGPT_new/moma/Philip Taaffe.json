@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Philip Taaffe",
+		"keywords": [
+			"abstract",
+			"nature",
+			"cultural symbols",
+			"collage",
+			"pattern"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Elizabeth, New Jersey, U.S.",
+				"events": [
+					"born",
+					"studied at Cooper Union in New York City"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York City, U.S.",
+				"events": [
+					"first solo exhibition",
+					"began to explore mixed-media techniques"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York City, US",
+				"events": [
+					"continued to work and exhibit internationally",
+					"expanded his use of traditional and modern techniques"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Mixed-media"
+		]
+	}
+]

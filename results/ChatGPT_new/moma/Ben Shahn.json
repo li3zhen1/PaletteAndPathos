@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Ben Shahn",
+		"keywords": [
+			"social",
+			"poverty",
+			"folklore",
+			"politics",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1906,
+				"happiness": 3,
+				"location": "Kaunas, Lithuania",
+				"events": [
+					"early childhhod"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1917,
+				"happiness": 4,
+				"location": "Brooklyn, New York",
+				"events": [
+					"immigrated to New York",
+					"father's death"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Brooklyn, New York",
+				"events": [
+					"worked as a lithographer's apprentice"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1927,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the National Academy of Design in New York",
+					"travelled to Europe"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1969,
+				"happiness": 6,
+				"location": "New Jersey, United States",
+				"events": [
+					"produced works for the Roosevelt administration",
+					"taught at Harvard University"
+				]
+			}
+		],
+		"genre": [
+			"Social realism",
+			"Lithography",
+			"Mural"
+		]
+	}
+]

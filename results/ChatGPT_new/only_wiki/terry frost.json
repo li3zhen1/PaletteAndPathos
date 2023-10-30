@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Terry Frost",
+		"keywords": [
+			"abstraction",
+			"shapes",
+			"colors",
+			"geometry",
+			"layers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Lichfield, England",
+				"events": [
+					"Born into a working-class family",
+					"Joined the army during World War II",
+					"Became a prisoner of war"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1956,
+				"happiness": 8,
+				"location": "St Ives, England",
+				"events": [
+					"Started attending the Camberwell School of Art",
+					"Moved to Cornwall and became associate with the St Ives School"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1974,
+				"happiness": 7,
+				"location": "Banbury, England",
+				"events": [
+					"Became a teacher at Leeds School of Art",
+					"Appointed as a senior lecturer at the Coventry College of Art"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2003,
+				"happiness": 8,
+				"location": "Newlyn, England",
+				"events": [
+					"Retired from teaching to pursue full-time artistic work",
+					"Received recognition and awards for his art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

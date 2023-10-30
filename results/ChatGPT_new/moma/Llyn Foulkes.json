@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Llyn Foulkes",
+		"keywords": [
+			"social criticism",
+			"alienation",
+			"technology",
+			"humanity",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1957,
+				"happiness": 4,
+				"location": "Yakima, Washington, USA",
+				"events": [
+					"Born to a ranching family"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1974,
+				"happiness": 5,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Moved to Los Angeles",
+					"Studied at the Chouinard Art Institute"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1990,
+				"happiness": 4,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Developed 'bloody head' series",
+					"Criticized for persistent themes of human suffering"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 5,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Continued to create challenging artworks"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 5,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Recognized for his contributions to contemporary art"
+				]
+			}
+		],
+		"genre": [
+			"Collage",
+			"Painting",
+			"Music"
+		]
+	}
+]

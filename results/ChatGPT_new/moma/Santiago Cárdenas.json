@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Santiago Cárdenas",
+		"keywords": [
+			"everyday life",
+			"realism",
+			"minimalism",
+			"still life",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Bogotá, Colombia",
+				"events": [
+					"Born in Colombia",
+					"Studied architecture and art in Universidad Nacional de Colombia"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Traveled to Spain",
+					"Studied at the Real Academia de Bellas Artes de San Fernando"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1964,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Studied at Yale University School of Art and Architecture",
+					"Developed minimalist style"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 2019,
+				"happiness": 6,
+				"location": "Bogotá, Colombia",
+				"events": [
+					"Returned to Colombia",
+					"Became a professor at Universidad Nacional de Colombia"
+				]
+			}
+		],
+		"genre": [
+			"minimalism",
+			"realism"
+		]
+	}
+]

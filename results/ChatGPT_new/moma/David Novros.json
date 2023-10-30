@@ -1,0 +1,29 @@
+[
+	{
+		"name": "David Novros",
+		"keywords": [
+			"minimalism",
+			"color field",
+			"abstract",
+			"mural",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Enrolled at the University of California",
+					"Joined artist cooperative Park Place Gallery in New York"
+				]
+			}
+		],
+		"genre": [
+			"Abstract painting",
+			"Minimalism",
+			"Mural"
+		]
+	}
+]

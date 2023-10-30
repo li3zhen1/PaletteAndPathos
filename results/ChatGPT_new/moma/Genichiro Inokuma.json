@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Genichiro Inokuma",
+		"keywords": [
+			"abstraction",
+			"elements",
+			"colours",
+			"geometrical",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"studied at the Tokyo School of Fine Arts",
+					"formed the 'Nika-kai' (Second Division Society)"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1961,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Abstract Expressionism influence",
+					"grouped with avant-garde artists"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1989,
+				"happiness": 5,
+				"location": "Paris, France & Marugame, Japan",
+				"events": [
+					"Returned to Japan",
+					"opened The Museum of Art, Ehime"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 1993,
+				"happiness": 5,
+				"location": "Marugame, Japan",
+				"events": [
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"landscape painting"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Hans Richter",
+		"keywords": [
+			"geometric",
+			"dada",
+			"expressionism",
+			"abstract",
+			"film"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Berlin",
+				"events": [
+					"Studied art",
+					"Exposed to Expressionism"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1925,
+				"happiness": 4,
+				"location": "Zurich",
+				"events": [
+					"Joined Dada movement",
+					"Started creating abstract films"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin",
+				"events": [
+					"Taught at the Berlin Film and Photo Academy"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1940,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"Created anti-Nazi films",
+					"Persecuted by Nazi regime"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1976,
+				"happiness": 7,
+				"location": "USA",
+				"events": [
+					"Moved to the United States",
+					"Taught film and design at the Institute of Film, Photography, and Television in New York"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Dada",
+			"Expressionism"
+		]
+	}
+]

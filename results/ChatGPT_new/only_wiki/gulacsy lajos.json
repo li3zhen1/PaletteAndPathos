@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Gulácsy Lajos",
+		"keywords": [
+			"symbolism",
+			"dreams",
+			"spirituality",
+			"portraits",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Budapest",
+				"events": [
+					"early educations"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1906,
+				"happiness": 5,
+				"location": "Budapest",
+				"events": [
+					"joined the Studio of Munich School",
+					"Started painting in Symbolist style"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1911,
+				"happiness": 3,
+				"location": "Rome",
+				"events": [
+					"his illness began to develop",
+					"painted the Tree of Life"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1932,
+				"happiness": 1,
+				"location": "Budapest",
+				"events": [
+					"suffered from mental illness",
+					"lived in a care home"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau"
+		]
+	}
+]

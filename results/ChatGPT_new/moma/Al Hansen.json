@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Al Hansen",
+		"keywords": [
+			"collage",
+			"performance",
+			"happenings",
+			"popular culture",
+			"everyday objects"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1995,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Served in World War II",
+					"Became part of the Fluxus movement"
+				]
+			}
+		],
+		"genre": [
+			"Performance Art",
+			"Collage Art"
+		]
+	}
+]

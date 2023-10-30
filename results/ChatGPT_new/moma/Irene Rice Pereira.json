@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Irene Rice Pereira",
+		"keywords": [
+			"abstraction",
+			"light",
+			"variety of media",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Chelsea, Massachusetts",
+				"events": [
+					"Grew up in a family of artists"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1931,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"Married Humberto Pereira",
+					"Studied at the Art Students League of New York and Pratt Institute"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Divorced Humberto Pereira",
+					"Married George Reavey",
+					"Established herself as a prominent abstract artist"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1963,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Divorced George Reavey"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1971,
+				"happiness": 4,
+				"location": "Marbella, Spain",
+				"events": [
+					"Health declined"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Abstract art"
+		]
+	}
+]

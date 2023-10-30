@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Jan Lebenstein",
+		"keywords": [
+			"mysticism",
+			"suffering",
+			"surrealism",
+			"human figure",
+			"anatomy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1999,
+				"happiness": 4,
+				"location": "Brzesc nad Bugiem, Poland",
+				"events": [
+					"experienced World War II"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Warsaw, Poland",
+				"events": [
+					"attended Fine Arts Academy in Warsaw"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"won first prize at the Paris Youth Biennial"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"established himself as an international artist"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract Art"
+		]
+	}
+]

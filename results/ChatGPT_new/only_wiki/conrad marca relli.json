@@ -1,0 +1,90 @@
+[
+	{
+		"name": "Conrad Marca-Relli",
+		"keywords": [
+			"abstract",
+			"collage",
+			"shapes",
+			"textures",
+			"layers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Boston, United States",
+				"events": [
+					"born in Boston to Italian immigrant parents"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1939,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": []
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"Joined the US Army",
+					"Became involved with the New York School"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Began experimentation in collages"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Various including Paris and Rome",
+				"events": [
+					"Travelled extensively",
+					"Had exhibitions in various parts of the world"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Various including Houston and Zurich",
+				"events": [
+					"Continued exhibitions around the world"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Parma, Italy",
+				"events": [
+					"Retired"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2000,
+				"happiness": 4,
+				"location": "Parma, Italy",
+				"events": [
+					"died at the age of 87"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Collage"
+		]
+	}
+]

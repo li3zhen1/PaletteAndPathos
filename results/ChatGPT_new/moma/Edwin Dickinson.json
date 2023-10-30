@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Edwin Dickinson",
+		"keywords": [
+			"self-portraits",
+			"dreams",
+			"realism",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1935,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"studied at Art Students League of New York",
+					"begun his 'premier coup'"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1943,
+				"happiness": 4,
+				"location": "New York",
+				"events": [
+					"suffered from depression",
+					"painted 'The Fossil Hunters'"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Cape Cod",
+				"events": [
+					"painted 'The Ruin at Daphne"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"symbolism"
+		]
+	}
+]

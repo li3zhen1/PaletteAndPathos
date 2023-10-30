@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Prunella Clough",
+		"keywords": [
+			"urban",
+			"work",
+			"industrial",
+			"abstraction",
+			"objects"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1999,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"attended Chelsea School of Art",
+					"became member of the London Group"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Modern Art"
+		]
+	}
+]

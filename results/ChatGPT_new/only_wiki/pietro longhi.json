@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Pietro Longhi",
+		"keywords": [
+			"domestic",
+			"venetian",
+			"aristocratic life",
+			"carnival",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1701,
+				"end": 1740,
+				"happiness": 6,
+				"location": "Venice",
+				"events": [
+					"studied under Antonio Balestra"
+				]
+			},
+			{
+				"start": 1741,
+				"end": 1778,
+				"happiness": 7,
+				"location": "Venice",
+				"events": [
+					"became popular for his smaller domestic genre",
+					"received the title of Count"
+				]
+			},
+			{
+				"start": 1779,
+				"end": 1785,
+				"happiness": 5,
+				"location": "Venice",
+				"events": [
+					"died of peripneumonia"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"portrait"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Eliseu Visconti",
+		"keywords": [
+			"Impressionism",
+			"Symbolism",
+			"Portraits",
+			"Landscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1866,
+				"end": 1893,
+				"happiness": 5,
+				"location": "Salerno, Italy",
+				"events": [
+					"Born in Italy",
+					"Emigrated to Brazil at age 10"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Started art studies in Brazil"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied art in Paris",
+					"Earned a Silver Medal at the Universal Exhibition."
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1944,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Returned to Brazil",
+					"Worked on murals for National Museum of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Symbolism"
+		]
+	}
+]

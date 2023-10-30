@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Viktor Vasnetsov",
+		"keywords": [
+			"mythology",
+			"history",
+			"folklore",
+			"heroes",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1848,
+				"end": 1867,
+				"happiness": 5,
+				"location": "Lopyal, Vyatka Governorate, Russian Empire",
+				"events": [
+					"born into a priest's family"
+				]
+			},
+			{
+				"start": 1867,
+				"end": 1875,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"entered the Russian Academy of Arts",
+					"began professional training"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1884,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"travelled and studied art in Europe",
+					"became interested in historical and folkloric themes"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"became a member of the Abramtsevo artistic circle",
+					"completed iconic works like 'The Knight at the Crossroads'"
+				]
+			}
+		],
+		"genre": [
+			"history painting",
+			"symbolist art",
+			"mythological art"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Henryk Siemiradzki",
+		"keywords": [
+			"religion",
+			"mythology",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1843,
+				"end": 1864,
+				"happiness": 7,
+				"location": "Kharkov",
+				"events": [
+					"Started studying at the Kharkov University"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1870,
+				"happiness": 8,
+				"location": "Saint Petersburg",
+				"events": [
+					"Studied at the Imperial Academy of Arts",
+					"Won the Major Gold Medal for art"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1871,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"Studied the old masters",
+					"Began creating historical and mythological paintings"
+				]
+			},
+			{
+				"start": 1872,
+				"end": 1902,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Established his own studio",
+					"Created 'Nero's Torch'"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Mythology painting"
+		]
+	}
+]

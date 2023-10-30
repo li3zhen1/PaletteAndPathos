@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Juan de Valdes Leal",
+		"keywords": [
+			"religion",
+			"death",
+			"memento mori",
+			"still life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1622,
+				"end": 1629,
+				"happiness": 7,
+				"location": "Seville",
+				"events": [
+					"Born in Seville"
+				]
+			},
+			{
+				"start": 1629,
+				"end": 1647,
+				"happiness": 7,
+				"location": "Seville",
+				"events": [
+					"Learned to paint and draw"
+				]
+			},
+			{
+				"start": 1647,
+				"end": 1660,
+				"happiness": 8,
+				"location": "Seville",
+				"events": [
+					"Married Isabella Carasquilla",
+					"Had his first child"
+				]
+			},
+			{
+				"start": 1660,
+				"end": 1689,
+				"happiness": 5,
+				"location": "Seville",
+				"events": [
+					"Cofounder of the Academy of Art, became president",
+					"Isabella, his wife, died"
+				]
+			},
+			{
+				"start": 1689,
+				"end": 1690,
+				"happiness": 4,
+				"location": "Seville",
+				"events": [
+					"Died in Seville"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Religious"
+		]
+	}
+]

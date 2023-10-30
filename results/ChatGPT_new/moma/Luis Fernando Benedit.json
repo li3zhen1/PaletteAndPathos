@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Luis Fernando Benedit",
+		"keywords": [
+			"nature",
+			"society",
+			"technology",
+			"science",
+			"interaction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 2011,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"started as a self-taught painter",
+					"studied architecture"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"pursued further studies in painting",
+					"developed his artistic style"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1972,
+				"happiness": 5,
+				"location": "New York, U.S.A.",
+				"events": [
+					"studied and experimented with systems theory and cybernetics",
+					"combined science and art themes in his works"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2011,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"integrated produce of Argentina into installations",
+					"honored as National Prize Laureate in Visual Art"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"installation art"
+		]
+	}
+]

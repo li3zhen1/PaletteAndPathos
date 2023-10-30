@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Wu Guanzhong",
+		"keywords": [
+			"nature",
+			"traditional Chinese culture",
+			"ink wash painting",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1936,
+				"happiness": 5,
+				"location": "Yixing, Jiangsu, China",
+				"events": [
+					"born into a family of farmers"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Hangzhou, China",
+				"events": [
+					"studied at the National Hangzhou College of Art"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Paris National Fine Art School"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Beijing, China",
+				"events": [
+					"teacher at the Central Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1978,
+				"happiness": 4,
+				"location": "Beijing, China",
+				"events": [
+					"badly affected by Cultural Revolution, prohibited from painting and writing for 2 years"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 2010,
+				"happiness": 8,
+				"location": "Beijing, China",
+				"events": [
+					"started painting again",
+					"acknowledged as one of the greatest contemporary Chinese painters"
+				]
+			}
+		],
+		"genre": [
+			"modern art",
+			"ink and wash painting",
+			"abstract art"
+		]
+	}
+]

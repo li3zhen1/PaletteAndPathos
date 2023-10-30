@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Allen Ruppersberg",
+		"keywords": [
+			"pop culture",
+			"identity",
+			"language",
+			"everyday objects",
+			"narrative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Cleveland, Ohio, USA",
+				"events": [
+					"born and raised",
+					"early interest in art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"attended Chouinard Art Institute",
+					"began his career in art"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"became an active participant in the Los Angeles conceptual art community"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"continued to develop his conceptual art"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA/Los Angeles, California, USA",
+				"events": [
+					"continued to work in both cities"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Visual Art"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Nicholas Africano",
+		"keywords": [
+			"self-image",
+			"human form",
+			"emotion",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1966,
+				"happiness": 5,
+				"location": "Kankakee, Illinois, USA",
+				"events": [
+					"Born to a working class family",
+					"Developed interest in arts"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Illinois, USA",
+				"events": [
+					"Attended Illinois Wesleyan University",
+					"Studied painting"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Began his artistic career",
+					"Developed his unique painting style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Bloomington, Illinois, USA",
+				"events": [
+					"Transitioned from painting to sculpture",
+					"Established himself as a major figure in contemporary art"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Figurative"
+		]
+	}
+]

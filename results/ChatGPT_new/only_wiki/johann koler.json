@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Johann Köler",
+		"keywords": [
+			"religion",
+			"portraits",
+			"landscapes",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1826,
+				"end": 1850,
+				"happiness": 5,
+				"location": "Viljandi Parish, Estonia, Russian Empire",
+				"events": [
+					"Began his studies at Viljandi County school"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1855,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Joined the Imperial Academy of Arts",
+					"Met his future wife Marie Louise"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1857,
+				"happiness": 6,
+				"location": "Rome, Kingdom of Sardinia",
+				"events": [
+					"Studied classical art and culture"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1877,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Worked as an art teacher and a portrait painter",
+					"Got married and had two children"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1896,
+				"happiness": 6,
+				"location": "Tallinn, Estonia, Russian Empire",
+				"events": [
+					"Became an activist for the Estonian national movement",
+					"Was awarded the title of Academician of the Imperial Academy of Arts"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Realism",
+			"Symbolism"
+		]
+	}
+]

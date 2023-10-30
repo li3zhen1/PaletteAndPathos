@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Mimmo Paladino",
+		"keywords": [
+			"figurative",
+			"abstract",
+			"sculpture",
+			"mythology",
+			"primitive"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Paduli, Italy",
+				"events": [
+					"discovered his interest in arts"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Naples, Italy",
+				"events": [
+					"studied at the Art Lyceum"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1977,
+				"happiness": 8,
+				"location": "Milan, Italy",
+				"events": [
+					"started professional career as an artist"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1985,
+				"happiness": 8,
+				"location": "Milan, Italy",
+				"events": [
+					"became one of the leading figures in the Transavanguardia movement",
+					"first exhibition in New York"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"created well-known outdoor installation 'The Salt Mountain'",
+					"represented Italy at the 41st Venice Biennale"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2019,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"continued artistic work",
+					"various international exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Transavantgarde",
+			"Abstract Art",
+			"Sculpture"
+		]
+	}
+]

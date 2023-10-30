@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Augustus John",
+		"keywords": [
+			"portrait",
+			"landscape",
+			"war",
+			"symbolist"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1894,
+				"happiness": 7,
+				"location": "Pembrokeshire, Wales",
+				"events": []
+			},
+			{
+				"start": 1894,
+				"end": 1901,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"enrolled at the Slade School of Fine Art",
+					"met his future wife, Ida Nettleship"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"birth of his children",
+					"death of his wife Ida"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Dorset, England",
+				"events": [
+					"met Dorelia McNeill",
+					"travelled to the USA"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Fordingbridge, England",
+				"events": [
+					"elected to the Royal Academy",
+					"death of his second wife Dorelia"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Post-Impressionism",
+			"Symbolist"
+		]
+	}
+]

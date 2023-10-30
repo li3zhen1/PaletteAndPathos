@@ -1,0 +1,58 @@
+[
+	{
+		"name": "J. E. H. MacDonald",
+		"keywords": [
+			"nature",
+			"landscape",
+			"Group of Seven",
+			"Canadian wilderness",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1897,
+				"happiness": 7,
+				"location": "Durham, England",
+				"events": [
+					"Born in England"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1911,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"Moved to Canada",
+					"met future wife Joan Lavis"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1922,
+				"happiness": 8,
+				"location": "Toronto, Canada",
+				"events": [
+					"Co-founded Group of Seven",
+					"produced some of his best known works"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1932,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Suffered a stroke",
+					"continued to paint despite health issues"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"modernism",
+			"impressionism"
+		]
+	}
+]

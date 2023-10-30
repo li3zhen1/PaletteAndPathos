@@ -1,0 +1,28 @@
+[
+	{
+		"name": "George Mavroides",
+		"keywords": [
+			"Symbolism",
+			"Religious themes",
+			"Mysticism",
+			"Classic mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 2008,
+				"happiness": 6,
+				"location": "Athens, Greece",
+				"events": [
+					"Worked as a teacher at the School of Fine Arts in Athens",
+					"Selected for the Venice Biennale in 1958"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Drawing",
+			"Sculpture"
+		]
+	}
+]

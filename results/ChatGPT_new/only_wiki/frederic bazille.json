@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Frederic Bazille",
+		"keywords": [
+			"realism",
+			"friendship",
+			"nature",
+			"portraits",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1841,
+				"end": 1859,
+				"happiness": 6,
+				"location": "Montpellier, France",
+				"events": [
+					"Born into a wealthy Protestant family",
+					"Began his education"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1862,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Started studying medicine",
+					"Took painting lessons"
+				]
+			},
+			{
+				"start": 1862,
+				"end": 1866,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Renounced medicine to become a full time artist",
+					"Became friends with Monet, Renoir, and Sisley"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1870,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Participated in the Paris Salon",
+					"Joined Zouave regiment during the Franco-Prussian war"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

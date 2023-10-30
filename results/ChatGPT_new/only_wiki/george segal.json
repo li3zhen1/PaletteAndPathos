@@ -1,0 +1,66 @@
+[
+	{
+		"name": "George Segal",
+		"keywords": [
+			"mortality",
+			"loneliness",
+			"plaster sculptures",
+			"human figures",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1938,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Became interested in art and music"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1946,
+				"happiness": 3,
+				"location": "New York",
+				"events": [
+					"World War II",
+					"Worked on a chicken farm"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Newark, New Jersey",
+				"events": [
+					"Studied at Pratt Institute",
+					"Married Helen Steinberg"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1976,
+				"happiness": 6,
+				"location": "New Jersey",
+				"events": [
+					"Created his first plaster sculpture",
+					"His works were recognized nationally and internationally"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New Jersey",
+				"events": [
+					"Became one of the most prominent figures in American sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Minimalism"
+		]
+	}
+]

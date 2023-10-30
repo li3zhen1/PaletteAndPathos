@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Sherrie Levine",
+		"keywords": [
+			"reproduction",
+			"appropriation",
+			"questioning originality",
+			"critique",
+			"culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1947,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Hazleton, Pennsylvania",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Madison, Wisconsin",
+				"events": [
+					"earned her MFA from the University of Wisconsin"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1981,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"started appropriation art",
+					"created the series 'After Walker Evans'"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": []
+			}
+		],
+		"genre": [
+			"Photography",
+			"Appropriation art",
+			"Conceptual art"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Mikhail Vrubel",
+		"keywords": [
+			"fantasy",
+			"symbolism",
+			"Dream",
+			"Fairy Tales",
+			"Emotionally Charged"
+		],
+		"lifePeriods": [
+			{
+				"start": 1856,
+				"end": 1884,
+				"happiness": 6,
+				"location": "Omsk, Russia",
+				"events": [
+					"Born in Omsk",
+					"Studied at Saint Petersburg Imperial University"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1890,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Studied at the Russian Academy of Arts",
+					"Started working on church murals"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1901,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Marries Nadezhda Zabela",
+					"Creates famous painting 'The Demon Seated'"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1910,
+				"happiness": 3,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Experienced mental and physical health decline",
+					"Passed away at the age of 54"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau"
+		]
+	}
+]

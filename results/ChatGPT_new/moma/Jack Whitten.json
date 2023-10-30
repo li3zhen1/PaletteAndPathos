@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Jack Whitten",
+		"keywords": [
+			"abstraction",
+			"uses of materials",
+			"social issues",
+			"space",
+			"quantum physics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Bessember, Alabama, USA",
+				"events": [
+					"born and grew up in the southern United States"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1969,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"met prominent Abstract Expressionists"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1989,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"developed his 'slab' technique"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"exhibited across the US and Europe",
+					"received prestigious awards and recognition"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2018,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"continued to produce and exhibit work",
+					"passed away in 2018"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Modern Art"
+		]
+	}
+]

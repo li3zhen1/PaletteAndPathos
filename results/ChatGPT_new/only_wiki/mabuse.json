@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Mabuse",
+		"keywords": [
+			"religious",
+			"mythological",
+			"portraits",
+			"details",
+			"love"
+		],
+		"lifePeriods": [
+			{
+				"start": 1478,
+				"end": 1510,
+				"happiness": 5,
+				"location": "Maubeuge",
+				"events": [
+					"Started his career in Maubeuge"
+				]
+			},
+			{
+				"start": 1510,
+				"end": 1522,
+				"happiness": 5,
+				"location": "Antwerp",
+				"events": [
+					"Worked on series of religious art",
+					"Became prominent artist"
+				]
+			},
+			{
+				"start": 1522,
+				"end": 1532,
+				"happiness": 4,
+				"location": "Middleburg",
+				"events": [
+					"Moved to Middleburg",
+					"Continued his work with less popularity"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Religious Art",
+			"Portrait"
+		]
+	}
+]

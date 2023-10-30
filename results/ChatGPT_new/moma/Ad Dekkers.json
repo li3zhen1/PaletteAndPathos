@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Ad Dekkers",
+		"keywords": [
+			"geometric",
+			"minimalism",
+			"reliefs",
+			"circle"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Nieuwpoort, The Netherlands",
+				"events": [
+					"grew up and went to school"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Rotterdam, The Netherlands",
+				"events": [
+					"Studied at the Academy of Visual Arts"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Gorinchem, The Netherlands",
+				"events": [
+					"taught geometry and art history at the Rijks HBS"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1971,
+				"happiness": 8,
+				"location": "Netherlands",
+				"events": [
+					"became a full time artist",
+					"carried out numerous commissions for the public space"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1974,
+				"happiness": 1,
+				"location": "England",
+				"events": [
+					"died by suicide"
+				]
+			}
+		],
+		"genre": [
+			"Minimal Art",
+			"Relief"
+		]
+	}
+]

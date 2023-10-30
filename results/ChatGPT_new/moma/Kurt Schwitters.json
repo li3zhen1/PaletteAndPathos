@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Kurt Schwitters",
+		"keywords": [
+			"found objects",
+			"abstract",
+			"typography",
+			"nature",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Hanover, Germany",
+				"events": [
+					"Graduated from the Dresden Academy of Art"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Hanover, Germany",
+				"events": [
+					"Began his Merz art series",
+					"Created his Merzbau architectural works"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1940,
+				"happiness": 3,
+				"location": "Hanover, Germany",
+				"events": [
+					"His art labelled as 'degenerate' by Nazis",
+					"Escaped to Norway"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Norway and United Kingdom",
+				"events": [
+					"Escaped to United Kingdom from Nazi-occupied Norway"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1948,
+				"happiness": 4,
+				"location": "London, United Kingdom",
+				"events": [
+					"Continued his Merz art series in exile"
+				]
+			}
+		],
+		"genre": [
+			"Dada",
+			"Constructivism",
+			"Surrealism"
+		]
+	}
+]

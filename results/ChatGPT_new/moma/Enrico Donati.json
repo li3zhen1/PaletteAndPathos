@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Enrico Donati",
+		"keywords": [
+			"surrealism",
+			"abstract expressionism",
+			"nature",
+			"mythology",
+			"primordial forms"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Milan, Italy",
+				"events": []
+			},
+			{
+				"start": 1919,
+				"end": 1934,
+				"happiness": 8,
+				"location": "Pavia, Italy",
+				"events": [
+					"trained as a violinist"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied art",
+					"met surrealist artists"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1971,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"met members of the New York school",
+					"cofounded the Artist's Club",
+					"exhibited at the Peggy Guggenheim Gallery"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2008,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"continued to explore new styles",
+					"exhibited at various galleries"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"abstract expressionism"
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"name": "António Palolo",
+		"keywords": [
+			"abstract",
+			"figurative",
+			"multimedia"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Elvas, Portugal",
+				"events": [
+					"graduated from the António Arroio Decorative Arts School",
+					"began working in figuration"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"one of the founders of 'The Homosexuals'",
+					"shifted his work towards conceptual art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Opened his own gallery"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Conceptual Art",
+			"Figurative Art"
+		]
+	}
+]

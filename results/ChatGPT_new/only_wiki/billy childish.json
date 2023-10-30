@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Billy Childish",
+		"keywords": [
+			"punk",
+			"war",
+			"rebellion",
+			"angst",
+			"imperfection"
+		],
+		"lifePeriods": [
+			{
+				"start": 1959,
+				"end": 1976,
+				"happiness": 2,
+				"location": "Chatham, Kent, England",
+				"events": [
+					"born",
+					"abuse"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1981,
+				"happiness": 4,
+				"location": "Medway, England",
+				"events": [
+					"discovered punk music"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1995,
+				"happiness": 5,
+				"location": "Medway, England",
+				"events": [
+					"established a band"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2010,
+				"happiness": 8,
+				"location": "Medway, England",
+				"events": [
+					"painting and writing"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2020,
+				"happiness": 10,
+				"location": "London, England",
+				"events": [
+					"positive recognition"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Punk rock"
+		]
+	}
+]

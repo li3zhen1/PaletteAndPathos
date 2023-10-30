@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Howard Finster",
+		"keywords": [
+			"religion",
+			"paradise",
+			"imagination",
+			"folklore",
+			"visionary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Valley Head, Alabama",
+				"events": [
+					"started work as a preacher"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Alabama and Georgia",
+				"events": [
+					"built the Plant Farm Museum, later called Paradise Garden"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Summerville, Georgia",
+				"events": [
+					"painted his first visionary landscape, started creating religious folk art"
+				]
+			}
+		],
+		"genre": [
+			"Outsider art",
+			"Visionary art",
+			"Folk art"
+		]
+	}
+]

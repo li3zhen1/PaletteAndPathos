@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Peter Phillips",
+		"keywords": [
+			"pop art",
+			"consumerism",
+			"contemporary",
+			"collage",
+			"machine esthetics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Birmingham, England",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1962,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"studied at the Royal College of Art",
+					"associated with British Pop Art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1966,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"exposed to American pop culture",
+					"development of his style"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Zürich, Switzerland",
+				"events": [
+					"created large scale screenprints",
+					"organised exhibitions"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Germany",
+				"events": [
+					"teaching at Hamburg University"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Cornwall, England",
+				"events": [
+					"continued to evolve his style",
+					"created a number of notable works"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Cornwall, England",
+				"events": [
+					"focus on his career",
+					"retrospectives held"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Contemporary Art"
+		]
+	}
+]

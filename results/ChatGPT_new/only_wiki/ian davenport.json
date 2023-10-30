@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Ian Davenport",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"color",
+			"strips",
+			"poured paint"
+		],
+		"lifePeriods": [
+			{
+				"start": 1966,
+				"end": 1988,
+				"happiness": 6,
+				"location": "Kent, England",
+				"events": [
+					"Born in Sidcup"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 1991,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Graduated from Goldsmiths",
+					"Participated in Freeze exhibition"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1999,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Nominated for the Turner Prize"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "London, England",
+				"events": []
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

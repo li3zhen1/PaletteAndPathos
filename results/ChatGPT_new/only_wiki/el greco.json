@@ -1,0 +1,59 @@
+[
+	{
+		"name": "El Greco",
+		"keywords": [
+			"religion",
+			"portraits",
+			"distortion",
+			"drama",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1541,
+				"end": 1576,
+				"happiness": 4,
+				"location": "Crete, Greece",
+				"events": [
+					"Born and raised",
+					"Trained as icon painter"
+				]
+			},
+			{
+				"start": 1570,
+				"end": 1576,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Developed his style",
+					"criticised Michelangelo"
+				]
+			},
+			{
+				"start": 1577,
+				"end": 1604,
+				"happiness": 7,
+				"location": "Toledo, Spain",
+				"events": [
+					"Moved permanently",
+					"painted his masterpieces"
+				]
+			},
+			{
+				"start": 1605,
+				"end": 1614,
+				"happiness": 5,
+				"location": "Toledo, Spain",
+				"events": [
+					"Late period",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"mannerism",
+			"portrait",
+			"religious painting"
+		]
+	}
+]

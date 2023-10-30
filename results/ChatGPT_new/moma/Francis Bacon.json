@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Francis Bacon",
+		"keywords": [
+			"chaos",
+			"human form",
+			"suffering",
+			"isolation",
+			"existentialism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1926,
+				"happiness": 3,
+				"location": "Dublin",
+				"events": [
+					"Born to English parents",
+					"Asthma affected his health"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1933,
+				"happiness": 4,
+				"location": "London",
+				"events": [
+					"Moved to London",
+					"Began painting",
+					"Worked as an interior decorator"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 3,
+				"location": "London",
+				"events": [
+					"First solo exhibition at the Mayor Gallery",
+					"Suffered the loss of his lover Eric Hall"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1971,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"Created his breakthrough work - Three Studies for Figures at the Base of a Crucifixion",
+					"Met his lover George Dyer"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1992,
+				"happiness": 2,
+				"location": "London",
+				"events": [
+					"Lost his longtime partner George Dyer to suicide",
+					"Honored with a retrospective at the Grand Palais in Paris"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Figurative art",
+			"Cubism"
+		]
+	}
+]

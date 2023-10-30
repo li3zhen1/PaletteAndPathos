@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Mark Grotjahn",
+		"keywords": [
+			"modernism",
+			"abstract",
+			"perspective",
+			"faces",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1968,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Pasadena, CA",
+				"events": [
+					"born in Pasadena"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1991,
+				"happiness": 6,
+				"location": "Boulder, CO",
+				"events": [
+					"Attended University of Colorado Boulder"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1995,
+				"happiness": 6,
+				"location": "San Francisco, CA",
+				"events": [
+					"Studied at the San Francisco Art Institute"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2012,
+				"happiness": 7,
+				"location": "Los Angeles, CA",
+				"events": [
+					"Established own studio",
+					"Started his Butterfly series"
+				]
+			},
+			{
+				"start": 2012,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Los Angeles, CA",
+				"events": [
+					"Works recognized and highly valued at auctions",
+					"Continues evolving artistic style, exploring new methods"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art"
+		]
+	}
+]

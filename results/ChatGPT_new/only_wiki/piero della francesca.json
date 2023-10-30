@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Piero della Francesca",
+		"keywords": [
+			"Christianity",
+			"geometry",
+			"perspective",
+			"mathematical precision"
+		],
+		"lifePeriods": [
+			{
+				"start": 1415,
+				"end": 1427,
+				"happiness": 5,
+				"location": "Sansepolcro, Italy",
+				"events": [
+					"Early education and training"
+				]
+			},
+			{
+				"start": 1427,
+				"end": 1439,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"Received his first commissions"
+				]
+			},
+			{
+				"start": 1439,
+				"end": 1459,
+				"happiness": 7,
+				"location": "Rome and Arezzo, Italy",
+				"events": [
+					"Crafted his masterpieces including The Legend of the True Cross"
+				]
+			},
+			{
+				"start": 1459,
+				"end": 1478,
+				"happiness": 6,
+				"location": "Sansepolcro and Urbino, Italy",
+				"events": [
+					"Worked for Duke of Urbino",
+					"Wrote mathematics treaties"
+				]
+			},
+			{
+				"start": 1478,
+				"end": 1492,
+				"happiness": 4,
+				"location": "Sansepolcro, Italy",
+				"events": [
+					"Lost his sight and could not paint anymore"
+				]
+			}
+		],
+		"genre": [
+			"Italian Renaissance",
+			"Religious painting"
+		]
+	}
+]

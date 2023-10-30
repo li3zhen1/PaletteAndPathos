@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Moshe Elazar Castel",
+		"keywords": [
+			"Jewish mysticism",
+			"Hebrew letters",
+			"Symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1927,
+				"happiness": 5,
+				"location": "Jerusalem, Israel",
+				"events": [
+					"Studied at the Bezalel Academy"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Bateau-Lavoir",
+					"Met Picasso"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Israel",
+				"events": [
+					"Participated in establishing 'The New Horizons' art movement"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1977,
+				"happiness": 5,
+				"location": "Ma'ale Adummim, Israel",
+				"events": [
+					"Established the Canaanite stone technique"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1991,
+				"happiness": 5,
+				"location": "Ma'ale Adummim, Israel",
+				"events": [
+					"Established the Castel Art Museum"
+				]
+			}
+		],
+		"genre": [
+			"Symbolist art",
+			"Jewish art",
+			"Modern art"
+		]
+	}
+]

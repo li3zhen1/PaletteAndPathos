@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Benny Andrews",
+		"keywords": [
+			"racism",
+			"social issues",
+			"poverty",
+			"collage",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Plainview, Georgia, United States",
+				"events": [
+					"Born into a family of sharecroppers"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"Received a bachelor's degree from the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 2006,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Established himself as a forerunner in the art scene",
+					"Got involved in the civil rights movement"
+				]
+			}
+		],
+		"genre": [
+			"Collage",
+			"Portraiture",
+			"Social Realism"
+		]
+	}
+]

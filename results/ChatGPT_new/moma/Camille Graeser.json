@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Camille Graeser",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"minimalism",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1915,
+				"happiness": 6,
+				"location": "Carouge, Switzerland",
+				"events": [
+					"Developed interest in painting and architecture",
+					"Early education and exposure to art"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"Trained as a furniture designer",
+					"Joined the Stuttgart Werkbund"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Fled to Zurich due to Nazism",
+					"Developed abstract work",
+					"Became involved with the 'Allianz' group of artists"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 4,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Recognised for contribution to abstract art"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"concrete art"
+		]
+	}
+]

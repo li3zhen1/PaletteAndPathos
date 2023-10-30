@@ -1,0 +1,76 @@
+[
+	{
+		"name": "George Catlin",
+		"keywords": [
+			"Native Americans",
+			"wildlife",
+			"western American landscapes",
+			"portraits",
+			"culture preservation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1796,
+				"end": 1821,
+				"happiness": 7,
+				"location": "Wilkes-Barre, Pennsylvania, United States",
+				"events": [
+					"raised in a family of lawyers"
+				]
+			},
+			{
+				"start": 1821,
+				"end": 1830,
+				"happiness": 6,
+				"location": "Philadelphia, United States",
+				"events": [
+					"trained as a lawyer",
+					"pursued his passion for painting"
+				]
+			},
+			{
+				"start": 1830,
+				"end": 1838,
+				"happiness": 8,
+				"location": "Frontier regions of the US",
+				"events": [
+					"began his 'Indian Gallery' project",
+					"made five trips to the West"
+				]
+			},
+			{
+				"start": 1838,
+				"end": 1852,
+				"happiness": 5,
+				"location": "Europe",
+				"events": [
+					"toured Europe with his Indian Gallery"
+				]
+			},
+			{
+				"start": 1852,
+				"end": 1860,
+				"happiness": 6,
+				"location": "United States",
+				"events": [
+					"returned to the US",
+					"continued painting Native American scenes"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1872,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"suffered several financial and personal losses"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Landscape",
+			"Ethnography"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Theodoros Stamos",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"color field",
+			"symbolism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Manhattan, New York, USA",
+				"events": [
+					"studied art at the American Artists School in New York"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"became part of the early generation of New York School Abstract Expressionist artists",
+					"the youngest artist to be included in the seminal 'Ninth Street Show'"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"formed the 'The Irascibles' group",
+					"featured in Life Magazine"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1997,
+				"happiness": 4,
+				"location": "Lefkada, Greece",
+				"events": [
+					"embroiled in legal battles over the estate of Mark Rothko",
+					"eventually left the New York art world"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color Field"
+		]
+	}
+]

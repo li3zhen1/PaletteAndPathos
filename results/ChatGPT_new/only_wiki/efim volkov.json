@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Efim Volkov",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"seasonal change",
+			"rurality",
+			"serenity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1844,
+				"end": 1868,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Received artistic training",
+					"Started showcasing artwork"
+				]
+			},
+			{
+				"start": 1868,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Won the title of Academician",
+					"Exhibited works internationally"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Experienced the tumult of World War I",
+					"Died"
+				]
+			}
+		],
+		"genre": [
+			"Landscape art",
+			"Realism"
+		]
+	}
+]

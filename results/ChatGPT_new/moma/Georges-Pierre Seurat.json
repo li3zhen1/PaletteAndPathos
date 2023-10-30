@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Georges-Pierre Seurat",
+		"keywords": [
+			"pointillism",
+			"post-impressionism",
+			"urban life",
+			"leisure"
+		],
+		"lifePeriods": [
+			{
+				"start": 1859,
+				"end": 1875,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Raised in a wealthy family"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1878,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied art at École Municipale de Sculpture et Dessin"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1879,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Attended classes at École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1879,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Started experimenting with pointillism"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1884,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Created and exhibited 'Bathers at Asnieres'"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1886,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Created his masterpiece 'A Sunday on La Grande Jatte'"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1891,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Fathered a child with Madeleine Knobloch",
+					"contracted meningitis"
+				]
+			}
+		],
+		"genre": [
+			"post-impressionism",
+			"pointillism",
+			"chromoluminarism"
+		]
+	}
+]

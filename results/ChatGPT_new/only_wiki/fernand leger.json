@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Fernand Leger",
+		"keywords": [
+			"machines",
+			"workers",
+			"nature",
+			"cubism",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Briey-en-Forêt, France",
+				"events": [
+					"grew up in a farming community"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1902,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"started training as an architect"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the School of Decorative Arts",
+					"started painting"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Front lines, World War I",
+				"events": [
+					"Fought in the war",
+					"Endured physical and emotional hardship"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Painted Ballet Mécanique",
+					"Established his own art school",
+					"moved towards Surrealism"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Exiled during World War II",
+					"Taught at Yale University"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Returned to France after WWII",
+					"Worked on mosaics and stained glass"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Modernism"
+		]
+	}
+]

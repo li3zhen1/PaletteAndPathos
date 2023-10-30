@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Konstantin Makovsky",
+		"keywords": [
+			"wealth",
+			"romance",
+			"folklore",
+			"historical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1839,
+				"end": 1846,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1847,
+				"end": 1851,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Started his art education under his father"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1858,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Studied at the Moscow School of Painting, Sculpture, and Architecture"
+				]
+			},
+			{
+				"start": 1859,
+				"end": 1862,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Member of the Wanderers group"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1876,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Traveled to Europe"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1915,
+				"happiness": 7,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Produced many of his most famous works"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"History painting",
+			"Portrait"
+		]
+	}
+]

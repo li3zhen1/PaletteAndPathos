@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Herman Rose",
+		"keywords": [
+			"urban life",
+			"architecture",
+			"light and shadow",
+			"quietness",
+			"cityscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 2007,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"studied at the Art Students League of New York",
+					"participated in a one-man show at the Riverside Museum"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Urban Landscape painting"
+		]
+	}
+]

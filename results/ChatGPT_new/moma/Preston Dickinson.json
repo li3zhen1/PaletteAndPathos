@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Preston Dickinson",
+		"keywords": [
+			"geometry",
+			"industrial landscapes",
+			"architecture",
+			"urban",
+			"cityscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1930,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"attended The Art Students League of New York",
+					"represented by Daniel Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Precisionism"
+		]
+	}
+]

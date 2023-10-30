@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Richard Whitney",
+		"keywords": [
+			"realism",
+			"portraits",
+			"nature",
+			"serenity",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Capitol Island, Maine",
+				"events": [
+					"Born and raised",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1974,
+				"happiness": 7,
+				"location": "Philadelphia",
+				"events": [
+					"Studied at Pennsylvania Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Stoddard, New Hampshire",
+				"events": [
+					"Married his wife Sandra",
+					"Set up his studio"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Stoddard, New Hampshire",
+				"events": [
+					"Recognized as one of the great realist painters",
+					"Received numerous awards"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Stoddard, New Hampshire",
+				"events": [
+					"Continued to paint and achieve recognition"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Landscape",
+			"Realism"
+		]
+	}
+]

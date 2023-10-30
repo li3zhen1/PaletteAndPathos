@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Stephen Greene",
+		"keywords": [
+			"abstract",
+			"religion",
+			"mysticism",
+			"human figure",
+			"obscurity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1942,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Studied at the National Academy of Design and The Art Students League"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Hired to teach at The Art Students League",
+					"Had a solo exhibition at the Samuel M. Kootz Gallery"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1999,
+				"happiness": 5,
+				"location": "Rhode Island, USA",
+				"events": [
+					"Taught at the Rhode Island School of Design",
+					"Received a Guggenheim Fellowship"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Figuration"
+		]
+	}
+]

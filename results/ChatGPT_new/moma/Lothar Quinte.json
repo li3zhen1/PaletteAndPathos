@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Lothar Quinte",
+		"keywords": [
+			"abstract art",
+			"color theory",
+			"minimalism",
+			"geometry",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1942,
+				"happiness": 3,
+				"location": "Neisse, Silesia",
+				"events": []
+			},
+			{
+				"start": 1946,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Munster",
+				"events": [
+					"studied at the State School of Art"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"became associated with the Informel art"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1960,
+				"happiness": 8,
+				"location": "Düsseldorf",
+				"events": [
+					"worked with Yves Klein",
+					"involved in ZERO movement"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 9,
+				"location": "Krefeld",
+				"events": [
+					"developed his color-light-spaces concept"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Krefeld",
+				"events": [
+					"continued to work on abstract art till his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Color Field",
+			"Post-Painterly Abstraction"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Charles Lapicque",
+		"keywords": [
+			"color",
+			"geometric",
+			"dynamic",
+			"marine",
+			"horses"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Luxeuil-les-Bains, France",
+				"events": [
+					"born in a family with artistical interests"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1936,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied engineering and biology"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"began full-time painting",
+					"World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"developed unique abstract style",
+					"won the Carnegie Prize in 1950"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Figurative"
+		]
+	}
+]

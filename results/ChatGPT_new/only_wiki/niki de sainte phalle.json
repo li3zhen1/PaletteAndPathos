@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Niki de Saint Phalle",
+		"keywords": [
+			"femininity",
+			"death",
+			"joy",
+			"freedom",
+			"autobiographical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 2,
+				"location": "New York City, United States",
+				"events": [
+					"experienced authoritarian upbringing",
+					"suffered an assault"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1955,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"became a fashion model",
+					"married writer Harry Mathews"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 3,
+				"location": "Nice, France",
+				"events": [
+					"started painting",
+					"underwent psychiatric treatment"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1971,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"developed 'Tirs' performance",
+					"started 'Nanas' series"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Tuscany, Italy",
+				"events": [
+					"worked on 'Tarot Garden'",
+					"divorced Harry Mathews"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2002,
+				"happiness": 4,
+				"location": "San Diego, USA",
+				"events": [
+					"suffered from emphysema",
+					"'Tarot Garden' opened to the public"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Performance Art",
+			"Installation Art"
+		]
+	}
+]

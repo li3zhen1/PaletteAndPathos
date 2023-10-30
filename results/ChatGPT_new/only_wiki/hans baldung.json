@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Hans Baldung",
+		"keywords": [
+			"death",
+			"witchcraft",
+			"religion",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1484,
+				"end": 1496,
+				"happiness": 5,
+				"location": "Schwäbisch Gmünd, Germany",
+				"events": [
+					"started formal education"
+				]
+			},
+			{
+				"start": 1496,
+				"end": 1503,
+				"happiness": 7,
+				"location": "Freiburg, Germany",
+				"events": [
+					"apprenticed under Matthias Grünewald",
+					"joined Dürer’s workshop"
+				]
+			},
+			{
+				"start": 1503,
+				"end": 1513,
+				"happiness": 8,
+				"location": "Strasbourg, France",
+				"events": [
+					"became a citizen",
+					"opened his own workshop"
+				]
+			},
+			{
+				"start": 1513,
+				"end": 1534,
+				"happiness": 6,
+				"location": "Freiburg, Germany",
+				"events": [
+					"served as a court artist"
+				]
+			},
+			{
+				"start": 1534,
+				"end": 1545,
+				"happiness": 5,
+				"location": "Strasbourg, France",
+				"events": [
+					"held a number of important offices"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"religious art",
+			"mythological scenes"
+		]
+	}
+]

@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Jean Bazaine",
+		"keywords": [
+			"abstraction",
+			"nature",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": []
+			},
+			{
+				"start": 1924,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Ecole des Beaux-Arts in Paris",
+					"became associated with the 'Jeune France' movement"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"held his first solo exhibition in 1946",
+					"won the Domergue Prize in 1948"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"designed stained glass windows for several French churches",
+					"promoted to Officer of the Legion of Honour in 1984"
+				]
+			}
+		],
+		"genre": [
+			"Lyrical Abstraction",
+			"Art Informel"
+		]
+	}
+]

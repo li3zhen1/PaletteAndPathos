@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Fyodor Vasilyev",
+		"keywords": [
+			"landscape",
+			"rural",
+			"nature",
+			"realism",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1850,
+				"end": 1873,
+				"happiness": 5,
+				"location": "Russia",
+				"events": [
+					"Studied at Imperial Academy of Arts",
+					"First exhibition",
+					"Suffered from tuberculosis"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Landscape"
+		]
+	}
+]

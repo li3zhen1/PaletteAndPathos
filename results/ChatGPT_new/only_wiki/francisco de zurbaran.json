@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Francisco de Zurbaran",
+		"keywords": [
+			"religion",
+			"still life",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1598,
+				"end": 1629,
+				"happiness": 5,
+				"location": "Fuente de Cantos, Spain",
+				"events": [
+					"trained in Seville",
+					"begun his artistic career"
+				]
+			},
+			{
+				"start": 1629,
+				"end": 1658,
+				"happiness": 7,
+				"location": "Seville, Spain",
+				"events": [
+					"appointed Painter to the King",
+					"produced his finest religious paintings"
+				]
+			},
+			{
+				"start": 1658,
+				"end": 1664,
+				"happiness": 4,
+				"location": "Madrid, Spain",
+				"events": [
+					"moved to Madrid following economic difficulties",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"religious painting",
+			"still life"
+		]
+	}
+]

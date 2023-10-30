@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Matthias Stom",
+		"keywords": [
+			"religion",
+			"drama",
+			"lighting",
+			"chiaroscuro"
+		],
+		"lifePeriods": [
+			{
+				"start": 1600,
+				"end": 1606,
+				"happiness": 5,
+				"location": "Amersfoort, Netherlands",
+				"events": [
+					"early training in art"
+				]
+			},
+			{
+				"start": 1606,
+				"end": 1621,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"studied artwork of Caravaggio",
+					"influenced by mastery of chiaroscuro"
+				]
+			},
+			{
+				"start": 1621,
+				"end": 1650,
+				"happiness": 7,
+				"location": "Sicily, Italy",
+				"events": [
+					"creation of majority masterpieces",
+					"led a successful and peaceful personal life"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Religious painting"
+		]
+	}
+]

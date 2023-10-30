@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Robert Goodnough",
+		"keywords": [
+			"abstract",
+			"colorful",
+			"geometric",
+			"nature",
+			"dynamics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Cortland, New York",
+				"events": [
+					"beginning of formal education"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Syracuse, New York",
+				"events": [
+					"studied art at Syracuse University"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Europe",
+				"events": [
+					"participated in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1949,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"studied art under famed teacher Hans Hoffman"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"emergence as a significant abstract painter",
+					"participation in the Ninth Street Show"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"development of unique painting style"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2010,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"continued painting and teaching"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color Field",
+			"Lyrical Abstraction"
+		]
+	}
+]

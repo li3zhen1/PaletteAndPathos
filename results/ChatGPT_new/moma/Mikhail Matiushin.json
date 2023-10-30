@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Mikhail Matiushin",
+		"keywords": [
+			"abstraction",
+			"music",
+			"expressionism",
+			"avant-garde",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1861,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied at the Moscow Conservatory",
+					"became a violinist in the Court Orchestra"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"joined the avant-garde group 'Union of Youth'",
+					"met his wife, Elena Guro"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Elena Guro died",
+					"participated in the First All-Russia Congress of Proletarian Culture"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1934,
+				"happiness": 4,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"developed the theory of 'Expanded Vision'"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1937,
+				"happiness": 3,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"persecuted during the Great Purge"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1939,
+				"happiness": 2,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"died from a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"avant-garde"
+		]
+	}
+]

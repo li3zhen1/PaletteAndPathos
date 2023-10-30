@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Man Ray (Emmanuel Radnitzky)",
+		"keywords": [
+			"avant-garde",
+			"cubism",
+			"dadaism",
+			"surrealism",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1908,
+				"happiness": 5,
+				"location": "Brooklyn, New York",
+				"events": [
+					"born into a Jewish immigrant family",
+					"developed interest in art during high school"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1915,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"attended art school",
+					"met the artist Marcel Duchamp"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1921,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"associated with Dada and Surrealist artists",
+					"embraced avant-garde art"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1940,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"became a central figure in the Parisian artistic community",
+					"invented the image-making technique called 'Rayograph'",
+					"met his partner, Adrienne Fidelin"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"fled from Europe during World War II",
+					"struggled to rebuild his career in Hollywood"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"returned to Paris",
+					"continued to produce art and write"
+				]
+			}
+		],
+		"genre": [
+			"Dada",
+			"Surrealism",
+			"Avant-garde"
+		]
+	}
+]

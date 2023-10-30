@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Leopold Survage",
+		"keywords": [
+			"abstract",
+			"industrial landscapes",
+			"fantasy",
+			"concentric circles",
+			"cubist"
+		],
+		"lifePeriods": [
+			{
+				"start": 1879,
+				"end": 1897,
+				"happiness": 5,
+				"location": "Finland",
+				"events": [
+					"Born and raised in Finland"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1908,
+				"happiness": 6,
+				"location": "Moscow",
+				"events": [
+					"Moved to Moscow",
+					"Started working as a bookkeeper"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Moved to Paris",
+					"Started studying at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Joined the Section d'Or artists",
+					"His work began to shift to abstract art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Exhibited work at the Venice Biennale",
+					"Received Chevalier de la Legion d'Honneur"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Fauvism",
+			"Cubism"
+		]
+	}
+]

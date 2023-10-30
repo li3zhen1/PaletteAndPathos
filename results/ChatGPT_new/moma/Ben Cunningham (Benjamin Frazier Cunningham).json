@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Ben Cunningham",
+		"keywords": [
+			"abstract",
+			"precisionism",
+			"color",
+			"rhythm"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Cripple Creek, Colorado, USA",
+				"events": [
+					"began his art studies at Denver Art Academy"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied abstract art"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1946,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"worked as a graphic designer",
+					"started exploring abstract art"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Connecticut, USA",
+				"events": [
+					"became an early member of the American Abstract Artists group",
+					"developed his unique rhythmic style"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1979,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"continued progressing his abstract precisionism style"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Precisionism"
+		]
+	}
+]

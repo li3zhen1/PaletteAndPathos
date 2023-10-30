@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Constantin Guys",
+		"keywords": [
+			"war",
+			"fashion",
+			"society",
+			"urban life",
+			"elegance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1802,
+				"end": 1824,
+				"happiness": 5,
+				"location": "Flushing, Netherlands",
+				"events": [
+					"Born to a French father and Dutch mother"
+				]
+			},
+			{
+				"start": 1824,
+				"end": 1850,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"Served in the French army",
+					"Became a war correspondent and illustrator"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Covered the Crimean War",
+					"Started producing watercolors about modern Parisian life"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1892,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Experienced the Franco-Prussian War",
+					"Continued to work but with declining recognition"
+				]
+			}
+		],
+		"genre": [
+			"War Art",
+			"Fashion Illustration",
+			"Urban Life"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Jan Toorop",
+		"keywords": [
+			"Symbolism",
+			"Pointillism",
+			"Art Nouveau",
+			"portraits",
+			"landscapes",
+			"religious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1858,
+				"end": 1880,
+				"happiness": 4,
+				"location": "Java, Dutch East Indies",
+				"events": [
+					"born in Java"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"studied in Amsterdam Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"met his wife Annie Hall",
+					"heavily influenced by Impressionism"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1928,
+				"happiness": 5,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"converted to Catholicism",
+					"developed an individual symbolic style"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau",
+			"Pointillism"
+		]
+	}
+]

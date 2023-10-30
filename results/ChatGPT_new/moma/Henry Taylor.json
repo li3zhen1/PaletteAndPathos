@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Henry Taylor",
+		"keywords": [
+			"portraits",
+			"contemporary life",
+			"African American identity",
+			"social issues"
+		],
+		"lifePeriods": [
+			{
+				"start": 1958,
+				"end": 1977,
+				"happiness": 5,
+				"location": "Ventura, California",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1995,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"worked as a psychiatric technician"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"graduated from California Institute of the Arts",
+					"embraced full-time painting"
+				]
+			}
+		],
+		"genre": [
+			"Figurative Painting",
+			"Contemporary Art"
+		]
+	}
+]

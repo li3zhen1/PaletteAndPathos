@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Fra Angelico",
+		"keywords": [
+			"religion",
+			"Christianity",
+			"angels",
+			"medieval",
+			"monastery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1395,
+				"end": 1455,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"became a Dominican friar",
+					"created masterpieces for the Vatican"
+				]
+			}
+		],
+		"genre": [
+			"Early Renaissance",
+			"Religious Art"
+		]
+	}
+]

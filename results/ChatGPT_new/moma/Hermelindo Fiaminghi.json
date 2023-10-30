@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Hermelindo Fiaminghi",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"bold",
+			"modernism",
+			"shapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1988,
+				"happiness": 5,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"joined Grupo Ruptura",
+					"participated in National Biennial of Sao Paulo"
+				]
+			}
+		],
+		"genre": [
+			"Geometric abstraction",
+			"Concretism"
+		]
+	}
+]

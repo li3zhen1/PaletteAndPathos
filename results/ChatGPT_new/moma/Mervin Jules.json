@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Mervin Jules",
+		"keywords": [
+			"society",
+			"workers",
+			"war",
+			"caption",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Baltimore, Maryland",
+				"events": []
+			},
+			{
+				"start": 1917,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Baltimore, Maryland",
+				"events": [
+					"Started art education"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1941,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Pursued career in printmaking and painting"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 4,
+				"location": "United States",
+				"events": [
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1965,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"Taught at Smith College"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Maryland Institute College of Art",
+				"events": [
+					"Served as director"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1994,
+				"happiness": 8,
+				"location": "Boca Raton, Florida",
+				"events": [
+					"Retired",
+					"Focused on his artwork"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Printmaking"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Ferdinand Hodler",
+		"keywords": [
+			"symbolism",
+			"landscapes",
+			"portrait",
+			"nature",
+			"death"
+		],
+		"lifePeriods": [
+			{
+				"start": 1853,
+				"end": 1865,
+				"happiness": 3,
+				"location": "Bern",
+				"events": [
+					"lost his parents to tuberculosis"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Thun",
+				"events": [
+					"started to learn painting"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1877,
+				"happiness": 7,
+				"location": "Geneva",
+				"events": [
+					"studied at the Swiss Academy of Fine Arts",
+					"developed his own style"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Geneva",
+				"events": [
+					"achieved international recognition",
+					"onset of illness"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau",
+			"Swiss painter"
+		]
+	}
+]

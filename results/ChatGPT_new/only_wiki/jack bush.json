@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Jack Bush",
+		"keywords": [
+			"abstract",
+			"color field",
+			"abstraction",
+			"minimalism",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1915,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Born and spent early childhood"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"Moved with his family",
+					"Started art lessons"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Received art education",
+					"Began his career in commercial art"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"Married Mabel Teakle",
+					"Birth of his first child"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1967,
+				"happiness": 8,
+				"location": "Toronto, Canada",
+				"events": [
+					"Joined the Painters Eleven",
+					"Started producing esteemed abstract works"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1977,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Received international recognition",
+					"Death from a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color Field"
+		]
+	}
+]

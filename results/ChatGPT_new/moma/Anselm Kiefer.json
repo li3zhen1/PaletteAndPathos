@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Anselm Kiefer",
+		"keywords": [
+			"war",
+			"destruction",
+			"history",
+			"mythology",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Donau, Germany",
+				"events": [
+					"born shortly before the end of World War II"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Frankfurt, Germany",
+				"events": [
+					"started studying art at the Frankfurter Kunstschule",
+					"took classes under Peter Dreher"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"continued his education at the Kunstakademie Düsseldorf",
+					"gained recognition for his 'Heroic Symbols' series"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Buchberg, Switzerland",
+				"events": [
+					"moved to France and bought a derelict silk factory",
+					"created a series of works under the collective title 'La Ribaute'"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Barjac, France",
+				"events": [
+					"continued working on 'La Ribaute' series",
+					"started to create large-scale installations"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"received numerous awards and honours",
+					"exhibited his works at several international venues"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"sculpture",
+			"installation art"
+		]
+	}
+]

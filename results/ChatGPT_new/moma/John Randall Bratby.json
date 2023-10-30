@@ -1,0 +1,55 @@
+[
+	{
+		"name": "John Randall Bratby",
+		"keywords": [
+			"domestic",
+			"realism",
+			"kitchen sink",
+			"urban life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1953,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Accepted into Royal College of Art"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Part of 'kitchen sink' movement",
+					"Married artist Jean Cooke"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Hastings, England",
+				"events": [
+					"Formed part of Hastings' art scene"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1992,
+				"happiness": 4,
+				"location": "Hastings, England",
+				"events": [
+					"Died of circulatory disease"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Kitchen sink realism"
+		]
+	}
+]

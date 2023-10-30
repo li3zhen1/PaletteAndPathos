@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Sol LeWitt",
+		"keywords": [
+			"minimalism",
+			"conceptual art",
+			"geometry",
+			"abstract",
+			"drawings"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Hartford, Connecticut",
+				"events": [
+					"childhood phase"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1949,
+				"happiness": 3,
+				"location": "Korea",
+				"events": [
+					"served in Korean War"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"career development",
+					"worked at Guggenheim Museum"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2007,
+				"happiness": 8,
+				"location": "Spoleto, Italy",
+				"events": [
+					"peak of creative work",
+					"international recognition"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Minimalism"
+		]
+	}
+]

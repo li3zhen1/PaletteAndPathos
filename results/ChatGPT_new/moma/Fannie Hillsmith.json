@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Fannie Hillsmith",
+		"keywords": [
+			"abstract",
+			"grids",
+			"tracery patterns",
+			"nature",
+			"music"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Boston, MA",
+				"events": [
+					"Studied at School of the Museum of Fine Arts, Boston",
+					"Worked alongside Hans Hofmann in Provincetown"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 2006,
+				"happiness": 6,
+				"location": "New York, NY",
+				"events": [
+					"Exhibited her work with the American Abstract Artists group",
+					"Respected figure in the New York art world"
+				]
+			}
+		],
+		"genre": [
+			"Cubist",
+			"Abstract"
+		]
+	}
+]

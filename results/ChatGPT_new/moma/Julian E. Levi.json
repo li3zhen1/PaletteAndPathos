@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Julian E. Levi",
+		"keywords": [
+			"surrealism",
+			"urban life",
+			"modernism",
+			"abstract",
+			"social issues"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Philadelphia, USA",
+				"events": [
+					"beginning of interest in art"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Philadelphia, USA",
+				"events": [
+					"graduated from Pennsylvania Academy of the Fine Arts"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"met influential artists",
+					"developed his own style"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"participation in Works Progress Administration",
+					"teaching at the New School for Social Research"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1981,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"actively participated in art and cultural life",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"surrealism",
+			"social realism"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Alton Pickens",
+		"keywords": [
+			"figurative",
+			"human condition",
+			"urban life",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1991,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"studied at the National Academy of Design",
+					"became professor at the Art Students League"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"drawing",
+			"printmaking"
+		]
+	}
+]

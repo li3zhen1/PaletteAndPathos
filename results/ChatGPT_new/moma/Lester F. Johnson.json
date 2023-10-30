@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Lester F. Johnson",
+		"keywords": [
+			"human figures",
+			"expression",
+			"society",
+			"emotion",
+			"dystopian"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Detroit, Michigan",
+				"events": [
+					"born and raised",
+					"experienced the Great Depression"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"studied at the Art Students League",
+					"joined the New York School"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"established as an expressionist painter"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1999,
+				"happiness": 5,
+				"location": "Connecticut",
+				"events": [
+					"taught at Yale University School of Art and Architecture",
+					"launched his ‘Crowd’ series"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2010,
+				"happiness": 4,
+				"location": "Suffolk, England",
+				"events": [
+					"continued painting",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"Figurative Expressionism",
+			"American Expressionism",
+			"Abstract Expressionism"
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Constantin Daniel Rosenthal",
+		"keywords": [
+			"patriotism",
+			"nationalism",
+			"revolution"
+		],
+		"lifePeriods": [
+			{
+				"start": 1820,
+				"end": 1851,
+				"happiness": 4,
+				"location": "Bucharest",
+				"events": [
+					"Participation in Wallachian Revolution of 1848",
+					"Creation of the iconic portraits of Romanian revolutionaries"
+				]
+			}
+		],
+		"genre": [
+			"historical",
+			"portrait"
+		]
+	}
+]

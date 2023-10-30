@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Helene Schjerfbeck",
+		"keywords": [
+			"portraiture",
+			"self-portraits",
+			"landscapes",
+			"nature",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Helsinki",
+				"events": [
+					"First successful exhibition at 11",
+					"Stayed in Paris for ten years"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1915,
+				"happiness": 6,
+				"location": "Hyvinkää",
+				"events": [
+					"Painted her most famous work",
+					"Was limited by physical ailments"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Ekenäs",
+				"events": [
+					"Her art fell into obscurity",
+					"Revived her career towards the end of her life"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Realism",
+			"Expressionism"
+		]
+	}
+]

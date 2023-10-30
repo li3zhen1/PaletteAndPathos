@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Mark Tobey",
+		"keywords": [
+			"Abstract",
+			"spirituality",
+			"city life",
+			"calligraphy",
+			"maturity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1911,
+				"happiness": 4,
+				"location": "Centerville, Wisconsin",
+				"events": [
+					"Birth and early life"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1918,
+				"happiness": 7,
+				"location": "Chicago",
+				"events": [
+					"Attended the Art Institute of Chicago",
+					"Worked as a fashion illustrator"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1925,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Explored new type of art"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Seattle",
+				"events": [
+					"Developed 'white writing' - a type of calligraphic painting"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1976,
+				"happiness": 8,
+				"location": "Basel, Switzerland",
+				"events": [
+					"Moved to Switzerland",
+					"Received international recognition"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Basel, Switzerland",
+				"events": [
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism"
+		]
+	}
+]

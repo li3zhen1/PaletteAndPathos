@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Lourdes Castro",
+		"keywords": [
+			"luminography",
+			"shadow objects",
+			"social issues",
+			"nature",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Madeira, Portugal",
+				"events": [
+					"Birth",
+					"Early education"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Studied painting at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the School of Decorative Arts",
+					"Met and married René Bertholo"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Madeira, Portugal",
+				"events": [
+					"Started creating 'shadows' artworks",
+					"Contributed to the founding of the KWY group"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2020,
+				"happiness": 6,
+				"location": "Madeira, Portugal",
+				"events": [
+					"Continued strong contributions to the art world"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art",
+			"Luminography"
+		]
+	}
+]

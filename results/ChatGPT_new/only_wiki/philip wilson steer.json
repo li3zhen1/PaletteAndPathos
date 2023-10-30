@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Philip Wilson Steer",
+		"keywords": [
+			"seascapes",
+			"landscapes",
+			"impressionism",
+			"British countryside",
+			"female figures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1878,
+				"happiness": 4,
+				"location": "Birkenhead, Merseyside, England",
+				"events": [
+					"Early education",
+					"Influence of artistic parents"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1884,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Student at the Gloucester School of Art, Cheltenham",
+					"Joined the Slade School of Art in London"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1892,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Académie Julian",
+					"Influenced by Impressionism"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1911,
+				"happiness": 7,
+				"location": "Walberswick, Suffolk, England",
+				"events": [
+					"Painted 'The Bridge'",
+					"Elected an Associate of the Royal Academy"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1942,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Elected Royal Academician",
+					"Became isolated and reclusive"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Portrait",
+			"Landscape"
+		]
+	}
+]

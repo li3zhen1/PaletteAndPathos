@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Amelia Peláez Del Casal",
+		"keywords": [
+			"cubism",
+			"symbols",
+			"windows",
+			"fruits",
+			"flowers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Yaguajay, Cuba",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Havana, Cuba",
+				"events": [
+					"started art studies at the San Alejandro Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1934,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"enriched her art studies",
+					"embraced cubism"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Havana, Cuba",
+				"events": [
+					"became leading female artist in the Cuban avant-garde",
+					"worked on 'The School of Havana'",
+					"held first solo exhibition"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"vanguardism"
+		]
+	}
+]

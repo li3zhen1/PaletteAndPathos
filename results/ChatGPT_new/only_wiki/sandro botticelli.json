@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Sandro Botticelli",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"feminine beauty",
+			"allegory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1445,
+				"end": 1475,
+				"happiness": 6,
+				"location": "Florence",
+				"events": [
+					"Became an apprentice of Fra Filippo Lippi",
+					"Started his own workshop"
+				]
+			},
+			{
+				"start": 1475,
+				"end": 1505,
+				"happiness": 5,
+				"location": "Florence",
+				"events": [
+					"Painted 'The Birth of Venus'",
+					"Met Lorenzo de' Medici and became one of his favourite artists"
+				]
+			},
+			{
+				"start": 1505,
+				"end": 1510,
+				"happiness": 4,
+				"location": "Florence",
+				"events": [
+					"Loss of patrons due to the fall of the Medici family",
+					"Death of his brother"
+				]
+			}
+		],
+		"genre": [
+			"Italian Renaissance",
+			"Religious Art",
+			"Mythological Art"
+		]
+	}
+]

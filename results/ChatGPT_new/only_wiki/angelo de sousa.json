@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Angelo de Sousa",
+		"keywords": [
+			"minimalism",
+			"experimental",
+			"abstract",
+			"geometry",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Lourenço Marques, Portuguese Mozambique",
+				"events": []
+			},
+			{
+				"start": 1948,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"studied at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 2011,
+				"happiness": 7,
+				"location": "Porto, Portugal",
+				"events": [
+					"became an art instructor at Porto School of Fine Arts",
+					"held numerous solo exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism",
+			"Drawing"
+		]
+	}
+]

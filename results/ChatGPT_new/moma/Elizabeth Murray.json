@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Elizabeth Murray",
+		"keywords": [
+			"abstract",
+			"emotion",
+			"shape",
+			"color",
+			"single canvas"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Chicago, Illinois",
+				"events": [
+					"Born to a working-class family"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Bloomington, Illinois",
+				"events": [
+					"Education at Mills College and School of Art Institute Chicago"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1976,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Moved to New York",
+					"Established herself as a key figure in the city's vibrant art scene"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1986,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Exhibited her artwork in several major platforms"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2007,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"Received prestigious awards like the MacArthur Fellowship",
+					"Health issues started appearing"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Abstract Art"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Ivan Vladimirov",
+		"keywords": [
+			"war",
+			"society",
+			"history",
+			"politics",
+			"Russian Empire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1869,
+				"end": 1917,
+				"happiness": 7,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"graduated from Imperial Academy of Arts in Saint Petersburg",
+					"becomes police draftsman"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 3,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Captured the Russian Revolution in his illustrations",
+					"Left Russia"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Yugoslavia",
+				"events": [
+					"Exhibited his works"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"illustration"
+		]
+	}
+]

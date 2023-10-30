@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Vitaly Komar",
+		"keywords": [
+			"satire",
+			"conceptual art",
+			"collaboration",
+			"politics",
+			"Eastern European themes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1965,
+				"happiness": 3,
+				"location": "Moscow, Soviet Union",
+				"events": [
+					"born in Moscow",
+					"studied at the Stroganov Institute of Art and Design"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1974,
+				"happiness": 5,
+				"location": "Moscow, Soviet Union",
+				"events": [
+					"started collaborating with Alex Melamid",
+					"formed the SOTS Art movement"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1988,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"emigrated to the United States",
+					"continued his artistic collaboration with Melamid"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2002,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"created the Elephant Art project",
+					"worked on the Most Wanted and Most Unwanted art project"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"started working independently after ending collaboration with Melamid"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"SOTS Art",
+			"Contemporary Art"
+		]
+	}
+]

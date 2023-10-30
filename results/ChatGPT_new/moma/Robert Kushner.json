@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Robert Kushner",
+		"keywords": [
+			"botanical",
+			"decoration",
+			"performance",
+			"pattern",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1949,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Pasadena, California, USA",
+				"events": [
+					"Born in Pasadena, California",
+					"Co-founded 'Pattern and Decoration' movement",
+					"Public Art installations"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Decorative arts"
+		]
+	}
+]

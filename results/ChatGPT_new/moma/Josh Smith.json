@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Josh Smith",
+		"keywords": [
+			"abstract",
+			"minimalistic",
+			"monochrome",
+			"nature",
+			"self-portrayal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1976,
+				"end": 1993,
+				"happiness": 6,
+				"location": "Okinawa, Japan",
+				"events": [
+					"born in Okinawa"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 1998,
+				"happiness": 5,
+				"location": "Knoxville, Tennessee",
+				"events": [
+					"attended the University of Tennessee"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2002,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"started painting professionally"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2020,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"gained recognition for his artwork",
+					"exhibited at the Centre d'Art Contemporain Geneve"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Figurative Painting",
+			"Contemporary Art"
+		]
+	}
+]

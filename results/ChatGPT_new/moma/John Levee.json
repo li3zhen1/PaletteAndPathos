@@ -1,0 +1,45 @@
+[
+	{
+		"name": "John Levee",
+		"keywords": [
+			"abstraction",
+			"minimalism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Los Angeles, United States",
+				"events": [
+					"born to an American father and French mother",
+					"witnessed World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Art Students League",
+					"joined the New Paris School"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2004,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"established artist exploring abstract and minimalist themes"
+				]
+			}
+		],
+		"genre": [
+			"abstract painting",
+			"minimalism"
+		]
+	}
+]

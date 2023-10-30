@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Antoine Pevsner",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"construction",
+			"sculpture",
+			"metal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1908,
+				"happiness": 5,
+				"location": "Oryol, Russia",
+				"events": [
+					"received primary education",
+					"became interested in art"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"met influential cubist artists",
+					"started developing his artistic style"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1923,
+				"happiness": 2,
+				"location": "Russia",
+				"events": [
+					"witnessed violence and brutality of Russian revolution",
+					"rose to prominence in the Russian artistic community"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1962,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"continued to influence development of constructivism",
+					"produced monumental works of art"
+				]
+			}
+		],
+		"genre": [
+			"Constructivism",
+			"Abstract Art",
+			"Sculpture"
+		]
+	}
+]

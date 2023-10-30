@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Ludwig Sander",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"minimalism",
+			"color",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1924,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": []
+			},
+			{
+				"start": 1925,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1975,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"included in the first post-war Abstract Expressionist show",
+					"became an influential figure in the hard-edge painting and color field painting movement"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1975,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"his work was celebrated in a retrospective at the Guggenheim Museum"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Hard-edge painting",
+			"Color Field"
+		]
+	}
+]

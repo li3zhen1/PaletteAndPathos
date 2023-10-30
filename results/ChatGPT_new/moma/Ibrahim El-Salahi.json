@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Ibrahim El-Salahi",
+		"keywords": [
+			"Arab Calligraphy",
+			"African heritage",
+			"spirituality",
+			"suffering",
+			"political turmoil"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1954,
+				"happiness": 7,
+				"location": "Omdurman, Sudan",
+				"events": [
+					"Born into a religious family",
+					"Early education in Sudan"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1957,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Studied at Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1975,
+				"happiness": 4,
+				"location": "Khartoum, Sudan",
+				"events": [
+					"Became a key figure in the Khartoum School",
+					"Imprisoned wrongly for over six months"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1998,
+				"happiness": 5,
+				"location": "Doha, Qatar",
+				"events": [
+					"Worked as an advisor to the Ministry of Culture"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Oxford, England",
+				"events": [
+					"First African artist to have a retrospective at Tate Modern",
+					"Received Honorary Doctorate from University of Khartoum"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Surrealism",
+			"Islamic Art"
+		]
+	}
+]

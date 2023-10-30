@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Charles Hermans",
+		"keywords": [
+			"society",
+			"urban life",
+			"poverty",
+			"luxury",
+			"contrast"
+		],
+		"lifePeriods": [
+			{
+				"start": 1839,
+				"end": 1857,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Received education at the Academy of Fine Arts in Brussels"
+				]
+			},
+			{
+				"start": 1858,
+				"end": 1868,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Worked in Paris",
+					"Influenced by Parisian lifestyle"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1899,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Prominent member of Belgian artistic circle",
+					"Represented Belgium in various international exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Social Realism"
+		]
+	}
+]

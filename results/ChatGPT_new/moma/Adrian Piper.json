@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Adrian Piper",
+		"keywords": [
+			"identity",
+			"race",
+			"gender",
+			"autobiography",
+			"conceptual art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1966,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"received early art training",
+					"entered the School of Visual Arts"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1974,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"began experimenting with conceptual art",
+					"graduated from School of Visual Arts"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1987,
+				"happiness": 5,
+				"location": "Cambridge, USA",
+				"events": [
+					"earned PhD in Philosophy from Harvard University",
+					"became the first African-American woman tenured in the field of philosophy"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2008,
+				"happiness": 5,
+				"location": "Wellesley, USA",
+				"events": [
+					"taught philosophy at Wellesley College",
+					"continued her conceptual art practice"
+				]
+			},
+			{
+				"start": 2008,
+				"end": 2021,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"moved to Berlin",
+					"continued her work despite facing racial and gender discrimination"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"post-minimalism",
+			"performance art"
+		]
+	}
+]

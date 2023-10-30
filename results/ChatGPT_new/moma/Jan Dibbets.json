@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Jan Dibbets",
+		"keywords": [
+			"light",
+			"perspective",
+			"natural phenomena",
+			"land art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Weert, Netherlands",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"studied at the Gerrit Rietveld Academie",
+					"taught at art academies"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"work exhibited internationally",
+					"became influential figure in land art"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Land Art",
+			"Photorealism"
+		]
+	}
+]

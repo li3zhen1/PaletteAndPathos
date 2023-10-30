@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Jesús Rafael Soto",
+		"keywords": [
+			"kinetic",
+			"vibration",
+			"geometry",
+			"movement",
+			"illusion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Venezuela",
+				"events": [
+					"learned painting and carpentry from his father",
+					"studied at the School of Fine and Applied Arts in Caracas"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Caracas",
+				"events": [
+					"worked as an illustrator and criitic for the newspaper 'El Nacional'",
+					"director of the School of Fine Arts in Maracaibo"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"became a part of the Op Art Movement",
+					"work started to focus on structures and spaces"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"first exhibition at Signals Gallery in London",
+					"his work 'Spiral' is added to the collection of the Museum of Modern Art in New York"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2005,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"established the Jesús Soto Museum of Modern Art in his hometown Ciudad Bolívar, Venezuela",
+					"received the Lorenzo il Magnifico Award for Lifetime Achievement"
+				]
+			}
+		],
+		"genre": [
+			"kinetic art",
+			"Op Art"
+		]
+	}
+]

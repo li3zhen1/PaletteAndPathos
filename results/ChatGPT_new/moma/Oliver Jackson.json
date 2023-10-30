@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Oliver Jackson",
+		"keywords": [
+			"abstract",
+			"multimedia",
+			"cultural identity",
+			"african art",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1995,
+				"happiness": 6,
+				"location": "St. Louis, USA",
+				"events": [
+					"Established his art practice",
+					"Was an art professor at various colleges and universities"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Oakland, USA",
+				"events": [
+					"Received the prestigious Pollock-Krasner Foundation award",
+					"Continued producing prominent abstract art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2015,
+				"happiness": 6,
+				"location": "Oakland, USA",
+				"events": [
+					"Exhibited his artworks regularly"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2020,
+				"happiness": 5,
+				"location": "Oakland, USA",
+				"events": [
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Multimedia art"
+		]
+	}
+]

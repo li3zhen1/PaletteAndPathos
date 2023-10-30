@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Herbert Bayer",
+		"keywords": [
+			"typography",
+			"architecture",
+			"graphic",
+			"photography",
+			"advertising"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Linz, Austria",
+				"events": [
+					"became interested in art and architecture"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"Studied at the Bauhaus",
+					"became a master at the Bauhaus"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"Worked as a graphic designer for Vogue magazine",
+					"left Germany due to the political situation"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1959,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"became an American citizen",
+					"became a consultant for the Container Corporation of America"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1985,
+				"happiness": 8,
+				"location": "Montecito, USA",
+				"events": [
+					"Worked on architectural and environmental projects",
+					"tireless advocacy for the integration of typography and design into architectural projects"
+				]
+			}
+		],
+		"genre": [
+			"typography",
+			"advertising",
+			"graphic design",
+			"architecture",
+			"painting"
+		]
+	}
+]

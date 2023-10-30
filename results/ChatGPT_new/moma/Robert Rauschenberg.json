@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Robert Rauschenberg",
+		"keywords": [
+			"abstract",
+			"collage",
+			"found objects",
+			"nature",
+			"pop culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1944,
+				"happiness": 4,
+				"location": "Port Arthur, Texas",
+				"events": [
+					"Raised in a conservative Christian environment"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Kansa, United States",
+				"events": [
+					"Served in the U.S. Navy",
+					"Studied at Kansas City Art Institute and in Paris"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1969,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Received his first solo exhibition",
+					"Won Grand Prize at Venice Biennale",
+					"Married Susan Weil"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Captiva Island, Florida",
+				"events": [
+					"Expanded his art towards performance and choreography"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2008,
+				"happiness": 6,
+				"location": "Captiva Island, Florida",
+				"events": [
+					"Death of his son, Christopher"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Neo-Dada",
+			"Pop art"
+		]
+	}
+]

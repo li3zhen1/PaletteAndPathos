@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Felix Gonzalez-Torres",
+		"keywords": [
+			"minimalism",
+			"interactive",
+			"social commentary",
+			"homosexuality",
+			"AIDS"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 1969,
+				"happiness": 7,
+				"location": "Guaimaro, Cuba",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1987,
+				"happiness": 7,
+				"location": "San Juan, Puerto Rico",
+				"events": [
+					"Studied at Universidad de Puerto Rico",
+					"Moved to New York"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 1991,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Recieved BFA in photography from Pratt Institute",
+					"Gained recognition in the art world"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1996,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"Diagnosed with AIDS",
+					"Partner Ross Laycock died of AIDS",
+					"Died of AIDS"
+				]
+			}
+		],
+		"genre": [
+			"Visual Art",
+			"Conceptual Art",
+			"Minimalism"
+		]
+	}
+]

@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Ron Kleemann",
+		"keywords": [
+			"Photorealism",
+			"Everyday objects",
+			"Automobiles",
+			"Planes",
+			"Sports"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 2014,
+				"happiness": 5,
+				"location": "Bay City, Michigan, USA",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2014,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Became active part of photorealism movement",
+					"Exhibited his work internationally"
+				]
+			}
+		],
+		"genre": [
+			"Photorealism"
+		]
+	}
+]

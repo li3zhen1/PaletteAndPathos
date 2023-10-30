@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Nikola Tanev",
+		"keywords": [
+			"nature",
+			"life",
+			"emotions",
+			"scenes",
+			"everyday"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1907,
+				"happiness": 7,
+				"location": "Sophia, Bulgaria",
+				"events": [
+					"born in a middle-class family"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1923,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied painting",
+					"met influential artists"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1962,
+				"happiness": 8,
+				"location": "Sophia, Bulgaria",
+				"events": [
+					"worked as a professor",
+					"won a prize"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Sophia, Bulgaria",
+				"events": [
+					"retired",
+					"died at the age of 83"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Impressionism"
+		]
+	}
+]

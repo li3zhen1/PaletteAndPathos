@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Mihály Munkácsy",
+		"keywords": [
+			"realism",
+			"poverty",
+			"religion",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1844,
+				"end": 1857,
+				"happiness": 2,
+				"location": "Munkács, Kingdom of Hungary",
+				"events": [
+					"orphaned at a young age"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1865,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"trained as a painter"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1873,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"rose to fame",
+					"developed realistic style"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1875,
+				"happiness": 6,
+				"location": "North America",
+				"events": [
+					"visiting tour"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1886,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"met his wife",
+					"won a prize",
+					"became known internationally"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1900,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"suffered from mental illness"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism"
+		]
+	}
+]

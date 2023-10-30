@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Francesco Guardi",
+		"keywords": [
+			"Venetian landscape",
+			"Cityscapes",
+			"People",
+			"Rococo",
+			"Venetian festivities"
+		],
+		"lifePeriods": [
+			{
+				"start": 1712,
+				"end": 1725,
+				"happiness": 5,
+				"location": "Venice",
+				"events": [
+					"Birth"
+				]
+			},
+			{
+				"start": 1725,
+				"end": 1743,
+				"happiness": 6,
+				"location": "Venice",
+				"events": [
+					"Artistic training with elder brother Antonio"
+				]
+			},
+			{
+				"start": 1743,
+				"end": 1782,
+				"happiness": 7,
+				"location": "Venice",
+				"events": [
+					"Established his own studio",
+					"Marriage with Maria Matte Balbi"
+				]
+			},
+			{
+				"start": 1782,
+				"end": 1793,
+				"happiness": 4,
+				"location": "Venice",
+				"events": [
+					"Death of wife Maria",
+					"Financial difficulties"
+				]
+			}
+		],
+		"genre": [
+			"Rococo",
+			"Landscape art",
+			"City portraits"
+		]
+	}
+]

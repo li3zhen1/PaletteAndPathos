@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Pierre Puvis de Chavannes",
+		"keywords": [
+			"history",
+			"symbolism",
+			"mural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1824,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Lyon, France",
+				"events": [
+					"studied and paints in Italy",
+					"Founder and President of Société Nationale des Beaux-Arts"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Mural painting"
+		]
+	}
+]

@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Ralph Humphrey",
+		"keywords": [
+			"abstract",
+			"texture",
+			"contrast",
+			"colour",
+			"monochrome"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1990,
+				"happiness": 5,
+				"location": "Ontario, Canada",
+				"events": [
+					"Born in Ontario"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1956,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Studied at the Art Students League"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1990,
+				"happiness": 4,
+				"location": "New York City, USA",
+				"events": [
+					"Exhibited in the Jewish Museum (1965)",
+					"Taught at City College of New York (1981-1990)"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

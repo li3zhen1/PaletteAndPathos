@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Hugo van der Goes",
+		"keywords": [
+			"religion",
+			"portrait",
+			"symbolism",
+			"mysticism",
+			"deep emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1430,
+				"end": 1482,
+				"happiness": 4,
+				"location": "Ghent",
+				"events": [
+					"entered the Red Cloister",
+					"painted The Fall of Man and The Lamentation"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"religious painting"
+		]
+	}
+]

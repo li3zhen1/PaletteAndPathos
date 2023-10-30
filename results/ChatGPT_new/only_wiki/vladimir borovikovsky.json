@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Vladimir Borovikovsky",
+		"keywords": [
+			"portraits",
+			"royalty",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1757,
+				"end": 1795,
+				"happiness": 5,
+				"location": "Miryanka, Russia",
+				"events": [
+					"converted to Christianity",
+					"began work as a painter"
+				]
+			},
+			{
+				"start": 1795,
+				"end": 1825,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"appointed court artist",
+					"edge of glory in fine arts"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"religious"
+		]
+	}
+]

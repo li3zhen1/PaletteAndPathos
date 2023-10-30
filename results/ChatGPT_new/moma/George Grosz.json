@@ -1,0 +1,67 @@
+[
+	{
+		"ArtistLife": {
+			"name": "George Grosz",
+			"keywords": [
+				"war",
+				"society",
+				"critique",
+				"technology",
+				"wealth"
+			],
+			"lifePeriods": [
+				{
+					"start": 1893,
+					"end": 1908,
+					"happiness": 5,
+					"location": "Berlin, Germany",
+					"events": [
+						"born in Berlin"
+					]
+				},
+				{
+					"start": 1909,
+					"end": 1914,
+					"happiness": 8,
+					"location": "Dresden, Germany",
+					"events": [
+						"studied at Dresden Academy of Fine Arts"
+					]
+				},
+				{
+					"start": 1914,
+					"end": 1918,
+					"happiness": 1,
+					"location": "Berlin, Germany",
+					"events": [
+						"served in World War I"
+					]
+				},
+				{
+					"start": 1919,
+					"end": 1933,
+					"happiness": 6,
+					"location": "Berlin, Germany",
+					"events": [
+						"active member of the November Group"
+					]
+				},
+				{
+					"start": 1933,
+					"end": 1959,
+					"happiness": 7,
+					"location": "New York City, United States",
+					"events": [
+						"moved to the United States",
+						"became a naturalized citizen",
+						"taught at the Art Students League"
+					]
+				}
+			],
+			"genre": [
+				"Dada",
+				"New Objectivity"
+			]
+		}
+	}
+]

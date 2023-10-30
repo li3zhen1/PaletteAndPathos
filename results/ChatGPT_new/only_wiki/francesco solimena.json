@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Francesco Solimena",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"allegory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1657,
+				"end": 1715,
+				"happiness": 6,
+				"location": "Canale di Serino, Italy",
+				"events": [
+					"Received initial training from his father"
+				]
+			},
+			{
+				"start": 1716,
+				"end": 1747,
+				"happiness": 7,
+				"location": "Naples, Italy",
+				"events": [
+					"Built his reputation as a leading Neapolitan artist",
+					"Completed many prestigious commissions"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"History painting",
+			"Portrait"
+		]
+	}
+]

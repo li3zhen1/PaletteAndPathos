@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Konstantin Somov",
+		"keywords": [
+			"love",
+			"eroticism",
+			"amusement",
+			"symbolism",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1869,
+				"end": 1939,
+				"happiness": 7,
+				"location": "St. Petersburg",
+				"events": [
+					"studied at the Imperial Academy of Arts",
+					"co-founded the World of Art movement"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"moved to France during the political turmoil in Russia",
+					"Death in Paris"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Art Nouveau"
+		]
+	}
+]

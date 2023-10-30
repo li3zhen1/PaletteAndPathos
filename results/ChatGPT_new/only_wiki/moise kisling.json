@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Moise Kisling",
+		"keywords": [
+			"cubism",
+			"female",
+			"landscape",
+			"still life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1909,
+				"happiness": 5,
+				"location": "Kraków, Poland",
+				"events": [
+					"Born into a Jewish family",
+					"Studied at the School of Fine Arts in Krakow"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris to live in the heart of Montmartre artist community",
+					"Befriended artists like Amedeo Modigliani, Pablo Picasso, and Maurice Utrillo"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "France",
+				"events": [
+					"Join French Foreign Legion during World War I",
+					"Injured in combat and honourably discharged"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Re-established himself in Montparnasse",
+					"Worked predominantly on landscapes and nudes"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 2,
+				"location": "United States",
+				"events": [
+					"Fled France due to World War II and Nazi occupation",
+					"Separated from many of his artist friends who remained in Europe"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Returned to France after the war",
+					"Continued to paint and exhibited regularly"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Portraiture",
+			"Landscape"
+		]
+	}
+]

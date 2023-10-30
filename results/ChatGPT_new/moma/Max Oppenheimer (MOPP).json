@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Max Oppenheimer",
+		"keywords": [
+			"Impressionism",
+			"Expressionism",
+			"Cubism",
+			"modernism",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1903,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"born into an affluent family"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"studied painting at the Vienna Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris for further studies",
+					"met and influenced by famous artists like Picasso"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1937,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"established his reputation as a leading Austrian modernist",
+					"his works were labeled degenerate art by Nazis"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1954,
+				"happiness": 3,
+				"location": "United States",
+				"events": [
+					"forced to flee to United States due to Nazi invasion",
+					"struggled to get his works recognized in a new country"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Expressionism",
+			"Cubism"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Leon Berkowitz",
+		"keywords": [
+			"light",
+			"color",
+			"abstraction",
+			"spirituality",
+			"interiority"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Philadelphia, USA",
+				"events": [
+					"graduated from the University of Pennsylvania"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Washington D.C., USA",
+				"events": [
+					"taught at the Corcoran School of Art",
+					"founded the Washington Workshop Center of the Arts"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1969,
+				"happiness": 7,
+				"location": "Europe and Asia",
+				"events": [
+					"travelled and studied art"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1987,
+				"happiness": 8,
+				"location": "Washington D.C., USA",
+				"events": [
+					"started the 'Unities' series",
+					"honored with a retrospective exhibition at the Corcoran Gallery of Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract painting"
+		]
+	}
+]

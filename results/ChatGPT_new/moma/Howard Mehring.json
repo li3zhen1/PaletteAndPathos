@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Howard Mehring",
+		"keywords": [
+			"abstract",
+			"color field",
+			"minimalism",
+			"rhythm",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Washington, D.C.",
+				"events": [
+					"born and grew up"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Washington, D.C.",
+				"events": [
+					"studied at the Catholic University of America",
+					"joined Washington Color School"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1978,
+				"happiness": 4,
+				"location": "New York",
+				"events": [
+					"struggled with alcohol addiction",
+					"his work was widely exhibited"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"color field"
+		]
+	}
+]

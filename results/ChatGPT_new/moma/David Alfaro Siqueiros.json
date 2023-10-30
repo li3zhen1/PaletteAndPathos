@@ -1,0 +1,85 @@
+[
+	{
+		"name": "David Alfaro Siqueiros",
+		"keywords": [
+			"social realism",
+			"war",
+			"worker's rights",
+			"political ideology",
+			"revolution"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1911,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"started painting"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1914,
+				"happiness": 4,
+				"location": "Europe",
+				"events": [
+					"received first art training",
+					"introduced to European modernism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1931,
+				"happiness": 4,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"fought in Mexican Revolutionary War",
+					"involved in union organizing and public education"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1937,
+				"happiness": 5,
+				"location": "Los Angeles, United States",
+				"events": [
+					"created mural for Chouinard School of Art",
+					"arrested and imprisoned for political activism"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"completed Palace of Fine Arts murals"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"imprisoned for attempted murder"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1974,
+				"happiness": 4,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"continued painting and political activism",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Mexican muralism"
+		]
+	}
+]

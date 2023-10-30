@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Billy Apple",
+		"keywords": [
+			"consumerism",
+			"marketing",
+			"pop art",
+			"minimalism",
+			"advertisement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Auckland, New Zealand",
+				"events": [
+					"born and grew up"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1990,
+				"happiness": 8,
+				"location": "London, UK and New York, USA",
+				"events": [
+					"moved to work",
+					"changed his name to Billy Apple",
+					"participation in pop and minimal art"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Auckland, New Zealand",
+				"events": [
+					"returned home",
+					"held solo exhibitions",
+					"worked on The Artist has to Live like Everybody Else"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Minimalism"
+		]
+	}
+]

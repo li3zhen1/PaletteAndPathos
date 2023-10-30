@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Vilmos Huszár",
+		"keywords": [
+			"abstraction",
+			"figurative",
+			"color",
+			"geometric",
+			"design"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Budapest, Hungary",
+				"events": [
+					"Born to a wealthy family",
+					"Started painting at a young age"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Den Haag, Netherlands",
+				"events": [
+					"Moved to the Netherlands",
+					"Joined the Theosophical Society"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1925,
+				"happiness": 8,
+				"location": "Leiden, Netherlands",
+				"events": [
+					"Co-Founded De Stijl",
+					"Creative peak in work and fame"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Harderwijk, Netherlands",
+				"events": [
+					"Left De Stijl",
+					"Retired from public life and focused on culinary arts"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1965,
+				"happiness": 8,
+				"location": "Harderwijk, Netherlands",
+				"events": [
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"graphic design",
+			"painting"
+		]
+	}
+]

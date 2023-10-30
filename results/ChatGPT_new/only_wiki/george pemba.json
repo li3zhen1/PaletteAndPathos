@@ -1,0 +1,48 @@
+[
+	{
+		"name": "George Pemba",
+		"keywords": [
+			"social inequality",
+			"apartheid",
+			"community",
+			"culture",
+			"African life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Port Elizabeth, South Africa",
+				"events": [
+					"studied art at St. Patrick's School",
+					"became a school teacher"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1981,
+				"happiness": 4,
+				"location": "Sophiatown, South Africa",
+				"events": [
+					"joined artists in Sophiatown",
+					"faced financial difficulties"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2001,
+				"happiness": 5,
+				"location": "New Brighton, South Africa",
+				"events": [
+					"published a play",
+					"his work was recognized and collected post-apartheid"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Drama"
+		]
+	}
+]

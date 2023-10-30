@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Diego Rivera",
+		"keywords": [
+			"History",
+			"Mexican culture",
+			"Social Inequality",
+			"Political Issues"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1897,
+				"happiness": 4,
+				"location": "Guanajuato, Mexico",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1907,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Started studying art at the Academy of San Carlos"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Europe",
+				"events": [
+					"Began a journey to Europe to continue his art studies"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Returned to Mexico and began painting murals",
+					"Married fellow artist Frida Kahlo"
+				]
+			}
+		],
+		"genre": [
+			"Muralism",
+			"Social Realism"
+		]
+	}
+]

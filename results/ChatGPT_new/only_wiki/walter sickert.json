@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Walter Sickert",
+		"keywords": [
+			"urban life",
+			"portraits",
+			"nudes",
+			"theatre"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"born to a Danish-German father and an Anglo-Irish mother"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1890,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"joined James McNeill Whistler's circle",
+					"inspired by Edgar Degas"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1909,
+				"happiness": 6,
+				"location": "Dieppe, France",
+				"events": [
+					"founded the New English Art Club with several others"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Camden Town, London, United Kingdom",
+				"events": [
+					"developed a form of Impressionism treating urban scenes and domestic subjects"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1942,
+				"happiness": 4,
+				"location": "Somerset, United Kingdom",
+				"events": [
+					"continued to paint despite health problems",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Post-Impressionism",
+			"Social Realism"
+		]
+	}
+]

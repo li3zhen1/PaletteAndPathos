@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Akseli Gallen-Kallela",
+		"keywords": [
+			"Finnish culture",
+			"myths",
+			"nature",
+			"Symbolism",
+			"national identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1865,
+				"end": 1890,
+				"happiness": 5,
+				"location": "Pori, Finland",
+				"events": [
+					"studied painting",
+					"moved to Helsinki"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"became interested in Symbolism",
+					"painted 'Aino Triptych'"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Helsinki, Finland",
+				"events": [
+					"painted frescoes for National Museum of Finland",
+					"served in the Finnish Civil War"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1931,
+				"happiness": 4,
+				"location": "Taos, New Mexico, USA",
+				"events": [
+					"moved to the United States",
+					"worked as the Finnish–Norwegian consul"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Realism",
+			"National Romantic style"
+		]
+	}
+]

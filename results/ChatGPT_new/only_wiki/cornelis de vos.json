@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Cornelis de Vos",
+		"keywords": [
+			"portrait",
+			"family",
+			"religion",
+			"mythology",
+			"children"
+		],
+		"lifePeriods": [
+			{
+				"start": 1584,
+				"end": 1651,
+				"happiness": 5,
+				"location": "Hulst",
+				"events": [
+					"born in Hulst, Netherlands",
+					"started his artistic career"
+				]
+			},
+			{
+				"start": 1596,
+				"end": 1651,
+				"happiness": 7,
+				"location": "Antwerp",
+				"events": [
+					"moved to Antwerp",
+					"became a master in Guild of Saint Luke",
+					"married Susanna Cock"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"portrait",
+			"genre art"
+		]
+	}
+]

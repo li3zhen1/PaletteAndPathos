@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Marko Pogacnik",
+		"keywords": [
+			"Earth",
+			"geomancy",
+			"sculpture",
+			"spirituality",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Kranj, Slovenia",
+				"events": [
+					"birth",
+					"started primary school"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Ljubljana, Slovenia",
+				"events": [
+					"started art school",
+					"started OHO group"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Ljubljana, Slovenia",
+				"events": [
+					"OHO group participation in the international art scene"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1981,
+				"happiness": 8,
+				"location": "Sempas, Slovenia",
+				"events": [
+					"started the concept of Earth Healing"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Sempas, Slovenia",
+				"events": [
+					"development of lithopuncture"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Sempas, Slovenia",
+				"events": [
+					"continued his artist career",
+					"published several books"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Conceptual Art",
+			"Land Art"
+		]
+	}
+]

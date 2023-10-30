@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Omar Carreño",
+		"keywords": [
+			"geometric",
+			"color",
+			"cubism",
+			"abstraction",
+			"movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1934,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"born"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1948,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"studied painting at the School of Fine Arts in Caracas"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"joined the group 'Los Disidentes'"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Poland",
+				"events": [
+					"involved in Polish theater",
+					"produced sculptures and stage designs"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"taught at the Villegas Academy"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2013,
+				"happiness": 5,
+				"location": "Canary Islands, Spain",
+				"events": [
+					"moved to Canary Islands",
+					"continued to work on sculptures and paintings"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Cubism"
+		]
+	}
+]

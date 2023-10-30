@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Dimitri Mikhailovich Krasnopevtsev",
+		"keywords": [
+			"still life",
+			"metaphysical",
+			"uncanny",
+			"naturaleza muerta",
+			"secular icons"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"born in Moscow"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1948,
+				"happiness": 2,
+				"location": "Russia",
+				"events": [
+					"fought in World War II",
+					"held in a German concentration camp"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1951,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Surikov Institute of Art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"established his own art style"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1995,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"battled with illness",
+					"passed away in 1995"
+				]
+			}
+		],
+		"genre": [
+			"still life",
+			"metaphysical art"
+		]
+	}
+]

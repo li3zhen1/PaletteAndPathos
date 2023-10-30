@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Constantin Brancusi",
+		"keywords": [
+			"abstract",
+			"simplicity",
+			"nature",
+			"sculpture",
+			"birds"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1893,
+				"happiness": 2,
+				"location": "Hobita, Romania",
+				"events": [
+					"Born in a rural village"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1904,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Studied at the Bucharest School of Fine Arts",
+					"Created his first major sculpture"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris",
+					"Studied at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Developed his characteristic style",
+					"met with renowned artists Amedeo Modigliani and Marcel Duchamp"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Successful exhibitions",
+					"Work recognised worldwide"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"sculpture",
+			"abstract art"
+		]
+	}
+]

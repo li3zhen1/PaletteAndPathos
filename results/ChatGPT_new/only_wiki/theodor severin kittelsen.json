@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Theodor Severin Kittelsen",
+		"keywords": [
+			"folklore",
+			"nature",
+			"fantasy",
+			"Norwegian culture",
+			"mysticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1857,
+				"end": 1874,
+				"happiness": 1,
+				"location": "Kragerø, Norway",
+				"events": [
+					"was born",
+					"suffered from poverty in his childhood"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1882,
+				"happiness": 5,
+				"location": "München, Germany",
+				"events": [
+					"studied art"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1887,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"met his future wife, Inga"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Lofoten, Norway",
+				"events": [
+					"got married to Inga",
+					"wrote and illustrated Norwegian folk tales"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Oslo, Norway",
+				"events": [
+					"continued his career as a writer and artist",
+					"faced financial struggles"
+				]
+			}
+		],
+		"genre": [
+			"Illustration",
+			"painting",
+			"writing"
+		]
+	}
+]

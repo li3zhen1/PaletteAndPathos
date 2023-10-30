@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Cui Jie",
+		"keywords": [
+			"urban landscapes",
+			"architecture",
+			"modernity",
+			"utopia",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1980,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Shanghai, China",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Hangzhou, China",
+				"events": [
+					"attended China Academy of Art"
+				]
+			},
+			{
+				"start": 2005,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Beijing, China",
+				"events": [
+					"founded 'Polar Research Institute of Art and Music' with other artists"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"Abstract art"
+		]
+	}
+]

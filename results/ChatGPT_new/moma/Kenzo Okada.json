@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Kenzo Okada",
+		"keywords": [
+			"abstract",
+			"imagery",
+			"nature",
+			"Japanese culture",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Yokohama, Japan",
+				"events": [
+					"Received formal education in classical Japanese painting"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at L'Ecole Nationale Supérieure des Beaux-Arts in Paris"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1950,
+				"happiness": 3,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Experienced World War II",
+					"Taught at the School of Fine Arts at the Tokyo National University"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1982,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Won the Guggenheim International Award",
+					"Became the first Japanese-American artist to receive international recognition"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Nihonga"
+		]
+	}
+]

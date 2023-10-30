@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Amrita Sher-Gil",
+		"keywords": [
+			"Self-portraits",
+			"post-impressionism",
+			"Realism",
+			"life of people"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1929,
+				"happiness": 6,
+				"location": "Budapest",
+				"events": [
+					"Learnt to play the piano and violin",
+					"Started painting at the age of five"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1934,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Received formal training in art at the École des Beaux-Arts",
+					"Painted her first significant work 'Young Girls'"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1941,
+				"happiness": 5,
+				"location": "India",
+				"events": [
+					"Married her Hungarian cousin, Dr. Victor Egan",
+					"Painted some of the most celebrated art pieces",
+					"Tragic early death at age 28"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Realism"
+		]
+	}
+]

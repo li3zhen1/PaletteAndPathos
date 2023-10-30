@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Nikos Hadjikyriakos-Ghikas",
+		"keywords": [
+			"cubism",
+			"landscape",
+			"interior",
+			"abstract",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1988,
+				"happiness": 6,
+				"location": "Athens, Greece",
+				"events": [
+					"Studied at the Athens School of Fine Arts",
+					"traveled widely in Europe"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"sculpture",
+			"engraving"
+		]
+	}
+]

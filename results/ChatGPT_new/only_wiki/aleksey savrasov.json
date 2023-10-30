@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Aleksey Savrasov",
+		"keywords": [
+			"nature",
+			"landscape",
+			"rural life",
+			"winter",
+			"autumn"
+		],
+		"lifePeriods": [
+			{
+				"start": 1830,
+				"end": 1846,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"born into a merchant family",
+					"attended the Moscow School of Painting, Sculpture and Architecture"
+				]
+			},
+			{
+				"start": 1846,
+				"end": 1854,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"graduated from the school",
+					"taught cityscape classes"
+				]
+			},
+			{
+				"start": 1854,
+				"end": 1862,
+				"happiness": 8,
+				"location": "Moscow, Russia",
+				"events": [
+					"joined the Russian art group 'The Wanderers'",
+					"met his wife"
+				]
+			},
+			{
+				"start": 1862,
+				"end": 1871,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"suffered a personal tragedy - the death of his daughter",
+					"his paintings received critical acclaim"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1897,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"his wife left him",
+					"developed alcoholism",
+					"his works declined in quality"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"realism",
+			"romanticism"
+		]
+	}
+]

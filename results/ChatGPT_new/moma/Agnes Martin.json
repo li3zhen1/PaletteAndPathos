@@ -1,0 +1,61 @@
+[
+	{
+		"name": "Agnes Martin",
+		"keywords": [
+			"minimalism",
+			"subtle emotions",
+			"serenity",
+			"geometric patterns",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Macklin, Saskatchewan, Canada",
+				"events": []
+			},
+			{
+				"start": 1941,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Bellingham, Washington, USA",
+				"events": [
+					"began painting seriously"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1967,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"became part of the circle of Abstract Expressionists"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1968,
+				"happiness": 4,
+				"location": "New York City to New Mexico desert",
+				"events": [
+					"struggled with mental health problems"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2004,
+				"happiness": 7,
+				"location": "New Mexico",
+				"events": [
+					"embraced solitude and produced significant artwork"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Minimalism"
+		]
+	}
+]

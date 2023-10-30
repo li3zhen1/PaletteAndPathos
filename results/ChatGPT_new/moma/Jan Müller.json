@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Jan Müller",
+		"keywords": [
+			"religious scenes",
+			"mythic figures",
+			"fantastic realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Hamburg, Germany",
+				"events": [
+					"born in Hamburg",
+					"moved to the United States"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1952,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"studied at the Art Students League of New York",
+					"joined 10th Street Studio"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1958,
+				"happiness": 8,
+				"location": "Provincetown, Massachusetts, United States",
+				"events": [
+					"became a member of the Provincetown Art Association",
+					"died at the age of 36"
+				]
+			}
+		],
+		"genre": [
+			"fantasy",
+			"religious art",
+			"expressionism"
+		]
+	}
+]

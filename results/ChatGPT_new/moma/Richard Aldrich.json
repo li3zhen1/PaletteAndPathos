@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Richard Aldrich",
+		"keywords": [
+			"abstract",
+			"contemporary",
+			"minimalism",
+			"variation",
+			"exploration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1975,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Hampton, Virginia",
+				"events": [
+					"Started showing interest in arts"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Providence, Rhode Island",
+				"events": [
+					"graduated from Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2015,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Started gaining recognition as an artist"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Continued to develop and exhibit his artwork"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art",
+			"Minimalist Art"
+		]
+	}
+]

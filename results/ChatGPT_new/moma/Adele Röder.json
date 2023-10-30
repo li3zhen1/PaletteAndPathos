@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Adele Röder",
+		"keywords": [
+			"science fiction",
+			"surrealism",
+			"gender"
+		],
+		"lifePeriods": [
+			{
+				"start": 1980,
+				"end": 2009,
+				"happiness": 7,
+				"location": "Leipzig, Germany",
+				"events": [
+					"graduated from Academy of Visual Arts Leipzig",
+					"co-founded artist collective hobbypopMUSEUM"
+				]
+			},
+			{
+				"start": 2009,
+				"end": 2021,
+				"happiness": 8,
+				"location": "London, Great Britain",
+				"events": [
+					"established herself as multimedia artist",
+					"exhibited at various international showcases"
+				]
+			}
+		],
+		"genre": [
+			"Multimedia",
+			"Contemporary"
+		]
+	}
+]

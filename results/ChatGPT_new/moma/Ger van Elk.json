@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Ger van Elk",
+		"keywords": [
+			"conceptual",
+			"photo-realism",
+			"Landscape",
+			"perspective",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Born and grew up"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Los Angeles, USA",
+				"events": [
+					"Studied in Los Angeles",
+					"Developed his conceptual art style"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2014,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Returned to Amsterdam",
+					"Won the J.C. Van Lanschot Prize for Sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Installation Art",
+			"Photorealism"
+		]
+	}
+]

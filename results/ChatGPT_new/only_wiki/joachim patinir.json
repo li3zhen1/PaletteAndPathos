@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Joachim Patinir",
+		"keywords": [
+			"nature",
+			"religion",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1480,
+				"end": 1524,
+				"happiness": 5,
+				"location": "Antwerp",
+				"events": [
+					"became master of the Antwerp Guild",
+					"painted Charon Crossing the Styx"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting"
+		]
+	}
+]

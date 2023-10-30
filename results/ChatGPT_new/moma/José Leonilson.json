@@ -1,0 +1,65 @@
+[
+	{
+		"name": "José Leonilson",
+		"keywords": [
+			"self",
+			"love",
+			"vulnerability",
+			"death",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Fortaleza, Brazil",
+				"events": [
+					"born to a civil servant and seamstress"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Fortaleza, Brazil",
+				"events": [
+					"early interest in art"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1984,
+				"happiness": 7,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"graduated from the University of Sao Paulo",
+					"began his art career"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1989,
+				"happiness": 7,
+				"location": "Europe",
+				"events": [
+					"traveled across Europe to explore art and culture"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 1993,
+				"happiness": 2,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"diagnosed with AIDS",
+					"his artwork reflected his struggle against the disease"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary",
+			"Neo-Expressionism"
+		]
+	}
+]

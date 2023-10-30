@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Mark di Suvero",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"sculpture",
+			"steel",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Shanghai, China",
+				"events": [
+					"Born to Italian expatriates",
+					"Survived WWII"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Berkeley, California, USA",
+				"events": [
+					"Studied Philosophy at UC Berkeley",
+					"Started creating sculptures"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1965,
+				"happiness": 4,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Fractured his skull and broke his back in a construction accident",
+					"Continued to paint and sculpt while in rehabilitation"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Various locations worldwide",
+				"events": [
+					"Creates first sculptures made of steel I-beams",
+					"His work is exhibited at many prominent museums and outdoor spaces"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Continues to create and exhibit sculptures",
+					"Founded an outdoor museum and artist residency program in New York"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Sculpture"
+		]
+	}
+]

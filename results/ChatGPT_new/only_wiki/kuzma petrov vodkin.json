@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Kuzma Petrov-Vodkin",
+		"keywords": [
+			"Symbolism",
+			"Still Life",
+			"Portraiture",
+			"Neo-classical",
+			"Soviet culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1901,
+				"happiness": 5,
+				"location": "Khvalynsk, Russia",
+				"events": [
+					"born in a poor family",
+					"early education"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1905,
+				"happiness": 6,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"attended the Saint Petersburg Art and Industry Academy",
+					"received full scholarship"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Italy and France",
+				"events": [
+					"travelled to Western Europe",
+					"studied the Old Masters"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 6,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Became one of the most eminent artists in Petersburg",
+					"honorary member of the Academy of Arts"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"witnessed the difficult times of Russian Revolution",
+					"got tuberculosis"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1939,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"criticized for formalism",
+					"became an intellectual"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Impressionism",
+			"Neoclassicism"
+		]
+	}
+]

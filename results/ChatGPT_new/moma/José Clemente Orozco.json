@@ -1,0 +1,63 @@
+[
+	{
+		"name": "José Clemente Orozco",
+		"keywords": [
+			"human suffering",
+			"political unrest",
+			"native culture",
+			"industrialization"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Ciudad Guzmán, Mexico",
+				"events": [
+					"Lost his left hand in a fireworks accident"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 6,
+				"location": "San Francisco, USA",
+				"events": [
+					"Began to paint murals",
+					"Married Margarita Valladares"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Contributed to Mexican Mural Movement"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1934,
+				"happiness": 6,
+				"location": "New York and New Jersey, USA",
+				"events": [
+					"Created 'Epic of American Civilization' mural"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Created 'The People and Its Leaders' mural"
+				]
+			}
+		],
+		"genre": [
+			"Muralist",
+			"Social Realism"
+		]
+	}
+]

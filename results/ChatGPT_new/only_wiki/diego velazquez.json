@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Diego Velazquez",
+		"keywords": [
+			"Portraits",
+			"Royalty",
+			"Religion",
+			"Human dignity",
+			"Nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1599,
+				"end": 1622,
+				"happiness": 6,
+				"location": "Seville, Spain",
+				"events": [
+					"Started art education under Francisco Pacheco"
+				]
+			},
+			{
+				"start": 1622,
+				"end": 1623,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Appointed as one of the painters to the king"
+				]
+			},
+			{
+				"start": 1623,
+				"end": 1649,
+				"happiness": 8,
+				"location": "Madrid, Spain",
+				"events": [
+					"Married Juana Pacheco",
+					"Became the royal painter for King Philip IV"
+				]
+			},
+			{
+				"start": 1649,
+				"end": 1651,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Painted 'Pope Innocent X'"
+				]
+			},
+			{
+				"start": 1651,
+				"end": 1660,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"Painted his notable work 'Las Meninas'",
+					"Endured hardships due to wars"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Portrait",
+			"Historical"
+		]
+	}
+]

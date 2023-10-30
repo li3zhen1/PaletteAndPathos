@@ -1,0 +1,70 @@
+[
+	{
+		"name": "William Turner",
+		"keywords": [
+			"nature",
+			"light",
+			"landscapes",
+			"maritime",
+			"industrialisation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1775,
+				"end": 1789,
+				"happiness": 6,
+				"location": "London",
+				"events": [
+					"Started attending school",
+					"Began studying art"
+				]
+			},
+			{
+				"start": 1789,
+				"end": 1802,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"Entered Royal Academy of Arts",
+					"Started displaying his works at the academy's exhibitions"
+				]
+			},
+			{
+				"start": 1802,
+				"end": 1820,
+				"happiness": 8,
+				"location": "London",
+				"events": [
+					"Popularity rose",
+					"Was elected an associate of the Royal Academy"
+				]
+			},
+			{
+				"start": 1820,
+				"end": 1835,
+				"happiness": 8,
+				"location": "London",
+				"events": [
+					"His work became appreciated",
+					"Gained high regard among contemporaries",
+					"Mother died"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1851,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"Health started to deteriorate",
+					"Father passed away"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Landscape painting",
+			"Watercolor"
+		]
+	}
+]

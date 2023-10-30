@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Wifredo Lam",
+		"keywords": [
+			"surrealism",
+			"cubism",
+			"symbolism",
+			"Afro-Cuban culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1923,
+				"happiness": 4,
+				"location": "Sagua La Grande, Cuba",
+				"events": [
+					"born as the child of a Chinese father and Afro-Cuban mother"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"studied at the School of Fine Arts",
+					"joined the Spanish Civil War as volunteer"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1941,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"escaped from the Spanish Civil War",
+					"met Picasso"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Havana, Cuba",
+				"events": [
+					"returned to Cuba",
+					"painted 'La Jungla'",
+					"became internationally recognized"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"returned to Paris",
+					"assembled an extensive art collection"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"cubism"
+		]
+	}
+]

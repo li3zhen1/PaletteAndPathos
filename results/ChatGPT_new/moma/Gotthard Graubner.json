@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Gotthard Graubner",
+		"keywords": [
+			"abstract",
+			"color field",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Erlbach, Germany",
+				"events": [
+					"Early life and education during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Dresden and West Berlin, Germany",
+				"events": [
+					"Studied at the Dresden Academy of Fine Arts",
+					"Relocated to West Berlin and furthered studies at Berlin University of Arts"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2004,
+				"happiness": 6,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Joined Kunstakademie Düsseldorf as a professor",
+					"Developed his signature style 'cushion' paintings"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2013,
+				"happiness": 6,
+				"location": "Neuss, Germany",
+				"events": [
+					"Retirement",
+					"Continued creating art until the end"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Color Field"
+		]
+	}
+]

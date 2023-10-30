@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Medi Wechsler Dinu",
+		"keywords": [
+			"war",
+			"women",
+			"portraits",
+			"nature",
+			"love"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Romania",
+				"events": [
+					"completed her art studies",
+					"married the painter Iosif Iser"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1996,
+				"happiness": 3,
+				"location": "Romania",
+				"events": [
+					"expanded her style with impressionist tendencies",
+					"received National Order of Merit for Painting Award"
+				]
+			}
+		],
+		"genre": [
+			"portrait painting",
+			"landscape painting"
+		]
+	}
+]

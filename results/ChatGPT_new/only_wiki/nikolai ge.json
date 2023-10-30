@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Nikolai Ge",
+		"keywords": [
+			"religion",
+			"morality",
+			"historical",
+			"political",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1831,
+				"end": 1860,
+				"happiness": 7,
+				"location": "Voronezh, Russia",
+				"events": [
+					"began his education at home",
+					"entered the University of St. Petersburg"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1870,
+				"happiness": 5,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"met and befriended Ivan Kramskoi",
+					"exhibited at the Academy of Arts"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1874,
+				"happiness": 4,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"exhibited 'The Judgement of the Sanhedrin: He is Guilty!'"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1894,
+				"happiness": 3,
+				"location": "Chernigov, Ukraine",
+				"events": [
+					"focused on religious paintings",
+					"excommunication from the Orthodox Church"
+				]
+			}
+		],
+		"genre": [
+			"history painting",
+			"portrait",
+			"religious painting"
+		]
+	}
+]

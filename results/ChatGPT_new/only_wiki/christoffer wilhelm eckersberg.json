@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Christoffer Wilhelm Eckersberg",
+		"keywords": [
+			"portraits",
+			"naval scenes",
+			"landscapes",
+			"Classical antiquity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1783,
+				"end": 1799,
+				"happiness": 5,
+				"location": "Blakrog, Denmark",
+				"events": [
+					"Early childhood and youth"
+				]
+			},
+			{
+				"start": 1800,
+				"end": 1810,
+				"happiness": 7,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"Studied at the Royal Danish Academy of Art"
+				]
+			},
+			{
+				"start": 1811,
+				"end": 1816,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied under Jacques-Louis David"
+				]
+			},
+			{
+				"start": 1817,
+				"end": 1830,
+				"happiness": 7,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"Became a professor at the Academy",
+					"Painted 'A View through Three of the North-Western Arches of the Third Storey of the Coliseum'"
+				]
+			},
+			{
+				"start": 1831,
+				"end": 1853,
+				"happiness": 7,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"Painted many naval scenes and portraits"
+				]
+			}
+		],
+		"genre": [
+			"Neoclassicism",
+			"Romanticism"
+		]
+	}
+]

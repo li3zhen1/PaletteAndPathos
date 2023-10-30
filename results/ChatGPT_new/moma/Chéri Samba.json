@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Chéri Samba",
+		"keywords": [
+			"urban life",
+			"satire",
+			"self-portraits",
+			"social issues",
+			"African culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1956,
+				"end": 1972,
+				"happiness": 4,
+				"location": "Kinto M’Vuila, Democratic Republic of the Congo",
+				"events": [
+					"Born into a family of blacksmiths",
+					"Began doing menial jobs at a young age"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1975,
+				"happiness": 6,
+				"location": "Kinshasa, Democratic Republic of the Congo",
+				"events": [
+					"Moved to Kinshasa",
+					"Started painting shop signs, which led to his interest in painting"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1987,
+				"happiness": 8,
+				"location": "Kinshasa, Democratic Republic of the Congo",
+				"events": [
+					"Established himself as a popular artist",
+					"Incorporated comic-strip speech balloons into his works"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Paris, France and Kinshasa, Democratic Republic of the Congo",
+				"events": [
+					"Gained international fame",
+					"Invited to the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"contemporary African art",
+			"popular painting"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Karl Hofer",
+		"keywords": [
+			"expressionism",
+			"still life",
+			"figure"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Karlsruhe, Germany",
+				"events": [
+					"studied at the Karlsruhe Academy",
+					"moved to Rome"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"served in World War I",
+					"was a prisoner of war in France"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1932,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"held a professorship at the Berlin School of Arts and Crafts",
+					"achieved artistic recognition"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Berlin, Germany",
+				"events": [
+					"lost his job due to the Nazis",
+					"most of his work was declared as 'degenerate' by the Nazis"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"became the director of the Higher School for Fine Arts in Berlin",
+					"awarded the National Prize"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"realism",
+			"modern art"
+		]
+	}
+]

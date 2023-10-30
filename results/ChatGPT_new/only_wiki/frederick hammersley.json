@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Frederick Hammersley",
+		"keywords": [
+			"Abstraction",
+			"Color",
+			"Geometric",
+			"Multiplicity",
+			"Resonance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Salt Lake City, Utah",
+				"events": []
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Worldwide",
+				"events": [
+					"served in World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1951,
+				"happiness": 6,
+				"location": "San Francisco, California",
+				"events": [
+					"earned degrees at the Chouinard Art Institute, Los Angeles and Jepson Art Institute, Los Angeles"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1968,
+				"happiness": 8,
+				"location": "Albuquerque, New Mexico",
+				"events": [
+					"took a teaching job at the University of New Mexico"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Pasadena, California",
+				"events": [
+					"worked at Pomona College",
+					"developed organic and geometric painting style"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2009,
+				"happiness": 8,
+				"location": "Albuquerque, New Mexico",
+				"events": [
+					"final phase of career inspired by computer programming"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Geometric Art"
+		]
+	}
+]

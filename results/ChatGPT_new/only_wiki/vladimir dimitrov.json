@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Vladimir Dimitrov",
+		"keywords": [
+			"rural life",
+			"Bulgarian folklore",
+			"nature",
+			"portrait",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1903,
+				"happiness": 5,
+				"location": "Frolosh, Bulgaria",
+				"events": [
+					"born in Frolosh, moved to Sofia to attend school"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Sofia, Bulgaria",
+				"events": [
+					"studied at the Industrial School of Arts",
+					"began painting rural life and the Bulgarian people"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1919,
+				"happiness": 4,
+				"location": "Kyustendil, Bulgaria",
+				"events": [
+					"agitated by war",
+					"started teaching drawing"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1929,
+				"happiness": 7,
+				"location": "Kyustendil, Bulgaria",
+				"events": [
+					"founder of the Society New Art",
+					"created more innovative work compared to his contemporaries"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Kyustendil, Bulgaria",
+				"events": [
+					"continued painting until his death",
+					"witnessed the communist regime"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"portrait"
+		]
+	}
+]

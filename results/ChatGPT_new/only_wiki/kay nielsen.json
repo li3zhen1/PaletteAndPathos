@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Kay Nielsen",
+		"keywords": [
+			"fairy tales",
+			"folkloric creatures",
+			"night",
+			"nature",
+			"fantasy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1902,
+				"happiness": 7,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"Influenced by cultural environment"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at art academies"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1936,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Published works illustrating fairy tales",
+					"Established his reputation"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1957,
+				"happiness": 4,
+				"location": "Hollywood, California, USA",
+				"events": [
+					"Worked for Walt Disney Studios",
+					"Laid off due to budget cuts"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1957,
+				"happiness": 3,
+				"location": "Los Angeles, USA",
+				"events": [
+					"Died in poverty"
+				]
+			}
+		],
+		"genre": [
+			"Illustration",
+			"Children's Literature"
+		]
+	}
+]

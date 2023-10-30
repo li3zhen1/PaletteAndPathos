@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Wilhelm Sasnal",
+		"keywords": [
+			"contemporary",
+			"sociopolitical",
+			"abstraction",
+			"everyday life",
+			"film"
+		],
+		"lifePeriods": [
+			{
+				"start": 1972,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Tarnow, Poland",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Cracow, Poland",
+				"events": [
+					"Studied at the Academy of Fine Arts",
+					"Graduated in 1999"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Cracow, Poland",
+				"events": [
+					"Became one of the leading artists of the new European painting",
+					"Represented Poland at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary",
+			"Figurative",
+			"Film"
+		]
+	}
+]

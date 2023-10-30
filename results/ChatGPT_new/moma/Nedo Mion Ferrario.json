@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Nedo Mion Ferrario",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 2001,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"studied art at the Accademia di Belle Arti in Venice"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"established Gruppo N, a collective focused on programming and visual research"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2001,
+				"happiness": 7,
+				"location": "Venice, Italy",
+				"events": [
+					"worked in set design and film after disbanding Gruppo N",
+					"contributed to the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"conceptual"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Alex Katz",
+		"keywords": [
+			"minimalism",
+			"portraiture",
+			"landscapes",
+			"human figure",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Brooklyn, New York, USA",
+				"events": [
+					"Born to a Jewish family"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Studied at The Cooper Union in New York"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Chicago, USA",
+				"events": [
+					"Studied at the Skowhegan School of Painting and Sculpture in Maine"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Began exhibiting his art",
+					"Received critical acclaim for his paintings"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Established as a prominent artist",
+					"Continued to influence the art world with his distinctive style"
+				]
+			}
+		],
+		"genre": [
+			"Figurative Art",
+			"Pop Art"
+		]
+	}
+]

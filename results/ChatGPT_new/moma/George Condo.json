@@ -1,0 +1,55 @@
+[
+	{
+		"name": "George Condo",
+		"keywords": [
+			"contemporary art",
+			"artificial realism",
+			"portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Concord, New Hampshire",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Boston",
+				"events": [
+					"Studied Art History and Music Theory at Massachusetts College of Art"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1995,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Moved to East Village; co-founded punk band 'The Girls'",
+					"Started creating 'artificial realism'"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Gained international recognition",
+					"Collaborated with Kanye West"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"American Figurative Expressionism",
+			"Artificial Realism"
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Nassos Daphnis",
+		"keywords": [
+			"abstraction",
+			"geometric",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Greece",
+				"events": [
+					"grew up in a rural environment"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1950,
+				"happiness": 4,
+				"location": "New York, United States",
+				"events": [
+					"immigrated to the United States",
+					"served as a technical sergeant in World War II"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"developed his geometrical abstractions",
+					"had exhibitions in the famous Leo Castelli Gallery"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"color-field painting",
+			"hard-edge painting"
+		]
+	}
+]

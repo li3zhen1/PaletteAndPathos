@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Lorenzo Lotto",
+		"keywords": [
+			"religion",
+			"portrait",
+			"nature",
+			"mystery",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1480,
+				"end": 1512,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Started independent career",
+					"developed style influenced by Northern Renaissance"
+				]
+			},
+			{
+				"start": 1513,
+				"end": 1526,
+				"happiness": 7,
+				"location": "Bergamo, Italy",
+				"events": [
+					"Produced many of his most famous works",
+					"Recognized as an eminent portrait and religious painter"
+				]
+			},
+			{
+				"start": 1527,
+				"end": 1550,
+				"happiness": 4,
+				"location": "Venice, Italy",
+				"events": [
+					"Struggled with failing health",
+					"commenced volunteer work at a hospital"
+				]
+			},
+			{
+				"start": 1551,
+				"end": 1556,
+				"happiness": 3,
+				"location": "Loreto, Italy",
+				"events": [
+					"retreated to become a lay brother"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Religious painting",
+			"Renaissance"
+		]
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Matej Sternen",
+		"keywords": [
+			"Impressionism",
+			"realism",
+			"portraits",
+			"landscapes",
+			"nude form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Slovenia",
+				"events": [
+					"Studied at the Vienna Academy of Fine Arts",
+					"Founded the Slovene Art Club"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Modernism",
+			"Realism"
+		]
+	}
+]

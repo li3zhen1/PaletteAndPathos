@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Albert Gleizes",
+		"keywords": [
+			"cubism",
+			"abstract",
+			"geometry",
+			"dimension",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Joined the artists of Montmartre",
+					"participated in exhibitions"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Founded the Puteaux Group",
+					"worked on developing Cubism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "France",
+				"events": [
+					"Served in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": []
+			},
+			{
+				"start": 1920,
+				"end": 1953,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"Focused on theory and teaching",
+					"wrote about cubism"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Robert Indiana",
+		"keywords": [
+			"love",
+			"American Dream",
+			"symbolism",
+			"pop art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 1,
+				"location": "Indianapolis, Indiana, United States",
+				"events": [
+					"adopted as a baby"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"studied at the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York City, New York, United States",
+				"events": [
+					"moved to New York",
+					"created LOVE sculpture"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2018,
+				"happiness": 6,
+				"location": "Vinalhaven, Maine, United States",
+				"events": [
+					"moved to island",
+					"continued to create art",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"pop art",
+			"hard-edge painting",
+			"assemblage art"
+		]
+	}
+]

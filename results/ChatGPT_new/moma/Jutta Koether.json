@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Jutta Koether",
+		"keywords": [
+			"abstract",
+			"female existence",
+			"subjectivity",
+			"music",
+			"criticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1958,
+				"end": 1978,
+				"happiness": 4,
+				"location": "Cologne, Germany",
+				"events": [
+					"born in Cologne",
+					"developed an interest in art"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1987,
+				"happiness": 6,
+				"location": "Germany",
+				"events": [
+					"studied painting",
+					"began to emerge as an artist in Germany"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2008,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"moved to New York",
+					"thrived in the downtown art scene",
+					"began exhibiting internationally"
+				]
+			},
+			{
+				"start": 2008,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"taught at Bard College",
+					"continued to exhibit her work internationally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Performance Art"
+		]
+	}
+]

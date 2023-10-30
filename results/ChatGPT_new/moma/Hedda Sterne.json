@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Hedda Sterne",
+		"keywords": [
+			"Abstract Expressionism",
+			"urban life",
+			"machinery",
+			"landscape",
+			"time"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1941,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"educated in arts and sciences in Vienna",
+					"traveled around Europe to study art."
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1950,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"escaped from Nazi persecution",
+					"joined the New York School"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"Active part of 'Irascible Eighteen'",
+					"her work displayed in MOMA"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2011,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"began to work on her 'Vertical-Horizontal' series",
+					"recieved a Guggenheim Fellowship"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Surrealism",
+			"Geometric abstraction"
+		]
+	}
+]

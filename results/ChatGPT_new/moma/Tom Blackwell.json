@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Tom Blackwell",
+		"keywords": [
+			"photorealism",
+			"motorcycles",
+			"urban scene",
+			"aircraft"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1947,
+				"happiness": 7,
+				"location": "Chicago, IL, USA",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Chicago, IL, USA",
+				"events": [
+					"Developed an interest in art"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1966,
+				"happiness": 7,
+				"location": "New York, NY, USA",
+				"events": [
+					"Started his art career"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 2014,
+				"happiness": 8,
+				"location": "Andes, NY, USA",
+				"events": [
+					"Shifted focus to photorealism",
+					"Rose to fame"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Andes, NY, USA",
+				"events": [
+					"Continued artistic pursuits in later life"
+				]
+			}
+		],
+		"genre": [
+			"Photorealism"
+		]
+	}
+]

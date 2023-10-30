@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Eric Fischl",
+		"keywords": [
+			"suburbia",
+			"sexuality",
+			"adolescence",
+			"psychological"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1967,
+				"happiness": 3,
+				"location": "New York City, New York",
+				"events": [
+					"Born to a suburban lifestyle"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1974,
+				"happiness": 5,
+				"location": "Phoenix, Arizona",
+				"events": [
+					"Studied at Phoenix College",
+					"Transferred to Arizona State University"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Halifax, Nova Scotia",
+				"events": [
+					"Studied at Nova Scotia College of Art and Design",
+					"Met future wife, painter April Gornik"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"Successful career as contemporary artist",
+					"Married to April Gornik"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Figurative Painting"
+		]
+	}
+]

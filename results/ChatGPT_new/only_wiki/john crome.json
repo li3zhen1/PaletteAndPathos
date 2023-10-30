@@ -1,0 +1,36 @@
+[
+	{
+		"name": "John Crome",
+		"keywords": [
+			"landscape",
+			"nature",
+			"rural life",
+			"cityscape",
+			"atmosphere"
+		],
+		"lifePeriods": [
+			{
+				"start": 1768,
+				"end": 1803,
+				"happiness": 5,
+				"location": "Norwich, United Kingdom",
+				"events": [
+					"Founded the Norwich Society of Artists"
+				]
+			},
+			{
+				"start": 1803,
+				"end": 1821,
+				"happiness": 5,
+				"location": "Norwich, United Kingdom",
+				"events": [
+					"Produced some of his finest works"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Landscape art"
+		]
+	}
+]

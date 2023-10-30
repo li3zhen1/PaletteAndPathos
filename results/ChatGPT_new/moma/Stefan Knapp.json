@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Stefan Knapp",
+		"keywords": [
+			"abstract",
+			"murals",
+			"geometric",
+			"color",
+			"public art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1942,
+				"happiness": 1,
+				"location": "Bilgoraj, Poland",
+				"events": [
+					"Survived Nazi concentration camps"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 3,
+				"location": "United Kingdom",
+				"events": [
+					"Served as a fighter pilot in World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1951,
+				"happiness": 7,
+				"location": "London, UK",
+				"events": [
+					"Studied at the Academy of Fine Arts in London"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1996,
+				"happiness": 8,
+				"location": "London, UK",
+				"events": [
+					"Created the world's largest mural",
+					"Mural was displayed at the Alexander's Department Store in New York"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Public Art",
+			"Murals"
+		]
+	}
+]

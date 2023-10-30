@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Tauba Auerbach",
+		"keywords": [
+			"dimensionality",
+			"topology",
+			"binary",
+			"language",
+			"logic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 7,
+				"location": "San Francisco",
+				"events": [
+					"graduated from Stanford University",
+					"exhibited at MoMA"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"painting",
+			"sculpture"
+		]
+	}
+]

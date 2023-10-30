@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Irving Kriesberg",
+		"keywords": [
+			"abstraction",
+			"realism",
+			"figurative",
+			"natural",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1996,
+				"happiness": 6,
+				"location": "Chicago",
+				"events": [
+					"Started art education at the Chicago Art Institute"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2009,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Began teaching at New York University",
+					"First solo exhibition at Whitney Museum, New York"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Figuration"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Konstantin Bogaevsky",
+		"keywords": [
+			"landscape",
+			"symbolism",
+			"sea",
+			"mountains",
+			"imagination"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1887,
+				"happiness": 6,
+				"location": "Feodosia, Crimea",
+				"events": [
+					"Grew up surrounded by art and nature"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Started studying at the Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1903,
+				"happiness": 6,
+				"location": "Feodosia, Crimea",
+				"events": [
+					"Returned to Crimea",
+					"Studied with Ivan Aivazovsky"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Peterhof, Saint Petersburg, Russia",
+				"events": [
+					"Moved to Peterhof",
+					"Created his own unique style"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Feodosia, Crimea",
+				"events": [
+					"Suffered from a mental illness"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Landscape"
+		]
+	}
+]

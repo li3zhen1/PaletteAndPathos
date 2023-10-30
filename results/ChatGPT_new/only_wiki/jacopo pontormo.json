@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Jacopo Pontormo",
+		"keywords": [
+			"emotion",
+			"religion",
+			"Dramatic",
+			"Colorful",
+			"Modernity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1494,
+				"end": 1518,
+				"happiness": 4,
+				"location": "Florence",
+				"events": [
+					"Trained under Leonardo da Vinci and other prominent artists",
+					"Influenced by Michelangelo"
+				]
+			},
+			{
+				"start": 1518,
+				"end": 1526,
+				"happiness": 6,
+				"location": "Florence",
+				"events": [
+					"Began to come into his own unique style",
+					"Commissioned for diverse religious works"
+				]
+			},
+			{
+				"start": 1526,
+				"end": 1557,
+				"happiness": 5,
+				"location": "Florence",
+				"events": [
+					"Worked on Deposition from the Cross",
+					"Worked almost exclusively for the Medici family"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"Italian Renaissance"
+		]
+	}
+]

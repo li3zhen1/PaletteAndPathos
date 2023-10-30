@@ -1,0 +1,67 @@
+[
+	{
+		"name": "James Brooks",
+		"keywords": [
+			"abstraction",
+			"drippings",
+			"nature",
+			"form",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1925,
+				"happiness": 4,
+				"location": "St. Louis, Missouri, USA",
+				"events": [
+					"Born in St. Louis",
+					"Moved to Dallas, Texas in his youth"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Dallas, Texas, USA",
+				"events": [
+					"Studied under Martha Simkins",
+					"Began his career as a commercial artist"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Worldwide",
+				"events": [
+					"Served as a combat artist in World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Member of the New York School",
+					"Worked with Jackson Pollock"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1992,
+				"happiness": 6,
+				"location": "East Hampton, New York, USA",
+				"events": [
+					"Continued painting in his own style",
+					"Passed away in 1992"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Cubism"
+		]
+	}
+]

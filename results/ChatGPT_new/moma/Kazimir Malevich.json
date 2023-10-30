@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Kazimir Malevich",
+		"keywords": [
+			"abstraction",
+			"geometric",
+			"avant-garde",
+			"revolution"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1896,
+				"happiness": 5,
+				"location": "Kiev",
+				"events": [
+					"immigrated to Kiev from his birthplace"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1904,
+				"happiness": 6,
+				"location": "Moscow",
+				"events": [
+					"began art studies at the Moscow School of Painting, Sculpture, and Architecture"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1912,
+				"happiness": 7,
+				"location": "Moscow",
+				"events": [
+					"involved in Moscow's avant-garde circles"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1915,
+				"happiness": 8,
+				"location": "Moscow",
+				"events": [
+					"created the painting 'Black Square'"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1927,
+				"happiness": 5,
+				"location": "Petrograd and Moscow",
+				"events": [
+					"worked as a teacher, exposed to propaganda of the new Soviet regime"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1935,
+				"happiness": 4,
+				"location": "Leningrad",
+				"events": [
+					"his works were officially criticized and censored by the Soviet regime"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"suprematism",
+			"avant-garde"
+		]
+	}
+]

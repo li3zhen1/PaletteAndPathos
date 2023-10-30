@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Pierre-Auguste Renoir",
+		"keywords": [
+			"joy",
+			"light",
+			"nature",
+			"portraits",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1841,
+				"end": 1854,
+				"happiness": 5,
+				"location": "Limoges, France",
+				"events": [
+					"Born into a working-class family"
+				]
+			},
+			{
+				"start": 1854,
+				"end": 1862,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Started working in a porcelain factory",
+					"Studied art at free drawing schools"
+				]
+			},
+			{
+				"start": 1862,
+				"end": 1876,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Enrolled in the École des Beaux-Arts",
+					"Joined Guillaume's Belgian studio",
+					"Met Claude Monet"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1883,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Became a leading Impressionist",
+					"Exhibited at the first Impressionist Exhibition",
+					"Became financially successful"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1903,
+				"happiness": 6,
+				"location": "Cagnes-sur-Mer, France",
+				"events": [
+					"Developed rheumatism",
+					"Continued painting despite his illness"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1919,
+				"happiness": 4,
+				"location": "Cagnes-sur-Mer, France",
+				"events": [
+					"Became wheelchair-bound due to his illness",
+					"Died at the age of 78"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Modern art",
+			"Realism"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Bryan Wynter",
+		"keywords": [
+			"nature",
+			"abstraction",
+			"movement",
+			"landscapes",
+			"rivers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1934,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"born into a middle-class family"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1950,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"studied in Westminster School of Art",
+					"studied at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1960,
+				"happiness": 7,
+				"location": "St. Ives, Cornwall, England",
+				"events": [
+					"became active in the St. Ives Society of Artists",
+					"had his first solo exhibition"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1975,
+				"happiness": 6,
+				"location": "Zennor, Cornwall, England",
+				"events": [
+					"moved to a isolated cottage",
+					"began creating kinetic sculptures"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"kinetic art"
+		]
+	}
+]

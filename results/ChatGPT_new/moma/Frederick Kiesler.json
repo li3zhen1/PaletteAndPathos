@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Frederick Kiesler",
+		"keywords": [
+			"architecture",
+			"design",
+			"theater",
+			"expressive",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Cernauti, Austria-Hungary",
+				"events": [
+					"Studied at Technische Hochschule, Vienna",
+					"Worked as a theater designer in Berlin"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Operated his own theater company",
+					"Developed innovative theater designs"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1955,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Worked on the design of 'The Endless House'",
+					"Collaborated with various artists and architects"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1965,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Continued working on innovative architectural projects",
+					"Died in New York"
+				]
+			}
+		],
+		"genre": [
+			"theatre design",
+			"architecture",
+			"sculpture"
+		]
+	}
+]

@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Tomás Maldonado",
+		"keywords": [
+			"Design",
+			"Education",
+			"Bauhaus",
+			"Industrial Design"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1929,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1945,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Studied painting and art",
+					"Joined the Concrete Art-Invention Association"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1954,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Co-founded the magazine Nueva Visión",
+					"Taught Design Perspective at the National College of Buenos Aires"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1967,
+				"happiness": 8,
+				"location": "Ulm, Germany",
+				"events": [
+					"Became rector at the Ulm School of Design",
+					"Worked on design projects for various companies"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1992,
+				"happiness": 8,
+				"location": "Milan, Italy",
+				"events": [
+					"Taught at the Politecnico of Milan",
+					"Published influential works"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2018,
+				"happiness": 7,
+				"location": "Milan, Italy",
+				"events": [
+					"Retired",
+					"Received honorary doctorate from the Politecnico di Milano"
+				]
+			}
+		],
+		"genre": [
+			"Product Design",
+			"Industrial Design",
+			"Art Theory"
+		]
+	}
+]

@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Geraldo de Barros",
+		"keywords": [
+			"experimental",
+			"abstraction",
+			"photography",
+			"geometric"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Chavantes, Brazil",
+				"events": [
+					"born in Chavantes"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"studied at the Associação Paulista de Belas Artes",
+					"founded the Foto Cine Clube Bandeirante"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 7,
+				"location": "Europe",
+				"events": [
+					"got a scholarship to study painting and engraving in Europe"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1960,
+				"happiness": 8,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"founded the art studio Atelier 17",
+					"participated in the establishment of the Concrete Art Movement in Brazil"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1978,
+				"happiness": 8,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"founded the furniture company Unilabor",
+					"founded the industrial design company Hobjeto"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"created a series of collages called 'Fotoformas'",
+					"worked on the 'Sobras' series"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 1998,
+				"happiness": 4,
+				"location": "Sao Paulo, Brazil",
+				"events": [
+					"diagnosed with Parkinson's disease"
+				]
+			}
+		],
+		"genre": [
+			"Photography",
+			"Painting",
+			"Industrial design"
+		]
+	}
+]

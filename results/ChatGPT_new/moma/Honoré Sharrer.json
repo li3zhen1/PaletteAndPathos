@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Honoré Sharrer",
+		"keywords": [
+			"work",
+			"bread",
+			"freedom",
+			"upper-class",
+			"coercion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1943,
+				"happiness": 5,
+				"location": "West Point, New York",
+				"events": [
+					"studied at Yale University and then the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Philadelphia",
+				"events": [
+					"met her future husband, Perez Zagorin",
+					"became a member of the American Labor Party"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Easton, Pennsylvania",
+				"events": [
+					"painted Tribute to the American Working People"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2009,
+				"happiness": 6,
+				"location": "Northampton, Massachusetts",
+				"events": [
+					"retired after her husband became a faculty member at the University of Massachusetts Amherst"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Social Realism"
+		]
+	}
+]

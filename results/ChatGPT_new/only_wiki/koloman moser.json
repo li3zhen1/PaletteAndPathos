@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Koloman Moser",
+		"keywords": [
+			"Design",
+			"Nature",
+			"Architecture",
+			"Flatness",
+			"Decoration"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"Born in Vienna."
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"Received education at Vienna Academy of Fine Arts."
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"Co-founded Vienna Secession",
+					"Joined Vienna's Kunstgewerbeschule"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"Co-founded Wiener Werkstätte",
+					"Developed own art style",
+					"Received worldwide recognition"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1918,
+				"happiness": 1,
+				"location": "Vienna, Austria",
+				"events": [
+					"Suffered from poor health",
+					"Passed away at the age of 50"
+				]
+			}
+		],
+		"genre": [
+			"Graphic Art",
+			"Decorative art",
+			"Industriall design"
+		]
+	}
+]

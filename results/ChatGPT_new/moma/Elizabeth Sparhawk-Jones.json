@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Elizabeth Sparhawk-Jones",
+		"keywords": [
+			"daily life",
+			"women",
+			"impressionism",
+			"expressiveness",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1907,
+				"happiness": 7,
+				"location": "Baltimore, Maryland, USA",
+				"events": [
+					"Born into a prosperous family",
+					"Began her art education at Pennsylvania Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1911,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania, USA",
+				"events": [
+					"Earned Cresson Traveling Scholarship",
+					"Exhibited at the Pennsylvania Academy"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1918,
+				"happiness": 5,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Began working in New York",
+					"Shifted to more modernist style"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Richardsontown, Pennsylvania, USA",
+				"events": [
+					"Moved to a farm",
+					"Created few works, described as 'hermitess'"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Modernism"
+		]
+	}
+]

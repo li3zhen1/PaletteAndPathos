@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Hans von Aachen",
+		"keywords": [
+			"portraits",
+			"history",
+			"mythology",
+			"allegory",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1552,
+				"end": 1574,
+				"happiness": 5,
+				"location": "Cologne, Germany",
+				"events": [
+					"born",
+					"received early training as an artist"
+				]
+			},
+			{
+				"start": 1574,
+				"end": 1587,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"traveled to Italy to study art",
+					"won a prize"
+				]
+			},
+			{
+				"start": 1587,
+				"end": 1601,
+				"happiness": 8,
+				"location": "Munich, Germany",
+				"events": [
+					"appointed court painter by Duke William V of Bavaria"
+				]
+			},
+			{
+				"start": 1601,
+				"end": 1615,
+				"happiness": 5,
+				"location": "Prague, Czech Republic",
+				"events": [
+					"served as a court painter for the Holy Roman Emperor Rudolf II",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"Portraits",
+			"Allegorical paintings"
+		]
+	}
+]

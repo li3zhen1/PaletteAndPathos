@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Pierre Roy",
+		"keywords": [
+			"surrealism",
+			"dreams",
+			"consciousness",
+			"nature",
+			"still-life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Nantes, France",
+				"events": [
+					"received traditional art training"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"introduced to Surrealism",
+					"met his wife",
+					"acclaimed artist",
+					"exhibited at the Salon d'Automne"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1959,
+				"happiness": 3,
+				"location": "Milan, Italy",
+				"events": [
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Still-life"
+		]
+	}
+]

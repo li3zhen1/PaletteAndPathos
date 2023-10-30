@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Pat Lipsky",
+		"keywords": [
+			"color",
+			"abstract",
+			"hard-edge",
+			"geometry",
+			"rhythm"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1958,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"born into an artistic family"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1963,
+				"happiness": 7,
+				"location": "Iowa, USA",
+				"events": [
+					"attended Cornell College"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"attended Hunter College"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"first solo exhibition",
+					"endured the death of her mother"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"participated in the Lyrical Abstraction movement"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2020,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"exhibited at the Andre Zarre Gallery"
+				]
+			},
+			{
+				"start": 2020,
+				"end": 2021,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"continued to work despite the COVID-19 pandemic"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Hard-Edge Painting",
+			"Lyrical Abstraction"
+		]
+	}
+]

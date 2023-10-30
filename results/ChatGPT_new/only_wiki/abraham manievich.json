@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Abraham Manievich",
+		"keywords": [
+			"nature",
+			"urban landscapes",
+			"Jewish life",
+			"expressionism",
+			"cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Mstsislaw, Belarus",
+				"events": [
+					"learnt painting from his father",
+					"attended Kiev Art School"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1911,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Julian Academy",
+					"engaged with contemporary art scene"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Kiev, Ukraine",
+				"events": [
+					"developed his style combining expressionism and cubism",
+					"became a leading artist in Kiev"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1921,
+				"happiness": 2,
+				"location": "Kiev, Ukraine",
+				"events": [
+					"pogrom occurred in Kiev",
+					"his son Yury was killed"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1942,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"emigrated to the United States due to civil unrest in Ukraine",
+					"found success in New York art scene"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Cubism"
+		]
+	}
+]

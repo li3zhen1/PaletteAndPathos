@@ -1,0 +1,97 @@
+[
+	{
+		"name": "T. C. Steele",
+		"keywords": [
+			"landscape",
+			"nature",
+			"rural life",
+			"Impressionism",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1847,
+				"end": 1865,
+				"happiness": 5,
+				"location": "Warrick County, Indiana",
+				"events": [
+					"Developed interest in sketching"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1873,
+				"happiness": 7,
+				"location": "Indianapolis, Indiana",
+				"events": [
+					"Studied painting at Indiana School of Art",
+					"Married to Mary Lakin"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1880,
+				"happiness": 5,
+				"location": "Battle Creek, Michigan",
+				"events": [
+					"Lost his wife",
+					"Started painting extensively"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1885,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied in Royal Academy of Art",
+					"Married to Mary Elizabeth Adams"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1894,
+				"happiness": 6,
+				"location": "Brookville, Indiana",
+				"events": [
+					"Returned to Indiana",
+					"Worked on portraits and landscapes"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1907,
+				"happiness": 8,
+				"location": "Brown County, Indiana",
+				"events": [
+					"Became a leader in the Indiana art community",
+					"Led the art colony in Nashville, Indiana"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Indianapolis, Indiana",
+				"events": [
+					"Developed outdoor studios",
+					"Promoted art education"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Nashville, Indiana",
+				"events": [
+					"Focused on landscape painting",
+					"Worked on House of the Singing Winds"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

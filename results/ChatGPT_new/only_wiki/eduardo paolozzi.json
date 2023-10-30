@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Eduardo Paolozzi",
+		"keywords": [
+			"pop art",
+			"science-fiction",
+			"technology",
+			"machinery",
+			"custom",
+			"graphics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Edinburgh, Scotland",
+				"events": [
+					"born to Italian immigrants",
+					"started studying at the Edinburgh College of Art"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1947,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"attended the Slade School of Fine Art",
+					"his father and uncles died in prison during World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris and met numerous avant-garde artists"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1961,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"created his first Pop Art",
+					"co-founded the Independent Group"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2004,
+				"happiness": 6,
+				"location": "Various locations in Europe",
+				"events": [
+					"received numerous awards and recognitions",
+					"appointed Her Majesty's Sculptor in Ordinary for Scotland in 1986"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"collage",
+			"print making"
+		]
+	}
+]

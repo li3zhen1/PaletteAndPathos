@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Mikhail Larionov",
+		"keywords": [
+			"avant-garde",
+			"return to primitivism",
+			"nature",
+			"Russian",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Tiraspol",
+				"events": [
+					"Discovers his passion for painting"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Moscow",
+				"events": [
+					"Entered the Moscow School of Painting, Sculpture and Architecture",
+					"Met his lifelong partner Natalia Goncharova"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Moscow",
+				"events": [
+					"Started the Neo-primitivist movement",
+					"Exhibited in the 'Jack of Diamonds' exhibition"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1915,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Left Russia at the onset of World War I"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Spent the rest of his life in Paris",
+					"Became a key figure in the city's avant-garde scene"
+				]
+			}
+		],
+		"genre": [
+			"Avant-garde",
+			"Neo-primitivism",
+			"Cubism"
+		]
+	}
+]

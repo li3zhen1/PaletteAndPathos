@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Maria Lassnig",
+		"keywords": [
+			"self-perception",
+			"body sensation",
+			"autobiographical",
+			"feminist",
+			"figurative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Kappel am Krappfeld, Austria",
+				"events": [
+					"childhood"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Klagenfurt, Austria",
+				"events": [
+					"high school graduation",
+					"study at the local art school"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"study at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1980,
+				"happiness": 4,
+				"location": "Vienna, Austria",
+				"events": [
+					"World War II",
+					"rise of abstract expressionism"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1989,
+				"happiness": 6,
+				"location": "France and Germany",
+				"events": [
+					"recognized for body awareness art",
+					"taught at the University of Applied Arts Vienna"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 2004,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"achieved major recognition",
+					"retrospective at MoMA PS1"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2014,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"award of the Austrian Decoration for Science and Art",
+					"Venice Biennale award"
+				]
+			}
+		],
+		"genre": [
+			"figurative art",
+			"abstract expressionism",
+			"feminist art"
+		]
+	}
+]

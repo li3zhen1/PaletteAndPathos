@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Shirley Jaffe",
+		"keywords": [
+			"abstract",
+			"colorful",
+			"geometric",
+			"hard-edged"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Elizabeth, New Jersey, USA",
+				"events": [
+					"born in Elizabeth, New Jersey"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"studied at Cooper Union School for the Advancement of Art",
+					"worked in an airplane factory"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1948,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"studied at the Art Students League"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1951,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"studied at Hunter College"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 2016,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"worked extensively in Paris developing her uniquely colorful and geometric style",
+					"had several exhibitions internationally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Hard-edge painting"
+		]
+	}
+]

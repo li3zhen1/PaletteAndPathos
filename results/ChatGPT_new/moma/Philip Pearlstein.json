@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Philip Pearlstein",
+		"keywords": [
+			"nudes",
+			"objectivity",
+			"realism",
+			"still life",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Pittsburgh",
+				"events": [
+					"developed an interest in art"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1946,
+				"happiness": 4,
+				"location": "USA",
+				"events": [
+					"served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"studied at the Carnegie Institute of Technology"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"attended the Art Students League of New York",
+					"developed his distinct style"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"established as a leader of the American Realist movement"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"continued to paint and exhibit his works"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"remained active in the art world"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Portraiture",
+			"Still life"
+		]
+	}
+]

@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Manolo Millares",
+		"keywords": [
+			"abstract",
+			"raw materials",
+			"sackcloth",
+			"violence",
+			"destruction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1936,
+				"happiness": 7,
+				"location": "Las Palmas, Canary Islands, Spain",
+				"events": [
+					"discovered his passion for painting"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Las Palmas, Canary Islands, Spain",
+				"events": [
+					"became a member of LADAC (Los Arqueros del Arte Contemporáneo)"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"co-founded El Paso group"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"worked on his series of 'Homúnculos' paintings"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"informalism"
+		]
+	}
+]

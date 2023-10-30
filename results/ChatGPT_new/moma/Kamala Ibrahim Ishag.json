@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Kamala Ibrahim Ishag",
+		"keywords": [
+			"women",
+			"sudanese culture",
+			"spirituality",
+			"feminism",
+			"subjects"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Omdurman, Sudan",
+				"events": [
+					"founded the Crystalist Group",
+					"teached at the College of Fine and Applied Art"
+				]
+			}
+		],
+		"genre": [
+			"Modern art",
+			"African art"
+		]
+	}
+]

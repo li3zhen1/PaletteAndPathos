@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Howardena Pindell",
+		"keywords": [
+			"racism",
+			"sexual discrimination",
+			"activism",
+			"identity",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Philadelphia",
+				"events": [
+					"Accepted into Boston University"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1966,
+				"happiness": 7,
+				"location": "Boston",
+				"events": [
+					"Earned BFA",
+					"Earned MFA",
+					"Started work at Museum of Modern Art"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1978,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"Developed distinctive layered, collaged art style",
+					"Co-founded the A.I.R. Gallery"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1995,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Car accident that resulted in memory loss",
+					"Recovery influenced her work"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Comprehensive retrospective of her work held at the Garth Greenan Gallery"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"political art",
+			"video art"
+		]
+	}
+]

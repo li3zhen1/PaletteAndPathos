@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Katherine Porter",
+		"keywords": [
+			"abstract",
+			"color",
+			"contrast",
+			"light",
+			"dimension"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Kyle, Texas",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"attended school"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"developed artistically",
+					"met influential artists"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Bennington, Vermont",
+				"events": [
+					"produced some of her best work"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Cusco, Peru",
+				"events": [
+					"moved to live permanently",
+					"continued painting"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"modernism"
+		]
+	}
+]

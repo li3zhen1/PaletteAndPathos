@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Mark Rothko",
+		"keywords": [
+			"abstract",
+			"emotion",
+			"mystery",
+			"color",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Dvinsk, Russian Empire",
+				"events": []
+			},
+			{
+				"start": 1913,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Portland, Oregon, USA",
+				"events": [
+					"immigrated to the United States"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1923,
+				"happiness": 7,
+				"location": "New Haven, Connecticut, USA",
+				"events": [
+					"attended Yale University"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1940,
+				"happiness": 6,
+				"location": "New York City, New York, USA",
+				"events": [
+					"studied under Max Weber",
+					"joined the Works Progress Administration"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 5,
+				"location": "New York City, New York, USA",
+				"events": [
+					"became a US citizen",
+					"had his first solo show"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1968,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"developed his signature style of 'multiforms'",
+					"exhibited at the Museum of Modern Art"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1970,
+				"happiness": 2,
+				"location": "New York City, New York, USA",
+				"events": [
+					"suffered from a heart aneurysm",
+					"committed suicide"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Sergej Jensen",
+		"keywords": [
+			"abstract",
+			"minimalist",
+			"textile art",
+			"money paintings",
+			"found materials"
+		],
+		"lifePeriods": [
+			{
+				"start": 1973,
+				"end": 1995,
+				"happiness": 5,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"beginning of his interest in the arts"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Frankfurt, Germany",
+				"events": [
+					"studied at Städelschule",
+					"met influential contemporary artists"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"established himself as a minimalist artist",
+					"had his artworks globally recognized"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York City",
+					"continued creating unique textile artworks"
+				]
+			}
+		],
+		"genre": [
+			"textile art",
+			"abstract art",
+			"minimalist art"
+		]
+	}
+]

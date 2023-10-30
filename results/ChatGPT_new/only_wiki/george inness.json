@@ -1,0 +1,54 @@
+[
+	{
+		"name": "George Inness",
+		"keywords": [
+			"nature",
+			"spiritual",
+			"landscapes",
+			"rural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1825,
+				"end": 1849,
+				"happiness": 5,
+				"location": "Newburgh, New York, USA",
+				"events": [
+					"Started career as a map engraver"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1860,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Rapid development in his landscape art"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1874,
+				"happiness": 5,
+				"location": "Medfield, Massachusetts, USA",
+				"events": [
+					"Civil War impact"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1894,
+				"happiness": 7,
+				"location": "Tarpon Springs, Florida, USA",
+				"events": [
+					"Established his mature style",
+					"Incorporated metaphysical conception into his landscapes"
+				]
+			}
+		],
+		"genre": [
+			"landscape art",
+			"Tonalism"
+		]
+	}
+]

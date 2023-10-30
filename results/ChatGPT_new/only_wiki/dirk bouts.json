@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Dirk Bouts",
+		"keywords": [
+			"religion",
+			"biblical scenes",
+			"portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1415,
+				"end": 1475,
+				"happiness": 5,
+				"location": "Haarlem, Netherlands",
+				"events": [
+					"became a citizen of Louvain",
+					"commissioned for the triptych 'The Last Supper'"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"religious art"
+		]
+	}
+]

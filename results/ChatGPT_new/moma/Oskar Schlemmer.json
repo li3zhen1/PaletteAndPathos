@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Oskar Schlemmer",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"the human body",
+			"costume design",
+			"dancers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"graduated from the Stuttgart Art Academy"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"participated in World War I",
+					"became a member of the Deutscher Werkbund"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1929,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"Joined the Bauhaus school",
+					"created his most famous work, 'The Triadic Ballet'"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Breslau, Germany",
+				"events": [
+					"served as director at the Breslau Academy of Art and Design"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1943,
+				"happiness": 2,
+				"location": "Berlin, Germany",
+				"events": [
+					"suffered persecution by the Nazis",
+					"died of a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Painting",
+			"Stage design",
+			"Dance"
+		]
+	}
+]

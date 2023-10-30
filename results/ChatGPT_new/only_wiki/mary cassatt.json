@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Mary Cassatt",
+		"keywords": [
+			"impressionism",
+			"post-impressionism",
+			"women",
+			"children",
+			"domesticity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1844,
+				"end": 1851,
+				"happiness": 6,
+				"location": "Allegheny City, Pennsylvania",
+				"events": []
+			},
+			{
+				"start": 1851,
+				"end": 1860,
+				"happiness": 7,
+				"location": "Europe",
+				"events": [
+					"traveled and studied art in Europe"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1865,
+				"happiness": 5,
+				"location": "Allegheny City, Pennsylvania",
+				"events": []
+			},
+			{
+				"start": 1865,
+				"end": 1877,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Paris Academy",
+					"exhibited her works in Paris"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1886,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"joined the Impressionists"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"developed her own style",
+					"focused on domestic scenes"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1926,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"suffered from ill-health and blindness"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Post-Impressionism"
+		]
+	}
+]

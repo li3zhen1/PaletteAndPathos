@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Alex Melamid",
+		"keywords": [
+			"societal critique",
+			"politics",
+			"data",
+			"pop culture",
+			"consumerism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1977,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"graduated from Stroganov School of Design and Applied Art",
+					"formed the duo Komar & Melamid with Vitaly Komar"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1994,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"emigrated to the United States",
+					"exhibitions at major art institutions"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"People's Choice project",
+					"Dia Art Foundation’s The Most Wanted Paintings"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Separation from Komar",
+					"Started Artenol magazine"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"social criticism"
+		]
+	}
+]

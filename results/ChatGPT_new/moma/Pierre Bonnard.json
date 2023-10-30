@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Pierre Bonnard",
+		"keywords": [
+			"Intimate domestic scenes",
+			"landscapes",
+			"still lifes",
+			"nudes",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1887,
+				"happiness": 7,
+				"location": "Fontenay-aux-Roses, France",
+				"events": [
+					"Born into a middle-class family"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1891,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Ecole des Beaux-Arts",
+					"Joined the Nabis group"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Began relationship with Marthe de Méligny",
+					"Won success on poster competition"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Vernon, France",
+				"events": [
+					"Married Marthe de Meligny",
+					"Experienced success as a painter"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1947,
+				"happiness": 8,
+				"location": "Le Cannet, France",
+				"events": [
+					"Moved to Le Cannet",
+					"Continued to paint prolifically",
+					"Marthe's death"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism"
+		]
+	}
+]

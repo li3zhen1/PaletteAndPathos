@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Karl Bryullov",
+		"keywords": [
+			"portrait",
+			"historical events",
+			"human emotions",
+			"nature",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1799,
+				"end": 1831,
+				"happiness": 5,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"studied in the Imperial Academy of Arts",
+					"became known for his portrait paintings"
+				]
+			},
+			{
+				"start": 1831,
+				"end": 1835,
+				"happiness": 8,
+				"location": "Italy",
+				"events": [
+					"created 'The Last Day of Pompeii'",
+					"rose to fame in European art"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1852,
+				"happiness": 4,
+				"location": "Returning to Russia",
+				"events": [
+					"faced health issues",
+					"was unable to create large scale works"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Portrait"
+		]
+	}
+]

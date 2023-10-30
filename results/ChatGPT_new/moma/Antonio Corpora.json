@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Antonio Corpora",
+		"keywords": [
+			"desert",
+			"nature",
+			"abstract",
+			"simplification",
+			"bright colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Tunis, Tunisia",
+				"events": [
+					"Born into a modest family of Italian origin"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"Moved to Italy for studies",
+					"Studied art at the Academy of Lucca"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris",
+					"Opened his first atelier"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Returned to Italy after World War II",
+					"Networked with various other contemporary artists"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Painted works that were recognized with various awards",
+					"His health gradually declined"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Landscape painting"
+		]
+	}
+]

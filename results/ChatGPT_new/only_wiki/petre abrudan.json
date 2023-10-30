@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Petre Abrudan",
+		"keywords": [
+			"rurality",
+			"village life",
+			"nature",
+			"traditions",
+			"Romanian landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1907,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Cluj-Napoca, Romania",
+				"events": [
+					"studied at the Romanian Academy of Fine Arts",
+					"became a professor at the Cluj Academy of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"rural genre painting"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Rafa al-Nasiri",
+		"keywords": [
+			"politics",
+			"culture",
+			"identity",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Tikrit, Iraq",
+				"events": [
+					"born and raised",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1969,
+				"happiness": 5,
+				"location": "Cairo, Egypt",
+				"events": [
+					"studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1982,
+				"happiness": 5,
+				"location": "Baghdad, Iraq",
+				"events": [
+					"taught at the Academy of Fine Arts in Baghdad",
+					"founded the art group 'One Dimension'"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1990,
+				"happiness": 4,
+				"location": "Amman, Jordan",
+				"events": [
+					"worked at the Jordanian Ministry of Culture"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2013,
+				"happiness": 5,
+				"location": "Amman, Jordan",
+				"events": [
+					"established graphic art department at Yarmouk University",
+					"won First Prize at the International Biennale of Graphic Art in Cairo"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"cubism",
+			"expressionism"
+		]
+	}
+]

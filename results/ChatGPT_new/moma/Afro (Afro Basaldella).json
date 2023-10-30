@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Afro",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"color",
+			"innovation",
+			"dynamism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Udine, Italy",
+				"events": [
+					"Born into a family of artists",
+					"Started art education"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Studied at the Academy of Fine Arts in Venice",
+					"Explored style"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Survived World War II",
+					"Started gaining recognition"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1956,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Became associated with the New York School",
+					"His work was shown at the Venice Biennale"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Created murals for UNESCO Headquarters",
+					"Continued his artistic career despite health issues"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1976,
+				"happiness": 4,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Struggled with health issues",
+					"Continued painting"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

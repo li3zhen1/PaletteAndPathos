@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Otto Dix",
+		"keywords": [
+			"war",
+			"social criticism",
+			"realism",
+			"portrait"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Gera, Germany",
+				"events": [
+					"study at the Dresden Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Germany, France",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Dresden, Germany",
+				"events": [
+					"joined the Dresdner Sezession",
+					"created famous war etchings"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Germany",
+				"events": [
+					"persecuted by the Nazis",
+					"participated in the Second World War"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1969,
+				"happiness": 5,
+				"location": "West Germany",
+				"events": [
+					"appointed professor at the University of Karlsruhe"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"New Objectivity"
+		]
+	}
+]

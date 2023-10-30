@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Joaquín Sorolla",
+		"keywords": [
+			"light",
+			"beach",
+			"nature",
+			"beauty",
+			"Spanish life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1863,
+				"end": 1874,
+				"happiness": 2,
+				"location": "Valencia, Spain",
+				"events": [
+					"Orphaned at age two due to a cholera epidemic"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1885,
+				"happiness": 7,
+				"location": "Valencia, Spain",
+				"events": [
+					"Studied at the San Carlos Academy of Fine Arts in Valencia"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Received a grant to study in Rome",
+					"In Valencia, married Clotilde García del Castillo"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Won Grand Prix of the Paris Universal Exposition",
+					"Recognized as one of the greatest living artists in Europe"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Bought a house in Madrid which included a large studio",
+					"Painted portraits of King Alfonso XIII and other high-profile Spaniard figures"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1923,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"Suffered a stroke that left him partially paralyzed"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

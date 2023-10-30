@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Rackstraw Downes",
+		"keywords": [
+			"urban landscapes",
+			"realism",
+			"nature",
+			"industrialization",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Kent, United Kingdom",
+				"events": [
+					"born in Kent",
+					"attended boarding school in England"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"studied Art at Yale University",
+					"developed interest in urban landscapes"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Texas, USA",
+				"events": [
+					"painted South Texas landscapes",
+					"exhibited art in Whitney Museum"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York and Maine, USA",
+				"events": [
+					"continuously making art",
+					"widely exhibited in various galleries and museums"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Landscape Art",
+			"Urban Landscape"
+		]
+	}
+]

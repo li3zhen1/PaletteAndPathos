@@ -1,0 +1,29 @@
+[
+	{
+		"ArtistLife": {
+			"name": "Robert Nickle",
+			"keywords": [
+				"assemblage",
+				"urban",
+				"discarded materials",
+				"found objects"
+			],
+			"lifePeriods": [
+				{
+					"start": 1919,
+					"end": 1980,
+					"happiness": 5,
+					"location": "Chicago",
+					"events": [
+						"served in the military",
+						"participated in the Works Progress Administration"
+					]
+				}
+			],
+			"genre": [
+				"Abstract art",
+				"Mixed media"
+			]
+		}
+	}
+]

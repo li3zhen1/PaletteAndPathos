@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Craig Kauffman",
+		"keywords": [
+			"minimalism",
+			"abstract",
+			"color",
+			"shape",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"born into an artistic family"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"studied at the University of California",
+					"early development as an artist"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1967,
+				"happiness": 8,
+				"location": "Los Angeles, California",
+				"events": [
+					"exhibition at the Ferus Gallery",
+					"became part of the Light and Space movement"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Los Angeles, California and New York",
+				"events": [
+					"experimentation with plastic materials",
+					"Berlin Residency"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2010,
+				"happiness": 7,
+				"location": "Los Angeles and Philippines",
+				"events": [
+					"continued artistic exploration",
+					"his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism",
+			"Light and Space"
+		]
+	}
+]

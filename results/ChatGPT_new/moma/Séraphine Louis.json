@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Séraphine Louis",
+		"keywords": [
+			"religion",
+			"nature",
+			"floral"
+		],
+		"lifePeriods": [
+			{
+				"start": 1864,
+				"end": 1912,
+				"happiness": 5,
+				"location": "Senlis, France",
+				"events": [
+					"worked as a shepherdess",
+					"worked as a housekeeper"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1934,
+				"happiness": 6,
+				"location": "Senlis, France",
+				"events": [
+					"met her sponsor Wilhelm Uhde",
+					"began painting"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1942,
+				"happiness": 2,
+				"location": "Clermont, France",
+				"events": [
+					"institutionalized for psychosis"
+				]
+			}
+		],
+		"genre": [
+			"naïve art",
+			"self-taught art"
+		]
+	}
+]

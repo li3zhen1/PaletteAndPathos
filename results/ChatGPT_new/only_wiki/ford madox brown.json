@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Ford Madox Brown",
+		"keywords": [
+			"historical",
+			"social",
+			"love",
+			"domestic life",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1821,
+				"end": 1841,
+				"happiness": 6,
+				"location": "Calais, France",
+				"events": [
+					"began painting at a young age"
+				]
+			},
+			{
+				"start": 1841,
+				"end": 1852,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied with Thomas Couture",
+					"began developing his unique style"
+				]
+			},
+			{
+				"start": 1852,
+				"end": 1865,
+				"happiness": 5,
+				"location": "London, UK",
+				"events": [
+					"his wife Elizabeth died in 1846",
+					"married his second wife Emma in 1853"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1893,
+				"happiness": 7,
+				"location": "London, UK",
+				"events": [
+					"worked on the Manchester Murals",
+					"suffered a decline in his physical health"
+				]
+			}
+		],
+		"genre": [
+			"Pre-Raphaelite",
+			"Romanticism",
+			"Social realism"
+		]
+	}
+]

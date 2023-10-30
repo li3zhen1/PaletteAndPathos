@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Pieter de Hooch",
+		"keywords": [
+			"domestic",
+			"cityscapes",
+			"architecture",
+			"daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1629,
+				"end": 1646,
+				"happiness": 5,
+				"location": "Rotterdam, Netherlands",
+				"events": [
+					"born to a bricklayer family"
+				]
+			},
+			{
+				"start": 1646,
+				"end": 1661,
+				"happiness": 7,
+				"location": "Delft, Netherlands",
+				"events": [
+					"produced most notable works",
+					"married Jannetje van der Burch"
+				]
+			},
+			{
+				"start": 1661,
+				"end": 1670,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"moved into more prosperous career"
+				]
+			},
+			{
+				"start": 1670,
+				"end": 1684,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"sun fell into obscurity",
+					"financial difficulties"
+				]
+			}
+		],
+		"genre": [
+			"Dutch Golden Age",
+			"Baroque"
+		]
+	}
+]

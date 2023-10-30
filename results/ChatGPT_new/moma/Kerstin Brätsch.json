@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Kerstin Brätsch",
+		"keywords": [
+			"abstract",
+			"colourful",
+			"psychedelic",
+			"nocturnal",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1979,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Hamburg, Germany",
+				"events": [
+					"born and raised",
+					"started her fascination with art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2007,
+				"happiness": 7,
+				"location": "Hamburg, Germany",
+				"events": [
+					"studied at the University of Fine Arts of Hamburg",
+					"started to establish her art style"
+				]
+			},
+			{
+				"start": 2007,
+				"end": 2011,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"went to New York for a residency program",
+					"experienced a huge artistic growth"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2019,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"gained international recognition",
+					"held solo exhibitions",
+					"founded DAS INSTITUT"
+				]
+			},
+			{
+				"start": 2019,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"continued creating and exhibiting her art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Painting"
+		]
+	}
+]

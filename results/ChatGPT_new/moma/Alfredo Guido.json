@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Alfredo Guido",
+		"keywords": [
+			"post-impressionism",
+			"cubism",
+			"primitivism",
+			"portrait",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"born in Buenos Aires",
+					"studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"developed his post-impressionistic style",
+					"travelled across Europe"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"returned to Argentina due to World War II",
+					"founded the Primitivist Group"
+				]
+			}
+		],
+		"genre": [
+			"post-impressionism",
+			"cubism",
+			"primitivism"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Marlow Moss",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1958,
+				"happiness": 4,
+				"location": "London",
+				"events": [
+					"started studying at St. John's Wood Art School",
+					"changed her name to Marlow"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"met Piet Mondrian",
+					"started creating her abstract style"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1944,
+				"happiness": 3,
+				"location": "Cornwall",
+				"events": [
+					"World War II",
+					"became a British citizen"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1958,
+				"happiness": 4,
+				"location": "Lamorna",
+				"events": [
+					"continued her work on abstract art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Constructivism"
+		]
+	}
+]

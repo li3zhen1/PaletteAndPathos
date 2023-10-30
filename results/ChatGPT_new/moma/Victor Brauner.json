@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Victor Brauner",
+		"keywords": [
+			"surrealism",
+			"mysticism",
+			"alchemy",
+			"DUV symbolism",
+			"obsession"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1919,
+				"happiness": 6,
+				"location": "Piatra Neamț, Romania",
+				"events": [
+					"discovery of passion for art",
+					"early education"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"attended the National School of Fine Arts",
+					"exposed to DADA movement"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"joined the surrealist group"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1935,
+				"happiness": 4,
+				"location": "Perpignan, France",
+				"events": [
+					"break with the surrealists",
+					"experimentation with new techniques"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1940,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"return to surrealism",
+					"loss of his eye"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1948,
+				"happiness": 3,
+				"location": "Marseille, France",
+				"events": [
+					"experienced WWII",
+					"escape from Nazi-occupied France"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1966,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"received French citizenship",
+					"increased recognition and exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Symbolism",
+			"Dada"
+		]
+	}
+]

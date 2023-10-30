@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Emily Carr",
+		"keywords": [
+			"nature",
+			"aboriginal culture",
+			"spirituality",
+			"landscapes",
+			"modernity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1890,
+				"happiness": 5,
+				"location": "Victoria, British Columbia, Canada",
+				"events": [
+					"raised in a large British family"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1893,
+				"happiness": 5,
+				"location": "San Francisco, USA",
+				"events": [
+					"studied art"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1904,
+				"happiness": 5,
+				"location": "British Columbia, Canada",
+				"events": [
+					"returned to Canada",
+					"worked as an art teacher"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1911,
+				"happiness": 5,
+				"location": "France",
+				"events": [
+					"studied art",
+					"embraced post-impressionistic techniques"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1927,
+				"happiness": 5,
+				"location": "British Columbia, Canada",
+				"events": [
+					"focused on depicting indigenous lives",
+					"experienced depression"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1945,
+				"happiness": 6,
+				"location": "British Columbia, Canada",
+				"events": [
+					"received recognition for her work",
+					"became a key figure in Canadian art"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"modernism"
+		]
+	}
+]

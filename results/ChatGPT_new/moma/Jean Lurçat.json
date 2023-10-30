@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Jean Lurçat",
+		"keywords": [
+			"tapestries",
+			"ceramics",
+			"war",
+			"nature",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Bruyères, France",
+				"events": []
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"began studying medicine",
+					"shifted to painting due to World War I"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 7,
+				"location": "South of France",
+				"events": [
+					"found inspiration in the Mediterranean",
+					"began to work in ceramics and tapestries"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Spain and France",
+				"events": [
+					"created artworks about the atrocities of war",
+					"lived through World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1966,
+				"happiness": 7,
+				"location": "Paris and Saint-Céré, France",
+				"events": [
+					"revived the French tapestry industry",
+					"established La Maison du Tapissier in Aubusson"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Muralism",
+			"Modernism",
+			"Art Nouveau",
+			"Cubism"
+		]
+	}
+]

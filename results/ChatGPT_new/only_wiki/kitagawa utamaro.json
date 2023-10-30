@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Kitagawa Utamaro",
+		"keywords": [
+			"women",
+			"flowers",
+			"birds",
+			"Edo Period"
+		],
+		"lifePeriods": [
+			{
+				"start": 1753,
+				"end": 1806,
+				"happiness": 5,
+				"location": "Edo, Japan",
+				"events": [
+					"named as a student of Toriyama Sekien",
+					"published a series of prints on courtesans"
+				]
+			}
+		],
+		"genre": [
+			"Ukiyo-e"
+		]
+	}
+]

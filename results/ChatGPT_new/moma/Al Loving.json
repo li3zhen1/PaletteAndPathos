@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Al Loving",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"color",
+			"fabric",
+			"collage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 2005,
+				"happiness": 5,
+				"location": "Detroit, Michigan, USA",
+				"events": [
+					"was born",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1963,
+				"happiness": 7,
+				"location": "Ann Arbor, Michigan, USA",
+				"events": [
+					"studied at the University of Michigan",
+					"received his Masters degree in Fine Arts"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1968,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York City",
+					"taught art at the prestigious Dalton School"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1978,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"became the first African-American artist to have a solo exhibition at the Whitney Museum of American Art"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 2005,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"shift in style to torn and ragged-edge collages",
+					"received National Endowment for the Arts grant"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Hard-edge painting"
+		]
+	}
+]

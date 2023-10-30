@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Takeshi Kawashima",
+		"keywords": [
+			"modernist",
+			"abstraction",
+			"landscape",
+			"nature",
+			"cosmic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Studied at the Nihon University",
+					"Began exploration of abstract painting"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris",
+					"Developed his mature style"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2019,
+				"happiness": 7,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Returned to Japan",
+					"Continued his painting in Kyoto"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Modernism"
+		]
+	}
+]

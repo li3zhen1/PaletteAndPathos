@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Yasuo Kuniyoshi",
+		"keywords": [
+			"self-portraits",
+			"circuses",
+			"theaters",
+			"women",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1906,
+				"happiness": 6,
+				"location": "Okayama, Japan",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Los Angeles, United States",
+				"events": [
+					"Immigrated to America",
+					"Studied at Los Angeles School of Art and Design"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1941,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Joining the 'Woodstock, New York' artists colony",
+					"First exhibition at Whitney Studio Club"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 4,
+				"location": "New York, United States",
+				"events": [
+					"Classified as an 'enemy alien' after Japan's attack on Pearl Harbor",
+					"Prevented from traveling"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1953,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Reputation restored after the World War II",
+					"First prize in 'Oil Paintings' at Carnegie"
+				]
+			}
+		],
+		"genre": [
+			"American Modernism",
+			"Social Realism"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Roni Horn",
+		"keywords": [
+			"nature",
+			"identity",
+			"weather",
+			"landscape",
+			"perception"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1972,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Providence, Rhode Island, USA",
+				"events": [
+					"Studied at Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Reykjavik, Iceland",
+				"events": [
+					"Fell in love with Iceland",
+					"Iceland continued to influence her works"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1998,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Attended Yale University",
+					"Began her career as an artist",
+					"Made her first trip to Iceland"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Installation of permanent sculpture in Vatnasafn/Library of Water in Iceland",
+					"Published numerous books of her works"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"drawing",
+			"photography"
+		]
+	}
+]

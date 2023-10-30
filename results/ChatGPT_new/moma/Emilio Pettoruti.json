@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Emilio Pettoruti",
+		"keywords": [
+			"cubism",
+			"futurism",
+			"abstraction",
+			"still life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1911,
+				"happiness": 5,
+				"location": "La Plata, Argentina",
+				"events": [
+					"Discovered art at a museum in Buenos Aires",
+					"Started attending the drawing and painting academy"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1913,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"Studied the Italian Renaissance",
+					"Met Filippo Tommaso Marinetti"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Got inspired by the Cubism and Futurism movements",
+					"His art shifted towards geometric figures"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"His abstract art received mixed reactions"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Diverted from abstraction to realist painting"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1971,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Artistically active until old age"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Futurism",
+			"Abstraction"
+		]
+	}
+]

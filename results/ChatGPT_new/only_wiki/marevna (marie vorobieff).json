@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Marevna (Marie Vorobieff)",
+		"keywords": [
+			"cubism",
+			"impressionism",
+			"portrait",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Cheboksary, Russia",
+				"events": [
+					"born in Russia",
+					"moved to Paris for study"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied painting",
+					"met Diego Rivera"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"had a daughter with Rivera",
+					"broke up with Rivera"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1960,
+				"happiness": 5,
+				"location": "London, UK",
+				"events": [
+					"moved to London"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1983,
+				"happiness": 6,
+				"location": "London, UK",
+				"events": [
+					"continued painting",
+					"published memoirs"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Still life",
+			"Portrait"
+		]
+	}
+]

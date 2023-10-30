@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Robert Barry",
+		"keywords": [
+			"conceptualism",
+			"linguistic",
+			"invisible",
+			"space",
+			"energy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Bronx, New York",
+				"events": [
+					"Studied at Hunter College",
+					"Influential in Conceptual Art movement"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Minimalism"
+		]
+	}
+]

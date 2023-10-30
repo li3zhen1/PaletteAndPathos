@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Annibale Carracci",
+		"keywords": [
+			"baroque",
+			"portrait",
+			"landscape",
+			"mythology",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1560,
+				"end": 1570,
+				"happiness": 5,
+				"location": "Bologna",
+				"events": [
+					"early education",
+					"Began drawing and painting"
+				]
+			},
+			{
+				"start": 1570,
+				"end": 1582,
+				"happiness": 6,
+				"location": "Bologna",
+				"events": [
+					"Opened a painters' academy with his brother",
+					"Engaged in the study of the works of Titian, Correggio, and other Renaissance artists"
+				]
+			},
+			{
+				"start": 1582,
+				"end": 1595,
+				"happiness": 8,
+				"location": "Rome",
+				"events": [
+					"Invited to Rome by Cardinal Odoardo Farnese",
+					"Began painting the Farnese Gallery"
+				]
+			},
+			{
+				"start": 1595,
+				"end": 1609,
+				"happiness": 4,
+				"location": "Rome",
+				"events": [
+					"Fall into depression after the Farnese Gallery project",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Mannerism",
+			"Counter-Maniera"
+		]
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Fidelio Ponce de León",
+		"keywords": [
+			"portraits",
+			"surreal",
+			"suffering",
+			"disease",
+			"Cuban culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1949,
+				"happiness": 2,
+				"location": "Camagüey, Cuba",
+				"events": [
+					"discovered his passion for art",
+					"struggled with leprosy"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1949,
+				"happiness": 3,
+				"location": "Havana, Cuba",
+				"events": [
+					"became well-known for his unique style",
+					"tutored many future famous artists"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"portraiture"
+		]
+	}
+]

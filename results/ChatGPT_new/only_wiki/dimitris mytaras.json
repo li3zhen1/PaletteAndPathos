@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Dimitris Mytaras",
+		"keywords": [
+			"Life",
+			"Human suffering",
+			"Social reality",
+			"Figurative art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Chalcis, Greece",
+				"events": [
+					"Grew up during Second World War and Greek Civil War"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at École nationale supérieure des Beaux-Arts",
+					"Developed his personalized artistic style"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2017,
+				"happiness": 8,
+				"location": "Athens, Greece",
+				"events": [
+					"Appointed professor at School of Fine Arts",
+					"Created artworks for Olympic Games"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Figurative art",
+			"Social realism"
+		]
+	}
+]

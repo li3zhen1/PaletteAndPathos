@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Miklós Barabás",
+		"keywords": [
+			"portrait",
+			"nature",
+			"realism",
+			"middle class",
+			"aristocracy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1810,
+				"end": 1829,
+				"happiness": 6,
+				"location": "Mărcuşa, Transylvania",
+				"events": [
+					"discovered his passion for art"
+				]
+			},
+			{
+				"start": 1830,
+				"end": 1843,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"started his academic training in art",
+					"began his art career"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1873,
+				"happiness": 8,
+				"location": "Budapest, Hungary",
+				"events": [
+					"achieved significant fame",
+					"received several accolades"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"continued his art until late in his life"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"landscape",
+			"genre art"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "William Kurelek",
+		"keywords": [
+			"rural life",
+			"childhood",
+			"religion",
+			"psychology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1952,
+				"happiness": 3,
+				"location": "Alberta, Canada",
+				"events": [
+					"born into a Ukrainian family",
+					"struggled with his father's stern discipline"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1959,
+				"happiness": 1,
+				"location": "England",
+				"events": [
+					"hospitalized for schizophrenia",
+					"converted to Roman Catholicism"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1977,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"got married",
+					"gain recognition for his artwork"
+				]
+			}
+		],
+		"genre": [
+			"narrative painting",
+			"magic realism"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Jankel Adler",
+		"keywords": [
+			"Judaism",
+			"wars",
+			"suffering",
+			"abstract",
+			"figures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Tuszyn, Poland",
+				"events": [
+					"Completed his early education"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1922,
+				"happiness": 3,
+				"location": "Germany",
+				"events": [
+					"Served in the First World War",
+					"Joined the 'Young Yiddish' group of Jewish artists"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Taught at the Academy of Arts",
+					"Became a master at the printmaking workshop"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1937,
+				"happiness": 2,
+				"location": "France",
+				"events": [
+					"Escaped Nazi Germany",
+					"Artworks were labelled 'Degenerate Art' by the Nazi regime"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1949,
+				"happiness": 3,
+				"location": "England",
+				"events": [
+					"Emigrated due to the rise of Fascism",
+					"Worked in the Auxiliary Military Pioneer Corps during the Second World War"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Figurative Art",
+			"Jewish Art"
+		]
+	}
+]

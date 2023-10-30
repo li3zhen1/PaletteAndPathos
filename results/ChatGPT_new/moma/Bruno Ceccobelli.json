@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Bruno Ceccobelli",
+		"keywords": [
+			"abstract",
+			"spiritual",
+			"metaphysical",
+			"symbol",
+			"energy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1952,
+				"end": 1977,
+				"happiness": 6,
+				"location": "Todi, Italy",
+				"events": [
+					"started his interest in art"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1987,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"joined the group of artists 'Nuova Scuola Romana'"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 1997,
+				"happiness": 8,
+				"location": "Montecastrilli, Italy",
+				"events": [
+					"establishing an artistic community 'Graniti'"
+				]
+			},
+			{
+				"start": 1997,
+				"end": 2021,
+				"happiness": 9,
+				"location": "Todi, Italy",
+				"events": [
+					"Continued creating art and exhibiting worldwide"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modern art",
+			"Contemporary art"
+		]
+	}
+]

@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Fred Williams",
+		"keywords": [
+			"landscape",
+			"Australia",
+			"minimalist",
+			"abstract",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1947,
+				"happiness": 6,
+				"location": "Melbourne, Australia",
+				"events": [
+					"born to parents Frederick and Alice Williams",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Melbourne, Australia",
+				"events": [
+					"studied at the National Gallery School"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1956,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"enrolled in Chelsea School of Art",
+					"learned printmaking"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1963,
+				"happiness": 8,
+				"location": "Melbourne, Australia",
+				"events": [
+					"established his career as a painter",
+					"got married"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1970,
+				"happiness": 8,
+				"location": "Upwey, Victoria, Australia",
+				"events": [
+					"painted rural Australian landscapes",
+					"had a series of successful exhibitions"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Melbourne, Australia",
+				"events": [
+					"painted landscapes of beach and desert",
+					"awarded the Sir John Sulman Prize"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"minimalist",
+			"landscape"
+		]
+	}
+]

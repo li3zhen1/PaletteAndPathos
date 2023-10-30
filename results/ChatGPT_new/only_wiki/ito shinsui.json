@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Ito Shinsui",
+		"keywords": [
+			"feminine beauty",
+			"nature",
+			"Japanese traditions",
+			"nostalgia",
+			"seasons"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1915,
+				"happiness": 3,
+				"location": "Tokyo, Japan",
+				"events": [
+					"lacked formal education due to poverty",
+					"Started working in a printing company at a young age"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"released first print series 'Eight Views of Lake Biwa'",
+					"met his wife"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"became a professor at the Japan Art Academy"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1958,
+				"happiness": 4,
+				"location": "Tokyo, Japan",
+				"events": [
+					"experienced the turmoil of World War II"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"designated as a Living National Treasure"
+				]
+			}
+		],
+		"genre": [
+			"Shin-hanga",
+			"Ukiyo-e"
+		]
+	}
+]

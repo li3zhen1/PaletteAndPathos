@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Charles Hinman",
+		"keywords": [
+			"Abstract",
+			"Cubism",
+			"Minimalism",
+			"structures",
+			"forms"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Syracuse, New York",
+				"events": [
+					"studied at Syracuse University",
+					"served in the military"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 2020,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"exhibited in the Wadsworth Atheneum",
+					"taught at the School of Visual Arts"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"abstract art",
+			"minimalism"
+		]
+	}
+]

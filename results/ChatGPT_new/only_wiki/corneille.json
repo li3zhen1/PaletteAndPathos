@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Corneille",
+		"keywords": [
+			"abstract",
+			"emotions",
+			"African landscapes",
+			"exoticism",
+			"birds"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Liege, Belgium",
+				"events": [
+					"Born as Guillaume Cornelis van Beverloo",
+					"Moved to the Netherlands as a child"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Studied art at the Academy of Art in Amsterdam",
+					"Experienced World War II"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Co-founded the art movement Cobra",
+					"Developed his characteristic style"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Influence of travels and African landscapes in his work",
+					"Transition towards a more figural style"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2010,
+				"happiness": 7,
+				"location": "Auvers-sur-Oise, France",
+				"events": [
+					"Maintained a prolific output",
+					"Died at the age of 88"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Lyrical abstraction"
+		]
+	}
+]

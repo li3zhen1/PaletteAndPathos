@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Peter Young",
+		"keywords": [
+			"geometric",
+			"minimalism",
+			"abstraction",
+			"experiments",
+			"variation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 5,
+				"location": "California, USA",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Los Angeles, USA",
+				"events": [
+					"Studied at University of California, Los Angeles"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Worked with Nicholas Wilder Gallery",
+					"collaborated with several artists"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1975,
+				"happiness": 5,
+				"location": "Arizona, USA",
+				"events": [
+					"Experimented with geometric abstraction"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Bisbee, Arizona, USA",
+				"events": [
+					"Continuing his exploration of abstraction"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "David Teniers the Younger",
+		"keywords": [
+			"peasantry",
+			"genre scenes",
+			"mythology",
+			"religion",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1610,
+				"end": 1630,
+				"happiness": 6,
+				"location": "Antwerp, Southern Netherlands",
+				"events": [
+					"born in a family of artists",
+					"trained by his father"
+				]
+			},
+			{
+				"start": 1630,
+				"end": 1637,
+				"happiness": 7,
+				"location": "Antwerp, Southern Netherlands",
+				"events": [
+					"married service Maes",
+					"started painting genre scenes"
+				]
+			},
+			{
+				"start": 1637,
+				"end": 1651,
+				"happiness": 8,
+				"location": "Brussels, Southern Netherlands",
+				"events": [
+					"appointed court painter and keeper of the art collection",
+					"his wife Anna died"
+				]
+			},
+			{
+				"start": 1651,
+				"end": 1690,
+				"happiness": 7,
+				"location": "Brussels, Southern Netherlands",
+				"events": [
+					"married Isabelle de Fren",
+					"founded the Antwerp Academy"
+				]
+			}
+		],
+		"genre": [
+			"genre art",
+			"landscape art",
+			"portrait"
+		]
+	}
+]

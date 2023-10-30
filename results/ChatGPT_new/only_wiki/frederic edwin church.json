@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Frederic Edwin Church",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"exotic",
+			"large-scale",
+			"detail"
+		],
+		"lifePeriods": [
+			{
+				"start": 1826,
+				"end": 1844,
+				"happiness": 6,
+				"location": "Hartford, Connecticut",
+				"events": [
+					"showed talent in art at a young age"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1858,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"studied under Thomas Cole",
+					"became prominent artist"
+				]
+			},
+			{
+				"start": 1858,
+				"end": 1877,
+				"happiness": 8,
+				"location": "Hudson River Valley, New York",
+				"events": [
+					"created his masterpiece 'Heart of the Andes'",
+					"built his estate 'Olana'"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1900,
+				"happiness": 4,
+				"location": "Hudson River Valley, New York",
+				"events": [
+					"reduced artistic activity due to rheumatoid arthritis",
+					"death of his wife"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"luminism",
+			"historical"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Adolf Fleischmann",
+		"keywords": [
+			"Abstract",
+			"modern",
+			"lines",
+			"sequences",
+			"mystery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"Start of his career as a painter",
+					"Various exhibitions after World War I"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"Experienced World War II",
+					"Artwork affected by war"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Work influenced by meeting with Piet Mondrian"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Living during the rise of Abstract Expressionism"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Los Angeles, USA",
+				"events": [
+					"Final years of artwork before death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modernism"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Guadalupe Maravilla",
+		"keywords": [
+			"migration",
+			"healing",
+			"indigenous practices",
+			"performance",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1976,
+				"end": 1985,
+				"happiness": 3,
+				"location": "San Salvador, El Salvador",
+				"events": [
+					"born",
+					"experienced the Salvadoran Civil War"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1992,
+				"happiness": 4,
+				"location": "Phoenix, Arizona, USA",
+				"events": [
+					"migrated to the United States as an unaccompanied minor",
+					"lived with his extended family"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 2005,
+				"happiness": 6,
+				"location": "New York City, New York, USA",
+				"events": [
+					"studied at the School of Visual Arts",
+					"adopted the pseudonym Guadalupe Maravilla"
+				]
+			},
+			{
+				"start": 2006,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Brooklyn, New York, USA",
+				"events": [
+					"diagnosed with colon cancer",
+					"began creating healing performances and sculptures as a reaction to his disease"
+				]
+			}
+		],
+		"genre": [
+			"performance art",
+			"sculpture",
+			"mixed media"
+		]
+	}
+]

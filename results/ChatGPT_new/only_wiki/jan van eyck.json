@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Jan van Eyck",
+		"keywords": [
+			"religion",
+			"portraits",
+			"oil painting",
+			"detail"
+		],
+		"lifePeriods": [
+			{
+				"start": 1380,
+				"end": 1425,
+				"happiness": 6,
+				"location": "Maaseik, Bishopric of Liège",
+				"events": [
+					"began career as painter"
+				]
+			},
+			{
+				"start": 1425,
+				"end": 1431,
+				"happiness": 7,
+				"location": "Bruges, County of Flanders",
+				"events": [
+					"employed by John of Bavaria",
+					"married Margaret"
+				]
+			},
+			{
+				"start": 1431,
+				"end": 1441,
+				"happiness": 6,
+				"location": "Bruges, County of Flanders",
+				"events": [
+					"became successful independent painter",
+					"created notable works e.g. The Arnolfini Portrait"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"portraiture"
+		]
+	}
+]

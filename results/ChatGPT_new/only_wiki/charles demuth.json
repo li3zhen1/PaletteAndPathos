@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Charles Demuth",
+		"keywords": [
+			"precisionism",
+			"urban landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1905,
+				"happiness": 4,
+				"location": "Lancaster, Pennsylvania",
+				"events": [
+					"developed an interest in art"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"attended Philadelphia School of Design for Women",
+					"traveled to Paris"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 7,
+				"location": "New York, NY",
+				"events": [
+					"participated in Armory Show",
+					"met modernist artists"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1935,
+				"happiness": 3,
+				"location": "Lancaster, Pennsylvania",
+				"events": [
+					"diagnosed with diabetes",
+					"developed precisionism style"
+				]
+			}
+		],
+		"genre": [
+			"Precisionism",
+			"Watercolor painting"
+		]
+	}
+]

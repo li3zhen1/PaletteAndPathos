@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Sidney Goodman",
+		"keywords": [
+			"realism",
+			"urban life",
+			"figurative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 2013,
+				"happiness": 5,
+				"location": "Philadelphia, USA",
+				"events": [
+					"studied at the Philadelphia College of Art",
+					"taught at the Pennsylvania Academy of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Realism"
+		]
+	}
+]

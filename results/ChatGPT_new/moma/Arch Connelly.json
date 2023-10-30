@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Arch Connelly",
+		"keywords": [
+			"glamour",
+			"beauty",
+			"irony",
+			"minimalism",
+			"reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1950,
+				"end": 1993,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"Graduated from Pratt Institute",
+					"Died of AIDS"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Minimalism"
+		]
+	}
+]

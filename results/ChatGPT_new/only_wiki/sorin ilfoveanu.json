@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Sorin Ilfoveanu",
+		"keywords": [
+			"portraits",
+			"realism",
+			"concrete",
+			"surrealism",
+			"Renaissance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 2021,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied at The Institute of Fine Arts 'Nicolae Grigorescu'",
+					"appointed Rector of the National University of Arts, Bucharest"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Neo-realism"
+		]
+	}
+]

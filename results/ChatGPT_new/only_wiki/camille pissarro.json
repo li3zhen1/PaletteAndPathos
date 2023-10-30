@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Camille Pissarro",
+		"keywords": [
+			"rural life",
+			"landscapes",
+			"peasant scenes",
+			"naturalism",
+			"pointillism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1830,
+				"end": 1855,
+				"happiness": 5,
+				"location": "Saint Thomas, Danish West Indies",
+				"events": [
+					"Born into a French-Jewish family",
+					"Developed initial interest in art"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1871,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris for art study",
+					"Met fellow artists Monet, Cézanne and Gauguin"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1884,
+				"happiness": 4,
+				"location": "Pontoise and Eragny, France",
+				"events": [
+					"Fled Franco-Prussian War and moved to London for a year",
+					"Lost many paintings during the war"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1903,
+				"happiness": 6,
+				"location": "Eragny, France",
+				"events": [
+					"Influenced by Seurat and Signac, started to experiment with pointillism",
+					"Created many of his masterpieces"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Post-Impressionism"
+		]
+	}
+]

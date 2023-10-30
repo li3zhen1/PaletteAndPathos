@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Karl Schrag",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"cityscapes",
+			"abstract",
+			"organic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Karlsruhe, Germany",
+				"events": [
+					"Born to a wealthy family"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"Studied at the Kunstgewerbeschule"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1940,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"Emigrated to America due to the rise of Nazis in Germany"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Graduated from the Art Students League of New York",
+					"Became a US citizen"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Became head of Atelier 17, an internationally recognized printmaking workshop"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1995,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Continued to create art until his death"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"abstraction",
+			"printmaking"
+		]
+	}
+]

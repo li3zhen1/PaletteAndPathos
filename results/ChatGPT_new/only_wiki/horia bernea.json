@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Horia Bernea",
+		"keywords": [
+			"rural life",
+			"religion",
+			"traditional culture",
+			"spirituality",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied at the Bucharest Institute of Fine Arts"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"started his professional painting career"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Directed Museum of the Romanian Peasant",
+					"won Herder Prize"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"abstract art"
+		]
+	}
+]

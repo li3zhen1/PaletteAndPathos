@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Milton Resnick",
+		"keywords": [
+			"abstract",
+			"expressionist",
+			"color",
+			"emotion",
+			"form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 4,
+				"location": "Bratslav, Russian Empire (now Ukraine)",
+				"events": [
+					"Born to Jewish parents"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1940,
+				"happiness": 4,
+				"location": "New York City, USA",
+				"events": [
+					"Immigrated to United States",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Worldwide",
+				"events": [
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1984,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Became part of the New York School",
+					"Married artist Pat Passlof"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 2004,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Continued to paint despite declining health",
+					"Death of his wife"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"New York School"
+		]
+	}
+]

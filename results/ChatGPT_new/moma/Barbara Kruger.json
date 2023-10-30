@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Barbara Kruger",
+		"keywords": [
+			"feminism",
+			"society",
+			"culture",
+			"identity",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Newark, New Jersey, United States",
+				"events": [
+					"critically engaged her artistic interests"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York City, New York, United States",
+				"events": [
+					"worked as graphic designer",
+					"freelanced for Mademoiselle Magazine"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 8,
+				"location": "Los Angeles, California, United States",
+				"events": [
+					"taught at California Institute of the Arts",
+					"created her signature text-image works"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, New York, United States",
+				"events": [
+					"held exhibitions world-wide",
+					"became a professor at the University of California"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"feminist art"
+		]
+	}
+]

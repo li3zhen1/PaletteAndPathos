@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Onofrio A. Pacenza",
+		"keywords": [
+			"surrealism",
+			"fantastic",
+			"humans",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1971,
+				"happiness": 4,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"Studied in Academia Nacional de Bellas Artes",
+					"Faced World War II"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"social commentary"
+		]
+	}
+]

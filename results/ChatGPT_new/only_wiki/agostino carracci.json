@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Agostino Carracci",
+		"keywords": [
+			"portraits",
+			"mythology",
+			"religion",
+			"nudity",
+			"allegory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1557,
+				"end": 1602,
+				"happiness": 5,
+				"location": "Bologna",
+				"events": [
+					"Co-founded the Academy of the Progress of the Desiderosi (Academy of the Eager)",
+					"Created famous series of engravings 'Lovers' Series'"
+				]
+			},
+			{
+				"start": 1590,
+				"end": 1595,
+				"happiness": 7,
+				"location": "Rome",
+				"events": [
+					"Appointed to work at the court of Cardinal Odoardo Farnese",
+					"Produced a series of designs for the book 'Raccolta di alcuni disegni del Carracci'"
+				]
+			},
+			{
+				"start": 1595,
+				"end": 1602,
+				"happiness": 7,
+				"location": "Parma",
+				"events": [
+					"Participated in the decoration of the Palazzo del Giardino in Parma"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Mannerism",
+			"Portrait"
+		]
+	}
+]

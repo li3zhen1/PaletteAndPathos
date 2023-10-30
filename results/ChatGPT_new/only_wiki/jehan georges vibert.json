@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Jehan Georges Vibert",
+		"keywords": [
+			"figurative",
+			"historical",
+			"religious satire",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1840,
+				"end": 1850,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Entered Ecole des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1853,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Won Prix de Rome in 1853"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1865,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": []
+			},
+			{
+				"start": 1865,
+				"end": 1880,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Established as a leading painter of his day"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1902,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Fantin-Latour painted his portrait in 1881",
+					"Died in 1902"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Religious painting",
+			"Portraiture"
+		]
+	}
+]

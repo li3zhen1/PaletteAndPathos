@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Jean Francois Millet",
+		"keywords": [
+			"peasantry",
+			"rural life",
+			"nature",
+			"emotion",
+			"labour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1814,
+				"end": 1837,
+				"happiness": 5,
+				"location": "Gruchy, France",
+				"events": [
+					"grew up in a farming family"
+				]
+			},
+			{
+				"start": 1837,
+				"end": 1840,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"admitted to the École des Beaux-Arts",
+					"was commissioned for the first painting"
+				]
+			},
+			{
+				"start": 1840,
+				"end": 1848,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"struggled financially",
+					"start of the February Revolution"
+				]
+			},
+			{
+				"start": 1849,
+				"end": 1875,
+				"happiness": 6,
+				"location": "Barbizon, France",
+				"events": [
+					"moved to Barbizon village",
+					"created his most famous works"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Ruralism"
+		]
+	}
+]

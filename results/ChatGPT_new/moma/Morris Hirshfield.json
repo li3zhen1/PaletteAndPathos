@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Morris Hirshfield",
+		"keywords": [
+			"animals",
+			"women",
+			"patterns",
+			"surreal",
+			"folk art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Poland",
+				"events": [
+					"emigrated to the United States"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1935,
+				"happiness": 7,
+				"location": "Brooklyn, New York",
+				"events": [
+					"started a successful clothing business"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Brooklyn, New York",
+				"events": [
+					"retired and started painting full time",
+					"had his work displayed at the Museum of Modern Art"
+				]
+			}
+		],
+		"genre": [
+			"Folk Art",
+			"Modern Art"
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Cleve Gray",
+		"keywords": [
+			"Abstract",
+			"color",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1918,
+				"end": 2004,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Served in World War II",
+					"Worked on Threnody paintings"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Minimalism"
+		]
+	}
+]

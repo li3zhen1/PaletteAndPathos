@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Dante Gabriel Rossetti",
+		"keywords": [
+			"mythological",
+			"romanticism",
+			"spirituality",
+			"love",
+			"passion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1828,
+				"end": 1845,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"started his artistic training"
+				]
+			},
+			{
+				"start": 1846,
+				"end": 1859,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"found the Pre-Raphaelite Brotherhood",
+					"began his career in painting"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1871,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"experienced the death of his wife",
+					"developed a depression"
+				]
+			},
+			{
+				"start": 1872,
+				"end": 1882,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"became a dependent on chloral",
+					"died of a drug overdose"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Romanticism",
+			"Pre-Raphaelite Brotherhood"
+		]
+	}
+]

@@ -10,9 +10,9 @@ const openai = new OpenAI({
 });
 
 
-async function getLifeDescription(artistName: string) {
+export async function getLifeDescription(artistName: string) {
 
-    throw new Error("Improve prompt on line 37 before you use it!")
+    // throw new Error("Improve prompt on line 37 before you use it!")
 
     const chatCompletion = await openai.chat.completions.create({
         messages: [
@@ -32,14 +32,9 @@ type LifePeriod = {
 
 type ArtistLife = {
     name: string,
-
-
-    keywords: string[],        // list of 1-5 keywords that describe themes in his artworks, e.g. "wars", "love", "peath", "nature"
-    
-    
+    keywords: string[],        // list of 1-5 keywords that describe themes in his artworks, e.g. "wars", "love", "amusement", "awe", "nature"
     lifePeriods: LifePeriod[], // an array consisting of detailed 3-10 life periods, in chronological order, as detailed as possible
     genre: string[],           // list of 1-3 genres that he's known for
-
 }
 
 If you don't know well about the artist, reply with "{}".
@@ -54,42 +49,22 @@ If you don't know well about the artist, reply with "{}".
 
 
 
-let namesFromWikiArt = [
-    "rembrandt",
-    "claude-monet",
-    "vincent-van-gogh",
-    "nicholas-roerich",
-    "gustave-dore",
-    "eugene-boudin",
-    "paul-cezanne",
-    "camille-pissarro",
-    "ivan-aivazovsky",
-    "ilya-repin"
-]
-
 // from gustave-dore to Gustave Dore
-const formatName = (name: string) => name.split("-").map(it => it[0].toUpperCase() + it.slice(1)).join(" ")
+export const formatName = (name: string) => name.split("-").map(it => it[0].toUpperCase() + it.slice(1)).join(" ")
 
 // reverse
-const formatMoMAName = (name: string) => name.split(" ").map(it => it[0].toLowerCase() + it.slice(1)).join("-")
+export const formatMoMAName = (name: string) => name.split(" ").map(it => it[0].toLowerCase() + it.slice(1)).join("-")
 
-// namesFromWikiArt.forEach(async name => {
-//     let json = (await getLifeDescription(formatName(name)))
+
+
+
+// const FilteredArtists = _Artists.filter(it => it.BeginDate <= 1900 && it.EndDate > 0)
+// console.log("FilteredArtists Count: ", _Artists.length)
+// // randomly choose 10 artists from DiedArtists, and 10 from FilteredArtists
+// const FilteredArtistsRandom = FilteredArtists.sort(() => Math.random() - Math.random()).slice(0, 10)
+// FilteredArtistsRandom.forEach(async artist => {
+//     let json = (await getLifeDescription(artist.DisplayName))
 //     console.log(json)
-//     await fs.writeFile(`./generated/${name}.json`,
+//     await fs.writeFile(`./generated/moma/${formatMoMAName(artist.DisplayName)}.json`,
 //         JSON.stringify(json.choices.map(it => JSON.parse(it.message.content as string)), null, "\t"))
 // })
-
-
-
-const FilteredArtists = _Artists.filter(it => it.BeginDate <= 1900 && it.EndDate > 0)
-console.log("FilteredArtists Count: ", _Artists.length)
-// randomly choose 10 artists from DiedArtists, and 10 from FilteredArtists
-const FilteredArtistsRandom = FilteredArtists.sort(() => Math.random() - Math.random()).slice(0, 10)
-FilteredArtistsRandom.forEach(async artist => {
-    let json = (await getLifeDescription(artist.DisplayName))
-    console.log(json)
-    await fs.writeFile(`./generated/moma/${formatMoMAName(artist.DisplayName)}.json`,
-        JSON.stringify(json.choices.map(it => JSON.parse(it.message.content as string)), null, "\t"))
-})
-

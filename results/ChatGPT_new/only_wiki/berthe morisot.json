@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Berthe Morisot",
+		"keywords": [
+			"women",
+			"impressionism",
+			"domesticity",
+			"life",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1841,
+				"end": 1858,
+				"happiness": 6,
+				"location": "Bourges, France",
+				"events": [
+					"born into a prosperous bourgeois family",
+					"showed interest in painting at a young age"
+				]
+			},
+			{
+				"start": 1858,
+				"end": 1874,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied painting under various masters",
+					"befriended Édouard Manet"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1886,
+				"happiness": 9,
+				"location": "Paris, France",
+				"events": [
+					"became one of the founding members of the Impressionists",
+					"marriage to Eugene Manet"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"death of Eugene Manet",
+					"continued painting despite the loss"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism"
+		]
+	}
+]

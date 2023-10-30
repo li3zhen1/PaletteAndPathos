@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Irma Stern",
+		"keywords": [
+			"African culture",
+			"expressionism",
+			"still life",
+			"portraits",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1900,
+				"happiness": 3,
+				"location": "Schweizer-Reneke, South Africa",
+				"events": [
+					"Born to German-Jewish parents"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1913,
+				"happiness": 5,
+				"location": "Germany",
+				"events": [
+					"Moved to Germany due to the South African War"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Germany",
+				"events": [
+					"Studied art in Germany",
+					"Became part of the German Expressionist circle"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1966,
+				"happiness": 8,
+				"location": "Cape Town, South Africa",
+				"events": [
+					"Returned to South Africa",
+					"Gained recognition as a leading South African artist"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Portraiture",
+			"Still life"
+		]
+	}
+]

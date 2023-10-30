@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Leon Spilliaert",
+		"keywords": [
+			"isolation",
+			"mystery",
+			"introspection",
+			"nature",
+			"night"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1898,
+				"happiness": 7,
+				"location": "Ostend, Belgium",
+				"events": []
+			},
+			{
+				"start": 1898,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Bruges, Belgium",
+				"events": [
+					"was employed in his father's shop",
+					"joined the socialist labor union",
+					"began to show his drawings publicly"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Ostend, Belgium",
+				"events": [
+					"first exhibition at the Brussels Libre Esthétique",
+					"met James Ensor, who became one of his closest friends"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Brussels, Belgium",
+				"events": [
+					"worked as a librarian",
+					"was largely ignored by the artistic community"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Expressionism"
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Alan Cote",
+		"keywords": [
+			"abstract",
+			"rural",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 2015,
+				"happiness": 5,
+				"location": "Hoosick, New York",
+				"events": [
+					"Created a distinctive abstract vocabulary",
+					"Known for his pictographic style"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Rural"
+		]
+	}
+]

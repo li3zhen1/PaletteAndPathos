@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Robert Irwin",
+		"keywords": [
+			"minimalism",
+			"site specificity",
+			"light",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Long Beach, California",
+				"events": [
+					"Graduated high school"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"Enrolled in Jepson Art Institute",
+					"Started study in Otis Art Institute"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1970,
+				"happiness": 8,
+				"location": "Los Angeles and San Diego, California",
+				"events": [
+					"Developed his art style",
+					"Participated in the core of hard-edge painters"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2000,
+				"happiness": 7,
+				"location": "San Diego, California",
+				"events": [
+					"Started focusing on site-specific art",
+					"Worked on drastic transformation of an abandoned hospital in Dia:Beacon"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 6,
+				"location": "San Diego, California",
+				"events": [
+					"Continued working on site-specific installations",
+					"Kept innovating with lights and space in art"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Site-specific art",
+			"Installation art"
+		]
+	}
+]

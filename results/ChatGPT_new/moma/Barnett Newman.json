@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Barnett Newman",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"color field",
+			"simplicity",
+			"spirituality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1913,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Born to Jewish immigrants parents"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1923,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Started education",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1934,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Pursued art in City College of New York",
+					"Started teaching at high school"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1944,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Marriage with Annalee Greenhouse",
+					"Started painting again after pause"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1959,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Created 'Onement I'",
+					"Rise to prominence in the art world"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Featured in major exhibitions",
+					"Suffered heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color Field"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Wally Hedrick",
+		"keywords": [
+			"social politics",
+			"protest",
+			"nudity",
+			"abstract",
+			"monochromatic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Pasadena, California",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Europe",
+				"events": [
+					"Served in the military during World War II"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 7,
+				"location": "San Francisco, California",
+				"events": [
+					"Studied at the California School of Fine Arts",
+					"Co-founded the Six Gallery"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 5,
+				"location": "San Francisco, California",
+				"events": [
+					"Expressed his protest against the Vietnam War through his artworks"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2003,
+				"happiness": 6,
+				"location": "Northern California",
+				"events": [
+					"Focused on teaching art",
+					"His work was recognized by a larger audience",
+					"Continued creating protest art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Assemblage",
+			"Protest Art"
+		]
+	}
+]

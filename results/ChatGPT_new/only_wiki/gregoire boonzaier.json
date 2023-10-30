@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Gregoire Boonzaier",
+		"keywords": [
+			"social realism",
+			"portraits",
+			"landscapes",
+			"realistic",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1909,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Cape Town",
+				"events": [
+					"began art studies under his father's guidance"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Europe",
+				"events": [
+					"studied art in Europe",
+					"became influenced by expressionism"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Cape Town",
+				"events": [
+					"co-founded the New Group"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 2005,
+				"happiness": 7,
+				"location": "Cape Town",
+				"events": [
+					"became one of the South Africa's leading artists",
+					"created works reflecting social realities of South Africa"
+				]
+			}
+		],
+		"genre": [
+			"social realism",
+			"expressionism"
+		]
+	}
+]

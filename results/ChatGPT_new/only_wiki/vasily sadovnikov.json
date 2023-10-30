@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Vasily Sadovnikov",
+		"keywords": [
+			"architecture",
+			"cities",
+			"Realism",
+			"perspective",
+			"documentary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1800,
+				"end": 1824,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied in the Imperial Academy of Arts under Maxim Vorobiev"
+				]
+			},
+			{
+				"start": 1824,
+				"end": 1844,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"became an Academician",
+					"mastered the art of lithography"
+				]
+			},
+			{
+				"start": 1844,
+				"end": 1877,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": []
+			}
+		],
+		"genre": [
+			"Cityscape",
+			"Landscape",
+			"Realism"
+		]
+	}
+]

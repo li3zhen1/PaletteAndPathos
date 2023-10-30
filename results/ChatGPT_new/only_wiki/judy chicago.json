@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Judy Chicago",
+		"keywords": [
+			"feminism",
+			"birth",
+			"domesticity",
+			"identity",
+			"womanhood"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Chicago",
+				"events": [
+					"born",
+					"began art studies"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"joined feminist art movement",
+					"created Pasadena Lifesavers series"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"founded the Feminist Studio Workshop",
+					"created The Dinner Party"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New Mexico",
+				"events": [
+					"continued work in feminist art",
+					"conceptualized The Holocaust Project"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New Mexico",
+				"events": [
+					"worked on The End: A Meditation on Death and Extinction",
+					"continued as a leading feminist artist"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual art",
+			"Feminist art"
+		]
+	}
+]

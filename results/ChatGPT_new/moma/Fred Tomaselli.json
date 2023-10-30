@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Fred Tomaselli",
+		"keywords": [
+			"modernism",
+			"culture",
+			"nature",
+			"psychedelic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1956,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Santa Monica, California",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1985,
+				"happiness": 4,
+				"location": "Los Angeles",
+				"events": [
+					"Received his Bachelor of Arts Degree from California State University, Fullerton"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1995,
+				"happiness": 6,
+				"location": "Brooklyn, New York",
+				"events": [
+					"Moved to New York",
+					"Exhibited his work extensively"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Brooklyn, New York",
+				"events": [
+					"Work was included in numerous exhibitions",
+					"Gained recognition for his detailed works often involving themes of nature and psychedelia"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

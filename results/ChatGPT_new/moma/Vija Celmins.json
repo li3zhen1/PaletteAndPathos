@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Vija Celmins",
+		"keywords": [
+			"nature",
+			"realism",
+			"space",
+			"seascapes",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1944,
+				"happiness": 2,
+				"location": "Riga, Latvia",
+				"events": [
+					"Born into the beginning years of World War II"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Esslingen, Germany",
+				"events": [
+					"Moved to Germany due to war circumstances"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Indianapolis, USA",
+				"events": [
+					"Family emigrated to the USA",
+					"Became interested in art"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Los Angeles, California, USA",
+				"events": [
+					"Studied under Richard Diebenkorn at UCLA"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Venice, California, USA",
+				"events": [
+					"Started her famous ocean series",
+					"Explored photorealism"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York",
+					"Developed her iconic pencil drawings"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Photo-realism",
+			"Minimalism"
+		]
+	}
+]

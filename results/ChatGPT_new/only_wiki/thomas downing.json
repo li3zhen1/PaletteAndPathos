@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Thomas Downing",
+		"keywords": [
+			"abstraction",
+			"minimalism",
+			"color field"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Suffolk, Virginia",
+				"events": [
+					"Childhood and early education"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Served in the U.S. Army"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1950,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Studied at the Pratt Institute"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Washington D.C.",
+				"events": [
+					"Became part of the Washington Color School movement",
+					"Opened his first solo gallery"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1988,
+				"happiness": 4,
+				"location": "Provincetown, Massachusetts",
+				"events": [
+					"Struggled with health issues"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2001,
+				"happiness": 4,
+				"location": "Provincetown, Massachusetts",
+				"events": [
+					"Continued his artistic work despite health challenges"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Color Field"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Dana Schutz",
+		"keywords": [
+			"absurdity",
+			"human condition",
+			"fictitious scenarios",
+			"vivid expression",
+			"frank humor"
+		],
+		"lifePeriods": [
+			{
+				"start": 1976,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Livonia, Michigan, USA",
+				"events": [
+					"grew up",
+					"developed an interest in painting"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Cleveland, Ohio, USA",
+				"events": [
+					"attended Cleveland Institute of Art",
+					"received BFA in 2000"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2002,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"attended Columbia University for MFA"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Brooklyn, New York, USA",
+				"events": [
+					"started her professional art career",
+					"gained prominence"
+				]
+			}
+		],
+		"genre": [
+			"figurative painting",
+			"expressive abstraction"
+		]
+	}
+]

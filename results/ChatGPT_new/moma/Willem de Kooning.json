@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Willem de Kooning",
+		"keywords": [
+			"abstract",
+			"figurative",
+			"urban",
+			"feminine",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1916,
+				"happiness": 4,
+				"location": "Rotterdam, Netherland",
+				"events": [
+					"Born into a poor family"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Rotterdam, Netherland",
+				"events": [
+					"Apprenticeship at a design and decorating firm"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1950,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"Immigrated to the United States",
+					"Struggled with alcoholism"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1989,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Emergence as a prominent artist",
+					"Developed Alzheimer's disease"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 1997,
+				"happiness": 3,
+				"location": "New York, United States",
+				"events": [
+					"Continued to create art despite health issues",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Figurative art"
+		]
+	}
+]

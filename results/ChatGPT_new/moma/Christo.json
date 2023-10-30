@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Christo",
+		"keywords": [
+			"public art",
+			"environment",
+			"temporary works",
+			"fabric",
+			"monuments"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1957,
+				"happiness": 3,
+				"location": "Sofia, Bulgaria",
+				"events": [
+					"enrolled in Fine Arts Academy",
+					"fled from communism"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"met Jeanne-Claude",
+					"started creating wrapped objects"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"collaborated with Jeanne-Claude on large-scale projects",
+					"Jeanne-Claude passed away in 2009"
+				]
+			}
+		],
+		"genre": [
+			"Environmental art",
+			"Conceptual art",
+			"Site-specific art"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Giorgio Cavallon",
+		"keywords": [
+			"abstract",
+			"color",
+			"light",
+			"planes",
+			"humanity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1919,
+				"happiness": 4,
+				"location": "Sabbioneta, Italy",
+				"events": [
+					"born into a poor family"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 6,
+				"location": "United States",
+				"events": [
+					"immigrated to the U.S.",
+					"attended the National Academy of Design and the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"joined the American Abstract Artists group"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1989,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"his work gained recognition",
+					"exhibited at notable museums"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Georges Mathieu",
+		"keywords": [
+			"abstract",
+			"spontaneity",
+			"emotion",
+			"energy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Boulogne-sur-Mer, France",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1946,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied philosophy",
+					"worked for American Express"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"founded the art movement 'Lyrical Abstraction'",
+					"started painting abstractly"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"recognized as one of the leaders of the Tachisme movement",
+					"experimented with performance painting"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"developed a style of painting using long fast brushstrokes"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2012,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"continued to innovate in his artwork",
+					"awarded Legion of Honour by the French government"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Tachisme",
+			"Lyrical Abstraction"
+		]
+	}
+]

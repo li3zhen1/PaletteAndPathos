@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Alfred Sisley",
+		"keywords": [
+			"landscape",
+			"neutral colors",
+			"impressionism",
+			"nature",
+			"rural"
+		],
+		"lifePeriods": [
+			{
+				"start": 1839,
+				"end": 1847,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Born to wealthy English parents"
+				]
+			},
+			{
+				"start": 1848,
+				"end": 1857,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Spent early childhood in London",
+					"Developed interest in landscape art"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1874,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied at ecole des beaux-arts",
+					"Discovered impressionism",
+					"Met other artists like Monet and Renoir"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1892,
+				"happiness": 4,
+				"location": "Moret-sur-Loing, France",
+				"events": [
+					"Participated in first impressionist exhibition",
+					"Financial hardship after banking crash of his father's business"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1899,
+				"happiness": 3,
+				"location": "Moret-sur-Loing, France",
+				"events": [
+					"Continued to live in financial difficulties",
+					"Death from throat cancer"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism"
+		]
+	}
+]

@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Carlos Merida",
+		"keywords": [
+			"geometric",
+			"folklore",
+			"modernism",
+			"mysticism",
+			"Guatemala"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1894,
+				"happiness": 5,
+				"location": "Guatemala City",
+				"events": [
+					"Born in Guatemala City"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Studied art in Paris",
+					"Influenced by modern European art trends"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1922,
+				"happiness": 7,
+				"location": "Mexico City",
+				"events": [
+					"Moved to Mexico",
+					"Began integrating Mexican cultural elements into his work"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1968,
+				"happiness": 8,
+				"location": "Mexico City",
+				"events": [
+					"Became a leading member of the Mexican muralism movement",
+					"Developed his signature geometric style",
+					"Affected by the turbulent political events but transformed them into his art projects"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1984,
+				"happiness": 5,
+				"location": "Mexico City",
+				"events": [
+					"Continued to produce influential work",
+					"Passed away in Mexico City"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"muralism",
+			"geometric art"
+		]
+	}
+]

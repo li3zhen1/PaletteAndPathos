@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Reena Spaulings",
+		"keywords": [
+			"Collective",
+			"Conceptual",
+			"Performance",
+			"Modern Life"
+		],
+		"lifePeriods": [
+			{
+				"start": 2004,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Establishment of Reena Spaulings Fine Art gallery",
+					"First exhibition at Whitney Biennial"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Performance Art"
+		]
+	}
+]

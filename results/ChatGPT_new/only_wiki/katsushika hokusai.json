@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Katsushika Hokusai",
+		"keywords": [
+			"nature",
+			"waves",
+			"Mount Fuji",
+			"Edo period",
+			"woodblock prints"
+		],
+		"lifePeriods": [
+			{
+				"start": 1760,
+				"end": 1790,
+				"happiness": 6,
+				"location": "Edo, Japan",
+				"events": [
+					"Began his career as a painter"
+				]
+			},
+			{
+				"start": 1790,
+				"end": 1805,
+				"happiness": 7,
+				"location": "Edo, Japan",
+				"events": [
+					"Adopted the name Hokusai",
+					"Began to create his early ukiyo-e woodblock prints"
+				]
+			},
+			{
+				"start": 1805,
+				"end": 1820,
+				"happiness": 7,
+				"location": "Edo, Japan",
+				"events": [
+					"First published book of sketches",
+					"Began making prints of actors and everyday life"
+				]
+			},
+			{
+				"start": 1820,
+				"end": 1832,
+				"happiness": 8,
+				"location": "Edo, Japan",
+				"events": [
+					"Creation of Thirty-Six Views of Mount Fuji series",
+					"Gained considerable fame in Japan"
+				]
+			},
+			{
+				"start": 1832,
+				"end": 1849,
+				"happiness": 5,
+				"location": "Edo, Japan",
+				"events": [
+					"Struggles with financial difficulties",
+					"Continued to produce works"
+				]
+			}
+		],
+		"genre": [
+			"Ukiyo-e",
+			"woodblock prints",
+			"landscape art"
+		]
+	}
+]

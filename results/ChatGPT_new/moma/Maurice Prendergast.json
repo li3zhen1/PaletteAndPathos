@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Maurice Prendergast",
+		"keywords": [
+			"leisure activities",
+			"festive",
+			"scenic",
+			"beaches",
+			"city parks"
+		],
+		"lifePeriods": [
+			{
+				"start": 1858,
+				"end": 1868,
+				"happiness": 5,
+				"location": "St. John's, Newfoundland",
+				"events": [
+					"Moved with family to Boston"
+				]
+			},
+			{
+				"start": 1868,
+				"end": 1886,
+				"happiness": 5,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Worked in a shop designing and painting trade cards"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1895,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Atelier Julien",
+					"Visited Venice, Italy which heavily influenced his art"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1898,
+				"happiness": 6,
+				"location": "Boston, Massachusetts",
+				"events": []
+			},
+			{
+				"start": 1898,
+				"end": 1914,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Became part of The Eight, an artist group focused on urban realism"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1924,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"His health deteriorated"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Fauvism"
+		]
+	}
+]

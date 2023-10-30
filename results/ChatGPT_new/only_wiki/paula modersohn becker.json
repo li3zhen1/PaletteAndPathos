@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Paula Modersohn-Becker",
+		"keywords": [
+			"nature",
+			"women",
+			"portraits",
+			"motherhood",
+			"self-portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1888,
+				"happiness": 5,
+				"location": "Dresden-Friedrichstadt, Germany",
+				"events": [
+					"birth",
+					"early childhood"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Bremen, Germany",
+				"events": [
+					"Primary education",
+					"early interest in art"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1898,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"worked as a tutor in an English girls' boarding school"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1901,
+				"happiness": 6,
+				"location": "Worpswede, Germany",
+				"events": [
+					"Joined the Worpswede artist colony",
+					"met future husband Otto Modersohn"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Worpswede, Germany",
+				"events": [
+					"married Otto Modersohn",
+					"traveled to Paris for artistic inspiration"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1907,
+				"happiness": 5,
+				"location": "Worpswede, Germany",
+				"events": [
+					"Gave birth to her daughter",
+					"unexpected death"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Expressionism"
+		]
+	}
+]

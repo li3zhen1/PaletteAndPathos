@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Jean-Paul Lemieux",
+		"keywords": [
+			"loneliness",
+			"silence",
+			"space",
+			"nordicity",
+			"time"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Quebec City, Canada",
+				"events": [
+					"Born in Quebec City"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Quebec City, Canada",
+				"events": [
+					"Developed interest in painting",
+					"Began studying art"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Académie de la Grande Chaumière in Paris"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"Became a professor at the École des beaux-arts de Montréal"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Quebec City, Canada",
+				"events": [
+					"Won the Governor General’s Award",
+					"Made a Companion of the Order of Canada"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Quebec City, Canada",
+				"events": [
+					"Received honorary doctorate from several universities",
+					"Induction into the National Order of Quebec"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1990,
+				"happiness": 8,
+				"location": "Quebec City, Canada",
+				"events": [
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"Portraiture",
+			"Still Life"
+		]
+	}
+]

@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Wolfgang Paalen",
+		"keywords": [
+			"surrealism",
+			"space",
+			"cosmology",
+			"primitivism",
+			"landscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"Born into a wealthy and cultured Viennese family"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied painting and sculpture",
+					"became interested in surrealism"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Joined the surrealist movement",
+					"exhibited in international surrealist exhibitions",
+					"Broke with the surrealists over philosophical differences"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Emigrated to Mexico",
+					"established the Dynaton movement"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1966,
+				"happiness": 2,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Suffered from depression",
+					"committed suicide"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"abstract art",
+			"primitivism"
+		]
+	}
+]

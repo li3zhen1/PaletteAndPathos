@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Gustave Caillebotte",
+		"keywords": [
+			"urban life",
+			"perspective",
+			"realism",
+			"garden",
+			"workmanship"
+		],
+		"lifePeriods": [
+			{
+				"start": 1848,
+				"end": 1866,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"born to wealthy family"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1873,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"graduated with a Law degree",
+					"served in Franco-Prussian War"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1874,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied painting",
+					"inherited family fortune"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1882,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"helped organize the First Impressionist Exhibition",
+					"served as patron for fellow artists"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1894,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"purchased property at Petit Gennevilliers",
+					"focused on gardening and yachting"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

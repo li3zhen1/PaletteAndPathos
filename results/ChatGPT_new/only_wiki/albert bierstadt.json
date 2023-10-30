@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Albert Bierstadt",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"westward expansion",
+			"sentimentality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1830,
+				"end": 1853,
+				"happiness": 6,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"studied fine art at Düsseldorf School"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1860,
+				"happiness": 7,
+				"location": "New Bedford, Massachusetts, United States",
+				"events": [
+					"became a member of the National Academy of Design",
+					"sold his first large painting"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1863,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"joined a government survey expedition to Western United States"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1897,
+				"happiness": 5,
+				"location": "Irvington, New York, United States",
+				"events": [
+					"continued to paint and exhibit works",
+					"faced financial troubles"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1902,
+				"happiness": 4,
+				"location": "New York City, United States",
+				"events": [
+					"struggled with post-stroke recovery"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Hudson River school",
+			"Luminism"
+		]
+	}
+]

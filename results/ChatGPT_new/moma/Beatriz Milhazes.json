@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Beatriz Milhazes",
+		"keywords": [
+			"colorful",
+			"abstract",
+			"organic",
+			"geometric",
+			"Brazilian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1960,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"born into a family of intellectuals"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"studied at the School of Visual Arts"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"established herself as a prominent contemporary Brazilian artist",
+					"joined the Carnaval Samba School Mangueira"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"her work was exhibited internationally",
+					"her artwork 'Meu Limão' was sold at Sotheby's for $2.1 million"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Contemporary art"
+		]
+	}
+]

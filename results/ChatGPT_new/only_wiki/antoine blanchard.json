@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Antoine Blanchard",
+		"keywords": [
+			"Paris",
+			"19th Century",
+			"landscape",
+			"city life",
+			"Impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Loire Valley",
+				"events": [
+					"born in a small village in France",
+					"found passion for painting in a young age"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Rennes",
+				"events": [
+					"studied art at an Art School in Rennes"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"moved to Paris to join École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"built his career painting Parisian streets",
+					"became well-known for his Paris cityscapes"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Landscape Art"
+		]
+	}
+]

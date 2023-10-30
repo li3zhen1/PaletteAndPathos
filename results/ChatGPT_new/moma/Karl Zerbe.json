@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Karl Zerbe",
+		"keywords": [
+			"expressionism",
+			"human condition",
+			"surrealism",
+			"birds"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"Born into a middle-class family"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"World War I erupted, impacting his early life",
+					"Studied at the Charlottenburg Technische Hochschule"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"Opened his first art studio",
+					"Rejected from the Berlin Secession exhibition"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1937,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"The rise of the Nazi regime",
+					"Immigrated to the United States for safety"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Boston, United States",
+				"events": [
+					"Became a teacher at the School of the Museum of Fine Arts",
+					"Developed his encaustic painting technique"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Tallahassee, United States",
+				"events": [
+					"Became a professor at Florida State University",
+					"Created nature and wildlife paintings"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1979,
+				"happiness": 5,
+				"location": "Tallahassee, United States",
+				"events": [
+					"Retired from teaching",
+					"Continued to paint and exhibit his work"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Surrealism",
+			"Boston Expressionism"
+		]
+	}
+]

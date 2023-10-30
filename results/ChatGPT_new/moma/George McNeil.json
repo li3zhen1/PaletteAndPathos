@@ -1,0 +1,65 @@
+[
+	{
+		"name": "George McNeil",
+		"keywords": [
+			"Expressionism",
+			"Abstract",
+			"Cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1926,
+				"happiness": 6,
+				"location": "New York City, US",
+				"events": [
+					"Started training as a painter"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 7,
+				"location": "New York City, US",
+				"events": [
+					"Studied at Pratt Institute",
+					"Studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1939,
+				"happiness": 6,
+				"location": "New York City, US",
+				"events": [
+					"Joined the Federal Art Project"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 5,
+				"location": "New York City, US",
+				"events": [
+					"Led a career as both an artist and teacher",
+					"Started teaching at Pratt Institute"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1995,
+				"happiness": 8,
+				"location": "New York City, US",
+				"events": [
+					"Fully transitioned to expressionism",
+					"Became known for his vibrant and emotive paintings"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Abstract art",
+			"Cubism"
+		]
+	}
+]

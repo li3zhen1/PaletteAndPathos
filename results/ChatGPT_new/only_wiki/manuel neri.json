@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Manuel Neri",
+		"keywords": [
+			"sculpture",
+			"figure",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 2012,
+				"happiness": 7,
+				"location": "Sanger, California, USA",
+				"events": [
+					"Born to Mexican parents",
+					"Grew up during the Great Depression"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1952,
+				"happiness": 6,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Attended San Francisco City College",
+					"Briefly studied engineering and mathematics"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1955,
+				"happiness": 5,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Served in the U.S. Army during the Korean War"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1959,
+				"happiness": 8,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Studied art at the California College of Arts and Crafts",
+					"Joined the student cooperative gallery, Six Gallery"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1966,
+				"happiness": 7,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Received a bachelor's degree and master's degree from California College of the Arts and Crafts",
+					"Started focusing on human figure in his works"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 2012,
+				"happiness": 8,
+				"location": "Carrara, Italy and San Francisco, California, USA",
+				"events": [
+					"Moved to Italy and primarily worked in marble",
+					"Received several awards and honors"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Figurative Art",
+			"Sculpture"
+		]
+	}
+]

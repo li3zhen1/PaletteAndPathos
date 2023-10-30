@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Edvard Munch",
+		"keywords": [
+			"anxiety",
+			"love",
+			"death",
+			"isolation",
+			"despair"
+		],
+		"lifePeriods": [
+			{
+				"start": 1863,
+				"end": 1879,
+				"happiness": 2,
+				"location": "Loten, Norway",
+				"events": [
+					"Mother died of tuberculosis"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1889,
+				"happiness": 4,
+				"location": "Oslo, Norway",
+				"events": [
+					"Studied at the Royal School of Art and Design",
+					"Father died"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1908,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"Developed an anxiety disorder",
+					"Painted 'The Scream'"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Oslo, Norway",
+				"events": [
+					"Returned to Norway",
+					"Worked on 'The Frieze of Life' series"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Expressionism"
+		]
+	}
+]

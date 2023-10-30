@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Larry Zox",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"hard-edge",
+			"minimalism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1958,
+				"happiness": 7,
+				"location": "Des Moines, Iowa",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1971,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"established reputation as geometric abstractionist",
+					"had breakthrough exhibition at the Whitney Museum"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2006,
+				"happiness": 5,
+				"location": "East Hampton, New York",
+				"events": [
+					"continued to produce artworks despite health challenges",
+					"relocated to East Hampton"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Geometric",
+			"Hard-edge"
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Yente (Eugenia Crenovich)",
+		"keywords": [
+			"expressionism",
+			"modernism",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"started her education in art",
+					"formed her initial style"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"recognition of her work in the Argentinian art scene",
+					"became member of the Modern Painters Group"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1998,
+				"happiness": 4,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"continued her artistic work despite the political unrest in Argentina",
+					"death of her husband"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"expressionism"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Erich Buchholz",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"factory worker",
+			"typography",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1910,
+				"happiness": 4,
+				"location": "Berlin, Germany",
+				"events": [
+					"born into a working-class family",
+					"trained as a lithographer"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"discovered contemporary abstract art",
+					"served in the first World War"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"participated in the November group",
+					"worked on typography and architecture"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"faced hardships during the second World War"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1972,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"continued his art work",
+					"died in 1972"
+				]
+			}
+		],
+		"genre": [
+			"constructivism",
+			"abstract art",
+			"typography"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Bartolomé Esteban Murillo",
+		"keywords": [
+			"religion",
+			"streetlife",
+			"children",
+			"poverty",
+			"bodegón"
+		],
+		"lifePeriods": [
+			{
+				"start": 1617,
+				"end": 1645,
+				"happiness": 6,
+				"location": "Seville, Spain",
+				"events": [
+					"began his art studies",
+					"first successful paintings"
+				]
+			},
+			{
+				"start": 1645,
+				"end": 1660,
+				"happiness": 7,
+				"location": "Seville, Spain",
+				"events": [
+					"married Beatriz Cabrera y Villalobos",
+					"born of their first child"
+				]
+			},
+			{
+				"start": 1660,
+				"end": 1670,
+				"happiness": 4,
+				"location": "Seville, Spain",
+				"events": [
+					"death of his wife Beatriz"
+				]
+			},
+			{
+				"start": 1670,
+				"end": 1682,
+				"happiness": 6,
+				"location": "Seville, Spain",
+				"events": [
+					"founded the Seville Academy of Art"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"religious"
+		]
+	}
+]

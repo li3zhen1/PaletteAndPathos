@@ -1,0 +1,28 @@
+[
+	{
+		"name": "John Russell",
+		"keywords": [
+			"portraits",
+			"color-based",
+			"soft pastel tones",
+			"sunsets",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1745,
+				"end": 1806,
+				"happiness": 7,
+				"location": "Guildford, England",
+				"events": [
+					"became a student at the Royal Academy",
+					"won a prize"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"landscape"
+		]
+	}
+]

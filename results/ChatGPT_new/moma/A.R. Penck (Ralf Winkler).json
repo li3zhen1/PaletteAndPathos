@@ -1,0 +1,54 @@
+[
+	{
+		"name": "A.R. Penck (Ralf Winkler)",
+		"keywords": [
+			"primitive",
+			"social issues",
+			"political",
+			"abstract",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Dresden, Germany",
+				"events": []
+			},
+			{
+				"start": 1949,
+				"end": 1968,
+				"happiness": 5,
+				"location": "East Berlin, East Germany",
+				"events": [
+					"Developed dominant stick-figure motifs",
+					"Rejected by the East German art establishment"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Dusseldorf, West Germany",
+				"events": [
+					"Gained acclaim in the West",
+					"Part of the dissident neo-expressionist movement"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2017,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"Work exhibited globally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Neo-expressionism"
+		]
+	}
+]

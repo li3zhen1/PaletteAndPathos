@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Abidin Dino",
+		"keywords": [
+			"suffering",
+			"love",
+			"nature",
+			"solidarity"
+		],
+		"genre": [
+			"illustration",
+			"painting"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1935,
+				"happiness": 6,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"Began art education",
+					"Joined the d Group, an avant-garde group of artists"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Worked for French art magazines"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1960,
+				"happiness": 3,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"Returned to Turkey due to World War II",
+					"Was tried and acquitted in the Independence Tribunal"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Gains international fame with his illustrations and paintings",
+					"Honored with the Legion of Honor by France"
+				]
+			}
+		]
+	}
+]

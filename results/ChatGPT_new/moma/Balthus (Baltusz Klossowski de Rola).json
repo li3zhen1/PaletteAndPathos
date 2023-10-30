@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Balthus (Baltusz Klossowski de Rola)",
+		"keywords": [
+			"adolescence",
+			"mystery",
+			"eroticism",
+			"scandal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"born to Polish émigré parents"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"developed an interest in art",
+					"painted his first self-portrait"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"married Antoinette de Watteville",
+					"produced the controversial painting 'The Guitar Lesson'"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1961,
+				"happiness": 6,
+				"location": "Chassy, France",
+				"events": [
+					"moved to Château de Chassy",
+					"worked on the series 'Portraits of Children'"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1977,
+				"happiness": 5,
+				"location": "Rossinière, Switzerland",
+				"events": [
+					"moved to Grand Chalet",
+					"started relationship with Setsuko Ideta"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 2001,
+				"happiness": 4,
+				"location": "Rossinière, Switzerland",
+				"events": [
+					"continued painting in old age",
+					"died in his home at Grand Chalet"
+				]
+			}
+		],
+		"genre": [
+			"modern art",
+			"realism"
+		]
+	}
+]

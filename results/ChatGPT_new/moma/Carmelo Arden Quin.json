@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Carmelo Arden Quin",
+		"keywords": [
+			"geometric abstraction",
+			"surrealism",
+			"cubism",
+			"innovation",
+			"avant-garde"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Rivera, Uruguay",
+				"events": [
+					"discovered his interest in poetry and art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"founded the MADI art movement",
+					"developed his unique Coplanar style"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1963,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"established himself within European avant-garde circles"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 2010,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"continued working on MADI",
+					"became respected in international art circles"
+				]
+			}
+		],
+		"genre": [
+			"Geometric abstraction",
+			"Surrealism",
+			"Cubism"
+		]
+	}
+]

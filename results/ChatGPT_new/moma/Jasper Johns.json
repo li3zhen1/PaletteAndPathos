@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Jasper Johns",
+		"keywords": [
+			"flags",
+			"numbers",
+			"maps",
+			"targets",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1949,
+				"happiness": 3,
+				"location": "Allendale, South Carolina",
+				"events": [
+					"Born into a troubled family",
+					"Raised by his paternal grandparents"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1953,
+				"happiness": 5,
+				"location": "Columbia, South Carolina",
+				"events": [
+					"Attended University of South Carolina",
+					"Drafted into the Army during the Korean War"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1960,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Moved to New York City after discharge from the Army",
+					"Met Robert Rauschenberg",
+					"Started creating his flag paintings"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"His work 'Flag' was purchased by the Museum of Modern Art",
+					"Received numerous awards"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Sharon, Connecticut",
+				"events": [
+					"Lived quietly in Connecticut in late life"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Dada",
+			"Pop Art"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Aldemir Martins",
+		"keywords": [
+			"animals",
+			"nature",
+			"figurative",
+			"printmaking",
+			"Brazilian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Ceará, Brazil",
+				"events": [
+					"Born in Ceara",
+					"Moved to Fortaleza and joined the Society of Plastic Arts"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Made his first individual exhibition",
+					"Received National Fine Arts Award"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied engraving and lithography"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 2006,
+				"happiness": 7,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Returned to Brazil",
+					"Created his emblematic rooster",
+					"Received the trophy 'Man of the Year in Fine Arts'"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Figurative art",
+			"Printmaking"
+		]
+	}
+]

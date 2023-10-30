@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Jules Perahim",
+		"keywords": [
+			"surrealism",
+			"figurative",
+			"poetic",
+			"fantasy",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1944,
+				"happiness": 3,
+				"location": "Bucharest, Romania",
+				"events": [
+					"started painting at a young age",
+					"exposed to surrealism"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 2008,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"emigrated to France after World War II",
+					"continued his artistic career while living in exile"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Figurative"
+		]
+	}
+]

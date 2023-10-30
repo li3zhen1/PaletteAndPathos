@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Raphael",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"architecture",
+			"beauty"
+		],
+		"lifePeriods": [
+			{
+				"start": 1483,
+				"end": 1491,
+				"happiness": 5,
+				"location": "Urbino, Duchy of Urbino",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1491,
+				"end": 1500,
+				"happiness": 4,
+				"location": "Perugia, Papal States",
+				"events": [
+					"Parenthood loss",
+					"The beginning of the apprenticeship with Perugino"
+				]
+			},
+			{
+				"start": 1500,
+				"end": 1508,
+				"happiness": 7,
+				"location": "Florence, Papal States",
+				"events": [
+					"Move to Florence",
+					"Influence of Leonardo da Vinci and Michelangelo"
+				]
+			},
+			{
+				"start": 1508,
+				"end": 1520,
+				"happiness": 8,
+				"location": "Rome, Papal States",
+				"events": [
+					"Commissioned by Pope Julius II to paint the Stanza della Segnatura",
+					"Appointed architect of St. Peter's Basilica"
+				]
+			}
+		],
+		"genre": [
+			"High Renaissance",
+			"Italian Renaissance",
+			"Religious Art"
+		]
+	}
+]

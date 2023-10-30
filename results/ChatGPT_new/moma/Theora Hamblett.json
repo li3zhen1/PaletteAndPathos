@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Theora Hamblett",
+		"keywords": [
+			"nature",
+			"communal",
+			"childhood",
+			"memory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1977,
+				"happiness": 7,
+				"location": "Paris, Mississippi",
+				"events": [
+					"Started her painting career",
+					"Her work was included in the 1954 USA show"
+				]
+			}
+		],
+		"genre": [
+			"visionary",
+			"folk"
+		]
+	}
+]

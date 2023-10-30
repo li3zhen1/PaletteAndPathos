@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Francis Alÿs",
+		"keywords": [
+			"urbanity",
+			"politics",
+			"migration",
+			"social issues",
+			"identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1959,
+				"end": 1986,
+				"happiness": 6,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"Born and raised",
+					"Educated as an architect"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Moved for a temporary architectural project",
+					"Decided to become an artist"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Established as a visual artist",
+					"Started focusing on public actions"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Continued extensive conceptual and performance work",
+					"Made significant contributions to contemporary art"
+				]
+			}
+		],
+		"genre": [
+			"contemporary",
+			"conceptual",
+			"performance"
+		]
+	}
+]

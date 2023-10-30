@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Louis Marcoussis",
+		"keywords": [
+			"Cubism",
+			"Still life",
+			"Portraits",
+			"Mythology",
+			"Abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Warsaw",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"entered School of Fine Arts",
+					"changed his name to 'Marcoussis'"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"first solo exhibition",
+					"met Pablo Picasso"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "France",
+				"events": [
+					"served as an interpreter during World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"active art life",
+					"met and collaborated with writers and poets"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1941,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"War anxiety",
+					"died in occupied France"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Portrait",
+			"Still life"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Leonardo Cremonini",
+		"keywords": [
+			"surrealism",
+			"realism",
+			"isolation",
+			"emptiness",
+			"everyday life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 2010,
+				"happiness": 5,
+				"location": "Bologna, Italy",
+				"events": [
+					"born in Bologna, Italy"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Bologna, Italy",
+				"events": [
+					"studied at the Academy of Fine Arts in Bologna"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"established his artistic career"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2010,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"continued his painting career",
+					"exhibited internationally"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Realism"
+		]
+	}
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Fyodor Bronnikov",
+		"keywords": [
+			"history",
+			"mythology",
+			"justice",
+			"Greek",
+			"Roman"
+		],
+		"lifePeriods": [
+			{
+				"start": 1827,
+				"end": 1852,
+				"happiness": 5,
+				"location": "Shadrinsk",
+				"events": [
+					"born into a family of serfs",
+					"sent to the Moscow School of Painting"
+				]
+			},
+			{
+				"start": 1852,
+				"end": 1857,
+				"happiness": 6,
+				"location": "Rome",
+				"events": [
+					"received a scholarship to the Imperial Academy of Arts",
+					"became a professor"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1863,
+				"happiness": 6,
+				"location": "Rome",
+				"events": []
+			},
+			{
+				"start": 1863,
+				"end": 1871,
+				"happiness": 7,
+				"location": "Rome",
+				"events": [
+					"started to actively participate in exhibitions"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Rome",
+				"events": [
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"history genre",
+			"mythological subjects",
+			"portrait"
+		]
+	}
+]

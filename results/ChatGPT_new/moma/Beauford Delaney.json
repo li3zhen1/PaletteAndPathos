@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Beauford Delaney",
+		"keywords": [
+			"abstraction",
+			"portrait",
+			"figure",
+			"color",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1915,
+				"happiness": 4,
+				"location": "Knoxville, Tennessee",
+				"events": [
+					"Raised in a large family",
+					"Discovered passion for art"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Moved to Boston",
+					"Studied art at the Massachusetts Normal School"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1929,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"Participated in Harlem Renaissance"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1953,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"Started painting abstract portraits",
+					" Meet and became friends with James Baldwin"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1972,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris and embraced abstract expressionism",
+					"Came out as gay"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1979,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Suffered mental and physical decline",
+					"Hospitalized for psychological issues"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Portraiture"
+		]
+	}
+]

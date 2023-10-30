@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Konrad Witz",
+		"keywords": [
+			"religious",
+			"biblical scenes",
+			"landscapes",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1400,
+				"end": 1446,
+				"happiness": 5,
+				"location": "Rottweil, Germany",
+				"events": [
+					"majority of his known work produced"
+				]
+			}
+		],
+		"genre": [
+			"religious painting",
+			"portraiture"
+		]
+	}
+]

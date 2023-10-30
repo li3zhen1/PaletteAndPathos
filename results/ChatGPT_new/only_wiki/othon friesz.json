@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Othon Friesz",
+		"keywords": [
+			"Fauvism",
+			"Expressionism",
+			"impressionistic",
+			"modernism",
+			"colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1879,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Le Havre, France",
+				"events": [
+					"studied at the Ecole des Beaux-Arts in Paris",
+					"met Raoul Dufy and Georges Braque who became close friends"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1907,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"participated in the Fauvist movement",
+					"exhibited at the Salon des Indépendants"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"returned to a more rigid and volume-oriented art",
+					"influenced by Cezanne"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "French Army, World War I",
+				"events": [
+					"served in the French Army during World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"returned to Paris",
+					"provided inspiration for the new generation of French painters"
+				]
+			}
+		],
+		"genre": [
+			"Fauvist",
+			"Expressionist",
+			"Impressionistic"
+		]
+	}
+]

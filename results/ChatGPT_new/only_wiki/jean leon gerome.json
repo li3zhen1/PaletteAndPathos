@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Jean-Léon Gérôme",
+		"keywords": [
+			"Orientalism",
+			"Classicism",
+			"History",
+			"Genre scenes",
+			"Academicism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1824,
+				"end": 1847,
+				"happiness": 6,
+				"location": "Vesoul, France",
+				"events": [
+					"Started artistic training at age 14"
+				]
+			},
+			{
+				"start": 1847,
+				"end": 1851,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied under Paul Delaroche",
+					"Traveled to Italy and across Europe"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1860,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Returned to Paris",
+					"Began teaching at Ecole des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1880,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Married Marie Goupil",
+					"Became an influential and successful artist"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1904,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Made several trips to the Middle East and North Africa",
+					"Passed away at age 79"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Sculpture",
+			"Orientalism"
+		]
+	}
+]

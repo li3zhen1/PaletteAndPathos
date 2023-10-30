@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Nikolaos Lytras",
+		"keywords": [
+			"figurative",
+			"portraits",
+			"landscapes",
+			"genre-scenes",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1902,
+				"happiness": 5,
+				"location": "Tinos, Greece",
+				"events": [
+					"born in Tinos",
+					"early education in arts by his father"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Athens, Greece",
+				"events": [
+					"studied at the Athens School of Fine Arts",
+					"won a scholarship for Paris"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1911,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Ecole des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Athens, Greece",
+				"events": [
+					"appointed teacher at the Athens School of Fine Arts",
+					"won gold medal at the Olympia Art Exhibition"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1929,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"exhibited work in the US",
+					"travelled and painted"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"visited Europe",
+					"exposed to modernist developments"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1936,
+				"happiness": 4,
+				"location": "Athens, Greece",
+				"events": [
+					"died in Athens"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Portraits",
+			"Genre painting"
+		]
+	}
+]

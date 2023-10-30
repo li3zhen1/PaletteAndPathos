@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Etel Adnan",
+		"keywords": [
+			"nature",
+			"love",
+			"war",
+			"place",
+			"identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1955,
+				"happiness": 3,
+				"location": "Beirut, Lebanon",
+				"events": [
+					"Born and raised during period of political unrest",
+					"Studied philosophy at the Université de Paris"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1972,
+				"happiness": 6,
+				"location": "California, USA",
+				"events": [
+					"Continued philosophy studies at University of California, Berkeley",
+					"Began painting and writing"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2004,
+				"happiness": 5,
+				"location": "Sausalito, California, USA",
+				"events": [
+					"Active in women's rights movement",
+					"Wrote 'Sitt Marie-Rose', a novel on the Lebanese Civil War"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Achieved recognition in the art world",
+					"Exhibited artwork at Documenta 13"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Visual Poetry",
+			"Literature"
+		]
+	}
+]

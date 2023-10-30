@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Armando Pizzinato",
+		"keywords": [
+			"working class",
+			"communism",
+			"nature",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Pordenone, Italy",
+				"events": [
+					"learned to paint at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Turin and Milan, Italy",
+				"events": [
+					"fought in the Italian resistance during WWII"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Rome and Venice, Italy",
+				"events": [
+					"joined the Fronte Nuovo delle Arti",
+					"participated in the Biennale of Venice"
+				]
+			}
+		],
+		"genre": [
+			"Socialist Realism"
+		]
+	}
+]

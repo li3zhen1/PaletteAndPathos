@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Geneviève Asse",
+		"keywords": [
+			"minimalism",
+			"nature",
+			"blue",
+			"abstraction",
+			"serene"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1938,
+				"happiness": 4,
+				"location": "Vannes, France",
+				"events": [
+					"born in Vannes",
+					"early interest in art"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"studies at the National School of Decorative Arts",
+					"World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"started to gain recognition",
+					"won the Young Painting Prize"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Île-de-Bréhat, France",
+				"events": [
+					"retired to Île-de-Bréhat",
+					"continued to paint"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modernism"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Pamela Bianco",
+		"keywords": [
+			"portraits",
+			"child prodigy",
+			"mysticism",
+			"fantasy",
+			"surrealism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1921,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"discovered by famed artist James McNeill Whistler",
+					"published her first book of illustrations"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1940,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"exhibited at the Ferargil Gallery",
+					"married writer and journalist Ferdinand Earle"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Mexico",
+				"events": [
+					"divorced with Earle",
+					"faced depression"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1994,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"focused on spirituality in her arts"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"illustration"
+		]
+	}
+]

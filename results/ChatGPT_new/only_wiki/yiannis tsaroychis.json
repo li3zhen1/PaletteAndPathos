@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Yannis Tsarouchis",
+		"keywords": [
+			"homosexuality",
+			"masculinity",
+			"love",
+			"Greek mythology",
+			"despair"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1932,
+				"happiness": 4,
+				"location": "Athens, Greece",
+				"events": [
+					"Started painting at age fifteen",
+					"Attended Athens School of Fine Arts"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Traveled to Paris for the first time",
+					"Met Picasso"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Athens, Greece",
+				"events": [
+					"Established the 'Armos' publishing organization",
+					"Opened his own theatre, 'Kentrikon'"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1989,
+				"happiness": 7,
+				"location": "Athens, Greece",
+				"events": [
+					"Presented a large part of his work at the National Gallery in Athens",
+					"Traveled extensively"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Social Realism"
+		]
+	}
+]

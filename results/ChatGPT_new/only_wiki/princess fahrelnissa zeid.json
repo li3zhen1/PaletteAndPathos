@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Fahrelnissa Zeid",
+		"keywords": [
+			"abstract",
+			"portraits",
+			"colorful",
+			"scale",
+			"Islamic art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Istanbul, Ottoman Empire",
+				"events": [
+					"began painting at the early age of 14"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"studied painting, married and had three children"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1934,
+				"happiness": 6,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"continued her art studies, divorced her first husband",
+					"married her second husband, Prince Zeid Al-Hussein"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Paris, France and London, England",
+				"events": [
+					"became known in the European arts scene",
+					"exhibited her works across Europe"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Amman, Jordan",
+				"events": [
+					"taught art and opened an art institute"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Avant-garde"
+		]
+	}
+]

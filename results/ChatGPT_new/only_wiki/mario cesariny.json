@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Mario Cesariny",
+		"keywords": [
+			"surrealism",
+			"poetry",
+			"abstraction",
+			"experimental",
+			"personal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"born in Lisbon"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"studied painting at the School of Fine Arts in Lisbon"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1951,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1974,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"established himself as a poet and painter",
+					"rounded the surrealist movement in Lisbon"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2006,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Received the Poetry Prize of the Portuguese Writers' Association",
+					"his work became recognized and acclaimed"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract painting"
+		]
+	}
+]

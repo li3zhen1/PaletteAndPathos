@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Tom Thomson",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"rural",
+			"wilderness",
+			"seasons"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Claresholm, Alberta",
+				"events": [
+					"grew up on a farm"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1909,
+				"happiness": 6,
+				"location": "Seattle, Washington",
+				"events": [
+					"Worked as a graphic designer",
+					"developed interest in painting"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Algonquin Park, Ontario",
+				"events": [
+					"Became full-time artist",
+					"produced most of his famous works"
+				]
+			}
+		],
+		"genre": [
+			"Art Nouveau",
+			"Post-Impressionism"
+		]
+	}
+]

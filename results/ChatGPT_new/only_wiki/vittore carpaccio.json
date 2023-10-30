@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Vittore Carpaccio",
+		"keywords": [
+			"realism",
+			"religious",
+			"struggle",
+			"society",
+			"legend"
+		],
+		"lifePeriods": [
+			{
+				"start": 1465,
+				"end": 1525,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Studied painting under Gentile Bellini",
+					"Appointed into the Fraglia dei Pittori, the guild of Venetian painters"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Religious Painting"
+		]
+	}
+]

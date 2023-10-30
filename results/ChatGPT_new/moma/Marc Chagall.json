@@ -1,0 +1,97 @@
+[
+	{
+		"name": "Marc Chagall",
+		"keywords": [
+			"love",
+			"dreams",
+			"religion",
+			"childhood",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1906,
+				"happiness": 5,
+				"location": "Vitebsk, Belarus",
+				"events": [
+					"born and spent childhood"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied at the Imperial Society for the Protection of the Arts",
+					"Met Bella Rosenfeld, his future wife"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"joined the art scene in Montparnasse",
+					"introduced to avant-garde style"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Vitebsk, Belarus",
+				"events": [
+					"Married Bella Rosenfeld",
+					"first child, Ida, was born"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1922,
+				"happiness": 4,
+				"location": "Vitebsk, Belarus",
+				"events": [
+					"appointed Commissar for Art",
+					"founded Vitebsk Popular Art School"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"returned to Paris",
+					"gained recognition in the art world"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1948,
+				"happiness": 2,
+				"location": "New York, USA",
+				"events": [
+					"fled from Nazi France during World War II",
+					"Bella died in 1944"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1985,
+				"happiness": 5,
+				"location": "France",
+				"events": [
+					"returned to France",
+					"continued to create art until his death"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Symbolism"
+		]
+	}
+]

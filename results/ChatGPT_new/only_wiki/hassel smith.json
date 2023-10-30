@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Hassel Smith",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Sturgis, Michigan, USA",
+				"events": []
+			},
+			{
+				"start": 1924,
+				"end": 1936,
+				"happiness": 7,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Moved to California"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1945,
+				"happiness": 7,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Enrolled in the California School of Fine Arts"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 9,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"Emerges as a representative of Abstract expressionism",
+					"Begins painting spontaneously"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1967,
+				"happiness": 8,
+				"location": "Bodega Bay, California, USA",
+				"events": [
+					"Moves to Bodega Bay",
+					"Focus on geometric figures"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 2007,
+				"happiness": 7,
+				"location": "Suffolk, U.K",
+				"events": [
+					"Moved to the UK",
+					"Continued painting until his death"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Action painting"
+		]
+	}
+]

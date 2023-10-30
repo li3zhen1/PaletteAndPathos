@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Joe Bradley",
+		"keywords": [
+			"abstraction",
+			"figuration",
+			"minimalism",
+			"pop culture",
+			"Americana"
+		],
+		"lifePeriods": [
+			{
+				"start": 1975,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Kittery, Maine",
+				"events": [
+					"enrolled at the Rhode Island School of Design"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2006,
+				"happiness": 7,
+				"location": "New York, New York",
+				"events": [
+					"started his professional career",
+					"displayed his work at Canada Gallery"
+				]
+			},
+			{
+				"start": 2007,
+				"end": 2012,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"first major exhibition at the Journal Gallery",
+					"work included in The Whitney Biennial"
+				]
+			},
+			{
+				"start": 2013,
+				"end": 2018,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"exhibition at Albright-Knox Art Gallery",
+					"exhibited work at The Journal Gallery"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"neo-expressionism"
+		]
+	}
+]

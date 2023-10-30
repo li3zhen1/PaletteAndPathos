@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Vasily Perov",
+		"keywords": [
+			"social criticism",
+			"portraiture",
+			"religion",
+			"nature",
+			"real life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1833,
+				"end": 1856,
+				"happiness": 4,
+				"location": "Tobolsk, Russia",
+				"events": [
+					"born to a prison guard father",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1862,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"entered Moscow School of Painting",
+					"adopted the surname Perov"
+				]
+			},
+			{
+				"start": 1862,
+				"end": 1866,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"elected to the Art Academy",
+					"recognition for 'The Arrival of a New Governess in a Merchant House'"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1874,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"produced his most grim works",
+					"criticized social injustices"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1882,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"health problems",
+					"passed away in Kuzminki, Moscow"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Social Art",
+			"Portraiture"
+		]
+	}
+]

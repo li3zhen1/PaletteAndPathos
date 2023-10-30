@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Andrea del Sarto",
+		"keywords": [
+			"religion",
+			"portraiture",
+			"madonna",
+			"Biblical scenes",
+			"Frescoes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1486,
+				"end": 1530,
+				"happiness": 5,
+				"location": "Florence",
+				"events": [
+					"trained by Piero di Cosimo",
+					"commissioned by Medici family"
+				]
+			}
+		],
+		"genre": [
+			"High Renaissance",
+			"Italian Renaissance",
+			"Portraiture"
+		]
+	}
+]

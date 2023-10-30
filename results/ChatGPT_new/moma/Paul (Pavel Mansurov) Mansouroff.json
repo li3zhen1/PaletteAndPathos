@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Paul (Pavel Mansurov) Mansouroff",
+		"keywords": [
+			"geometry",
+			"abstract",
+			"non-objective",
+			"Suprematism",
+			"Cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"started school",
+					"learned drawing"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1922,
+				"happiness": 3,
+				"location": "Petrograd, Russia",
+				"events": [
+					"experienced World War I",
+					"started art studies"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Petrograd/Leningrad, Russia",
+				"events": [
+					"Met Russian avant-garde artists",
+					"involved in non-objective and suprematist movements"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"began to exhibit his works"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1983,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"continued to exhibit his works in Paris",
+					"became part of the Parisian artistic community"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"cubism",
+			"suprematism"
+		]
+	}
+]

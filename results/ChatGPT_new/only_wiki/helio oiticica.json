@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Hélio Oiticica",
+		"keywords": [
+			"innovation",
+			"participation",
+			"cultural identity",
+			"color",
+			"interaction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"grew up influenced by Brazilian culture"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"joined the Neo-Concrete Movement",
+					"developed the 'Bilaterals' series"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1978,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"developed 'Tropicália' and 'Parangolés' installations",
+					"experienced repression and censorship under the military dictatorship in Brazil"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1980,
+				"happiness": 4,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"suffered a stroke",
+					"continued to create art despite deteriorating health"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Participatory Art",
+			"Installation Art"
+		]
+	}
+]

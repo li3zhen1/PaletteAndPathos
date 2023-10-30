@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Hiro Yamagata",
+		"keywords": [
+			"light",
+			"nature",
+			"modernism",
+			"physics",
+			"technology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1966,
+				"happiness": 5,
+				"location": "Maibara, Shiga, Japan",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"attended L'Ecole des Beaux Arts"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1988,
+				"happiness": 8,
+				"location": "Los Angeles, USA",
+				"events": [
+					"moved to Los Angeles",
+					"established as a commercial artist"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2001,
+				"happiness": 9,
+				"location": "Los Angeles, USA",
+				"events": [
+					"shifted from commercial art to fine art",
+					"received numerous art awards"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Los Angeles, USA",
+				"events": [
+					"began working on light installation projects"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Installation Art",
+			"Silkscreen Painting"
+		]
+	}
+]

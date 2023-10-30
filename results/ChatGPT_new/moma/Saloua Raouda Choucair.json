@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Saloua Raouda Choucair",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"Lebanese",
+			"Islamic art",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 2017,
+				"happiness": 6,
+				"location": "Beirut",
+				"events": [
+					"studied at American Junior College for Women",
+					"became apprentice to Fernand Léger"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Sculpture"
+		]
+	}
+]

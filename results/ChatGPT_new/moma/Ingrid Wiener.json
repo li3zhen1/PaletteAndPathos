@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Ingrid Wiener",
+		"keywords": [
+			"tapestry",
+			"modernism",
+			"portraits",
+			"everyday objects"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"graduated from school",
+					"started interest in arts"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"joined the 'Wiener Werkstätte'",
+					"started making tapestries"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"continued working with tapestries",
+					"expanded her artistic range"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"won recognition for her art",
+					"evolved her techniques and themes"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Vienna, Austria",
+				"events": [
+					"continued to be active artistically",
+					"received further recognition"
+				]
+			}
+		],
+		"genre": [
+			"Tapestry art",
+			"Photographic art",
+			"Video art"
+		]
+	}
+]

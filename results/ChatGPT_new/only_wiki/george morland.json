@@ -1,0 +1,28 @@
+[
+	{
+		"name": "George Morland",
+		"keywords": [
+			"rural",
+			"landscapes",
+			"animals",
+			"common people",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1763,
+				"end": 1804,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"early training with his father",
+					"struggled with alcoholism"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Naturalism"
+		]
+	}
+]

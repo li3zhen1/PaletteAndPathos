@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Jane Wilson",
+		"keywords": [
+			"landscapes",
+			"nature",
+			"atmosphere",
+			"seasonal changes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Seymour, Iowa",
+				"events": [
+					"Born into a family of artists",
+					"early exposure to art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1949,
+				"happiness": 8,
+				"location": "Des Moines, Iowa",
+				"events": [
+					"Studied at Drake University"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 9,
+				"location": "New York City, New York",
+				"events": [
+					"Studied at the Arts Students League",
+					"met her future husband"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 2014,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Married fellow artist John Gruen",
+					"became part of the New York school of artists"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2015,
+				"happiness": 4,
+				"location": "New York City, New York",
+				"events": [
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting",
+			"Abstract expressionism"
+		]
+	}
+]

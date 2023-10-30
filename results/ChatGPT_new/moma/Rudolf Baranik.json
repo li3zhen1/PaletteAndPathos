@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Rudolf Baranik",
+		"keywords": [
+			"political criticism",
+			"violence",
+			"suffering",
+			"war",
+			"abstract expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Lithuania",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1947,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"experienced World War II",
+					"emigrated from Europe to avoid political turmoil"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1998,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"established artist career",
+					"actively participated in political activism"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Social Realism"
+		]
+	}
+]

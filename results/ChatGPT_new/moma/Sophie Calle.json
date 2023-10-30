@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Sophie Calle",
+		"keywords": [
+			"identity",
+			"privacy",
+			"intimacy",
+			"surveillance",
+			"obsession"
+		],
+		"lifePeriods": [
+			{
+				"start": 1953,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"born into a creative and intellectual family"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Around the World",
+				"events": [
+					"traveled extensively",
+					"started her art practice"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"first exhibition",
+					"won the International Center of Photography award"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"exhibited at Venice Biennale",
+					"taught at European Graduate School"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"installation art"
+		]
+	}
+]

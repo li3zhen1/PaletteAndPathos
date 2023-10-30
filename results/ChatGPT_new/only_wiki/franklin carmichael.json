@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Franklin Carmichael",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"seasons",
+			"northern Ontario",
+			"Canadian wilderness"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1911,
+				"happiness": 5,
+				"location": "Orillia, Ontario",
+				"events": [
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1913,
+				"happiness": 7,
+				"location": "Toronto",
+				"events": [
+					"Studied art at Toronto's Central Technical School"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Toronto",
+				"events": [
+					"Started working for Grip Ltd.",
+					"Met future Group of Seven members"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1932,
+				"happiness": 8,
+				"location": "Toronto",
+				"events": [
+					"Co-founded the Group of Seven",
+					"Explored Canadian wilderness"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1945,
+				"happiness": 7,
+				"location": "Toronto",
+				"events": [
+					"Co-founded the Canadian Group of Painters",
+					"Became head of Graphic and Commercial Art, Ontario College of Art"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Toronto",
+				"events": [
+					"Died of a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Group of Seven"
+		]
+	}
+]

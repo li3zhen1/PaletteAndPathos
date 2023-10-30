@@ -1,0 +1,77 @@
+[
+	{
+		"name": "José Malhoa",
+		"keywords": [
+			"realism",
+			"portraiture",
+			"peasantry",
+			"folklore",
+			"rural life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1855,
+				"end": 1868,
+				"happiness": 6,
+				"location": "Caldas da Rainha, Portugal",
+				"events": [
+					"childhood",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1868,
+				"end": 1871,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"attended the Fine Arts School of Lisbon"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1880,
+				"happiness": 8,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"won a third-place awarded in the course"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"become a popular artist",
+					"created the Columbano group",
+					"won a silver medal at the Universal Exhibition"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"appointed director of the National Society of Fine Arts"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Figueiró dos Vinhos, Portugal",
+				"events": [
+					"late life",
+					"retirement"
+				]
+			}
+		],
+		"genre": [
+			"Naturalism",
+			"Portraiture",
+			"Realism"
+		]
+	}
+]

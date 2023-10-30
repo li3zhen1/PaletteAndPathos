@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Vangel Naumovski",
+		"keywords": [
+			"surrealism",
+			"folklore",
+			"mythology",
+			"dreamscapes",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Tresonce, Kingdom of Serbs, Croats and Slovenes",
+				"events": [
+					"born in a poor family",
+					"worked as a miner and construction worker",
+					"taught himself painting"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 2006,
+				"happiness": 7,
+				"location": "Skopje, Republic of Macedonia",
+				"events": [
+					"developed a unique painting style",
+					"established himself as a notable painter",
+					"celebrated his art exhibits internationally"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"naïve art"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Jean Fautrier",
+		"keywords": [
+			"Figurative",
+			"Symbolic",
+			"Abstract",
+			"Nature",
+			"Tensions"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1917,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Started schooling at the Académie Cantin"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1927,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Started a career as a professional ski instructor",
+					"Began painting professionally"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Exhibited at the Salon des Indépendants",
+					"Material experimentation in his works"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"World War II",
+					"Created the Otages series influenced by the war"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Recognized as a key figure in Tachisme movement"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Tachisme",
+			"Art Informel"
+		]
+	}
+]

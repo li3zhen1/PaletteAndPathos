@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Jacques Charlier",
+		"keywords": [
+			"satirical",
+			"conceptual",
+			"social critique",
+			"photographs",
+			"installations"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 2023,
+				"happiness": 6,
+				"location": "Liège, Belgium",
+				"events": [
+					"Studied at the Liège Academy of Fine Arts",
+					"Start of initial artistic endeavours"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Installation Art",
+			"Photography"
+		]
+	}
+]

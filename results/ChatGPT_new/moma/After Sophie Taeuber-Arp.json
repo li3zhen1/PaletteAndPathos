@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Sophie Taeuber-Arp",
+		"keywords": [
+			"geometric abstraction",
+			"Dada",
+			"textiles",
+			"puppets",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"studied at the School of Applied Arts",
+					"met Jean Arp at a Dadaist event"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"married Jean Arp",
+					"cofounded a dadaist group"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"forced to flee Paris due to the outbreak of WWII",
+					"died in an accidental gas poisoning"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"dada",
+			"constructivism"
+		]
+	}
+]

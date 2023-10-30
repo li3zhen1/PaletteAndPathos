@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Francisco Borès",
+		"keywords": [
+			"Still lifes",
+			"landscapes",
+			"theater",
+			"portraits",
+			" surreal elements"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1916,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"Studied at the Escuela de Bellas Artes de San Fernando"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1929,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris",
+					"Started painting professionally"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1935,
+				"happiness": 4,
+				"location": "Spain",
+				"events": [
+					"Returned to Spain",
+					"Witnessed the start of the Spanish Civil War"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Fled back to Paris due to Civil War",
+					"Conducted consecutive exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Surrealism",
+			"Still lifes"
+		]
+	}
+]

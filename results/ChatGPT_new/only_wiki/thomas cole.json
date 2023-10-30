@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Thomas Cole",
+		"keywords": [
+			"nature",
+			"romanticism",
+			"American landscapes",
+			"allegory",
+			"moral messages"
+		],
+		"lifePeriods": [
+			{
+				"start": 1801,
+				"end": 1818,
+				"happiness": 6,
+				"location": "Bolton, England",
+				"events": []
+			},
+			{
+				"start": 1818,
+				"end": 1836,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"established himself in American art scene",
+					"founded the Hudson River School"
+				]
+			},
+			{
+				"start": 1836,
+				"end": 1848,
+				"happiness": 7,
+				"location": "Catskill, New York, USA",
+				"events": [
+					"painted the series 'The Course of Empire'",
+					"built the Cedar Grove"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"Historical",
+			"Allegorical"
+		]
+	}
+]

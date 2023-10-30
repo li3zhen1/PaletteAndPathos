@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Mary Weatherford",
+		"keywords": [
+			"abstract",
+			"neon lighting",
+			"color fields",
+			"ambient environments",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1963,
+				"end": 1981,
+				"happiness": 6,
+				"location": "Ojai, California",
+				"events": [
+					"developed interest in visual arts"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1984,
+				"happiness": 7,
+				"location": "Princeton, New Jersey",
+				"events": [
+					"graduated from Princeton University with AB in visual arts"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Brooklyn, New York",
+				"events": [
+					"attended Skowhegan School of Painting and Sculpture"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1994,
+				"happiness": 8,
+				"location": "Los Angeles, California",
+				"events": [
+					"earned MFA from Bard College",
+					"started creating her notable 'Bakersfield' series"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 2012,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"established herself as prominent artist in LA art scene"
+				]
+			},
+			{
+				"start": 2012,
+				"end": 2022,
+				"happiness": 9,
+				"location": "Los Angeles, California",
+				"events": [
+					"first started incorporating neon lighting into her works",
+					"high acclaim led to world-wide exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Neo-expressionism",
+			"Abstract art"
+		]
+	}
+]

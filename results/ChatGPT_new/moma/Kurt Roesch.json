@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Kurt Roesch",
+		"keywords": [
+			"expressionism",
+			"abstractism",
+			"nature",
+			"cityscape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1940,
+				"happiness": 4,
+				"location": "Germany",
+				"events": [
+					"trained as a painter at Bauhaus",
+					"experienced the harsh impact of war and political unrest"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1984,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"relocated to America",
+					"exhibit in the Museum of Non-Objective Painting (later known as the Solomon R. Guggenheim Museum)"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"abstract art"
+		]
+	}
+]

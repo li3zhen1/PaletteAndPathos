@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Antonio Segui",
+		"keywords": [
+			"Figurative",
+			"urban scenes",
+			"people",
+			"humor",
+			"irony"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Cordoba, Argentina",
+				"events": [
+					"Developed an interest in art"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Paris/Latin America",
+				"events": [
+					"Studied painting and engraving",
+					"traveled extensively"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2019,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Recognized internationally for his work",
+					"Received the Konex Award"
+				]
+			}
+		],
+		"genre": [
+			"Figurative Art",
+			"Modernism"
+		]
+	}
+]

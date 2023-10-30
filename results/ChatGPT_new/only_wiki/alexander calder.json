@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Alexander Calder",
+		"keywords": [
+			"abstract",
+			"mobile",
+			"stabile",
+			"kinetic",
+			"colour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1909,
+				"happiness": 7,
+				"location": "Philadelphia",
+				"events": [
+					"exposure to art from his parents, who were both artists"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1922,
+				"happiness": 6,
+				"location": "California",
+				"events": [
+					"developed engineering skills attending Lowell High School",
+					"attended Stevens Institute of Technology"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1930,
+				"happiness": 8,
+				"location": "New York and Paris",
+				"events": [
+					"studied at Art Students League of New York",
+					"moved to Paris, was deeply influenced by modernist artworks"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Roxbury, Connecticut",
+				"events": [
+					"created his first mobile sculptures",
+					"began to work on his grandest projects"
+				]
+			}
+		],
+		"genre": [
+			"Abstract sculpture",
+			"Kinetic art"
+		]
+	}
+]

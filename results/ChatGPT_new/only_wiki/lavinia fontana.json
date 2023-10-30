@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Lavinia Fontana",
+		"keywords": [
+			"women",
+			"religion",
+			"portraits",
+			"nature",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1552,
+				"end": 1602,
+				"happiness": 6,
+				"location": "Bologna, Italy",
+				"events": [
+					"became a professional painter",
+					"married Paolo Zappi"
+				]
+			},
+			{
+				"start": 1602,
+				"end": 1614,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"moved to Rome",
+					"became the portraitist for the papal family"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"Religious Painting",
+			"Portrait"
+		]
+	}
+]

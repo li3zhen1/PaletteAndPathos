@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Antonio Ruiz",
+		"keywords": [
+			"Mexican culture",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Mexico City",
+				"events": [
+					"Joined revolutionary movement",
+					"Became known as 'El Corcito'"
+				]
+			}
+		],
+		"genre": [
+			"Mural painting",
+			"Post-cubism"
+		]
+	}
+]

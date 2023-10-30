@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Antonio López García",
+		"keywords": [
+			"realism",
+			"urban landscape",
+			"still life",
+			"portraits",
+			"everyday life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Tomelloso, Spain",
+				"events": [
+					"born in a peasant family"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"started studying at the School of Art in Madrid",
+					"met his future wife, Maria Moreno"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"married Maria Moreno",
+					"won the Juan March Foundation Prize"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"continued to work on his urban landscapes"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2005,
+				"happiness": 8,
+				"location": "Madrid, Spain",
+				"events": [
+					"recognition of his work grew internationally"
+				]
+			},
+			{
+				"start": 2006,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"received the Velázquez Prize for Visual Arts",
+					"continued to exhibit his works internationally"
+				]
+			}
+		],
+		"genre": [
+			"Magic Realism",
+			"Spanish Realism"
+		]
+	}
+]

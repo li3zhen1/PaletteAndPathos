@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Allan McCollum",
+		"keywords": [
+			"repetition",
+			"mass production",
+			"individuality",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Los Angeles, California, United States",
+				"events": [
+					"Born and raised in Los Angeles",
+					"Self-taught artist"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Moved to New York",
+					"Worked in different jobs before practicing art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"His series 'Plaster Surrogates' acclaimed",
+					"Exhibited throughout the USA and internationally"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Production Art",
+			"Conceptual Art"
+		]
+	}
+]

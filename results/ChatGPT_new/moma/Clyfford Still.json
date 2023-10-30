@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Clyfford Still",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"innovation",
+			"non-representational",
+			"introspective"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Spokane, Washington, USA",
+				"events": [
+					"developed interest in painting"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"established as one of the leading figures of Abstract Expressionism",
+					"first major exhibition at the Peggy Guggenheim's Art of This Century gallery"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Westminster, Maryland, USA",
+				"events": [
+					"secluded himself from the commercial art world",
+					"decided to sell his work directly to public institutions"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1980,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"died of cancer"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

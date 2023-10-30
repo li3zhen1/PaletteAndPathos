@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Guido Reni",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"classical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1575,
+				"end": 1610,
+				"happiness": 5,
+				"location": "Bologna",
+				"events": [
+					"Trained in the 'Lodovico Carracci Academy'",
+					"Employed by Pope Paul V"
+				]
+			},
+			{
+				"start": 1610,
+				"end": 1625,
+				"happiness": 6,
+				"location": "Rome",
+				"events": [
+					"Created major works including 'Aurora'",
+					"Influenced Baroque painters"
+				]
+			},
+			{
+				"start": 1625,
+				"end": 1642,
+				"happiness": 3,
+				"location": "Bologna",
+				"events": [
+					"Struggled with gambling addiction",
+					"Died in poverty"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"History painting",
+			"Religious art"
+		]
+	}
+]

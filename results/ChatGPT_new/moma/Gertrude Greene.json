@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Gertrude Greene",
+		"keywords": [
+			"abstract",
+			"cubism",
+			"sculpture",
+			"geometric"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1956,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"married fellow artist Balcomb Greene",
+					"helped fund the WPA"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Cubism",
+			"Constructivism"
+		]
+	}
+]

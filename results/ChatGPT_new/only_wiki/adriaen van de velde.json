@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Adriaen van de Velde",
+		"keywords": [
+			"landscapes",
+			"peasants",
+			"cattle",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1636,
+				"end": 1672,
+				"happiness": 6,
+				"location": "Amsterdam",
+				"events": [
+					"trained by his father",
+					"rose to prominence as an artist"
+				]
+			}
+		],
+		"genre": [
+			"Dutch Golden Age",
+			"Landscapes",
+			"Animal paintings"
+		]
+	}
+]

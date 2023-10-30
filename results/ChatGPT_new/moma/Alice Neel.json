@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Alice Neel",
+		"keywords": [
+			"portraits",
+			"human nature",
+			"socio-political themes",
+			"urban life",
+			"motherhood"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1925,
+				"happiness": 5,
+				"location": "Merion Square, Pennsylvania",
+				"events": [
+					"Born to middle-class parents"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Attended Philadelphia School of Design for Women"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1934,
+				"happiness": 4,
+				"location": "Havana, Cuba",
+				"events": [
+					"Married Cuban painter Carlos Enríquez",
+					"Suffered the loss of her first child"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1940,
+				"happiness": 3,
+				"location": "New York City, New York",
+				"events": [
+					"Split from Carlos Enríquez",
+					"suffered a nervous breakdown and attempted suicide"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Gave birth to two sons",
+					"Worked for the Works Progress Administration"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1984,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Received commercial and critical acclaim for her work"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"portrait"
+		]
+	}
+]

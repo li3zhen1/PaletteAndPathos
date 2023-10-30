@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Harold Barling Town",
+		"keywords": [
+			"Abstract",
+			"figurative",
+			"colorful",
+			"collage",
+			"multi-media"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 1944,
+				"happiness": 5,
+				"location": "Toronto, Canada",
+				"events": [
+					"Born and grew up"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Finished his studies at Ontario College of Art"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"Started his career as a well-known artist",
+					"initiated the Painters Eleven group"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Continued his work as a painter and printmaker"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Post-Painterly Abstraction",
+			"Multi-media"
+		]
+	}
+]

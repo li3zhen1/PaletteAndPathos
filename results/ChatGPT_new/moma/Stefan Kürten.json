@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Stefan Kürten",
+		"keywords": [
+			"architecture",
+			"nature",
+			"domesticity",
+			"fantasy",
+			"interior"
+		],
+		"lifePeriods": [
+			{
+				"start": 1963,
+				"end": 1969,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Born in Düsseldorf"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1981,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Grew up in Düsseldorf"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1987,
+				"happiness": 6,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Studied at Düsseldorf Art Academy"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2002,
+				"happiness": 7,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"First solo exhibition"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Düsseldorf, Germany",
+				"events": [
+					"Established international reputation"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

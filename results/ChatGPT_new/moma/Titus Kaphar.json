@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Titus Kaphar",
+		"keywords": [
+			"history",
+			"social inequalities",
+			"racism",
+			"forgotten people"
+		],
+		"lifePeriods": [
+			{
+				"start": 1976,
+				"end": 1997,
+				"happiness": 6,
+				"location": "Kalamazoo, Michigan",
+				"events": [
+					"Born",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1997,
+				"end": 2001,
+				"happiness": 7,
+				"location": "San Jose, California",
+				"events": [
+					"Studied at San Jose State University",
+					"Got Bachelor of Fine Arts"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2006,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"Studied at Yale University School of Art",
+					"Got Master of Fine Arts"
+				]
+			},
+			{
+				"start": 2006,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New Haven, Connecticut",
+				"events": [
+					"Made important artworks",
+					"Fame in art world"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Sculpture",
+			"Installation"
+		]
+	}
+]

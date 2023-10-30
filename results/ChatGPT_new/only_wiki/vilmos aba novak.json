@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Vilmos Aba-Novák",
+		"keywords": [
+			"religion",
+			"mythology",
+			"rural lifestyle",
+			"work"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Budapest, Hungary",
+				"events": [
+					"earned a scholarship to the Collegium Romanum in Rome",
+					"appointed a professor at the Hungarian Academy of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Christian Art",
+			"Neoclassical"
+		]
+	}
+]

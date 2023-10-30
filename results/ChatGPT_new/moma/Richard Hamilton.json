@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Richard Hamilton",
+		"keywords": [
+			"pop art",
+			"consumerism",
+			"celebrity culture",
+			"political critique",
+			"collage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Pimlico, London",
+				"events": []
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Oxford",
+				"events": [
+					"began studying art at the Oxford School of Art"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1961,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"studied at the Royal Academy of Art",
+					"became a teacher at the London Central School of Art"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1988,
+				"happiness": 8,
+				"location": "Croydon, London",
+				"events": [
+					"exhibited his collage 'Just What Is It that Makes Today's Homes So Different, So Appealing?'",
+					"co-founded the Independent Group"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2011,
+				"happiness": 7,
+				"location": "Oxford",
+				"events": [
+					"retrospective exhibition at the Tate Gallery",
+					"awarded the Wilhelm Lehmbruck Prize for Sculpture"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2011,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"death of his wife"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2014,
+				"happiness": 4,
+				"location": "London",
+				"events": [
+					"died on September 13, 2014"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Collage"
+		]
+	}
+]

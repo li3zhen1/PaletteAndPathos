@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Robert Brackman",
+		"keywords": [
+			"portraiture",
+			"still life",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Odessa, Russian Empire",
+				"events": [
+					"started his art journey",
+					"moved to United States"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"Opened his own studio",
+					"Began teaching at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Was elected into the National Academy of Design",
+					"Cover artist for Time magazine"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Noank, Connecticut, United States",
+				"events": [
+					"Continued to teach and paint",
+					"Died in 1980"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Still life",
+			"Realism"
+		]
+	}
+]

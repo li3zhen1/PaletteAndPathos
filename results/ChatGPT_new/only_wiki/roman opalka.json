@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Roman Opalka",
+		"keywords": [
+			"time",
+			"infinity",
+			"numbers",
+			"minimalism",
+			"monochromatic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Hocquincourt, France",
+				"events": [
+					"Born in France to Polish parents",
+					"Experienced World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Studied at the Warsaw Academy of Fine Arts",
+					"Began creating artworks"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2011,
+				"happiness": 7,
+				"location": "Various location across Europe",
+				"events": [
+					"Started his lifelong project 'OPALKA 1965/1 – ∞'",
+					"Earned international recognition for his artwork"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Minimalism"
+		]
+	}
+]

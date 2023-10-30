@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Giovanni Boldini",
+		"keywords": [
+			"portraits",
+			"high society",
+			"elegance",
+			"motion",
+			"romantic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1842,
+				"end": 1858,
+				"happiness": 6,
+				"location": "Ferrara, Italy",
+				"events": [
+					"born to a family of artists"
+				]
+			},
+			{
+				"start": 1858,
+				"end": 1871,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"studied at Florentine Academy",
+					"started painting portraits"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1874,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"gained international reputation"
+				]
+			},
+			{
+				"start": 1874,
+				"end": 1931,
+				"happiness": 9,
+				"location": "Paris, France",
+				"events": [
+					"Became the most fashionable portrait painter in Paris",
+					"painted the rich and the elite"
+				]
+			}
+		],
+		"genre": [
+			"Portrait",
+			"Genre art"
+		]
+	}
+]

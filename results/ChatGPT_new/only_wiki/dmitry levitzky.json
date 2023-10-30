@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Dmitry Levitzky",
+		"keywords": [
+			"portrait",
+			"nobility",
+			"religion",
+			"royalty",
+			"serenity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1735,
+				"end": 1750,
+				"happiness": 6,
+				"location": "Kiev",
+				"events": [
+					"birth",
+					"started early art studies"
+				]
+			},
+			{
+				"start": 1750,
+				"end": 1758,
+				"happiness": 7,
+				"location": "St. Petersburg",
+				"events": [
+					"joined Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1758,
+				"end": 1780,
+				"happiness": 6,
+				"location": "St. Petersburg",
+				"events": [
+					"became an official court artist"
+				]
+			},
+			{
+				"start": 1780,
+				"end": 1797,
+				"happiness": 5,
+				"location": "St. Petersburg",
+				"events": [
+					"struggled with financial issues",
+					"lost his position at the court"
+				]
+			},
+			{
+				"start": 1797,
+				"end": 1822,
+				"happiness": 4,
+				"location": "St. Petersburg",
+				"events": [
+					"late period of life marked with poverty",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"portrait"
+		]
+	}
+]

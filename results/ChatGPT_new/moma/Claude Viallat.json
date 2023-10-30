@@ -1,0 +1,61 @@
+[
+	{
+		"name": "Claude Viallat",
+		"keywords": [
+			"abstraction",
+			"minimalism",
+			"geometric"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Nîmes, France",
+				"events": [
+					"born"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1966,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"established Supports/Surfaces group"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1981,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"exhibited at the Venice Biennale"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2022,
+				"happiness": 9,
+				"location": "Nímes, France",
+				"events": [
+					"recognition as leading French abstract painter"
+				]
+			}
+		],
+		"genre": [
+			"abstract painting",
+			"contemporary art"
+		]
+	}
+]

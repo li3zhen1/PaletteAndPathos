@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Carlos González Bogen",
+		"keywords": [
+			"Abstract",
+			"Optical",
+			"Geometric",
+			"Manifesto",
+			"Venezuelan Art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1986,
+				"happiness": 6,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Founded the group Los Disidentes in 1950",
+					"Director of the New York Graphic Workshop"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Multi-Dimensional Optical Art"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Alfred Jensen",
+		"keywords": [
+			"geometry",
+			"color",
+			"cosmological systems",
+			"I Ching",
+			"Mayan-Aztec calendar"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Guatemala",
+				"events": [
+					"Born to a Danish father and mother of Polish-German descent"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1924,
+				"happiness": 6,
+				"location": "San Diego, California",
+				"events": [
+					"Moved to United States"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1950,
+				"happiness": 7,
+				"location": "San Francisco",
+				"events": [
+					"Worked as a seaman and traveled around the world",
+					"Studied art in his free time"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1966,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Moved to New York",
+					"Met artist Roy Lichtenstein"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1981,
+				"happiness": 8,
+				"location": "Glen Ridge, New Jersey",
+				"events": [
+					"Developed his distinctive style of geometric abstraction",
+					"Received recognition and success"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modern art"
+		]
+	}
+]

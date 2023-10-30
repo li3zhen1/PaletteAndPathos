@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Max Liebermann",
+		"keywords": [
+			"Realism",
+			"Impressionism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1847,
+				"end": 1858,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"born into a wealthy Jewish family"
+				]
+			},
+			{
+				"start": 1858,
+				"end": 1866,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"attended school"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1873,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"studied painting"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1878,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"studied at the École des Beaux-Arts",
+					"was influenced by French Impressionism"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1911,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"established the Berlin Secession",
+					"became president of the Prussian Academy of Arts"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1935,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"resigned from the Prussian Academy of Arts under pressure from the Nazi regime",
+					"was forbidden to paint"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism"
+		]
+	}
+]

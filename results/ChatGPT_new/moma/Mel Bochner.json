@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Mel Bochner",
+		"keywords": [
+			"geometry",
+			"philosophy",
+			"perception",
+			"language",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Pittsburgh, Pennsylvania",
+				"events": [
+					"studied philosophy at Carnegie Mellon University",
+					"became one of the key figures in the development of Conceptual Art"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Minimalism"
+		]
+	}
+]

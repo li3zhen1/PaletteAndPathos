@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Boris Kustodiev",
+		"keywords": [
+			"rural life",
+			"Russia",
+			"festivities",
+			"trade",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1896,
+				"happiness": 7,
+				"location": "Astrakhan, Russia",
+				"events": [
+					"began studying art"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1903,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied at Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1912,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"married Julia Proshinskaya",
+					"traveled across Europe"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1927,
+				"happiness": 4,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"developed tuberculosis, became wheelchair-bound",
+					"continued painting despite this"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"landscape",
+			"genre painting"
+		]
+	}
+]

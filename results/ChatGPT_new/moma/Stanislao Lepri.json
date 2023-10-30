@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Stanislao Lepri",
+		"keywords": [
+			"surreal",
+			"fantasy",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"studied art",
+					"began a member of the Florence avant-garde"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1938,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"began exploring surrealism",
+					"became a member of the French Surrealists group"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"retreat to solitude",
+					"refined his painting style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"nature art"
+		]
+	}
+]

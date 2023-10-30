@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Wade Guyton",
+		"keywords": [
+			"digital",
+			"technology",
+			"abstraction",
+			"typography",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1972,
+				"end": 1995,
+				"happiness": 6,
+				"location": "Indiana, United States",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 1996,
+				"happiness": 7,
+				"location": "Tennessee, United States",
+				"events": [
+					"Studied at the University of Tennessee in Knoxville"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2002,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Moved to New York",
+					"Worked various jobs while making art"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2013,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"Rose to fame as a digital era artist",
+					"Had a solo exhibition at the Whitney Museum of American Art in 2013"
+				]
+			},
+			{
+				"start": 2013,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"Continued to create digital-based art works"
+				]
+			}
+		],
+		"genre": [
+			"Digital Art",
+			"Contemporary Art",
+			"Abstract Art"
+		]
+	}
+]

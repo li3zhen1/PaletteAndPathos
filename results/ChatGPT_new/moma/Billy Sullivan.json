@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Billy Sullivan",
+		"keywords": [
+			"figure painting",
+			"photography",
+			"contemporary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Started work in the New York underground scene",
+					"Developed a distinctive speed painting style"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Figurative Art"
+		]
+	}
+]

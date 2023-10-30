@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Alexey Zubov",
+		"keywords": [
+			"cityscapes",
+			"maritime",
+			"wars",
+			"nature",
+			"Russian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1682,
+				"end": 1751,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Enrolled to Imperial Academy of Arts",
+					"Appointed to engraver of the Naval Gallery"
+				]
+			}
+		],
+		"genre": [
+			"etching",
+			"engraving"
+		]
+	}
+]

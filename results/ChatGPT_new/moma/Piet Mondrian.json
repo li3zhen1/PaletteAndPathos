@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Piet Mondrian",
+		"keywords": [
+			"abstraction",
+			"geometric shapes",
+			"primary colors",
+			"line",
+			"balance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1872,
+				"end": 1897,
+				"happiness": 4,
+				"location": "Amersfoort, Netherlands",
+				"events": [
+					"studied at the local primary and secondary school"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"attended the Amsterdam Academy of Fine Arts",
+					"began teaching at the academy"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1911,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"influenced by Fauvism and the works of Van Gogh"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"co-founder of the art movement De Stijl"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1938,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"defined his style which came to be known as neoplasticism",
+					"his works influenced the Bauhaus and Constructivist movements"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1944,
+				"happiness": 4,
+				"location": "New York City, USA",
+				"events": [
+					"fled Europe during World War II",
+					"his work received wider recognition in the art world"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"neoplasticism",
+			"De Stijl"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "John Chamberlain",
+		"keywords": [
+			"sculpture",
+			"automobile parts",
+			"abstraction",
+			"expressionism",
+			"hardware"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Rochester, Indiana, United States",
+				"events": [
+					"Born into a farming family"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1946,
+				"happiness": 2,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"Served in the navy during WWII"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"Studied hairdressing before switching to art",
+					"Studied at the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"Attended Black Mountain College",
+					"Became good friends with poet Robert Creeley"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1961,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"Started using scrap metal and automobile parts to make sculptures"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 2011,
+				"happiness": 9,
+				"location": "New York City, United States",
+				"events": [
+					"Achieved recognition for his sculptures",
+					"Started to gain international audience"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Sculpture",
+			"Modernism"
+		]
+	}
+]

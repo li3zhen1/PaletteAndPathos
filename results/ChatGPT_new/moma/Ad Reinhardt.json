@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Ad Reinhardt",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"monochrome",
+			"black",
+			"geometry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Buffalo, New York",
+				"events": [
+					"Born to a German immigrant family"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1935,
+				"happiness": 8,
+				"location": "New York City",
+				"events": [
+					"Attended Columbia University where he majored in art history"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1937,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Worked for the National Park Service"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1941,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Joined American Abstract Artists group"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1952,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Served World War II",
+					"Started to explore pure abstractionism and minimalism"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1967,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Developed his 'Black Paintings', which were highly controversial"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1967,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Death from a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"minimalism"
+		]
+	}
+]

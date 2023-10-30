@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Maurice Sterne",
+		"keywords": [
+			"culture",
+			"travel",
+			"humanity",
+			"religion",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1878,
+				"end": 1896,
+				"happiness": 4,
+				"location": "Riga, Latvia",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1910,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"immigrated to the United States",
+					"started artistic training"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Bali, Indonesia",
+				"events": [
+					"travelled extensively",
+					"created a series of works depicting the indigenous people"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"moved back to Europe",
+					"studies at Académie Julien"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"started teaching at Art Students League"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Mount Kisco, New York, USA",
+				"events": [
+					"won a prize for his mural for the Library of Congress",
+					"retired"
+				]
+			}
+		],
+		"genre": [
+			"figure painting",
+			"landscape art"
+		]
+	}
+]

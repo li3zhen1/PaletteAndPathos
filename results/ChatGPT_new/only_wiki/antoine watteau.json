@@ -1,0 +1,61 @@
+[
+	{
+		"name": "Antoine Watteau",
+		"keywords": [
+			"romance",
+			"pastoral scenes",
+			"theatre",
+			"fêtes galantes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1684,
+				"end": 1702,
+				"happiness": 6,
+				"location": "Valenciennes, France",
+				"events": [
+					"born on October 10"
+				]
+			},
+			{
+				"start": 1702,
+				"end": 1709,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"worked with art dealer Gersaint"
+				]
+			},
+			{
+				"start": 1709,
+				"end": 1712,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"joined the Royal Academy of Painting and Sculpture"
+				]
+			},
+			{
+				"start": 1712,
+				"end": 1717,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"created a series of paintings in fête galante style"
+				]
+			},
+			{
+				"start": 1717,
+				"end": 1721,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"diagnosed with tuberculosis"
+				]
+			}
+		],
+		"genre": [
+			"Rococo"
+		]
+	}
+]

@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Pyotr Konchalovsky",
+		"keywords": [
+			"cubism",
+			"family",
+			"nature",
+			"still life",
+			"rural life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1889,
+				"happiness": 6,
+				"location": "Slavianka",
+				"events": [
+					"family relocation to Moscow"
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Moscow",
+				"events": [
+					"studied at Moscow School of Painting and Sculpture"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1907,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"studied at Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1917,
+				"happiness": 8,
+				"location": "Moscow",
+				"events": [
+					"founded The Jack of Diamonds group",
+					"married Olga Konchalovskaya"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1935,
+				"happiness": 6,
+				"location": "Moscow",
+				"events": [
+					"worked during Russian Revolution",
+					"survived Stalin's purges"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Moscow",
+				"events": [
+					"worked amidst World War II"
+				]
+			}
+		],
+		"genre": [
+			"portrait painting",
+			"landscape art",
+			"still life"
+		]
+	}
+]

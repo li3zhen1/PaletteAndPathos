@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Mowry Thatcher Baden",
+		"keywords": [
+			"kinetics",
+			"participation",
+			"space",
+			"body",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Los Angeles, USA",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Palo Alto, USA",
+				"events": [
+					"earned his MFA at Stanford University",
+					"taught at Pomona College"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2001,
+				"happiness": 8,
+				"location": "Victoria, Canada",
+				"events": [
+					"established sculpture department at University of Victoria"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2022,
+				"happiness": 5,
+				"location": "Victoria, Canada",
+				"events": [
+					"retired; mainly active in creating sculptures"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"conceptual art"
+		]
+	}
+]

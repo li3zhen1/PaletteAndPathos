@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Walter Darby Bannard",
+		"keywords": [
+			"abstraction",
+			"minimalism",
+			"post-painterly abstraction",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1947,
+				"happiness": 5,
+				"location": "New Haven, Connecticut, USA",
+				"events": [
+					"childhood years"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Princeton, New Jersey, USA",
+				"events": [
+					"enrolled in Princeton University",
+					"graduated with a degree in art history"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1964,
+				"happiness": 6,
+				"location": "New York, New York, USA",
+				"events": [
+					"moved to New York",
+					"began producing minimalist paintings"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1989,
+				"happiness": 8,
+				"location": "Miami, Florida, USA",
+				"events": [
+					"became a professor at University of Miami",
+					"began focusing on post-painterly abstraction"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2016,
+				"happiness": 5,
+				"location": "Miami, Florida, USA",
+				"events": [
+					"become the chair of the Art and Art History Department at the University of Miami",
+					"passed away in 2016"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"minimalism",
+			"post-painterly abstraction"
+		]
+	}
+]

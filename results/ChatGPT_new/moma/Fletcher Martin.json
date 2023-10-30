@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Fletcher Martin",
+		"keywords": [
+			"war",
+			"working class",
+			"reality",
+			"social issues"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Palisade, Colorado",
+				"events": [
+					"born into a mining family"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1926,
+				"happiness": 4,
+				"location": "San Francisco",
+				"events": [
+					"worked as a sailor and a boxer"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"became a mural painter",
+					"taught painting at the Art Center School"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 7,
+				"location": "WWII Locations",
+				"events": [
+					"served as an artist-correspondent during World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1979,
+				"happiness": 6,
+				"location": "New York and California",
+				"events": [
+					"exhibited his works extensively",
+					"taught painting at several institutions"
+				]
+			}
+		],
+		"genre": [
+			"mural painting",
+			"social realism"
+		]
+	}
+]

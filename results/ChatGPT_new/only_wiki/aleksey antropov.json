@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Aleksey Antropov",
+		"keywords": [
+			"religion",
+			"royalty",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1716,
+				"end": 1795,
+				"happiness": 5,
+				"location": "Kiev, Russian Empire",
+				"events": [
+					"Appointed as a teacher at the Art School",
+					"Appointed as the head of the Kiev-Pechersk Lavra"
+				]
+			},
+			{
+				"start": 1732,
+				"end": 1739,
+				"happiness": 6,
+				"location": "St. Petersburg, Russian Empire",
+				"events": [
+					"Studied painting under Louis Caravaque",
+					"Travelled to Italy"
+				]
+			},
+			{
+				"start": 1741,
+				"end": 1761,
+				"happiness": 5,
+				"location": "St. Petersburg, Russian Empire",
+				"events": [
+					"Became a member of the Art Academy",
+					"Painted portraits of Elizabeth Petrovna’s court"
+				]
+			},
+			{
+				"start": 1762,
+				"end": 1795,
+				"happiness": 5,
+				"location": "St. Petersburg, Russian Empire",
+				"events": [
+					"Became a professor at the Academy of Arts",
+					"Practiced iconography"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Religious Art"
+		]
+	}
+]

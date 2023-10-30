@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Mykola Yaroshenko",
+		"keywords": [
+			"realism",
+			"people",
+			"industry",
+			"truth",
+			"sorrow"
+		],
+		"lifePeriods": [
+			{
+				"start": 1846,
+				"end": 1868,
+				"happiness": 6,
+				"location": "Poltava, Ukraine",
+				"events": [
+					"originated from a poor family"
+				]
+			},
+			{
+				"start": 1868,
+				"end": 1876,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"studied at Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"became a member of the Peredvizhniki group"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1894,
+				"happiness": 4,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"became the rector of the Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1897,
+				"happiness": 3,
+				"location": "Kisslovodsk, Russia",
+				"events": [
+					"moved due to health issues"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1898,
+				"happiness": 2,
+				"location": "Kisslovodsk, Russia",
+				"events": [
+					"died of heart failure"
+				]
+			}
+		],
+		"genre": [
+			"realism"
+		]
+	}
+]

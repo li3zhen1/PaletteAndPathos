@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Eustache Le Sueur",
+		"keywords": [
+			"religious themes",
+			"mythologies",
+			"classic style",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1617,
+				"end": 1655,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"trained by Simon Vouet",
+					"founded the Academy of Painting and Sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"History painting"
+		]
+	}
+]

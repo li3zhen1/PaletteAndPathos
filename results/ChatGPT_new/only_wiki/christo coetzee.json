@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Christo Coetzee",
+		"keywords": [
+			"abstract",
+			"post-war",
+			"Japanese",
+			"European",
+			"decay"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Tulbagh, South Africa",
+				"events": [
+					"Born and spent his childhood"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 5,
+				"location": "Cape Town, South Africa",
+				"events": [
+					"Studied at the Michaelis School of Fine Art"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1956,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Expanded his studies and artistic influences"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Part of the Far West group of abstract artists"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Took part in the Gutai Group of avant-garde artists",
+					"Received the Shell Prize"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 2000,
+				"happiness": 5,
+				"location": "Tulbagh, South Africa",
+				"events": [
+					"Returned and settled in his birthplace",
+					"Built his own art museum"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Experimental"
+		]
+	}
+]

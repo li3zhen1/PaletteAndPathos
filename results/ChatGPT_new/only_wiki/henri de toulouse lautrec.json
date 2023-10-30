@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Henri de Toulouse-Lautrec",
+		"keywords": [
+			"bohemian life",
+			"cabaret",
+			"prostitution",
+			"circus",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1864,
+				"end": 1878,
+				"happiness": 5,
+				"location": "Albi, France",
+				"events": [
+					"was born",
+					"began drawing sketches and caricatures"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1882,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"diagnosed with pycnodysostosis"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1891,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"entered the studio of Fernand Cormon",
+					"attended the Moulin Rouge"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1901,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"completed his famous Moulin Rouge series",
+					"battled with alcoholism"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Art Nouveau"
+		]
+	}
+]

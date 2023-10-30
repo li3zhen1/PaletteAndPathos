@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Saburo Murakami",
+		"keywords": [
+			"absurdity",
+			"destruction",
+			"performance",
+			"physicality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Kobe, Japan",
+				"events": [
+					"experience of World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"studied philosophy at Tokyo University"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"joined 'Zero Dimension' group",
+					"began making paper breakthrough activities"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1964,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"exhibited internationally",
+					"known for his 'Paper Break' performances"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1996,
+				"happiness": 4,
+				"location": "Tokyo, Japan",
+				"events": [
+					"continued to create art despite the disbanding of 'Zero Dimension'",
+					"notable works include 'Six Holes' and 'Passage'"
+				]
+			}
+		],
+		"genre": [
+			"performance art",
+			"abstract art"
+		]
+	}
+]

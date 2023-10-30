@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Menez",
+		"keywords": [
+			"poetry",
+			"abstract",
+			"color",
+			"fantasy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1995,
+				"happiness": 6,
+				"location": "Portugal",
+				"events": [
+					"won the Columbano Bordalo Pinheiro Prize"
+				]
+			}
+		],
+		"genre": [
+			"Abstract"
+		]
+	}
+]

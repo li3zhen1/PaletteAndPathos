@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Albrecht Durer",
+		"keywords": [
+			"religion",
+			"mythology",
+			"nature",
+			"self-portrait",
+			"classicism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1471,
+				"end": 1486,
+				"happiness": 6,
+				"location": "Nuremberg",
+				"events": [
+					"learned goldsmithing from his father",
+					"started drawing at an early age"
+				]
+			},
+			{
+				"start": 1486,
+				"end": 1490,
+				"happiness": 5,
+				"location": "Nuremberg",
+				"events": [
+					"trained as an apprentice under Michael Wolgemut"
+				]
+			},
+			{
+				"start": 1490,
+				"end": 1494,
+				"happiness": 7,
+				"location": "Germany and Italy",
+				"events": [
+					"completed Wanderjahre which enhanced his skills",
+					"got influenced by Italian art during his travels"
+				]
+			},
+			{
+				"start": 1494,
+				"end": 1505,
+				"happiness": 5,
+				"location": "Nuremberg",
+				"events": [
+					"married Agnes Frey",
+					"produced woodcut series the Apocalypse"
+				]
+			},
+			{
+				"start": 1505,
+				"end": 1507,
+				"happiness": 6,
+				"location": "Venice",
+				"events": [
+					"gained knowledge of Venetian Renaissance"
+				]
+			},
+			{
+				"start": 1507,
+				"end": 1520,
+				"happiness": 4,
+				"location": "Nuremberg",
+				"events": [
+					"created his most famous works",
+					"suffered from an illness"
+				]
+			},
+			{
+				"start": 1520,
+				"end": 1528,
+				"happiness": 3,
+				"location": "Nuremberg",
+				"events": [
+					"struggled with religious reformation",
+					"suffered from deteriorating health",
+					"died at the age of 56"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"religious art",
+			"printmaking"
+		]
+	}
+]

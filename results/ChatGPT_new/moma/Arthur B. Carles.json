@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Arthur B. Carles",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"nudes",
+			"still life",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1901,
+				"happiness": 5,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Born",
+					"Started art education"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Travelled to France",
+					"Studied at Academie Julian"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Returned to Philadelphia",
+					"Influenced by Progressive art view"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1941,
+				"happiness": 3,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Met independent artist Mercedes de Cordoba",
+					"Financial troubles",
+					"Health declines"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1952,
+				"happiness": 4,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Car accident leads to mental illness",
+					"Died"
+				]
+			}
+		],
+		"genre": [
+			"Modernist painting",
+			"Abstract expressionism"
+		]
+	}
+]

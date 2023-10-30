@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Ilya Bolotowsky",
+		"keywords": [
+			"abstraction",
+			"geometric",
+			"minimalism",
+			"color",
+			"balance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1907,
+				"end": 1933,
+				"happiness": 4,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Born to a Jewish family",
+					"emigrated to America to escape Bolshevik revolution"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Studied at the National Academy of Design",
+					"Became an American citizen"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"Joined American Abstract Artists",
+					"Exhibited at the Guggenheim Museum"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1981,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Taught at New York University",
+					"Received a Guggenheim Fellowship"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

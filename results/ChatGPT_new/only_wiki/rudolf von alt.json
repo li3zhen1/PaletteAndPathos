@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Rudolf von Alt",
+		"keywords": [
+			"architecture",
+			"landscape",
+			"European history",
+			"nature",
+			"watercolors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1812,
+				"end": 1819,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"Born into a family of artists"
+				]
+			},
+			{
+				"start": 1819,
+				"end": 1841,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"Studied under his father, Jakob Alt",
+					"Began his career as a landscape painter"
+				]
+			},
+			{
+				"start": 1841,
+				"end": 1873,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"Travelled widely, creating paintings and sketches of the regions he visited"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"Continued to create a large body of work",
+					"Had is work exhibited widely"
+				]
+			}
+		],
+		"genre": [
+			"watercolor",
+			"graphic art",
+			"landscape"
+		]
+	}
+]

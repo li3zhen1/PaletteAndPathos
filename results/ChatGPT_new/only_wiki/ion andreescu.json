@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Ion Andreescu",
+		"keywords": [
+			"nature",
+			"rural life",
+			"colors",
+			"contrast",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1850,
+				"end": 1872,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"started academic studies",
+					"developed interest in drawing and painting"
+				]
+			},
+			{
+				"start": 1872,
+				"end": 1877,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"joined 'The School of Bridges and Roads, Mines and Architecture'",
+					"started teaching art"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1881,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"study trip to Paris",
+					"exhibited work in Paris Salon"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1882,
+				"happiness": 3,
+				"location": "Bucharest, Romania",
+				"events": [
+					"contracted tuberculosis"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"impressionism"
+		]
+	}
+]

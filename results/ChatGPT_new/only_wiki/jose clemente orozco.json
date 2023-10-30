@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Jose Clemente Orozco",
+		"keywords": [
+			"Politics",
+			"Human Suffering",
+			"Social Inequality",
+			"History",
+			"Modern Life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Mexico City",
+				"events": [
+					"Lost his left hand in a gunpowder accident",
+					"Studied at the San Carlos Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1925,
+				"happiness": 5,
+				"location": "Nice, France",
+				"events": [
+					"Moved to Europe",
+					"Exposed to works of the European masters"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Mexico City",
+				"events": [
+					"Returned to Mexico",
+					"Started painting murals",
+					"His works 'Epic of American Civilization' and 'Dive Bomber and Tank' generated controversy"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Mexico City",
+				"events": [
+					"Final years marked by declining health"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Murals"
+		]
+	}
+]

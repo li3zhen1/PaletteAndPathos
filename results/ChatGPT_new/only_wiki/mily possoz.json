@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Mily Possoz",
+		"keywords": [
+			"beauty",
+			"elegance",
+			"romance",
+			"femininity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Porto, Portugal",
+				"events": [
+					"Started her artistic training"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Began a successful career",
+					"exhibited frequently"
+				]
+			}
+		],
+		"genre": [
+			"Art Nouveau",
+			"illustration",
+			"poster art"
+		]
+	}
+]

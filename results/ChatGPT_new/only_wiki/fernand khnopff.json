@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Fernand Khnopff",
+		"keywords": [
+			"mysticism",
+			"solitude",
+			"dreamscape",
+			"symbols",
+			"women"
+		],
+		"lifePeriods": [
+			{
+				"start": 1858,
+				"end": 1866,
+				"happiness": 6,
+				"location": "Grembergen, Belgium",
+				"events": [
+					"early childhood"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1876,
+				"happiness": 7,
+				"location": "Bruges, Belgium",
+				"events": [
+					"influenced by the city's mediavel architecture and art"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1881,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"studied law at the Free University of Brussels",
+					"decided to concentrate on painting"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1883,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied painting at Académie des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Brussels, Belgium",
+				"events": [
+					"active in the Symbolist movement",
+					"built a house-studio"
+				]
+			}
+		],
+		"genre": [
+			"Symbolist"
+		]
+	}
+]

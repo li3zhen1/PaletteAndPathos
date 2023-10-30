@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Pieter Wenning",
+		"keywords": [
+			"landscape",
+			"still life",
+			"tone",
+			"atmosphere",
+			"South Africa"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1897,
+				"happiness": 4,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"discovered love for drawing"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"trained in art",
+					"married Helena Rust"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Johannesburg, South Africa",
+				"events": [
+					"immigrated to South Africa",
+					"improved his painting techniques",
+					"significant progress in artistic career"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Cape Town, South Africa",
+				"events": [
+					"moved to Cape Town",
+					"his artwork became well received"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1925,
+				"happiness": 1,
+				"location": "South Africa",
+				"events": [
+					"died of cardio-vascular disease at peak of his artistic career"
+				]
+			}
+		],
+		"genre": [
+			"Landscapes",
+			"Portraits",
+			"Still life"
+		]
+	}
+]

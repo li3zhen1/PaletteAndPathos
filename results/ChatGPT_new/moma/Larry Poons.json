@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Larry Poons",
+		"keywords": [
+			"Abstract Expressionism",
+			"Color Field Painting",
+			"Optical effects",
+			"Music",
+			"Movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"Born to American parents in Tokyo"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Boston, USA",
+				"events": [
+					"Studied at the New England Conservatory of Music"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Studied at the School of the Museum of Fine Arts, Boston"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Pioneered Optical Art",
+					"Onset of Color Field painting",
+					"Started creating larger, more gestural works"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Continued evolving style and technique",
+					"Engaged in music composition"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Optical Art",
+			"Color Field Painting"
+		]
+	}
+]

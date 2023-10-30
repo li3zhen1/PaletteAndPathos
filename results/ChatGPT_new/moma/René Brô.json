@@ -1,0 +1,40 @@
+[
+	{
+		"name": "René Brô",
+		"keywords": [
+			"versatility",
+			"transformation",
+			"abstraction",
+			"forms",
+			"colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Enrolled in the Jesuit College of Sainte-Croix in Neuilly",
+					"Studied at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Cagnes-sur-Mer",
+				"events": [
+					"Met Charles Estienne",
+					"Joined the Nivèse Group",
+					"Won the Marzotto Prize"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"transformative",
+			"colorful"
+		]
+	}
+]

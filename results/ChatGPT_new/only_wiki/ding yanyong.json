@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Ding Yanyong",
+		"keywords": [
+			"animals",
+			"flowers",
+			"calligraphy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Maoming, Guangdong, China",
+				"events": [
+					"began studying Chinese traditional painting",
+					"studied Western art education"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1937,
+				"happiness": 5,
+				"location": "Shanghai, China",
+				"events": [
+					"participated in the Creation Society",
+					"promoted the integration of Chinese and Western arts"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Chongqing, China",
+				"events": [
+					"founded the Western Painting Department of the Guangzhou Municipal College of Fine Arts",
+					"experienced the changes of the Second Sino-Japanese War"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1978,
+				"happiness": 6,
+				"location": "Hong Kong",
+				"events": [
+					"became a teacher at the Department of Extramural Studies, University of Hong Kong",
+					"held exhibitions in Hong Kong and overseas"
+				]
+			}
+		],
+		"genre": [
+			"modern ink painting",
+			"calligraphy"
+		]
+	}
+]

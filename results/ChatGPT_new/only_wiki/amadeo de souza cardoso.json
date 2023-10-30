@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Amadeo de Souza Cardoso",
+		"keywords": [
+			"Modernism",
+			"Cubism",
+			"Futurism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Manhufe, Portugal",
+				"events": [
+					"Birth"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1908,
+				"happiness": 6,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Studied Architecture at the Superior School of Fine Arts"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became part of the avant-garde art scene"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Manhufe, Portugal",
+				"events": [
+					"Forced to leave Paris due to World War I",
+					"Died of the Spanish flu"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Cubism"
+		]
+	}
+]

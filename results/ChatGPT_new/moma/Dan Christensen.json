@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Dan Christensen",
+		"keywords": [
+			"abstraction",
+			"colorfield",
+			"spray paint"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 1948,
+				"happiness": 7,
+				"location": "Coeur d'Alene, Idaho",
+				"events": []
+			},
+			{
+				"start": 1948,
+				"end": 1961,
+				"happiness": 7,
+				"location": "Cozad, Nebraska",
+				"events": [
+					"Graduated from Cozad High School"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Omaha, Nebraska",
+				"events": [
+					"Graduated from the Kansas City Art Institute"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1965,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1975,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Recognized as a member of the Lyrical Abstraction movement"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2007,
+				"happiness": 7,
+				"location": "East Hampton, New York",
+				"events": [
+					"Received Pollock-Krasner Foundation grants"
+				]
+			}
+		],
+		"genre": [
+			"Abstract painting",
+			"Lyrical Abstraction"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Robert Smithson",
+		"keywords": [
+			"earthworks",
+			"site-specific art",
+			"environmentalism",
+			"entropy",
+			"construction materials"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1943,
+				"happiness": 7,
+				"location": "Passaic, New Jersey",
+				"events": [
+					"Born to a medical secretary and a salesman"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Passaic, New Jersey",
+				"events": [
+					"Developed an interest in art and nature during his childhood"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1967,
+				"happiness": 6,
+				"location": "New York, New York",
+				"events": [
+					"Married to artist Nancy Holt",
+					"Shifted from painting to the creation of sculptural works"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Salt Lake City, Utah",
+				"events": [
+					"Creation of Spiral Jetty, a landmark earthwork"
+				]
+			}
+		],
+		"genre": [
+			"Land art",
+			"Minimalism",
+			"Site-specific art"
+		]
+	}
+]

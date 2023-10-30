@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Günther Förg",
+		"keywords": [
+			"minimalist",
+			"architecture",
+			"modernism",
+			"abstraction",
+			"photography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1952,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Füssen, Germany",
+				"events": [
+					"Developed interest in art",
+					"Studied at the Academy of Fine Arts in Munich"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2007,
+				"happiness": 7,
+				"location": "Cologne, Germany",
+				"events": [
+					"Taught at the Städelschule",
+					"Exhibited artworks at various international galleries and museums"
+				]
+			},
+			{
+				"start": 2008,
+				"end": 2013,
+				"happiness": 6,
+				"location": "Freiburg, Germany",
+				"events": [
+					"Continued to produce art",
+					"Suffered from health problems"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Photography",
+			"Installation art"
+		]
+	}
+]

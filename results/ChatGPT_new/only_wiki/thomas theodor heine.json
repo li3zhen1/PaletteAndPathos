@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Thomas Theodor Heine",
+		"keywords": [
+			"political satire",
+			"caricature",
+			"allegory",
+			"love",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1869,
+				"happiness": 5,
+				"location": "Leipzig, Germany",
+				"events": [
+					"Born into a wealthy Jewish family",
+					"Began youth"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1881,
+				"happiness": 5,
+				"location": "Leipzig, Germany",
+				"events": [
+					"His familiy moved to Munich when he was 14",
+					"Began showing interest in art"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1896,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied art in Munich",
+					"Worked for the magazine 'Simplicissimus'"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1913,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"Was sued for lèse-majesté",
+					"Married Ida Perl"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1933,
+				"happiness": 4,
+				"location": "Munich, Germany and Stockholm, Sweden",
+				"events": [
+					"Start of World War I",
+					"Nazi boycotts and threats"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1948,
+				"happiness": 3,
+				"location": "Oslo, Norway and Stockholm, Sweden",
+				"events": [
+					"Fled Germany due to the rise of the Nazi party",
+					"Paintings classified as degenerate by the Nazis"
+				]
+			}
+		],
+		"genre": [
+			"Caricature",
+			"Illustration",
+			"Painting"
+		]
+	}
+]

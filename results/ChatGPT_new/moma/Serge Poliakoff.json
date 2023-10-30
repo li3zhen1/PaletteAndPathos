@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Serge Poliakoff",
+		"keywords": [
+			"abstract",
+			"shape",
+			"color",
+			"rhythm",
+			"line"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Moscow",
+				"events": [
+					"born into an academic family"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1923,
+				"happiness": 4,
+				"location": "Constantinople",
+				"events": [
+					"fled the Russian Revolution"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"studied at the Academies of Amédée Ozenfant and André Lhote"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1945,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"returned to Paris, then to London due to World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"developed his distinctive abstract style, largely self-taught"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1969,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"reached his artistic maturity and recognition"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Modern Art"
+		]
+	}
+]

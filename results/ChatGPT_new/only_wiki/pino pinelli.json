@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Pino Pinelli",
+		"keywords": [
+			"abstraction",
+			"minimalism",
+			"geometry",
+			"texture",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Catania, Italy",
+				"events": [
+					"Experiencing World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Milan, Italy",
+				"events": [
+					"Started his painting career"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Milan, Italy",
+				"events": [
+					"Development of his distinctive style and techniques"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Recognition in the international art scene",
+					"Established his own art studio"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

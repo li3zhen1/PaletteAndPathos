@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Lygia Pape",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"immaterial",
+			"color",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1927,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"born and growing up"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"studied at School of Fine Arts of the Federal University of Rio de Janeiro"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1979,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"co-founded the Neo-Concrete Movement"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2004,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"started Ttéia installations"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Concretism",
+			"Abstract Art"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Julius LeBlanc Stewart",
+		"keywords": [
+			"social elite",
+			"luxury",
+			"Parisians",
+			"leisure",
+			"formal scenes"
+		],
+		"genre": [
+			"portrait",
+			"genre painting"
+		],
+		"lifePeriods": [
+			{
+				"start": 1855,
+				"end": 1878,
+				"happiness": 6,
+				"location": "Philadelphia, USA",
+				"events": [
+					"born to a wealthy family",
+					"sent to Paris for studies"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1888,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"established himself as a painter",
+					"painted Parisian high society"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"successful in his career",
+					"painted defining works"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"slight decrease in popularity",
+					"continued painting"
+				]
+			}
+		]
+	}
+]

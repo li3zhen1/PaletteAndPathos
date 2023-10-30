@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Tony Smith",
+		"keywords": [
+			"minimalism",
+			"geometry",
+			"abstract",
+			"monochrome",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1937,
+				"happiness": 6,
+				"location": "South Orange, New Jersey, United States",
+				"events": [
+					"a serious childhood illness left him with limited mobility"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"studied at the Art Students League of New York",
+					"worked as a clerk at the architectural firm of Frank Lloyd Wright"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"began creating sculptures",
+					"his works were shown in important venues including the Museum of Modern Art and the Whitney Museum of American Art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1980,
+				"happiness": 7,
+				"location": "South Orange, New Jersey, United States",
+				"events": [
+					"his health began to fail"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract Expressionism",
+			"Modern Sculpture"
+		]
+	}
+]

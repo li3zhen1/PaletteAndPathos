@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Enrico Prampolini",
+		"keywords": [
+			"machines",
+			"architecture",
+			"abstract",
+			"futurism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1921,
+				"happiness": 4,
+				"location": "Modena, Italy",
+				"events": [
+					"Born in Modena",
+					"Studied at the Academy of Fine Arts in Rome"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1922,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Met the Futurists"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Joined the Futurist movement",
+					"Started focusing on theater"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Turned his attention back to painting",
+					"Elected a member of the Accademia di San Luca"
+				]
+			}
+		],
+		"genre": [
+			"Futurism",
+			"Abstract Art"
+		]
+	}
+]

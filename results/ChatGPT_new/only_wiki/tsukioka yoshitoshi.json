@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Tsukioka Yoshitoshi",
+		"keywords": [
+			"Japan",
+			"samurai",
+			"ghosts",
+			"mythology",
+			"battle scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1839,
+				"end": 1865,
+				"happiness": 3,
+				"location": "Edo (Tokyo)",
+				"events": [
+					"studied under Kuniyoshi during the last years of the Tokugawa shogunate",
+					"witnessed the upheaval and transformation of Japan during the Meiji Restoration"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1877,
+				"happiness": 5,
+				"location": "Tokyo",
+				"events": [
+					"faced starvation and poverty after the death of Kuniyoshi",
+					"he gained widespread attention with his print 'The Lonely House on Adachi Moor' in 1872"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1892,
+				"happiness": 5,
+				"location": "Tokyo",
+				"events": [
+					"his artistic style matured and he created some of his most recognized work",
+					"struggled with mental health issues"
+				]
+			}
+		],
+		"genre": [
+			"Ukiyo-e",
+			"Yōga"
+		]
+	}
+]

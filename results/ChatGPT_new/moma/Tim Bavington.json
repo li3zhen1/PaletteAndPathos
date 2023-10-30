@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Tim Bavington",
+		"keywords": [
+			"music",
+			"emotion",
+			"abstraction",
+			"color",
+			"stripes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1966,
+				"end": 1989,
+				"happiness": 4,
+				"location": "England, UK",
+				"events": [
+					"received his high school education"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2002,
+				"happiness": 7,
+				"location": "Las Vegas, Nevada, USA",
+				"events": [
+					"earned a BFA from the Art Center College of Design",
+					"earned an MFA from the University of Nevada"
+				]
+			},
+			{
+				"start": 2003,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Las Vegas, Nevada, USA",
+				"events": [
+					"his work was added to the Dallas Museum of Art's permanent collection",
+					"was included in the 2007 exhibition Las Vegas Diaspora"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Painting",
+			"Color-field painting"
+		]
+	}
+]

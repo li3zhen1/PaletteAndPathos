@@ -1,0 +1,70 @@
+[
+	{
+		"name": "David Wojnarowicz",
+		"keywords": [
+			"activism",
+			"identity",
+			"sexuality",
+			"suffering",
+			"death"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 1966,
+				"happiness": 3,
+				"location": "Redbank, New Jersey",
+				"events": [
+					"born into a violent family",
+					"faced abuse"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1973,
+				"happiness": 2,
+				"location": "New York City",
+				"events": [
+					"lived on the streets",
+					"engaged in prostitution"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1980,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"became part of the Lower East Side art scene",
+					"explored concept of identity through art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1987,
+				"happiness": 4,
+				"location": "New York City",
+				"events": [
+					"began to gain prominence in the art world",
+					"dealt with numerous friends dying of AIDS"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 1992,
+				"happiness": 2,
+				"location": "New York City",
+				"events": [
+					"diagnosed with AIDS",
+					"became an AIDS activist",
+					"died of AIDS"
+				]
+			}
+		],
+		"genre": [
+			"photography",
+			"painting",
+			"collage"
+		]
+	}
+]

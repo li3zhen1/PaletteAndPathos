@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Janos Mattis-Teutsch",
+		"keywords": [
+			"abstract",
+			"nature",
+			"geometry",
+			"symbols",
+			"human figures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1920,
+				"happiness": 5,
+				"location": "Braşov, Romania",
+				"events": [
+					"started his art career",
+					"developed interest in sculpture"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Braşov, Romania",
+				"events": [
+					"became associated with Der Sturm gallery",
+					"started painting and sculpture work in abstract style"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Braşov, Romania",
+				"events": [
+					"faced creative impasse due to political restrictions",
+					"endured World War II"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"symbolism",
+			"sculpture"
+		]
+	}
+]

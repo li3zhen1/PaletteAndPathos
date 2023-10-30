@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Radi Nedelchev",
+		"keywords": [
+			"folklore",
+			"rural life",
+			"seasonal work",
+			"festivals",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 2018,
+				"happiness": 7,
+				"location": "Sofia, Bulgaria",
+				"events": [
+					"Started painting in his early childhood",
+					"His works showcased in more than 30 countries"
+				]
+			}
+		],
+		"genre": [
+			"Naive Art"
+		]
+	}
+]

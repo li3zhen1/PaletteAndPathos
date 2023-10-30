@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Richard Serra",
+		"keywords": [
+			"minimalism",
+			"large-scale",
+			"site-specific",
+			"industrial",
+			"steel"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1957,
+				"happiness": 5,
+				"location": "San Francisco, USA",
+				"events": [
+					"Born to a Spanish father and a Russian mother"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1961,
+				"happiness": 7,
+				"location": "Santa Barbara, USA",
+				"events": [
+					"Studied at University of California"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Yale University, Connecticut",
+				"events": [
+					"Received MFA degree"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1966,
+				"happiness": 6,
+				"location": "France and Italy",
+				"events": [
+					"Influenced by the works of Brâncuși, Giacometti, and other European artists"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Began creating sculptures"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2020,
+				"happiness": 8,
+				"location": "Various",
+				"events": [
+					"Famed for his large public artworks",
+					"Received many awards and recognitions"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Site-Specific Art"
+		]
+	}
+]

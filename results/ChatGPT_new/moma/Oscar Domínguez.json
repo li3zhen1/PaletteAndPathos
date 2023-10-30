@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Oscar Domínguez",
+		"keywords": [
+			"surrealism",
+			"freedom",
+			"dreams",
+			"eroticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Tenerife",
+				"events": [
+					"born into a middle-class family",
+					"discovered his love for art"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1931,
+				"happiness": 7,
+				"location": "Madrid",
+				"events": [
+					"moved to mainland Spain",
+					"developed his artistic skill"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"moved to Paris",
+					"discovered automatic drawing"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1957,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"lived through World War II",
+					"struggled with mental health"
+				]
+			}
+		],
+		"genre": [
+			"surrealism"
+		]
+	}
+]

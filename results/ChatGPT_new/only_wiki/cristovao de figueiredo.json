@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Cristovao de Figueiredo",
+		"keywords": [
+			"religion",
+			"portrait",
+			"classic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1470,
+				"end": 1550,
+				"happiness": 7,
+				"location": "Coimbra, Portugal",
+				"events": [
+					"entered art school in Lisbon",
+					"worked in the court of King Manuel I"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Religious"
+		]
+	}
+]

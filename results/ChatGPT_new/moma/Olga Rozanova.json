@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Olga Rozanova",
+		"keywords": [
+			"abstract",
+			"cubism",
+			"suprematism",
+			"revolution",
+			"avant-garde"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1915,
+				"happiness": 7,
+				"location": "Melenki",
+				"events": [
+					"Born to a wealthy family",
+					"Interested in drawing from a young age"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1917,
+				"happiness": 8,
+				"location": "Moscow",
+				"events": [
+					"Met her future husband, Alexei Kruchenykh",
+					"Joined the Futurist movement"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1918,
+				"happiness": 6,
+				"location": "St. Petersburg",
+				"events": [
+					"Created her Green Stripe painting",
+					"Died of diphtheria during the Spanish flu pandemic"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Cubism",
+			"Suprematism"
+		]
+	}
+]

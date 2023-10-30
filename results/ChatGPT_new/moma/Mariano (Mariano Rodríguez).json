@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Mariano Rodríguez",
+		"keywords": [
+			"cuba",
+			"rural life",
+			"post-revolution",
+			"horses",
+			"roosters"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Havana, Cuba",
+				"events": [
+					"studied at the Escuela Nacional de Bellas Artes"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Havana, Cuba",
+				"events": [
+					"became a member of the Asociación de Pintores y Escultores de Cuba",
+					"participated in the creation of the Museo Nacional de Bellas Artes de La Habana"
+				]
+			}
+		],
+		"genre": [
+			"Cuban Art",
+			"Modern Art"
+		]
+	}
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Öyvind Fahlström",
+		"keywords": [
+			"political",
+			"pop art",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1938,
+				"happiness": 4,
+				"location": "Sao Paolo, Brazil",
+				"events": [
+					"separated from his mother"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"adopted by a Swedish family",
+					"began to show interest in writing and art"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"developed his 'Ade-Ledic-Nander' language"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1961,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"began using objects and images from popular culture in his art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1967,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"first solo exhibition at Cordier & Ekstrom Gallery"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1976,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"displayed work in the Moderna Museet in Stockholm",
+					"creation of his 'World Bank' piece"
+				]
+			}
+		],
+		"genre": [
+			"pop art",
+			"conceptual art"
+		]
+	}
+]

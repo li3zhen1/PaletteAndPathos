@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Charles Francois Daubigny",
+		"keywords": [
+			"landscape",
+			"rural life",
+			"nature",
+			"realism",
+			"rivers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1817,
+				"end": 1835,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"began his art studies"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1857,
+				"happiness": 7,
+				"location": "Barbizon, France",
+				"events": [
+					"married Henrietta Deliron",
+					"first childborn"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1866,
+				"happiness": 6,
+				"location": "Auvers-sur-Oise, France",
+				"events": [
+					"built a studio boat to travel along rivers"
+				]
+			},
+			{
+				"start": 1866,
+				"end": 1875,
+				"happiness": 5,
+				"location": "Auvers-sur-Oise, France",
+				"events": [
+					"nominated Officer of the Legion of Honor"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1878,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"deteriorating health",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Landscape Art"
+		]
+	}
+]

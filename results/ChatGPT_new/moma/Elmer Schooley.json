@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Elmer Schooley",
+		"keywords": [
+			"nature",
+			"abstract",
+			"landscape",
+			"tranquility",
+			"winter"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 2007,
+				"happiness": 6,
+				"location": "Kansas, USA",
+				"events": [
+					"Graduated from the University of Kansas",
+					"Began his career as an artist"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1953,
+				"happiness": 5,
+				"location": "Roswell, New Mexico, USA",
+				"events": [
+					"Moved to Roswell",
+					"Became a significant member of the Roswell Artist-in-Residence Program"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 2007,
+				"happiness": 7,
+				"location": "Wild Horse Ranch, New Mexico, USA",
+				"events": [
+					"Developed his signature style of large, abstract landscapes",
+					"Received multiple awards for his work"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Landscape"
+		]
+	}
+]

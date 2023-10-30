@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Jan Steen",
+		"keywords": [
+			"genre scenes",
+			"daily life",
+			"humour",
+			"merriment",
+			"humor"
+		],
+		"lifePeriods": [
+			{
+				"start": 1626,
+				"end": 1679,
+				"happiness": 7,
+				"location": "Leiden, Netherlands",
+				"events": [
+					"opened a brewery",
+					"became a member of the painters' Guild of Saint Luke"
+				]
+			}
+		],
+		"genre": [
+			"Dutch Golden Age Painting",
+			"Genre painting"
+		]
+	}
+]

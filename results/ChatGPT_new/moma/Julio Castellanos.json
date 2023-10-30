@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Julio Castellanos",
+		"keywords": [
+			"death",
+			"sorrow",
+			"ballet",
+			"surrealism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Mexico City",
+				"events": [
+					"studied in Academy of San Carlos",
+					"served as director of the Palace of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Mexican Muralism",
+			"Symbolism",
+			"Realism"
+		]
+	}
+]

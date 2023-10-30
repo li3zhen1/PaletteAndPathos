@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Dosso Dossi",
+		"keywords": [
+			"mythology",
+			"religion",
+			"portraiture",
+			"nature",
+			"poetry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1486,
+				"end": 1542,
+				"happiness": 5,
+				"location": "Ferrara, Italy",
+				"events": [
+					"served as court artist in the House of Este",
+					"worked with his brother Battista Dossi"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Italian Mannerism"
+		]
+	}
+]

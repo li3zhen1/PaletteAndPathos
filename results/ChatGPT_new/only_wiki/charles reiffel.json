@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Charles Reiffel",
+		"keywords": [
+			"landscape",
+			"impressionism",
+			"nature",
+			"California",
+			"livelihood"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1898,
+				"happiness": 4,
+				"location": "Indianapolis, Indiana",
+				"events": [
+					"born",
+					"work as a commercial lithographer"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1912,
+				"happiness": 5,
+				"location": "New York, New York",
+				"events": [
+					"studied art",
+					"working as a commercial lithographer"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Silvermine, Connecticut",
+				"events": [
+					"began painting full time",
+					"moved to California in 1921"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1942,
+				"happiness": 5,
+				"location": "San Diego, California",
+				"events": [
+					"prominent part of the art scene",
+					"died"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Modern art",
+			"Landscape art"
+		]
+	}
+]

@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Peter Blake",
+		"keywords": [
+			"pop culture",
+			"collage",
+			"iconography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Dartford, Kent, England",
+				"events": [
+					"enrolled at Gravesend School of Art"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1975,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"became a key figure in the Pop Art movement",
+					"created cover design for The Beatles' album Sgt. Pepper's Lonely Hearts Club Band"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2000,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"received a knighthood for his services to art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"continued to create iconic and influential art works"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Contemporary Art"
+		]
+	}
+]

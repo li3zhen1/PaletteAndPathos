@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Gustave Moreau",
+		"keywords": [
+			"mythology",
+			"symbolism",
+			"fantastic",
+			"orientalism",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1826,
+				"end": 1857,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"trained under prominent French painters"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1865,
+				"happiness": 5,
+				"location": "Italy",
+				"events": [
+					"traveled extensively and studied Italian Renaissance"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1895,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"achieved success with his painting 'Oedipus and the Sphinx'",
+					"became a professor at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"turned his home into a museum filled with his artwork"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"History painting"
+		]
+	}
+]

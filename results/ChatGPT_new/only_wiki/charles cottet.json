@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Charles Cottet",
+		"keywords": [
+			"human suffering",
+			"poverty",
+			"rural life",
+			"nautical",
+			"religion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1863,
+				"end": 1873,
+				"happiness": 5,
+				"location": "Le Puy-en-Velay, France",
+				"events": [
+					"Childhood"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1882,
+				"happiness": 6,
+				"location": "Le Puy-en-Velay, France",
+				"events": [
+					"Formal education"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1887,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Paris Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1892,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Started reputation as an artist"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Brittany, France",
+				"events": [
+					"Frequent travel and work in Brittany",
+					"developed his characteristic style"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1925,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Exhibited at the Salon de la Société Nationale des Beaux-Arts",
+					"Reputation as an artist solidified"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Genre painting",
+			"Symbolism"
+		]
+	}
+]

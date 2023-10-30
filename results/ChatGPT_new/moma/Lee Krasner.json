@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Lee Krasner",
+		"keywords": [
+			"abstract expressionism",
+			"femininity",
+			"nature",
+			"emotional expression",
+			"guided chaos"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1929,
+				"happiness": 6,
+				"location": "Brooklyn, New York, USA",
+				"events": [
+					"Born to immigrant parents",
+					"Developed interest in art at a young age"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1944,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Attended the Women's Art School of Cooper Union",
+					"Graduated from the National Academy of Design"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1956,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"Married artist Jackson Pollock",
+					"Developed her ‘Little Image’ series"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1962,
+				"happiness": 3,
+				"location": "New York City, USA",
+				"events": [
+					"Death of husband Jackson Pollock",
+					"Began creating large-scale abstract expressionist works"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1984,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Recognition and appreciation for her artwork grew",
+					"First woman to have a retrospective at the Museum of Modern Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism",
+			"Feminist Art"
+		]
+	}
+]

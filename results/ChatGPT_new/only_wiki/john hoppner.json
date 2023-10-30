@@ -1,0 +1,26 @@
+[
+	{
+		"name": "John Hoppner",
+		"keywords": [
+			"portrait",
+			"royalty",
+			"woman",
+			"child"
+		],
+		"lifePeriods": [
+			{
+				"start": 1758,
+				"end": 1810,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Became a Royal Academy student",
+					"Appointed as Portrait Painter in Crayons to the King"
+				]
+			}
+		],
+		"genre": [
+			"portrait painting"
+		]
+	}
+]

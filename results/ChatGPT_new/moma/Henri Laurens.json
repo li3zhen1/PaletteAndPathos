@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Henri Laurens",
+		"keywords": [
+			"Cubism",
+			"Sculptures",
+			"Drawings",
+			"Book Designs",
+			"Printmaking"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1899,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Born into a blue-collar family"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1914,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Worked in a variety of jobs to support himself",
+					"Self-taught artist"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Paris",
+				"events": [
+					"Influenced by Braque and Picasso",
+					"War injury"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Developed his own style",
+					"Success in solo exhibitions"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Continued to develop as an artist",
+					"Engaged in political activism"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1954,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Experienced the Second World War",
+					"Death of friend Picasso"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Sculpture"
+		]
+	}
+]

@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Ivan Generalic",
+		"keywords": [
+			"rural life",
+			"peasants",
+			"animals",
+			"nature",
+			"seasons"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1926,
+				"happiness": 5,
+				"location": "Hlebine, Croatia",
+				"events": [
+					"began painting in primary school"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Hlebine, Croatia",
+				"events": [
+					"discovered by collector Krsto Hegedusic"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Hlebine, Croatia",
+				"events": [
+					"began painting in glass, a style he is famed for"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Hlebine, Croatia",
+				"events": [
+					"participated in exhibition in Brazil in 1953",
+					"increased international recognition"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Hlebine, Croatia",
+				"events": [
+					"established his own museum in Hlebine in 1960"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Hlebine, Croatia",
+				"events": [
+					"active participation in international exhibitions",
+					"continued his painting"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Hlebine, Croatia",
+				"events": [
+					"published albums of his works"
+				]
+			}
+		],
+		"genre": [
+			"Naïve art",
+			"Social realism"
+		]
+	}
+]

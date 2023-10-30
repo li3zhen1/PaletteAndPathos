@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Eberhard Havekost",
+		"keywords": [
+			"modernism",
+			"abstraction",
+			"focus",
+			"realism",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 2019,
+				"happiness": 6,
+				"location": "Dresden, Germany",
+				"events": [
+					"studied at the Academy of Fine Arts Dresden",
+					"participation in the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Realism",
+			"Abstract Art"
+		]
+	}
+]

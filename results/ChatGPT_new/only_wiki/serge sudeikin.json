@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Serge Sudeikin",
+		"keywords": [
+			"theater",
+			"ballet",
+			"mythology",
+			"exotic",
+			"erotic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"graduated from the Moscow Art School",
+					"became associated with the World of Art movement"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1924,
+				"happiness": 5,
+				"location": "Petrograd, Russia",
+				"events": [
+					"involved in the organization of the First Free Exhibit of Artists of All Trends",
+					"emigrated to the USA"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1946,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"worked as a set designer for several major Broadway productions",
+					"designed for the Ziegfeld Follies and the Rockettes"
+				]
+			}
+		],
+		"genre": [
+			"ballet set design",
+			"theater set design",
+			"graphic art"
+		]
+	}
+]

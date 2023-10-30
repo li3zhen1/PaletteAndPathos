@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Gazbia Sirry",
+		"keywords": [
+			"Egyptian life",
+			"traditionalism",
+			"modern art",
+			"femininity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Cairo, Egypt",
+				"events": [
+					"Received formal art training",
+					"Beginning of her artistic journey"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Cairo, Egypt",
+				"events": [
+					"Experienced the political transformation of Egypt",
+					"Began to establish herself as an artist"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Cairo, Egypt",
+				"events": [
+					"Joined Cairo's Contemporary Art Group",
+					"Painted many of her most famous pieces"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Cairo, Egypt",
+				"events": [
+					"Received numerous awards",
+					"Taught at the College of Fine Arts in Cairo"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Cairo, Egypt",
+				"events": [
+					"Continued painting"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Still life",
+			"Landscape"
+		]
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Bob Thompson",
+		"keywords": [
+			"mythology",
+			"Biblical scenes",
+			"symbolic",
+			"expressive color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1966,
+				"happiness": 2,
+				"location": "Louisville, Kentucky",
+				"events": [
+					"Born to middle-class parents",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1960,
+				"happiness": 4,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Studied at Boston University",
+					"left university to travel to Europe"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Exposed to Old Masters' paintings",
+					"developed his unique style"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1963,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Held his first one-man show",
+					"gained recognitions within the art world"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1966,
+				"happiness": 3,
+				"location": "Rome, Italy",
+				"events": [
+					"Continued to paint prolifically",
+					"Died of a drug overdose at age 28"
+				]
+			}
+		],
+		"genre": [
+			"Figurative art",
+			"Symbolism"
+		]
+	}
+]

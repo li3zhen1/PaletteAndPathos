@@ -1,0 +1,76 @@
+[
+	{
+		"name": "René Pierre Tal-Coat",
+		"keywords": [
+			"nature",
+			"abstract",
+			"light",
+			"shadow",
+			"forms"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1921,
+				"happiness": 4,
+				"location": "Clohars-Carnoët, France",
+				"events": [
+					"born into a peasant family"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"started working in lithography",
+					"made his first prints"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"started focusing on painting",
+					"exhibited at the Salon des Independants"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"faced struggles during World War II"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1978,
+				"happiness": 8,
+				"location": "Domont, France",
+				"events": [
+					"finished many abstract paintings",
+					"were recognized for his landscapes and abstract works"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1985,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"his health deteriorated"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Landscape Art",
+			"Modern Art"
+		]
+	}
+]

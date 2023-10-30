@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Willard Metcalf",
+		"keywords": [
+			"landscapes",
+			"impressionism",
+			"nature",
+			"rural life",
+			"seasons"
+		],
+		"lifePeriods": [
+			{
+				"start": 1858,
+				"end": 1876,
+				"happiness": 5,
+				"location": "Lowell, Massachusetts",
+				"events": [
+					"developed an interest in art"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"studied at the School of the Museum of Fine Arts, Boston"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1888,
+				"happiness": 7,
+				"location": "Europe",
+				"events": [
+					"visited many art museums and galleries"
+				]
+			},
+			{
+				"start": 1888,
+				"end": 1900,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"worked as an illustrator and teacher",
+					"divorced his first wife"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1925,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"found success as a painter",
+					"divorced and remarried"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Landscape art"
+		]
+	}
+]

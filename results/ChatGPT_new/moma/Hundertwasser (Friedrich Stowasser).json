@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Friedrich Stowasser (Hundertwasser)",
+		"keywords": [
+			"organic",
+			"spiral",
+			"nature",
+			"architecture",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1943,
+				"happiness": 3,
+				"location": "Vienna, Austria",
+				"events": [
+					"experienced horrors of World War II as a Jewish child",
+					"lost significant family members in Holocaust"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Vienna, Austria",
+				"events": [
+					"attended the Academy of Fine Arts Vienna",
+					"assumed the name Hundertwasser"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"gained initial recognition for his artworks",
+					"made his art public through exhibitions"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1975,
+				"happiness": 8,
+				"location": "Various locations worldwide",
+				"events": [
+					"embarked on worldwide travel",
+					"established as influential artist",
+					"created architectural designs"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New Zealand, Pacific",
+				"events": [
+					"became citizen of New Zealand",
+					"focused on ecological building"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Symbolism",
+			"Art Nouveau"
+		]
+	}
+]

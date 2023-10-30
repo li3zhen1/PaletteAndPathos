@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Hale Woodruff",
+		"keywords": [
+			"African American history",
+			"murals",
+			"racial equality",
+			"social issues",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Nashville, Tennessee",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1927,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied art at Académie Moderne",
+					"Influenced by the works of Paul Cezanne and Henry Ossawa Tanner"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Nashville, Tennessee",
+				"events": [
+					"Returned to the United States",
+					"Joined the faculty of Fisk University"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1946,
+				"happiness": 8,
+				"location": "Atlanta, Georgia",
+				"events": [
+					"Created the Talladega College Murals commemorating the 1839 slave revolt aboard the Amistad",
+					"Led the art department at Atlanta University"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York, NY",
+				"events": [
+					"Became a part of the Spiral group, aiming to express the black experience in art",
+					"Passed away in 1980"
+				]
+			}
+		],
+		"genre": [
+			"Murals",
+			"Oil Painting",
+			"Abstract Art"
+		]
+	}
+]

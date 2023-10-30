@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Ellen Gallagher",
+		"keywords": [
+			"nature",
+			"oceanography",
+			"cultural history",
+			"minimalist aesthetics",
+			"black identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1965,
+				"end": 1982,
+				"happiness": 6,
+				"location": "Providence, Rhode Island",
+				"events": [
+					"childhood environment influenced her work"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Boston",
+				"events": [
+					"studied writing",
+					"attended Massachusetts College of Art"
+				]
+			},
+			{
+				"start": 1992,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"produced a breakthrough series, 'Negros Battling in a Cave'",
+					"recognition as an accomplished artist"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Rotterdam, the Netherlands",
+				"events": [
+					"continued painting and printmaking",
+					"exhibited her works worldwide"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"Printmaking",
+			"Painting"
+		]
+	}
+]

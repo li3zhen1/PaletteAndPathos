@@ -1,0 +1,56 @@
+[
+	{
+		"name": "António de Carvalho da Silva Porto",
+		"keywords": [
+			"nature",
+			"naturalism",
+			"rural life",
+			"landscapes",
+			"peasants"
+		],
+		"lifePeriods": [
+			{
+				"start": 1850,
+				"end": 1870,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"born into a wealthy family"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1880,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied in Paris",
+					"was influenced by the Barbizon school"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1883,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"returned to Portugal"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1893,
+				"happiness": 4,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"opened his own studio",
+					"output decreased due to illness"
+				]
+			}
+		],
+		"genre": [
+			"naturalism",
+			"landscape"
+		]
+	}
+]

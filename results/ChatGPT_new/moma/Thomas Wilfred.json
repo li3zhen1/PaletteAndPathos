@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Thomas Wilfred",
+		"keywords": [
+			"light",
+			"kinetic",
+			"abstract",
+			"motion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1968,
+				"happiness": 5,
+				"location": "United States",
+				"events": [
+					"Developed Lumia - the art of light",
+					"Founded the Art Institute of Light"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"light sculpture"
+		]
+	}
+]

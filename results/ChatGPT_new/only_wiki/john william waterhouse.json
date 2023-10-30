@@ -1,0 +1,57 @@
+[
+	{
+		"name": "John William Waterhouse",
+		"keywords": [
+			"mythology",
+			"feminine beauty",
+			"romanticism",
+			"nature",
+			"mystery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1849,
+				"end": 1854,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"born into an artist family"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1871,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"moved from Italy to England",
+					"studied at Royal Academy Schools"
+				]
+			},
+			{
+				"start": 1872,
+				"end": 1910,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"had numerous successful exhibitions",
+					"became member of the Royal Academy"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1917,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"battled with illness",
+					"died in 1917"
+				]
+			}
+		],
+		"genre": [
+			"Pre-Raphaelite",
+			"Romanticism"
+		]
+	}
+]

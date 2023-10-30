@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Park Seo Bo",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"Ecriture",
+			"Korean culture",
+			"tradition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Yeonbaek, Hwanghae Province, Korea (now North Korea)",
+				"events": [
+					"Birth and early childhood, early interest in arts"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Studied at Seoul National University",
+					"Started art practice"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Developed his unique style of 'Ecriture'",
+					"Became a key figure in Korean Art"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Seoul, South Korea",
+				"events": [
+					"Recognition and success across global art community",
+					"Retrospective at Perrotin Hong Kong in 2021"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

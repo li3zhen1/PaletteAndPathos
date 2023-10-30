@@ -1,0 +1,50 @@
+[
+	{
+		"name": "John Constable",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"rural life",
+			"romanticism",
+			"peace"
+		],
+		"lifePeriods": [
+			{
+				"start": 1776,
+				"end": 1799,
+				"happiness": 5,
+				"location": "East Bergholt, Suffolk, England",
+				"events": [
+					"Raised in a prosperous family",
+					"Developed interest in painting after discovering sketching trips in the Suffolk countryside"
+				]
+			},
+			{
+				"start": 1799,
+				"end": 1828,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Entered the Royal Academy Schools",
+					"Met his future wife Maria",
+					"Achieved success with 'The Hay Wain'"
+				]
+			},
+			{
+				"start": 1828,
+				"end": 1837,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"Death of his wife Maria",
+					"Elected to the Royal Academy"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism",
+			"Landscape painting",
+			"Naturalism"
+		]
+	}
+]

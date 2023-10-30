@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Eileen Agar",
+		"keywords": [
+			"surrealism",
+			"abstraction",
+			"automatism",
+			"nature",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1911,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": []
+			},
+			{
+				"start": 1911,
+				"end": 1927,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"attended the Slade School of Fine Art",
+					"travelled extensively in Europe"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"met the Surrealists and joined the movement",
+					"exhibited at the London Gallery"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1966,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"created some of her most famous works",
+					"became a member of the London group"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1991,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"continued to exhibit widely",
+					"received retrospectives at major institutions"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstraction"
+		]
+	}
+]

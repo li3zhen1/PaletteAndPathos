@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Maurice Denis",
+		"keywords": [
+			"mysticism",
+			"symbolism",
+			"nature",
+			"religious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Granville, France",
+				"events": [
+					"Began his art studies"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became part of the Nabis group",
+					"Married his first wife Marthe Meurier"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Married his second wife Elisabeth Graterolle"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Witnessed the war",
+					"Died due to injuries after a car accident"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Post-Impressionism"
+		]
+	}
+]

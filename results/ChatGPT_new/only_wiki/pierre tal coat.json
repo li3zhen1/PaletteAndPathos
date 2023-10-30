@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Pierre Tal Coat",
+		"keywords": [
+			"abstraction",
+			"nature",
+			"stone",
+			"earth"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Clohars-Carnoët, France",
+				"events": [
+					"Born into a poor fisherman's family",
+					"Worked in various jobs, including as a farmhand"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Started studying art",
+					"Became friend with artists such as André Masson",
+					"Worked on several exhibitions"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Dormont, France",
+				"events": [
+					"Began to focus more on Natural abstraction",
+					"Met Picasso and Braque",
+					"Known for his unique style of painting"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1985,
+				"happiness": 8,
+				"location": "Dormont, France",
+				"events": [
+					"Had an exhibition at the Grand Palais in Paris"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Modernism"
+		]
+	}
+]

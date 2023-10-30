@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Li Yuan-chia",
+		"keywords": [
+			"cosmic",
+			"minimalism",
+			"dot",
+			"nature",
+			"peaceful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1948,
+				"happiness": 2,
+				"location": "Gongliao, Taiwan",
+				"events": [
+					"Childhood and early education"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1965,
+				"happiness": 4,
+				"location": "Taipei, Taiwan",
+				"events": [
+					"Formed the Ton-Fan Art Group",
+					"Began his 'Cosmic Point' and 'Cosmic Wind' series"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1971,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"First solo exhibition held at the Lisson Gallery",
+					"Met artist David Medalla"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1994,
+				"happiness": 6,
+				"location": "Cumbria, United Kingdom",
+				"events": [
+					"Established the LYC Museum and Art Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

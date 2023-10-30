@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Larry Rivers",
+		"keywords": [
+			"pop art",
+			"figurative",
+			"drawings",
+			"sculpture",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1941,
+				"happiness": 5,
+				"location": "New York, US",
+				"events": [
+					"started showing interest in arts"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 2,
+				"location": "Various",
+				"events": [
+					"served in the military during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 6,
+				"location": "New York, US",
+				"events": [
+					"studied at Julliard School of Music",
+					"turned to visual art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1985,
+				"happiness": 7,
+				"location": "New York, US",
+				"events": [
+					"became a prominent artist in the 1960s",
+					"created some of his most famous works"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 2002,
+				"happiness": 5,
+				"location": "New York, US",
+				"events": [
+					"continued to create art until his death"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Dada",
+			"Neo-Dada"
+		]
+	}
+]

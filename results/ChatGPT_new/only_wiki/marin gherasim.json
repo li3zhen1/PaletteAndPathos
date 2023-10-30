@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Marin Gherasim",
+		"keywords": [
+			"expressionism",
+			"semi-abstract",
+			"religion",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Alba Iulia, Romania",
+				"events": [
+					"born in Alba Iulia"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2008,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"graduated from the Nicolae Grigorescu Institute of Fine Arts",
+					"became a professor at the University of Arts in Bucharest",
+					"founded Prolog group"
+				]
+			},
+			{
+				"start": 2008,
+				"end": 2021,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"received Order of Cultural Merit award"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Leonardo da Vinci",
+		"keywords": [
+			"innovation",
+			"anatomy",
+			"nature",
+			"religion",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1452,
+				"end": 1466,
+				"happiness": 7,
+				"location": "Vinci, Italy",
+				"events": [
+					"born to an unmarried pair"
+				]
+			},
+			{
+				"start": 1466,
+				"end": 1472,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"became an apprentice in the workshop of Verrocchio"
+				]
+			},
+			{
+				"start": 1472,
+				"end": 1482,
+				"happiness": 8,
+				"location": "Florence, Italy",
+				"events": [
+					"joined the Guild of Saint Luke",
+					"painted 'The Annunciation'"
+				]
+			},
+			{
+				"start": 1482,
+				"end": 1499,
+				"happiness": 7,
+				"location": "Milan, Italy",
+				"events": [
+					"served Duke of Milan as court artist and engineer",
+					"painted 'The Last Supper'"
+				]
+			},
+			{
+				"start": 1499,
+				"end": 1513,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"painted 'Mona Lisa'",
+					"studies in anatomy intensified"
+				]
+			},
+			{
+				"start": 1513,
+				"end": 1516,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"worked for the Medici family"
+				]
+			},
+			{
+				"start": 1516,
+				"end": 1519,
+				"happiness": 6,
+				"location": "Amboise, France",
+				"events": [
+					"served French King Francis I",
+					"passed away at Clos Lucé"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"religious art",
+			"portraiture"
+		]
+	}
+]

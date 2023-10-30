@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Daniel Buren",
+		"keywords": [
+			"stripes",
+			"locational concept",
+			"minimalism",
+			"public space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"attended Ecole Nationale Superieure des Metiers d'Art",
+					"developed his signature 8.7 cm wide stripe"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Minimalism",
+			"In Situ"
+		]
+	}
+]

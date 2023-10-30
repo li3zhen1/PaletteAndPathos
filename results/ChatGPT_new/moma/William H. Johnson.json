@@ -1,0 +1,67 @@
+[
+	{
+		"name": "William H. Johnson",
+		"keywords": [
+			"African-American life",
+			"European modernism",
+			"portraits",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1926,
+				"happiness": 4,
+				"location": "Florence, South Carolina",
+				"events": [
+					"Raised in a poor, working-class family"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1929,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Studied at the National Academy of Design",
+					"Won the Harmon Foundation award"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Europe",
+				"events": [
+					"Met Holcha Krake, his wife",
+					"Developed significantly as an artist"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1946,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"Returning to America",
+					"Gained recognition for his art"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1970,
+				"happiness": 2,
+				"location": "Central Islip, New York",
+				"events": [
+					"Wife died",
+					"Developed health issues",
+					"Admitted to Central Islip State Hospital, where he passed away"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Social Realism"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Roger Bissière",
+		"keywords": [
+			"abstract",
+			"symbols",
+			"organic forms",
+			"color harmony"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1964,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"graduated from the Bordeaux Ecole de Beaux-Arts",
+					"founded the 'Compagnie de l'Art Brut' with Jean Dubuffet"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Symbolism"
+		]
+	}
+]

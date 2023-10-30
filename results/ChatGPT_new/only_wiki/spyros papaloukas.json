@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Spyros Papaloukas",
+		"keywords": [
+			"nature",
+			"orthodoxy",
+			"Byzantine surroundings",
+			"mountain landscapes",
+			"monasteries"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1957,
+				"happiness": 6,
+				"location": "Greece",
+				"events": [
+					"studied in Athens School of Fine Arts",
+					"displayed his works in a series of exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"landscape art",
+			"religious art"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Jack Goldstein",
+		"keywords": [
+			"minimalism",
+			"mysticism",
+			"movement",
+			"sound"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1964,
+				"happiness": 7,
+				"location": "Montreal, Canada",
+				"events": [
+					"birth",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Los Angeles, United States",
+				"events": [
+					"moved for studies",
+					"began conceptual work"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"developed new interest in paintings"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"started doing performance art"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2003,
+				"happiness": 3,
+				"location": "San Bernardino County, United States",
+				"events": [
+					"experienced depression",
+					"suicide"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"conceptual art",
+			"performance art",
+			"sound art",
+			"film"
+		]
+	}
+]

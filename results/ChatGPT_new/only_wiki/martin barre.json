@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Martin Barre",
+		"keywords": [
+			"music",
+			"rock",
+			"blues",
+			"guitar"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Birmingham, England",
+				"events": [
+					"Learned to play the flute and guitar",
+					"Graduated from Lanchester Polytechnic"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 2012,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Joined rock band Jethro Tull",
+					"Released several successful albums"
+				]
+			},
+			{
+				"start": 2013,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Devon, England",
+				"events": [
+					"Continued solo career after the break-up of Jethro Tull",
+					"Toured worldwide with the Martin Barre Band"
+				]
+			}
+		],
+		"genre": [
+			"Rock",
+			"Blues"
+		]
+	}
+]

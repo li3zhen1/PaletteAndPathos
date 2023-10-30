@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Giovanni Anselmo",
+		"keywords": [
+			"nature",
+			"invisibility",
+			"energy",
+			"space",
+			"interactions"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Borgofranco d'Ivrea, Italy",
+				"events": [
+					"became a member of the Arte Povera movement",
+					"represented Italy at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Arte Povera"
+		]
+	}
+]

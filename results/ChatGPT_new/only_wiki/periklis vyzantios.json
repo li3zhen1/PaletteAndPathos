@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Periklis Vyzantios",
+		"keywords": [
+			"landscapes",
+			"portraits",
+			"Greece"
+		],
+		"lifePeriods": [
+			{
+				"start": 1790,
+				"end": 1865,
+				"happiness": 6,
+				"location": "Ermoupoli, Syros, Greece",
+				"events": [
+					"Was one of the founders of the 'Athens School' of painting"
+				]
+			}
+		],
+		"genre": [
+			"portrait",
+			"landoop"
+		]
+	}
+]

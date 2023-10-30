@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Rollin Crampton",
+		"keywords": [
+			"abstract",
+			"shapes",
+			"organic",
+			"expressive",
+			"bold"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1991,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"studied at Yale University",
+					"joined artists' colony in Majorca"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism"
+		]
+	}
+]

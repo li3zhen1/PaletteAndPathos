@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Friedrich Vordemberge-Gildewart",
+		"keywords": [
+			"abstraction",
+			"non-objective",
+			"innovation",
+			"geometry",
+			"shapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Osnabrück, Germany",
+				"events": [
+					"Born into an artistic family"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Hanover, Germany",
+				"events": [
+					"Studied architecture and sculpture",
+					"Introduced to abstract art"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"Joined the Abstraction-Création group",
+					"his work became increasingly abstract"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Fled Germany due to Nazi regime",
+					"Worked in relative obscurity"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Co-founded the Dutch Experimental Group",
+					"Works were exhibited internationally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Constructivism",
+			"De Stijl"
+		]
+	}
+]

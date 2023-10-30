@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Mario Nuzzi",
+		"keywords": [
+			"flowers",
+			"still life",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1603,
+				"end": 1673,
+				"happiness": 6,
+				"location": "Rome",
+				"events": [
+					"trained under Tommaso Salini"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Still lifes"
+		]
+	}
+]

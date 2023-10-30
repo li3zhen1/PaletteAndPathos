@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Olexandr Archipenko",
+		"keywords": [
+			"sculpture",
+			"cubism",
+			"abstraction",
+			"human figures",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1908,
+				"happiness": 7,
+				"location": "Kyiv, Russian Empire",
+				"events": [
+					"studied painting and sculpture"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"joined the Ecole des Beaux-Arts",
+					"introduced to cubist artists"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"opened his own art school",
+					"invented sculpto-painting"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"opened an art school",
+					"created sculptures with kinetic elements"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1964,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"moved due to the rise of the Nazi regime",
+					"continued to innovate in sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Modernism"
+		]
+	}
+]

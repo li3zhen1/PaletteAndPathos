@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Albert York",
+		"keywords": [
+			"nature",
+			"simplistic",
+			"mysticism",
+			"tranquility",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 2009,
+				"happiness": 4,
+				"location": "Detroit, Michigan, U.S.",
+				"events": [
+					"birth"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1955,
+				"happiness": 6,
+				"location": "New York, New York, U.S.",
+				"events": [
+					"studied at the Art Students League"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1964,
+				"happiness": 5,
+				"location": "East Hampton, New York, U.S.",
+				"events": [
+					"met his wife, Virginia"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 2009,
+				"happiness": 7,
+				"location": "Water Mill, New York, U.S.",
+				"events": [
+					"established as a notable artist in New York",
+					"surrounded by the natural world which heavily influenced his work"
+				]
+			}
+		],
+		"genre": [
+			"Still Life",
+			"Landscape"
+		]
+	}
+]

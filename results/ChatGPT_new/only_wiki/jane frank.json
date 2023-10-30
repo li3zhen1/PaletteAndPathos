@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Jane Frank",
+		"keywords": [
+			"abstract",
+			"sculpture",
+			"multimedia",
+			"canvas",
+			"ropes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1918,
+				"end": 1986,
+				"happiness": 7,
+				"location": "Baltimore, Maryland",
+				"events": [
+					"studied at the Maryland Institute College of Art",
+					"began her career in commercial art before moving to fine art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Mixed Media"
+		]
+	}
+]

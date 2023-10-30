@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Childe Hassam",
+		"keywords": [
+			"impressionism",
+			"cityscapes",
+			"nature",
+			"landscapes",
+			"seasons"
+		],
+		"lifePeriods": [
+			{
+				"start": 1859,
+				"end": 1868,
+				"happiness": 5,
+				"location": "Dorchester, Boston, Massachusetts",
+				"events": [
+					"Birth and early childhood"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1882,
+				"happiness": 6,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Early artistic training",
+					"Worked as a wood engraver"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1886,
+				"happiness": 6.5,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Opened studio in Boston",
+					"First solo exhibition"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1889,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Academie Julian"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1919,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Settled in New York",
+					"Became leading figure in American Impressionism"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 6,
+				"location": "East Hampton, New York",
+				"events": [
+					"Final works and retirement",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Etching",
+			"Lithography"
+		]
+	}
+]

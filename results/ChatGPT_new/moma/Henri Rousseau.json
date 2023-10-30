@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Henri Rousseau",
+		"keywords": [
+			"exotic",
+			"dreamlike",
+			"jungle",
+			"innocence",
+			"animals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1844,
+				"end": 1863,
+				"happiness": 5,
+				"location": "Laval, France",
+				"events": [
+					"born in a middle-class family"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1871,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"joined the army during the Franco-Prussian War"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1893,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"worked as a tax collector",
+					"started painting seriously"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1910,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"retired from his job, focused on painting",
+					"gained recognition in the art world"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Primitivism"
+		]
+	}
+]

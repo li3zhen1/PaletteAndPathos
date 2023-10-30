@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Jacques Stella",
+		"keywords": [
+			"religious",
+			"mythology",
+			"portraits",
+			"still life",
+			"Flemish art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1596,
+				"end": 1657,
+				"happiness": 6,
+				"location": "Lyon, France",
+				"events": [
+					"born into a family of artists",
+					"was orphaned at the age of seven"
+				]
+			},
+			{
+				"start": 1616,
+				"end": 1621,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"studied the works of Caravaggio"
+				]
+			},
+			{
+				"start": 1623,
+				"end": 1634,
+				"happiness": 8,
+				"location": "Florence, Italy",
+				"events": [
+					"worked for the Medici family",
+					"developed personal style of painting"
+				]
+			},
+			{
+				"start": 1634,
+				"end": 1657,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"appointed court painter",
+					"admitted into the Royal Academy of Painting and Sculpture"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"religious art"
+		]
+	}
+]

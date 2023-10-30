@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Martiros Saryan",
+		"keywords": [
+			"nature",
+			"Armenia",
+			"colors",
+			"exotic landscapes",
+			"orientalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1889,
+				"happiness": 5,
+				"location": "Nakhichevan-on-Don, Russian Empire",
+				"events": [
+					"born to Armenian parents"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1903,
+				"happiness": 7,
+				"location": "Rostov-on-Don, Russian Empire",
+				"events": [
+					"started to study art at the age of 12"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1910,
+				"happiness": 8,
+				"location": "Moscow, Russian Empire",
+				"events": [
+					"started studying at the Moscow School of Painting, Sculpture and Architecture",
+					"visited Turkey and Egypt"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1916,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"went to study in Paris",
+					"started painting in Armenia"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Yerevan, Armenia",
+				"events": [
+					"established the Union of Armenian Artists",
+					"faced suppression during Joseph Stalin's purges"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1972,
+				"happiness": 5,
+				"location": "Yerevan, Armenia",
+				"events": [
+					"continued painting despite the suppression"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Orientalism"
+		]
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Louis Janmot",
+		"keywords": [
+			"religion",
+			"philosophy",
+			"nature",
+			"poetry",
+			"love"
+		],
+		"lifePeriods": [
+			{
+				"start": 1814,
+				"end": 1828,
+				"happiness": 7,
+				"location": "Lyon, France",
+				"events": [
+					"discovered his passion for art"
+				]
+			},
+			{
+				"start": 1828,
+				"end": 1831,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Ecole des Beaux-Arts",
+					"won the Prix de Rome"
+				]
+			},
+			{
+				"start": 1832,
+				"end": 1844,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"started his major work 'Poem of the Soul'"
+				]
+			},
+			{
+				"start": 1845,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Lyon, France",
+				"events": [
+					"continued his painting",
+					"predominantly religious and philosophical themes"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1892,
+				"happiness": 4,
+				"location": "Lyon, France",
+				"events": [
+					"faced war and societal changes"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Romanticism"
+		]
+	}
+]

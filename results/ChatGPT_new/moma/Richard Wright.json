@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Richard Wright",
+		"keywords": [
+			"abstract",
+			"minimalist",
+			"precision"
+		],
+		"lifePeriods": [
+			{
+				"start": 1960,
+				"end": 1981,
+				"happiness": 6,
+				"location": "London, UK",
+				"events": [
+					"discovered love for art"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2000,
+				"happiness": 7,
+				"location": "London, UK",
+				"events": [
+					"studied fine arts",
+					"began his career as an artist"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 8,
+				"location": "London, UK",
+				"events": [
+					"won the Turner Prize in 2009"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"installation"
+		]
+	}
+]

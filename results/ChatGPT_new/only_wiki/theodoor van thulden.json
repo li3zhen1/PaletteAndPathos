@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Theodoor van Thulden",
+		"keywords": [
+			"mythology",
+			"religion",
+			"baroque",
+			"allegory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1606,
+				"end": 1626,
+				"happiness": 5,
+				"location": "'s-Hertogenbosch, Netherlands",
+				"events": [
+					"started to learn drawing"
+				]
+			},
+			{
+				"start": 1626,
+				"end": 1632,
+				"happiness": 7,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"received education from Peter Paul Rubens",
+					"became master of the Antwerp Guild of Saint Luke"
+				]
+			},
+			{
+				"start": 1632,
+				"end": 1638,
+				"happiness": 5,
+				"location": "'s-Hertogenbosch, Netherlands",
+				"events": [
+					"returned home",
+					"established own studio"
+				]
+			},
+			{
+				"start": 1638,
+				"end": 1668,
+				"happiness": 6,
+				"location": "'s-Hertogenbosch, Netherlands",
+				"events": [
+					"married Anna van Hecke",
+					"achieved great success with his artworks"
+				]
+			},
+			{
+				"start": 1668,
+				"end": 1669,
+				"happiness": 2,
+				"location": "'s-Hertogenbosch, Netherlands",
+				"events": [
+					"fell into illness",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"History painting",
+			"Mythology"
+		]
+	}
+]

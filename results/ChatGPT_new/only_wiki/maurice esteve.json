@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Maurice Esteve",
+		"keywords": [
+			"abstract",
+			"colorful",
+			"geometric",
+			"texture",
+			"balance"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Culan, France",
+				"events": [
+					"Born into a family of millers"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1938,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Ecole des Beaux-Arts",
+					"Enjoyed a normal life despite the Great Depression"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Suffered through World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 2001,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Garnered international recognition for his work",
+					"Named Chevalier of the Legion of Honor in 1970"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Lyrical Abstraction"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Rudolf Schweitzer-Cumpana",
+		"keywords": [
+			"Rural",
+			"Interwar",
+			"Tradition",
+			"Harvest",
+			"Work"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Arad, Romania",
+				"events": [
+					"received education"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1934,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"developed his artistry",
+					"was able to study at renowned art institutions"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1975,
+				"happiness": 8,
+				"location": "Arad, Romania",
+				"events": [
+					"received major recognition"
+				]
+			}
+		],
+		"genre": [
+			"Interwar Period",
+			"Rural traditions",
+			"Labour"
+		]
+	}
+]

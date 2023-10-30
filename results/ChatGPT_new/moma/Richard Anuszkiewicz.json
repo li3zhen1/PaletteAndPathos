@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Richard Anuszkiewicz",
+		"keywords": [
+			"geometric abstraction",
+			"bright colors",
+			"patterns",
+			"illusion",
+			"contrast"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Erie, Pennsylvania",
+				"events": [
+					"Born into a Polish family",
+					"Developed an early interest in art"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Erie, Pennsylvania",
+				"events": [
+					"Trained under specialized artist teachers in public school system"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Cleveland, Ohio",
+				"events": [
+					"Studied at the Cleveland Institute of Art",
+					"Graduated with a Bachelor of Fine Arts"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1956,
+				"happiness": 5,
+				"location": "New Haven, Connecticut",
+				"events": [
+					"Attended Yale University",
+					"Studied under Josef Albers",
+					"Received Master of Fine Arts"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Part of the Op Art movement",
+					"Achieved commercial and critical success"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2020,
+				"happiness": 5,
+				"location": "Englewood, New Jersey",
+				"events": [
+					"Continued his work in geometric abstraction",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Op Art",
+			"Geometric abstraction",
+			"Modern art"
+		]
+	}
+]

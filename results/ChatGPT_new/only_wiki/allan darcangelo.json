@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Allan D'Arcangelo",
+		"keywords": [
+			"Pop Art",
+			"Landscapes",
+			"Highways",
+			"American culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Buffalo, New York",
+				"events": []
+			},
+			{
+				"start": 1948,
+				"end": 1953,
+				"happiness": 4,
+				"location": "USA",
+				"events": [
+					"Served in the U.S. Army"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1961,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Studied at the Brooklyn Museum Art School",
+					"Developed Pop Art style"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1975,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"His work was included in an exhibition at the Museum of Modern Art"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1988,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Taught at the School of Visual Arts in New York"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 1998,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Continued to create artwork"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art"
+		]
+	}
+]

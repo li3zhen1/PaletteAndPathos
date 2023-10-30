@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Ion Țuculescu",
+		"keywords": [
+			"nature",
+			"abstract",
+			"folklore",
+			"vibrant colors",
+			"phantasmagoric"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Craiova, Romania",
+				"events": [
+					"discovered his love for drawing and painting"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied medicine",
+					"World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"started exhibiting paintings",
+					"started working at Cantacuzino Institute"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"recognized for abstract art",
+					"faced political challenges"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Post-Impressionism"
+		]
+	}
+]

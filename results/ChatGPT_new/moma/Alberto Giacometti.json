@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Alberto Giacometti",
+		"keywords": [
+			"humanity",
+			"realism",
+			"alienation",
+			"transcendence",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Borgonovo, Switzerland",
+				"events": [
+					"early interest in art"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Geneva, Switzerland",
+				"events": [
+					"studied painting, sculpture, and drawing",
+					"met his brother Diego who became his assistant"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"became an active participant in Surrealist movement"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"intense self-exploration and experimentation",
+					"World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1966,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"gained global recognition",
+					"significant creative output"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Expressionism",
+			"Post-Impressionism"
+		]
+	}
+]

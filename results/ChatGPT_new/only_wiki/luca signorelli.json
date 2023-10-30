@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Luca Signorelli",
+		"keywords": [
+			"religion",
+			"mythology",
+			"nudity",
+			"anatomy",
+			"humanism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1445,
+				"end": 1460,
+				"happiness": 6,
+				"location": "Cortona, Italy",
+				"events": [
+					"born into a respected family"
+				]
+			},
+			{
+				"start": 1461,
+				"end": 1475,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"studied under Francesco Squarcione",
+					"met Piero della Francesca"
+				]
+			},
+			{
+				"start": 1476,
+				"end": 1490,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"hired by Pope Sixtus IV to help decorate the Sistine Chapel",
+					"got influenced by Michelangelo"
+				]
+			},
+			{
+				"start": 1491,
+				"end": 1502,
+				"happiness": 7,
+				"location": "Orvieto, Italy",
+				"events": [
+					"hired to decorate the Chapel of San Brizio in the Cathedral of Orvieto",
+					"gained recognition for his skill in depicting the human form"
+				]
+			},
+			{
+				"start": 1503,
+				"end": 1523,
+				"happiness": 5,
+				"location": "Cortona, Italy",
+				"events": [
+					"returned home",
+					"death of his sons"
+				]
+			}
+		],
+		"genre": [
+			"Italian Renaissance",
+			"religious painting",
+			"fresco"
+		]
+	}
+]

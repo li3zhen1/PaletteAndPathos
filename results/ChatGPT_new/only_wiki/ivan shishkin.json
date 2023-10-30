@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Ivan Shishkin",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"realism",
+			"forests",
+			"wildlife"
+		],
+		"lifePeriods": [
+			{
+				"start": 1832,
+				"end": 1860,
+				"happiness": 5,
+				"location": "Yelabuga",
+				"events": [
+					"began his art studies"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1865,
+				"happiness": 7,
+				"location": "St. Petersburg",
+				"events": [
+					"entered the Imperial Academy of Arts",
+					"started displaying work in Academic exhibitions"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Switzerland, Germany",
+				"events": [
+					"traveled abroad on a scholarship from the Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1898,
+				"happiness": 7,
+				"location": "St. Petersburg",
+				"events": [
+					"became a professor at the Imperial Academy of Arts",
+					"his first wife died"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"landscape"
+		]
+	}
+]

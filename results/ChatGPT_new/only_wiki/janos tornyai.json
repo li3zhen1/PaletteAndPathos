@@ -1,0 +1,28 @@
+[
+	{
+		"name": " Janos Tornyai",
+		"keywords": [
+			"life",
+			"death",
+			"family",
+			"farm life",
+			"countryside"
+		],
+		"lifePeriods": [
+			{
+				"start": 1869,
+				"end": 1936,
+				"happiness": 6,
+				"location": "Hungary",
+				"events": [
+					"Studied at Mintarajziskola (the Drawing School)",
+					"Started plein aire painting"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

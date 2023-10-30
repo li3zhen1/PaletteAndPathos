@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Ouattara Watts",
+		"keywords": [
+			"African culture",
+			"spirituality",
+			"Visions of the Past",
+			"symbology",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 1988,
+				"happiness": 5,
+				"location": "Abidjan, Ivory Coast",
+				"events": [
+					"studied at the National School of Art in Abidjan",
+					"received a grant to travel to France"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"attended the Ecole Nationale Superieure des Beaux-Arts",
+					"met Jean-Michel Basquiat"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"established his career in New York",
+					"collaborated with Jean-Michel Basquiat"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Expressionism",
+			"Abstract Expressionism"
+		]
+	}
+]

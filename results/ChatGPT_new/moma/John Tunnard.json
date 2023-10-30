@@ -1,0 +1,35 @@
+[
+	{
+		"name": "John Tunnard",
+		"keywords": [
+			"nature",
+			"surrealism",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1930,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"studied at the Royal College of Art"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Cornwall",
+				"events": [
+					"worked as a designer for English Electric",
+					"turned to painting full time"
+				]
+			}
+		],
+		"genre": [
+			"Modernist",
+			"surrealist"
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Jan Provoost",
+		"keywords": [
+			"religious",
+			"portraits",
+			"mystic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1462,
+				"end": 1529,
+				"happiness": 6,
+				"location": "Bruges",
+				"events": [
+					"Joined the painters' guild",
+					"Elected dean of the painters' guild"
+				]
+			}
+		],
+		"genre": [
+			"religious art",
+			"portrait"
+		]
+	}
+]

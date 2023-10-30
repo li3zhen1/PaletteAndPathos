@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Hisao Domoto",
+		"keywords": [
+			"Abstract",
+			"Inframince",
+			"Informal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 2013,
+				"happiness": 5,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Born in a family of traditional painters",
+					"Studied Western painting at the Tokyo University of the Arts"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied art and created paintings in Paris",
+					"Participated in the Art Informel movement"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 2013,
+				"happiness": 5,
+				"location": "Kyoto, Japan",
+				"events": [
+					"Returned to Japan",
+					"Continued to create abstract paintings",
+					"Received the Praemium Imperiale in 1993"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Art Informal"
+		]
+	}
+]

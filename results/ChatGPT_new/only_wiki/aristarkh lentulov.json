@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Aristarkh Lentulov",
+		"keywords": [
+			"cubism",
+			"futurism",
+			"religion",
+			"folklore",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Nizhny Lomov",
+				"events": [
+					"grew up in a rural area",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Moscow",
+				"events": [
+					"studied at Moscow School of Painting",
+					"became involved with Jack of Diamonds group"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1912,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"exposure to European modernist movements",
+					"developed his own distinctive style",
+					"met Pablo Picasso"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Russia",
+				"events": [
+					"emphasized the traditional nature of Russian art"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Moscow",
+				"events": [
+					"appointed head of workshop 'The New Society of Painters'",
+					"created stage designs for the Kamerny Theatre"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"futurism",
+			"post-impressionism"
+		]
+	}
+]

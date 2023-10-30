@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Piero di Cosimo",
+		"keywords": [
+			"mythological",
+			"nature",
+			"portraits",
+			"religious",
+			"fantastic creatures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1462,
+				"end": 1502,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"trained under Cosimo Rosselli",
+					"participated in painting the Sistine Chapel alongside other Florentine artists"
+				]
+			},
+			{
+				"start": 1502,
+				"end": 1522,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"focused on workshop production",
+					"created numerous paintings for the Medici family"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Italian",
+			"Mannerism"
+		]
+	}
+]

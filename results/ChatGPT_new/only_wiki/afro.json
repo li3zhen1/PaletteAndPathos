@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Afro",
+		"keywords": [
+			"abstract",
+			"cubism",
+			"nature",
+			"emotion",
+			"dynamic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Udine, Italy",
+				"events": [
+					"born into a family of artists",
+					"studied at the Venice Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Italy",
+				"events": [
+					"World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1976,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"joined the Gruppo degli Otto",
+					"exhibited at the Venice Biennale",
+					"won the Guggenheim International Award"
+				]
+			}
+		],
+		"genre": [
+			"Abstract painting",
+			"Cubism"
+		]
+	}
+]

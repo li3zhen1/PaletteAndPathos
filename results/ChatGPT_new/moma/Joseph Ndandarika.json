@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Joseph Ndandarika",
+		"keywords": [
+			"animals",
+			"human forms",
+			"motive",
+			"supernatural beings",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1991,
+				"happiness": 7,
+				"location": "Salisbury, Southern Rhodesia",
+				"events": [
+					"joined the National Gallery's Workshop School",
+					"exhibition at the Museum of Modern Art in New York"
+				]
+			}
+		],
+		"genre": [
+			"Shona sculpture",
+			"Modern sculpture"
+		]
+	}
+]

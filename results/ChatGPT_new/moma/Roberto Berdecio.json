@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Roberto Berdecio",
+		"keywords": [
+			"politics",
+			"society",
+			"indigenous peoples",
+			"inequality",
+			"revolution"
+		],
+		"lifePeriods": [
+			{
+				"start": 1910,
+				"end": 1928,
+				"happiness": 6,
+				"location": "Sucre, Bolivia",
+				"events": [
+					"born into a well-off family"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Lycée Condorcet",
+					"met other Latin American artists"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"joined the Taller de Gráfica Popular artist group",
+					"created artworks about social issues"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"worked as a graphic designer",
+					"got involved in political activism"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1981,
+				"happiness": 4,
+				"location": "San Francisco, United States",
+				"events": [
+					"taught at the San Francisco Art Institute",
+					"got expelled from the US due to his political beliefs"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1996,
+				"happiness": 5,
+				"location": "La Paz, Bolivia",
+				"events": [
+					"returned to Bolivia",
+					"continued creating socially engaged artworks"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Poster Art",
+			"Graphic Design"
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Zbigniew Gostomski",
+		"keywords": [
+			"minimalism",
+			"architecture",
+			"structure",
+			"geometric relationships",
+			"simplicity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Warsaw, Poland",
+				"events": [
+					"born in Warsaw",
+					"studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Warsaw, Poland",
+				"events": [
+					"participated in the Theater of Things"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2011,
+				"happiness": 6,
+				"location": "Warsaw, Poland",
+				"events": [
+					"worked as a professor at the Academy of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"minimalism",
+			"architecture"
+		]
+	}
+]

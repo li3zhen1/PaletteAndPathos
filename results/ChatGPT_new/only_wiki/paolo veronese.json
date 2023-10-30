@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Paolo Veronese",
+		"keywords": [
+			"religion",
+			"mythology",
+			"opulence",
+			"grandeur",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1528,
+				"end": 1543,
+				"happiness": 6,
+				"location": "Verona, Italy",
+				"events": [
+					"Born into a stonecutter's family"
+				]
+			},
+			{
+				"start": 1543,
+				"end": 1553,
+				"happiness": 7,
+				"location": "Verona, Italy",
+				"events": [
+					"Trained with local Veronese painter Antonio Badile"
+				]
+			},
+			{
+				"start": 1553,
+				"end": 1555,
+				"happiness": 7,
+				"location": "Mantua, Italy",
+				"events": [
+					"Worked in Mantua under commission"
+				]
+			},
+			{
+				"start": 1555,
+				"end": 1588,
+				"happiness": 8,
+				"location": "Venice, Italy",
+				"events": [
+					"Moved to Venice",
+					"Established his own workshop",
+					"Lived during a period of relative peace in Venice"
+				]
+			},
+			{
+				"start": 1588,
+				"end": 1588,
+				"happiness": 1,
+				"location": "Venice, Italy",
+				"events": [
+					"Trialled by the Inquisition for inaccuracies in his painting 'The Last Supper'"
+				]
+			},
+			{
+				"start": 1588,
+				"end": 1598,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Continued to paint despite the controversy"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Mannerism"
+		]
+	}
+]

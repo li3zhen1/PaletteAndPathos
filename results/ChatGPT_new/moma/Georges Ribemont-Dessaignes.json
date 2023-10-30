@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Georges Ribemont-Dessaignes",
+		"keywords": [
+			"surrealism",
+			"novels",
+			"plays",
+			"painting",
+			"poetry"
+		],
+		"lifePeriods": [
+			{
+				"start": 1884,
+				"end": 1941,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"joined French Dada group",
+					"wrote multiple avant-garde plays"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1974,
+				"happiness": 4,
+				"location": "Saint-Jeannet, Alpes-Maritimes",
+				"events": [
+					"wrote novels and poetry",
+					"became blind"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"dada",
+			"legends"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Franz Marc",
+		"keywords": [
+			"animals",
+			"colors",
+			"abstraction",
+			"spirituality",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"began his interest in art"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1903,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"got introduced to modern art"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1912,
+				"happiness": 8,
+				"location": "Munich, Germany",
+				"events": [
+					"established Der Blaue Reiter (The Blue Rider) with Kandinsky",
+					"married Maria Franck"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1916,
+				"happiness": 3,
+				"location": "Munich, Germany",
+				"events": [
+					"served in World War I",
+					"died in Battle of Verdun"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"abstract art"
+		]
+	}
+]

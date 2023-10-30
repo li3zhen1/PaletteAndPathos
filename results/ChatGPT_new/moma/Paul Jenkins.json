@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Paul Jenkins",
+		"keywords": [
+			"abstract",
+			"color",
+			"unconscious mind",
+			"movement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Kansas City, Missouri",
+				"events": [
+					"Studied at the Kansas City Art Institute"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1955,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"Met Mark Rothko and Jackson Pollock"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 2012,
+				"happiness": 7,
+				"location": "New York and Paris",
+				"events": [
+					"Many of his artworks were used as covers for record albums",
+					"Held solo exhibitions at galleries around the world"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Abstract Expressionism"
+		]
+	}
+]

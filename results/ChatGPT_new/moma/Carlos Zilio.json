@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Carlos Zilio",
+		"keywords": [
+			"silence",
+			"resistance",
+			"politics",
+			"suffering",
+			"Brazil"
+		],
+		"lifePeriods": [
+			{
+				"start": 1944,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Substantial development in painting and drawing"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1970,
+				"happiness": 1,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Arrested and tortured for political activism during the military dictatorship in Brazil",
+					"Involvement in the armed struggle against the military dictatorship"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Exile in France due to political turmoil in Brazil"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Return to Brazil and intense production of political and memory-based works",
+					"Recognition as an important figure in the Brazilian art scene"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"political art"
+		]
+	}
+]

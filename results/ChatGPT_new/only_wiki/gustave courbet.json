@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Gustave Courbet",
+		"keywords": [
+			"social issues",
+			"realism",
+			"rural life",
+			"nudes",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1819,
+				"end": 1839,
+				"happiness": 6,
+				"location": "Ornans, France",
+				"events": [
+					"Birth and early life"
+				]
+			},
+			{
+				"start": 1839,
+				"end": 1846,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the studio of Steuben and Hesse",
+					"First exhibited at the Paris Salon",
+					"Painted The Stone Breakers"
+				]
+			},
+			{
+				"start": 1846,
+				"end": 1853,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Established himself as a leading figure in French painting",
+					"Painted A Burial at Ornans"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Opened his own exhibition (The Pavilion of Realism)",
+					"Elected to the Commune of Paris"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1873,
+				"happiness": 3,
+				"location": "Europe",
+				"events": [
+					"Imprisoned for his association with the Paris Commune"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1877,
+				"happiness": 4,
+				"location": "La Tour-de-Peilz, Switzerland",
+				"events": [
+					"Exiled in Switzerland",
+					"Continued painting"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Romanticism",
+			"Erotic art"
+		]
+	}
+]

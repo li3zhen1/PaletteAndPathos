@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Benjamin West",
+		"keywords": [
+			"historical",
+			"portraits",
+			"religious",
+			"royalty"
+		],
+		"lifePeriods": [
+			{
+				"start": 1738,
+				"end": 1756,
+				"happiness": 5,
+				"location": "Springfield, Pennsylvania",
+				"events": [
+					"discovered his interest in art"
+				]
+			},
+			{
+				"start": 1756,
+				"end": 1759,
+				"happiness": 6,
+				"location": "Philadelphia",
+				"events": [
+					"started painting portraits for pay"
+				]
+			},
+			{
+				"start": 1759,
+				"end": 1760,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"expanded his artistic career"
+				]
+			},
+			{
+				"start": 1760,
+				"end": 1802,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"became historical painter to King George III",
+					"founded the Royal Academy of Arts"
+				]
+			},
+			{
+				"start": 1802,
+				"end": 1820,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"lost and regained the favor of the royal family"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Portrait"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Le Corbusier",
+		"keywords": [
+			"architecture",
+			"urbanism",
+			"modular",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1917,
+				"happiness": 6,
+				"location": "La Chaux-de-Fonds, Switzerland",
+				"events": [
+					"began his studies in architecture"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"works at the studio of Peter Behrens",
+					"starts his own studio"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1930,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"created a series of groundbreaking architectural designs",
+					"designed Villa La Roche"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"constructed the Swiss Pavilion for the Cité Université"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"planned the city of Chandigarh in India",
+					"creation of the Modulor, a system of harmonic measures"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"constructed the complex of the Mill Owners Association in Ahmedabad",
+					"completed the Chapel of Notre-Dame du Haut"
+				]
+			}
+		],
+		"genre": [
+			"architecture",
+			"urban planning",
+			"painting"
+		]
+	}
+]

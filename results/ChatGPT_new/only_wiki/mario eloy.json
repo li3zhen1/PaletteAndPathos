@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Mario Eloy",
+		"keywords": [
+			"modernity",
+			"portraits",
+			"abstract",
+			"cubism",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1902,
+				"happiness": 6,
+				"location": "Amsterdam",
+				"events": [
+					"Born in Amsterdam to Portuguese father and Dutch mother"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Lisbon",
+				"events": [
+					"Moved to Portugal with his father",
+					"Studied at the Fine Arts Academy of Lisbon"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1926,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Moved to Paris",
+					"Discovered cubism and expressionism"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Lisbon",
+				"events": [
+					"Returned to Portugal",
+					" became the Portuguese Modernist Movement leader"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1951,
+				"happiness": 4,
+				"location": "Lisbon",
+				"events": [
+					"Moved to a psychiatric hospital due to schizophrenia",
+					"Stopped painting"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Expressionism",
+			"Modernism"
+		]
+	}
+]

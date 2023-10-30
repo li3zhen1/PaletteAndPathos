@@ -1,0 +1,67 @@
+[
+	{
+		"name": "William Congdon",
+		"keywords": [
+			"landscapes",
+			"expressionism",
+			"daily life",
+			"religion",
+			"outsider art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1912,
+				"end": 1934,
+				"happiness": 6,
+				"location": "Providence, Rhode Island, USA",
+				"events": [
+					"born into a wealthy family",
+					"grew up with love for the arts"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1946,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"attended Yale University",
+					"served in the army during World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1959,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"became an accomplished abstract expressionist",
+					"travelled extensively in Europe and Asia"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1979,
+				"happiness": 4,
+				"location": "Assisi, Italy",
+				"events": [
+					"converted to Catholicism",
+					"lived in a religious community"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1998,
+				"happiness": 8,
+				"location": "Milan, Italy",
+				"events": [
+					"created numerous religious-themed works"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Outsider Art"
+		]
+	}
+]

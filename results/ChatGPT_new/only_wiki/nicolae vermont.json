@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Nicolae Vermont",
+		"keywords": [
+			"rural",
+			"nature",
+			"poverty",
+			"emotion",
+			"human condition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1866,
+				"end": 1891,
+				"happiness": 5,
+				"location": "Bârlad, Romania",
+				"events": [
+					"completed primary education"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1893,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Paris Conservatory"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"became a professor at the National School of Fine Arts",
+					"founded 'The Artistic Youth' Society"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1932,
+				"happiness": 4,
+				"location": "Bârlad, Romania",
+				"events": [
+					"World War I",
+					"lost his professor position due to political reasons"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"restoration of his professor position"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1934,
+				"happiness": 5,
+				"location": "Bârlad, Romania",
+				"events": [
+					"died of a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

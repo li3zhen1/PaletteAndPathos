@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Neil Welliver",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"Maine",
+			"realism",
+			"woodlands"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Millville, Pennsylvania",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"studied at Philadelphia Museum School of Art"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1966,
+				"happiness": 7,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"taught at Philadelphia College of Art",
+					"developed his style of landscapes painting"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1989,
+				"happiness": 8,
+				"location": "Lincolnville, Maine",
+				"events": [
+					"became professor at University of Pennsylvania",
+					"moved to Maine, inspiring his characteristic subject matter"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2005,
+				"happiness": 6,
+				"location": "Lincolnville, Maine",
+				"events": [
+					"retired from teaching",
+					"continued to paint until his death"
+				]
+			}
+		],
+		"genre": [
+			"landscape painting",
+			"Realism"
+		]
+	}
+]

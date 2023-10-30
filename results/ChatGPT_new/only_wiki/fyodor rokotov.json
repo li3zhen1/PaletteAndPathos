@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Fyodor Rokotov",
+		"keywords": [
+			"nobility",
+			"portraits",
+			"realistic",
+			"religion",
+			"historical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1736,
+				"end": 1746,
+				"happiness": 7,
+				"location": "Kropotovo",
+				"events": [
+					"Born in a family of serf peasants"
+				]
+			},
+			{
+				"start": 1746,
+				"end": 1756,
+				"happiness": 8,
+				"location": "Moscow",
+				"events": [
+					"Studied in the Moscow University Grammar School"
+				]
+			},
+			{
+				"start": 1756,
+				"end": 1762,
+				"happiness": 8,
+				"location": "St. Petersburg",
+				"events": [
+					"Started working in Ivan Argunov's studio"
+				]
+			},
+			{
+				"start": 1762,
+				"end": 1780,
+				"happiness": 7,
+				"location": "St. Petersburg",
+				"events": [
+					"Became the court artist",
+					"Married Varvara Ivanovna Surovtseva"
+				]
+			},
+			{
+				"start": 1780,
+				"end": 1807,
+				"happiness": 6,
+				"location": "St. Petersburg",
+				"events": [
+					"Continued to work independently",
+					"Patronized by the Sheremetev family"
+				]
+			}
+		],
+		"genre": [
+			"Portraiture",
+			"Religious art",
+			"Historical paintings"
+		]
+	}
+]

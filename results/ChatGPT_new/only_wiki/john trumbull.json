@@ -1,0 +1,67 @@
+[
+	{
+		"name": "John Trumbull",
+		"keywords": [
+			"wars",
+			"freedom",
+			"history",
+			"portraits",
+			"leaders"
+		],
+		"lifePeriods": [
+			{
+				"start": 1756,
+				"end": 1784,
+				"happiness": 6,
+				"location": "Lebanon, Connecticut",
+				"events": [
+					"participated in the Revolutionary War",
+					"studied at Harvard University"
+				]
+			},
+			{
+				"start": 1784,
+				"end": 1786,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"studied under Benjamin West"
+				]
+			},
+			{
+				"start": 1786,
+				"end": 1789,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"became secretary to John Jay",
+					"observed French Revolution"
+				]
+			},
+			{
+				"start": 1789,
+				"end": 1831,
+				"happiness": 5,
+				"location": "New York, New York",
+				"events": [
+					"commissioned as a portraitist",
+					"became president of the American Academy of the Fine Arts"
+				]
+			},
+			{
+				"start": 1831,
+				"end": 1843,
+				"happiness": 5,
+				"location": "New York, New York",
+				"events": [
+					"retirement",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"history painting",
+			"portraiture"
+		]
+	}
+]

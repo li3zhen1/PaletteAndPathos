@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Martin Wong",
+		"keywords": [
+			"urban landscape",
+			"hispanic culture",
+			"Chinatown",
+			"sign language",
+			"brick"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Portland, Oregon",
+				"events": [
+					"moved to San Francisco"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1978,
+				"happiness": 7,
+				"location": "San Francisco",
+				"events": [
+					"studied at the San Francisco Art Institute",
+					"worked as a set designer"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1994,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"known for brick paintings",
+					"depicted the crumbling infrastructure and inner city life"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 1999,
+				"happiness": 3,
+				"location": "San Francisco, California",
+				"events": [
+					"diagnosed with HIV/AIDS"
+				]
+			}
+		],
+		"genre": [
+			"Graffiti Art",
+			"Social Realism"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Gerhard Richter",
+		"keywords": [
+			"Abstract",
+			"Realism",
+			"Portraits",
+			"Landscapes",
+			"Photo-paintings"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1948,
+				"happiness": 2,
+				"location": "Dresden, Germany",
+				"events": [
+					"Born in Dresden, experienced World War II as a child"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1961,
+				"happiness": 4,
+				"location": "Dresden, Germany",
+				"events": [
+					"Studied at Dresden Art Academy",
+					"Met future wife Ema Eufinger"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1983,
+				"happiness": 7,
+				"location": "Dusseldorf, Germany",
+				"events": [
+					"Relocated to West Germany",
+					"Participated in Documenta"
+				]
+			},
+			{
+				"start": 1983,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Cologne, Germany",
+				"events": [
+					"Retrospective at Art Museum Winterthur",
+					"Awarded the Praemium Imperiale"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Photorealism",
+			"Contemporary Art"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Frans Snyders",
+		"keywords": [
+			"nature",
+			"animals",
+			"hunting scenes",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1579,
+				"end": 1657,
+				"happiness": 7,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"trained by Pieter Brueghel the Younger",
+					"married to Margaretha de Vos"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Still life"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Lorser Feitelson",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1919,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Studied at Art Students League of New York",
+					"Worked with murals"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1934,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Married to Helen Lundeberg",
+					"Developed Post-Surrealist style"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Los Angeles, United States",
+				"events": [
+					"Began Abstract Classicism",
+					"Influential in Los Angeles art scene"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1978,
+				"happiness": 7,
+				"location": "Los Angeles, United States",
+				"events": [
+					"Worked on 'Magical Space Forms'",
+					"Taught at the Art Center College of Design"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract Classicism",
+			"Hard-edge painting"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Ha Chong-Hyun",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"texture",
+			"materiality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Sancheong",
+				"events": [
+					"Born and raised in South Korea"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Seoul",
+				"events": [
+					"Studied at Hong-Ik University",
+					"Served in the military during the Korean War"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1979,
+				"happiness": 6,
+				"location": "Seoul",
+				"events": [
+					"Became part of the Dansaekhwa movement",
+					"Developed his signature 'Conjunction' technique"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Seoul",
+				"events": [
+					"Exhibited internationally",
+					"Served as Dean of Fine Arts at Hong-Ik University"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Seoul",
+				"events": [
+					"Received recognition in Western art markets",
+					"Continued to produce and exhibit artwork"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

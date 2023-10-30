@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Josef Albers",
+		"keywords": [
+			"Geometry",
+			"Minimalism",
+			"Color theory",
+			"Abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1919,
+				"happiness": 6,
+				"location": "Bottrop, Germany",
+				"events": [
+					"Born into a family of craftsmen",
+					"Worked as a school teacher"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"Joined the Bauhaus School",
+					"Met his wife, Anni Albers"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1949,
+				"happiness": 5,
+				"location": "North Carolina, USA",
+				"events": [
+					"Fled Nazi Germany",
+					"Became the head of the Art Department at Black Mountain College"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 6,
+				"location": "New Haven, USA",
+				"events": [
+					"Became a professor at Yale University",
+					"Produced his 'Homage to the Square' series"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1976,
+				"happiness": 7,
+				"location": "New Haven, USA",
+				"events": [
+					"Retired from teaching",
+					"Focused on writing and artwork"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Geometric abstraction"
+		]
+	}
+]

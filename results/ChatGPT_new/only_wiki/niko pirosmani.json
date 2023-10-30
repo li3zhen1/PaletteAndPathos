@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Niko Pirosmani",
+		"keywords": [
+			"poverty",
+			"nature",
+			"animals",
+			"peasant life",
+			"Georgia"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1890,
+				"happiness": 5,
+				"location": "Mirzaani, Georgia",
+				"events": [
+					"Was taught to read and write by village priests"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1903,
+				"happiness": 7,
+				"location": "Tbilisi, Georgia",
+				"events": [
+					"Painted signboards for small businesses",
+					"Began producing art independently"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Tbilisi, Georgia",
+				"events": [
+					"Fell in love with a French performer, who left him",
+					"Often lived in poverty and died from malnourishment"
+				]
+			}
+		],
+		"genre": [
+			"Primitivism",
+			"Realism"
+		]
+	}
+]

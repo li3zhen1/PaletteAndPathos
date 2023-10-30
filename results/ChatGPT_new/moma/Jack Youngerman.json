@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Jack Youngerman",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"geometry",
+			"natural forms",
+			"hard-edge"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1956,
+				"happiness": 5,
+				"location": "St. Louis, Missouri, USA",
+				"events": [
+					"Born",
+					"Graduated from University of North Carolina"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1962,
+				"happiness": 7,
+				"location": "New York City, New York, USA",
+				"events": [
+					"Married film actress Delphine Seyrig",
+					"One of his works acquired by Museum of Modern Art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2020,
+				"happiness": 5,
+				"location": "Bridgehampton, New York, USA",
+				"events": [
+					"His works were exhibited in various prestigious institutions",
+					"His wife died at the age of 58 in 1990"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism",
+			"Hard-edge painting"
+		]
+	}
+]

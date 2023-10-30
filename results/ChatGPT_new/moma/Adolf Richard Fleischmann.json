@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Adolf Richard Fleischmann",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1927,
+				"happiness": 6,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"started his artistic training",
+					"first solo exhibition"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"exhibited his work in progressive art shows"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"forced to leave Germany due to the rise of the Nazis",
+					"became friends with leading European abstract artists"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1951,
+				"happiness": 3,
+				"location": "New York, USA",
+				"events": [
+					"moved to the USA due to the World War II",
+					"studied at the Art Students League"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1968,
+				"happiness": 6,
+				"location": "San Francisco, USA",
+				"events": [
+					"started producing geometric abstract works",
+					"exhibited his work internationally"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"received major retrospectives of his work"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1968,
+				"happiness": 6,
+				"location": "San Francisco, USA",
+				"events": [
+					"continued exhibiting his work"
+				]
+			}
+		],
+		"genre": [
+			"abstract painting",
+			"minimalism"
+		]
+	}
+]

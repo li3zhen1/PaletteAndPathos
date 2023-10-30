@@ -1,0 +1,71 @@
+[
+	{
+		"name": "William Merritt Chase",
+		"keywords": [
+			"Landscapes",
+			"Portraits",
+			"Domesticities",
+			"Modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1849,
+				"end": 1867,
+				"happiness": 5,
+				"location": "Williamsburg, Indiana",
+				"events": [
+					"Childhood"
+				]
+			},
+			{
+				"start": 1867,
+				"end": 1871,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Studied art at the National Academy of Design"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1878,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied at Royal Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1896,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Became an important art teacher and established the Chase School of Art"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1915,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"Became associated with the Art Students League and summer school at Shinnecock, Long Island"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1916,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"Experienced disappointment after failure of his large retrospective exhibition"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Modern art"
+		]
+	}
+]

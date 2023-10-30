@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Yvonne Jacquette",
+		"keywords": [
+			"urban",
+			"aerial views",
+			"city life",
+			"night",
+			"cityscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 2021,
+				"happiness": 5,
+				"location": "Pittsburgh, Pennsylvania, United States",
+				"events": [
+					"Studied at Rhode Island School of Design",
+					"Married to artist Rudy Burckhardt"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Printmaking"
+		]
+	}
+]

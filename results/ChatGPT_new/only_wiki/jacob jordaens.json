@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Jacob Jordaens",
+		"keywords": [
+			"mythology",
+			"domestic life",
+			"religion",
+			"humanity",
+			"children"
+		],
+		"lifePeriods": [
+			{
+				"start": 1593,
+				"end": 1667,
+				"happiness": 7,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"married Anna van Noort",
+					"became master in Antwerp’s Guild of St Luke"
+				]
+			}
+		],
+		"genre": [
+			"Baroque"
+		]
+	}
+]

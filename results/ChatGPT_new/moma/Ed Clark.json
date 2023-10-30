@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Ed Clark",
+		"keywords": [
+			"abstract",
+			"gestural",
+			"movement",
+			"color",
+			"energy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1951,
+				"happiness": 6,
+				"location": "New Orleans",
+				"events": [
+					"Born and raised",
+					"Started to have an interest in art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Traveled to Paris",
+					"Exposed to a new world of art"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 2019,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Returned back to the US",
+					"Expanded his art career",
+					"Established himself in the New York art scene"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Santiago Rusiñol",
+		"keywords": [
+			"primitivism",
+			"decay",
+			"obsession",
+			"festivity",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1861,
+				"end": 1875,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Born into a wealthy textile family"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1885,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Received artistic training at Centre d'Estudis"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1891,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Experiences modernist art in Paris",
+					"Met significant artists like Ramon Casas"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1894,
+				"happiness": 6,
+				"location": "Sitges, Catalonia, Spain",
+				"events": [
+					"Organized the Festes Modernistes",
+					"Open Cau Ferrat studio-museum"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Participation in Modernisme movement",
+					"Organisation of symbolic festivals"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1915,
+				"happiness": 4,
+				"location": "Spain",
+				"events": [
+					"Struggle with depression and alcoholism"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1931,
+				"happiness": 6,
+				"location": "Aranjuez, Spain",
+				"events": [
+					"Revitalized work with multiple trips to the Gardens of Aranjuez",
+					"Death of close friend Ramon Casas"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Modernism"
+		]
+	}
+]

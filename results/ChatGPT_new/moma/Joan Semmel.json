@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Joan Semmel",
+		"keywords": [
+			"feminism",
+			"eroticism",
+			"self-portraiture",
+			"age",
+			"body"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1954,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"born in New York City",
+					"completed her early education"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Madrid, Spain",
+				"events": [
+					"moved to Spain",
+					"first began to experiment with abstraction"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"moved back to New York City",
+					"emerged as important figure in feminist art movement"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"started series of works based on her own body",
+					"Her works became more recognized and showcased in galleries"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2010,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"continued to create self-portraits",
+					"her works explored themes of age and mortality"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"continued to work and live in New York City"
+				]
+			}
+		],
+		"genre": [
+			"Feminist Art",
+			"Figurative Painting",
+			"Erotic Art"
+		]
+	}
+]

@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Lyubov Popova",
+		"keywords": [
+			"abstract",
+			"color",
+			"geometry",
+			"cubism",
+			"suprematism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1894,
+				"happiness": 6,
+				"location": "Ivanovskoe, Russia",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1907,
+				"happiness": 8,
+				"location": "Moscow, Russia",
+				"events": [
+					"Received private tutoring in art"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1911,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Studied painting with Konstantin Yuon and Ivan Dudin"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Moscow, Russia",
+				"events": [
+					"Joined 'Jack of Diamonds' art group"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1916,
+				"happiness": 6,
+				"location": "France, Italy",
+				"events": [
+					"Traveled to Paris and Italy"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"Joined 'Supremus' group",
+					"Embraced constructivism"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Developed teaching and theoretical activities"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"suprematism",
+			"abstract art"
+		]
+	}
+]

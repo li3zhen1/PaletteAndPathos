@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Jules Olitski",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"color-field"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1926,
+				"happiness": 2,
+				"location": "Snovsk, Russia",
+				"events": [
+					"born",
+					"family immigrates to United States after father's execution"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1940,
+				"happiness": 4,
+				"location": "New York City, United States",
+				"events": [
+					"raised by aunt and uncle",
+					"showed interest in art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 3,
+				"location": "United States",
+				"events": [
+					"joined the army",
+					"served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"studied art under GI Bill",
+					"earned Bachelor's degree"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"furthered studies",
+					"married first wife"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1981,
+				"happiness": 8,
+				"location": "United States",
+				"events": [
+					"significant body of work produced",
+					"recognized as leading figure in color-field painting"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2007,
+				"happiness": 8,
+				"location": "United States",
+				"events": [
+					"continued to create",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"minimalism",
+			"color-field painting"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "John Atkinson Grimshaw",
+		"keywords": [
+			"nocturne",
+			"urban",
+			"nature",
+			"moonlight",
+			"autumn"
+		],
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1856,
+				"happiness": 7,
+				"location": "Leeds, United Kingdom",
+				"events": [
+					"Born into a working-class family"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1861,
+				"happiness": 8,
+				"location": "Leeds, United Kingdom",
+				"events": [
+					"Married his cousin Frances Theodosia Hubbarde",
+					"Left his job in the Great Northern Railway to become a painter"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1870,
+				"happiness": 8,
+				"location": "Leeds, United Kingdom",
+				"events": [
+					"Developed characteristic style of moonlit cities and docks"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1893,
+				"happiness": 8,
+				"location": "Leeds, United Kingdom",
+				"events": [
+					"His popularity and success as an artist grew, allowing for a comfortable life"
+				]
+			}
+		],
+		"genre": [
+			"Cityscapes",
+			"Landscapes"
+		]
+	}
+]

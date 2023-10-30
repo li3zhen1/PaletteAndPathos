@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Mark Innerst",
+		"keywords": [
+			"cityscape",
+			"landscape",
+			"architecture",
+			"light",
+			"perspective"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 2021,
+				"happiness": 7,
+				"location": "York, Pennsylvania",
+				"events": [
+					"Born and raised in York",
+					"Developed passion for art"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Studied at the Philadelphia College of Art",
+					"Started to develop distinctive style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"Moved to New York to pursue art",
+					"Started gaining recognition for his artworks"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Established a successful career as an artist",
+					"Continued to create and exhibit artworks"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism",
+			"Contemporary Art"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Georges Braque",
+		"keywords": [
+			"Cubism",
+			"Still Life",
+			"Landscapes",
+			"Figuration",
+			"Nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1899,
+				"happiness": 6,
+				"location": "Argenteuil, France",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied painting at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Met Pablo Picasso",
+					"Developed Cubism together with Picasso"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "France",
+				"events": [
+					"Fought in World War I",
+					"Received head injury"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Returned to more traditional artistic style"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1963,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Led a quiet life",
+					"Created many significant works"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Fauvism",
+			"Still Life"
+		]
+	}
+]

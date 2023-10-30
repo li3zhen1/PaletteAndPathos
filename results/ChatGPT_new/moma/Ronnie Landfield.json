@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Ronnie Landfield",
+		"keywords": [
+			"abstract",
+			"color",
+			"landscape",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1947,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Bronx, New York, United States",
+				"events": [
+					"discovered a passion for art",
+					"attended the High School of Art and Design"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1970,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"became an abstract artist",
+					"recognized by established art critics"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1990,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"worked from his loft studio",
+					"his works were shown in major art museums"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"continued to create abstract artwork",
+					"awarded the Adolph and Esther Gottlieb Foundation Grant"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Lyrical Abstraction"
+		]
+	}
+]

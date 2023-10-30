@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Maxim Vorobiev",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"religion",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1787,
+				"end": 1855,
+				"happiness": 4,
+				"location": "Tobolsk, Russia",
+				"events": [
+					"Born into a family of merchants"
+				]
+			},
+			{
+				"start": 1802,
+				"end": 1815,
+				"happiness": 5,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"Entered the Imperial Academy of Arts",
+					"Became a pupil of landscape painter S. Shchedrin"
+				]
+			},
+			{
+				"start": 1815,
+				"end": 1827,
+				"happiness": 7,
+				"location": "Various locations in Europe",
+				"events": [
+					"Traveled and painted extensively throughout Europe",
+					"Became member of the Imperial Academy"
+				]
+			},
+			{
+				"start": 1827,
+				"end": 1855,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Devoted his later life to teaching",
+					"Completed one of his most famous paintings, 'After a Rain'"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting",
+			"Romanticism"
+		]
+	}
+]

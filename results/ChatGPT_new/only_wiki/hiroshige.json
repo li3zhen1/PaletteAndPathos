@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Hiroshige",
+		"keywords": [
+			"nature",
+			"scenes",
+			"landscapes",
+			"Edo",
+			"travel"
+		],
+		"lifePeriods": [
+			{
+				"start": 1797,
+				"end": 1832,
+				"happiness": 7,
+				"location": "Edo, Japan",
+				"events": [
+					"trained under Toyohiro",
+					"became a professional ukiyo-e artist"
+				]
+			},
+			{
+				"start": 1832,
+				"end": 1858,
+				"happiness": 6,
+				"location": "Edo, Japan",
+				"events": [
+					"produced the famous series 'Fifty-Three Stations of the Tōkaidō'",
+					"his work became known internationally"
+				]
+			}
+		],
+		"genre": [
+			"Ukiyo-e"
+		]
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Agustín Fernández",
+		"keywords": [
+			"digital",
+			"surrealism",
+			"love",
+			"psychological"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Havana, Cuba",
+				"events": [
+					"Went to San Alejandro Academy"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1958,
+				"happiness": 8,
+				"location": "Havana, Cuba",
+				"events": [
+					"Graduated from the Escuela Nacional de Bellas Artes San Alejandro",
+					"Started to develop his own artistic style"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1967,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Experienced the effects war and political unrest",
+					"Decided to leave Cuba due to political situation"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1994,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Established himself as a foremost artist of Latin American Surrealism",
+					"Had several exhibitions"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2006,
+				"happiness": 5,
+				"location": "Puerto Rico",
+				"events": [
+					"Retired from active career",
+					"Died in 2006"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract"
+		]
+	}
+]

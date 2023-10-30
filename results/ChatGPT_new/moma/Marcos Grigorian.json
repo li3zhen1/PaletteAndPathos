@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Marcos Grigorian",
+		"keywords": [
+			"Rural life",
+			"Grains",
+			"Ceramics",
+			"Children"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1943,
+				"happiness": 3,
+				"location": "Krasnodar, Russia",
+				"events": [
+					"Born to Armenian parents"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Iran",
+				"events": [
+					"Studied at the Fine Arts Academy in Tehran"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Studied in Academia di Belle Arti"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1962,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"Exhibited work internationally",
+					"Received a degree from the Accademia di Belle Arti in Rome"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1979,
+				"happiness": 6,
+				"location": "Iran",
+				"events": [
+					"Represented Iran at the Venice Biennale",
+					"Established the Gallery and the Avant-Garde School of New Art in Tehran"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 2007,
+				"happiness": 4,
+				"location": "United States",
+				"events": [
+					"Left Iran during the Islamic Revolution",
+					"Dedicated himself to the promotion of Iranian art"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Neo-Traditionalism",
+			"Abstract Expressionism"
+		]
+	}
+]

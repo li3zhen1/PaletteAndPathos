@@ -1,0 +1,57 @@
+[
+	{
+		"name": "David Salle",
+		"keywords": [
+			"Figurative",
+			"Surreal",
+			"Pop Culture",
+			"Symbolic Imagery",
+			"Commercial Imagery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1952,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Norman, Oklahoma",
+				"events": [
+					"Born in Oklahoma",
+					"Moved to Los Angeles to study"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"Studied at the California Institute of Arts"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1987,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Relocated to New York City",
+					"Became a significant figure in the Neo-Expressionism art movement"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 2021,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"Achieved commercial success",
+					"Continued developing his style and themes"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Expressionism",
+			"Postmodernism"
+		]
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Aurel Cojan",
+		"keywords": [
+			"lines",
+			"squares",
+			"bright colors",
+			"abstraction",
+			"animals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1944,
+				"happiness": 7,
+				"location": "Bârlad, Romania",
+				"events": [
+					"born and raised",
+					"started painting at early age",
+					"graduated National School of Arts"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"studied painting at Academia de Belle Arte",
+					"began career as an artist"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1993,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"settled in France",
+					"work was internationally recognized",
+					"successful exhibition in Paris"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"post-Expressionism",
+			"non-figurative"
+		]
+	}
+]

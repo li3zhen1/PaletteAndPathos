@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Arman",
+		"keywords": [
+			"accumulation",
+			"destruction",
+			"everyday objects",
+			"consumer culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 2005,
+				"happiness": 6,
+				"location": "Nice, France",
+				"events": [
+					"born in Nice, France",
+					"studied at the Ecole Nationale des Arts Decoratifs in Nice"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Ecole du Louvre and the Paris Institute of Comparative Music",
+					"joined the Lettrist movement"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1961,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York City",
+					"joined the New Realists"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 2005,
+				"happiness": 6,
+				"location": "Vence, France",
+				"events": [
+					"established a second home and workshop in Vence",
+					"continued creating art until his death"
+				]
+			}
+		],
+		"genre": [
+			"nouveau réalisme",
+			"assemblage art"
+		]
+	}
+]

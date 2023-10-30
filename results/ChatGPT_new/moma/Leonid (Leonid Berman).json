@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Leonid Berman",
+		"keywords": [
+			"dream",
+			"symbolism",
+			"fantasy",
+			"mystery"
+		],
+		"lifePeriods": [
+			{
+				"start": 1896,
+				"end": 1917,
+				"happiness": 6,
+				"location": "Odessa, Empire of Russia (now Ukraine)",
+				"events": [
+					"Received initial artistic training"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1928,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Joined the École des Beaux-Arts",
+					"Became a part of the 'School of Paris' group"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Exhibited at the Salon des Indépendants",
+					"Began collaborating with Salvador Dali"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1953,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Escaped from Nazi-occupied Paris to New York",
+					"Worked as an illustrator and theatrical designer",
+					"Presented personal exhibitions"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1976,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Continued artistic work",
+					"Repeatedly visited Europe"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Surrealism"
+		]
+	}
+]

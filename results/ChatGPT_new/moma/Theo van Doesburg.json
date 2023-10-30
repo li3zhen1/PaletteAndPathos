@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Theo van Doesburg",
+		"keywords": [
+			"abstraction",
+			"geometric shapes",
+			"bold colors",
+			"typography",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1914,
+				"happiness": 5,
+				"location": "The Netherlands",
+				"events": [
+					"started painting",
+					"moved to Amsterdam"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"influenced by war",
+					"founded the magazine De Stijl"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"joined Bauhaus",
+					"became an influential figure in abstract art"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1923,
+				"happiness": 7,
+				"location": "Weimar, Germany",
+				"events": [
+					"continued working on De Stijl",
+					"introduced Elementarism"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1931,
+				"happiness": 5,
+				"location": "France",
+				"events": [
+					"moved to Paris",
+					"distanced himself from De Stijl",
+					"died of a heart attack"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Concrete art"
+		]
+	}
+]

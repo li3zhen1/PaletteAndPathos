@@ -1,0 +1,46 @@
+[
+	{
+		"name": "John Roddam Spencer Stanhope",
+		"keywords": [
+			"mythology",
+			"fantasy",
+			"love",
+			"despair"
+		],
+		"lifePeriods": [
+			{
+				"start": 1829,
+				"end": 1857,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Studied at Oxford University",
+					"Start of artistic career"
+				]
+			},
+			{
+				"start": 1857,
+				"end": 1860,
+				"happiness": 4,
+				"location": "Florence, Italy",
+				"events": [
+					"Got inspired by the Renaissance art"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1908,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"Renovated a villa in Florence",
+					"Established an art studio"
+				]
+			}
+		],
+		"genre": [
+			"Pre-Raphaelite",
+			"Romanticism"
+		]
+	}
+]

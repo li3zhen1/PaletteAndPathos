@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Romare Bearden",
+		"keywords": [
+			"urban life",
+			"African-American culture",
+			"collage",
+			"music",
+			"human relationships"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Charlotte, North Carolina",
+				"events": [
+					"Birth"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1935,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"Grew up during the Harlem Renaissance",
+					"Studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1969,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Joined the Harlem Artists Guild",
+					"Set up the 306 Group for African-American artists"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1988,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Elected as the first African-American artist member of the National Institute of Arts and Letters",
+					"Established the Bearden Foundation to support young or unrecognized artists"
+				]
+			}
+		],
+		"genre": [
+			"collage",
+			"cartoon",
+			"social realism"
+		]
+	}
+]

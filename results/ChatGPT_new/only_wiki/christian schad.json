@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Christian Schad",
+		"keywords": [
+			"portraiture",
+			"realism",
+			"sexuality",
+			"social scenes",
+			"surrealism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1894,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Miesbach, Germany",
+				"events": [
+					"school period"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1928,
+				"happiness": 7,
+				"location": "Zurich, Switzerland & Italy",
+				"events": [
+					"involvement in Dada, an art movement"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"joined Neue Sachlichkeit movement",
+					"experienced the rise of Nazi power"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1982,
+				"happiness": 4,
+				"location": "Stuttgart & Aschaffenburg, Germany",
+				"events": [
+					"period of relative insignificance in art world"
+				]
+			}
+		],
+		"genre": [
+			"portraiture",
+			"realism",
+			"dada",
+			"neue sachlichkeit"
+		]
+	}
+]

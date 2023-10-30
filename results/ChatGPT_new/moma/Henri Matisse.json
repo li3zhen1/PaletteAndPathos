@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Henri Matisse",
+		"keywords": [
+			"color",
+			"modernism",
+			"figures",
+			"nudes",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1869,
+				"end": 1887,
+				"happiness": 6,
+				"location": "Le Cateau-Cambresis, France",
+				"events": [
+					"Raised in a family of weavers"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1891,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Became a court administrator",
+					"suffered from appendicitis",
+					"began painting while recuperating"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied art at École des Beaux-Arts",
+					"Married Amélie Noellie Parayre"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1939,
+				"happiness": 6,
+				"location": "Nice, France",
+				"events": [
+					"Developed a sculptural style",
+					"began experimenting with collage"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1954,
+				"happiness": 3,
+				"location": "Cimiez, France",
+				"events": [
+					"Became a bedridden due to cancer",
+					"began making cut-out art"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Impressionism",
+			"Fauvism"
+		]
+	}
+]

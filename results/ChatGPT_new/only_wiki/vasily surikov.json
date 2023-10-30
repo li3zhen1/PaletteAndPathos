@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Vasily Surikov",
+		"keywords": [
+			"historical",
+			"Russia",
+			"battles",
+			"religion",
+			"nobility"
+		],
+		"lifePeriods": [
+			{
+				"start": 1848,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Krasnoyarsk, Russia",
+				"events": [
+					"Born into a family of merchants",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1875,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Studied at Imperial Academy of Arts",
+					"Began painting historical scenes"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1877,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Marries his cousin, Angelika"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1881,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"Produced his best works during this period"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Historical"
+		]
+	}
+]

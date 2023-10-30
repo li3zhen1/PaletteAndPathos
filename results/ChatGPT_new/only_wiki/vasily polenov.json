@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Vasily Polenov",
+		"keywords": [
+			"nature",
+			"landscape",
+			"rural life",
+			"religious",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1844,
+				"end": 1851,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Born into noble family"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1863,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Started painting",
+					"Private tutoring in drawing"
+				]
+			},
+			{
+				"start": 1863,
+				"end": 1871,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Entered Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1882,
+				"happiness": 8,
+				"location": "Europe",
+				"events": [
+					"Traveled and studied in Europe",
+					"Won a gold medal at the Paris Salon"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1895,
+				"happiness": 7,
+				"location": "Ovchinnikovo, Russia",
+				"events": [
+					"Created his rural estate",
+					"Created his most famous works"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1912,
+				"happiness": 6,
+				"location": "Ovchinnikovo, Russia",
+				"events": [
+					"Worked as a painting teacher"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1927,
+				"happiness": 4,
+				"location": "Ovchinnikovo, Russia",
+				"events": [
+					"Endured the years of World War I and the Russian Revolution"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"History painting",
+			"Religious painting"
+		]
+	}
+]

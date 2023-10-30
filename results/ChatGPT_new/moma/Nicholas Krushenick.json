@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Nicholas Krushenick",
+		"keywords": [
+			"abstract",
+			"pop art",
+			"comic book influences",
+			"bold lines",
+			"color contrasts"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1999,
+				"happiness": 6,
+				"location": "New York City, USA",
+				"events": [
+					"studied at The Art Students League of New York",
+					"co-founded Brata Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Pop Art"
+		]
+	}
+]

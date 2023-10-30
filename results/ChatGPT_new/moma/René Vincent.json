@@ -1,0 +1,29 @@
+[
+	{
+		"name": "René Vincent",
+		"keywords": [
+			"cars",
+			"luxury",
+			"advertising",
+			"fashion",
+			"Parisian life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1879,
+				"end": 1954,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"began working as a popular magazine illustrator",
+					"rising fame in the advertising world"
+				]
+			}
+		],
+		"genre": [
+			"Art Deco",
+			"Poster Art",
+			"Advertising Illustration"
+		]
+	}
+]

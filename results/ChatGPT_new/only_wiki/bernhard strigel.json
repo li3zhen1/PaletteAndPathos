@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Bernhard Strigel",
+		"keywords": [
+			"religion",
+			"portraiture",
+			"royalty",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1460,
+				"end": 1528,
+				"happiness": 6,
+				"location": "Memmingen, Germany",
+				"events": [
+					"became a court painter",
+					"painted portraits of Emperor Maximilian I and his family"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Portraiture"
+		]
+	}
+]

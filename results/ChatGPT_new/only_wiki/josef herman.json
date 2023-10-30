@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Josef Herman",
+		"keywords": [
+			"life",
+			"labor",
+			"working class",
+			"sense of humanity",
+			"solidarity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 2000,
+				"happiness": 3,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Born into a working class Jewish family",
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1940,
+				"happiness": 2,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Fled Poland due to Nazi invasion",
+					"Participated in resistance activities"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1944,
+				"happiness": 4,
+				"location": "Glasgow, Scotland",
+				"events": [
+					"Fled to Britain",
+					"Joined the Glasgow School of Art"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Ystradgynlais, Wales",
+				"events": [
+					"Settled in mining community",
+					"Artwork focused on miners",
+					"Defined his style"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 2000,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Moved to London",
+					"Won the Gold Medal at the National Eisteddfod of Wales",
+					"Became an influential figure in British art"
+				]
+			}
+		],
+		"genre": [
+			"Figurative art",
+			"Social Realism",
+			"Expressionism"
+		]
+	}
+]

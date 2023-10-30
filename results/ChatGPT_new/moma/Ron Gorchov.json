@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Ron Gorchov",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"monochrome",
+			"curvature",
+			"contrast"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"Born into a Jewish lite family"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1954,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Studied at the Art Institute of Chicago",
+					"Moved to New York"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1967,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Focused on his career as a visual artist",
+					"Exhibited in group shows"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1985,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"His first solo exhibition at Tibor de Nagy Gallery, New York",
+					"Began using saddle-shaped frames"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Recognised for his unique use of saddle-shaped frames"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 9,
+				"location": "New York, United States",
+				"events": [
+					"Retrospective at PS1 Contemporary Art Center",
+					"Died on August 18, 2020"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism"
+		]
+	}
+]

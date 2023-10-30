@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Annette Lemieux",
+		"keywords": [
+			"social",
+			"cultural",
+			"historical",
+			"political",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1957,
+				"end": 1979,
+				"happiness": 7,
+				"location": "Norwich, Connecticut",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1984,
+				"happiness": 7,
+				"location": "Hartford, Connecticut",
+				"events": [
+					"earned a BFA from Hartford Art School"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 2009,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"worked as an artist, gaining recognition and awards",
+					"exhibited in Whitney Biennial in 1987 and 2000"
+				]
+			},
+			{
+				"start": 2009,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"worked as a senior lecturer at Harvard University"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Pop Art",
+			"Anti-art"
+		]
+	}
+]

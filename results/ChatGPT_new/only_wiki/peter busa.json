@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Peter Busa",
+		"keywords": [
+			"abstract",
+			"nature",
+			"cubism",
+			"primitivism",
+			"organic forms"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1929,
+				"happiness": 5,
+				"location": "Pittsburgh",
+				"events": []
+			},
+			{
+				"start": 1930,
+				"end": 1936,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"studied at Art Students League"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1941,
+				"happiness": 7,
+				"location": "Minneapolis",
+				"events": [
+					"established Federal Art Project workshop"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1947,
+				"happiness": 8,
+				"location": "Provincetown",
+				"events": [
+					"co-founded the Abstract Artists Group"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1953,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"developed his 'Indian Space' painting"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Rome",
+				"events": [
+					"won the Rome Prize from the American Academy of Arts and Letters"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Indian Space painting"
+		]
+	}
+]

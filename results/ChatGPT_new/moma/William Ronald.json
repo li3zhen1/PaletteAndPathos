@@ -1,0 +1,73 @@
+[
+	{
+		"name": "William Ronald",
+		"keywords": [
+			"Abstract",
+			"Modernism",
+			"Expression",
+			"Color",
+			"Solitude"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1936,
+				"happiness": 5,
+				"location": "Stratford, Canada",
+				"events": []
+			},
+			{
+				"start": 1937,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Stratford, Canada",
+				"events": [
+					"First discovered his interest in art"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"Graduated from Ontario College of Art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1957,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Founded Painters Eleven",
+					"Made significant contributions to Abstract Expressionism"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1975,
+				"happiness": 6,
+				"location": "Toronto, Canada",
+				"events": [
+					"Became a popular television personality",
+					"Established a successful commercial art gallery"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1998,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"Received the Order of Canada",
+					"Continued to paint and exhibit works"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

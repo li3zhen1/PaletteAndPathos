@@ -1,0 +1,62 @@
+[
+	{
+		"name": "José María Sicilia",
+		"keywords": [
+			"abstract",
+			"nature",
+			"experimentation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Madrid, Spain",
+				"events": [
+					"born into a middle-class family"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"studied art at the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"moved to Rome for inspiration"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"became a key figure in the Spanish art scene",
+					"experimented with various artistic mediums"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"continued work in various mediums",
+					"expanded influence"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

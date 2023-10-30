@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Lygia Clark",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"interaction",
+			"Brazillian culture",
+			"therapeutic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Belo Horizonte, Brazil",
+				"events": [
+					"birth",
+					"early education"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1968,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"training at the Grande Chaumière Academy",
+					"Joined the Neo-Concrete Movement"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Started creating interactive sculptures",
+					"became respected in the art world"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Neo-Concretism"
+		]
+	}
+]

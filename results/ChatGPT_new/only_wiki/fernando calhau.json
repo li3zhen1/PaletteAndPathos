@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Fernando Calhau",
+		"keywords": [
+			"theoretical",
+			"minimalism",
+			"photography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 2002,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Established himself as artist",
+					"Founded and directed Xerox Project with Ana Vieira"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Conceptual"
+		]
+	}
+]

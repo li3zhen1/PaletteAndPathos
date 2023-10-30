@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Salvatore Scarpitta",
+		"keywords": [
+			"abstract",
+			"racing",
+			"cars",
+			"bandages",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Los Angeles",
+				"events": [
+					"studied at the Otis Art Institute"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1958,
+				"happiness": 5,
+				"location": "Italy",
+				"events": [
+					"worked as a Monuments Men and recover stolen artworks"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 2007,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"became known for his 'bandaged' paintings",
+					"built race car sculptures"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"kinetic art"
+		]
+	}
+]

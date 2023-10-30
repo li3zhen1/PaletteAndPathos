@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Piero Manzoni",
+		"keywords": [
+			"minimalism",
+			"conceptual art",
+			"performative"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1963,
+				"happiness": 4,
+				"location": "Milan, Italy",
+				"events": [
+					"formed Arte Povera movement",
+					"and created Achrome series"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"conceptual art"
+		]
+	}
+]

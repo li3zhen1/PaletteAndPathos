@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Frederic Remington",
+		"keywords": [
+			"frontier life",
+			"western",
+			"cavalry",
+			"Native Americans",
+			"cowboys"
+		],
+		"lifePeriods": [
+			{
+				"start": 1861,
+				"end": 1880,
+				"happiness": 6,
+				"location": "Canton, New York",
+				"events": [
+					"grew up in New York"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1886,
+				"happiness": 6,
+				"location": "Kansas City, Kansas",
+				"events": [
+					"moved to Kansas City",
+					"became part owner of a saloon"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1909,
+				"happiness": 5,
+				"location": "New Rochelle, New York",
+				"events": [
+					"moved to New Rochelle",
+					"married Eva Caten",
+					"final years of his life"
+				]
+			}
+		],
+		"genre": [
+			"painting",
+			"illustration",
+			"sculpture"
+		]
+	}
+]

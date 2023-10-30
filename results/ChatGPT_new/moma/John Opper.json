@@ -1,0 +1,80 @@
+[
+	{
+		"name": "John Opper",
+		"keywords": [
+			"abstract",
+			"landscapes",
+			"color",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Chicago, US",
+				"events": [
+					"Born in Chicago"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Chicago, US",
+				"events": [
+					"Graduated from the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1943,
+				"happiness": 6,
+				"location": "New York City, US",
+				"events": [
+					"Participated in the Federal Art Project"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New York City, US",
+				"events": [
+					"Started to explore abstract paintings"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 7,
+				"location": "New York City, US",
+				"events": [
+					"Became associated with the Abstract Expressionists"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1984,
+				"happiness": 7,
+				"location": "New York City, US",
+				"events": [
+					"First solo exhibition at the Betty Parsons Gallery"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 1994,
+				"happiness": 5,
+				"location": "New York City, US",
+				"events": [
+					"Passed away in New York"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modernism"
+		]
+	}
+]

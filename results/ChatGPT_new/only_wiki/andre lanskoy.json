@@ -1,0 +1,46 @@
+[
+	{
+		"name": "André Lanskoy",
+		"keywords": [
+			"abstract",
+			"colour",
+			"expression",
+			"tachism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1921,
+				"happiness": 3,
+				"location": "Moscow, Russia",
+				"events": [
+					"enlists in the Imperial Russian Army",
+					"flees Russia following the Bolshevik Revolution"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied art at the Académie de la Grande Chaumière"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"job at publishing house Editions du Chene",
+					"exhibited with Salon des Surindépendants"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"tachisme"
+		]
+	}
+]

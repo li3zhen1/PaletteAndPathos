@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Henry Pearson",
+		"keywords": [
+			"geometric",
+			"minimalism",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 2006,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"established as a graphic designer",
+					"developed an interest in Japanese woodblock prints"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Minimalism"
+		]
+	}
+]

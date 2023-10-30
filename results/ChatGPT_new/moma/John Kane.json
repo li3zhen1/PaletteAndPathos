@@ -1,0 +1,26 @@
+[
+	{
+		"name": "John Kane",
+		"keywords": [
+			"landscape",
+			"portraits",
+			"industrial scenes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1934,
+				"happiness": 3,
+				"location": "Pittsburgh, Pennsylvania, United States",
+				"events": [
+					"started painting late in life",
+					"first self-taught painter to be recognized by a US museum"
+				]
+			}
+		],
+		"genre": [
+			"primitivism",
+			"self-taught art"
+		]
+	}
+]

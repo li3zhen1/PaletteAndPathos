@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Suzanne Duchamp",
+		"keywords": [
+			"Dadaism",
+			"surrealism",
+			"abstract",
+			"Cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Attended Julian Academy",
+					"Got married to painter Jean Crotti"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Part of Dada movement",
+					"Exhibited at the Salon des Indépendants"
+				]
+			}
+		],
+		"genre": [
+			"Dada",
+			"Surrealist",
+			"Cubist"
+		]
+	}
+]

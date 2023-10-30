@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Johan Hendrik Weissenbruch",
+		"keywords": [
+			"landscapes",
+			"nature",
+			"realism",
+			"light",
+			"water"
+		],
+		"lifePeriods": [
+			{
+				"start": 1824,
+				"end": 1903,
+				"happiness": 6,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"Became a member of Pulchri Studio",
+					"Won the Amsterdam Drawing Prize"
+				]
+			}
+		],
+		"genre": [
+			"Landscape art"
+		]
+	}
+]

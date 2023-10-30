@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Robert Morris",
+		"keywords": [
+			"minimalism",
+			"conceptual art",
+			"sculpture",
+			"performance",
+			"process"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Kansas City, Missouri",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 7,
+				"location": "San Francisco, California",
+				"events": [
+					"studied at School of Fine Arts"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Pusan, South Korea",
+				"events": [
+					"enlisted in the army during the Korean War"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1961,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"studied at Hunter College",
+					"Became associated with the Abstract Expressionists"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1971,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"found fame with his minimalist sculptures",
+					"Founded the Art & Language movement"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2018,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"continued to produce influential works of art",
+					"Died in Kingston, New York"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Conceptual art",
+			"Land art"
+		]
+	}
+]

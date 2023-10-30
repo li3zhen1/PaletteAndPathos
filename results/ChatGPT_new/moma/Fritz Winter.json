@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Fritz Winter",
+		"keywords": [
+			"abstract",
+			"non-objective",
+			"nature",
+			"matter",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Altenbögge",
+				"events": [
+					"Born in Altenbögge",
+					"Began his school education"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 4,
+				"location": "Dessau",
+				"events": [
+					"Enrolled at the Bauhaus University",
+					"Taught by Klee and Kandinsky"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Berlin",
+				"events": [
+					"Deemed a 'degenerate artist' by the Nazi party",
+					"Participated in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1976,
+				"happiness": 5,
+				"location": "Diessen am Ammersee",
+				"events": [
+					"Helped to establish the group 'Zen 49'",
+					"Honored with numerous art prizes"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Concrete Art"
+		]
+	}
+]

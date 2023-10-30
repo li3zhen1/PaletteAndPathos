@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Louise Elisabeth Vigee Le Brun",
+		"keywords": [
+			"portraits",
+			"royalty",
+			"women",
+			"nature",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1755,
+				"end": 1789,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"studied with her father",
+					"became a member of the Royal Academy"
+				]
+			},
+			{
+				"start": 1789,
+				"end": 1802,
+				"happiness": 5,
+				"location": "Europe",
+				"events": [
+					"fled the French Revolution",
+					"painted portraits of European aristocracy"
+				]
+			},
+			{
+				"start": 1802,
+				"end": 1842,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"returned to Paris",
+					"retired from painting"
+				]
+			}
+		],
+		"genre": [
+			"Rococo",
+			"Neoclassical"
+		]
+	}
+]

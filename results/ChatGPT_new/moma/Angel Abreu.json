@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Angel Abreu",
+		"keywords": [
+			"contemporary",
+			"teamwork",
+			"education"
+		],
+		"lifePeriods": [
+			{
+				"start": 1974,
+				"end": 1999,
+				"happiness": 6,
+				"location": "New York City, United States",
+				"events": [
+					"Graduated from The Cooper Union School of Art"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, United States",
+				"events": [
+					"Became part of the artist collective Tim Rollins and K.O.S.",
+					"Worked on projects focused on education and activism"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art"
+		]
+	}
+]

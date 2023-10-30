@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Robert Julian Onderdonk",
+		"keywords": [
+			"nature",
+			"romanticism",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1917,
+				"happiness": 5,
+				"location": "San Antonio, Texas",
+				"events": [
+					"Received training from his father",
+					"Attended the Art Students League of New York"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"Portraits"
+		]
+	}
+]

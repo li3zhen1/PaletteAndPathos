@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Victor Meirelles",
+		"keywords": [
+			"history",
+			"mythology",
+			"religion",
+			"war",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1832,
+				"end": 1903,
+				"happiness": 7,
+				"location": "Desterro, Brazil",
+				"events": [
+					"studied in Imperial Academy of Fine Arts in Rio de Janeiro",
+					"studied in École des Beaux-Arts in Paris"
+				]
+			}
+		],
+		"genre": [
+			"romanticism",
+			"portrait",
+			"history painting"
+		]
+	}
+]

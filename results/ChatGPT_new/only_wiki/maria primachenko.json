@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Maria Primachenko",
+		"keywords": [
+			"folklore",
+			"mythical creatures",
+			"nature",
+			"brightly colored",
+			"fantastic realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1908,
+				"end": 1936,
+				"happiness": 5,
+				"location": "Bolotnya, Ukraine",
+				"events": [
+					"began drawing and embroidery",
+					"learned traditional Ukrainian painting styles"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1941,
+				"happiness": 3,
+				"location": "Bolotnya, Ukraine",
+				"events": [
+					"Exhibited her work in Kiev",
+					"World War II outbreak"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1965,
+				"happiness": 4,
+				"location": "Bolotnya, Ukraine",
+				"events": [
+					"Survived World War II",
+					"Paralyzed due to polio"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1982,
+				"happiness": 5,
+				"location": "Bolotnya, Ukraine",
+				"events": [
+					"Continued creating art despite her disability"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1997,
+				"happiness": 7,
+				"location": "Bolotnya, Ukraine",
+				"events": [
+					"Received the Shevchenko National Prize",
+					"Died in 1997"
+				]
+			}
+		],
+		"genre": [
+			"naïve art",
+			"primitivism"
+		]
+	}
+]

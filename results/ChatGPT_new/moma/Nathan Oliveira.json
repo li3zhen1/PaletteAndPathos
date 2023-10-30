@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Nathan Oliveira",
+		"keywords": [
+			"anxiety",
+			"isolation",
+			"human figure",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1951,
+				"happiness": 7,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"born to Portuguese parents",
+					"developed a strong interest in art"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1996,
+				"happiness": 6,
+				"location": "San Francisco, California, USA",
+				"events": [
+					"studied at the California School of Fine Arts",
+					"became a key member of the Bay Area Figurative Movement"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2010,
+				"happiness": 5,
+				"location": "Stanford, California, USA",
+				"events": [
+					"retired from teaching at Stanford University",
+					"continued painting"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Bay Area Figurative Movement"
+		]
+	}
+]

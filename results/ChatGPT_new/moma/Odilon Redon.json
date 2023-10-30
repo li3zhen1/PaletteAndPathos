@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Odilon Redon",
+		"keywords": [
+			"symbolism",
+			"dreams",
+			"fantasy",
+			"nature",
+			"mystical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1840,
+				"end": 1855,
+				"happiness": 4,
+				"location": "Bordeaux, France",
+				"events": [
+					"developed passion for drawing at a young age"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1875,
+				"happiness": 5,
+				"location": "Bordeaux, France",
+				"events": [
+					"attended drawing school",
+					"studied under Jean-Léon Gérôme"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1886,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"produced his 'Noirs' series",
+					"married his wife"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1916,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"created works in pastels and oils",
+					"exhibited in the Armory Show in New York"
+				]
+			}
+		],
+		"genre": [
+			"symbolism",
+			"post-impressionism"
+		]
+	}
+]

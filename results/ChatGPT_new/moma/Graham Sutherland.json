@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Graham Sutherland",
+		"keywords": [
+			"landscape",
+			"surrealism",
+			"abstract",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1919,
+				"happiness": 7,
+				"location": "Streatham, London, England",
+				"events": [
+					"born in London",
+					"completed his early education"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1926,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"started studying at Epsom School of Art",
+					"later studied at Goldsmiths College"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1939,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"became a part-time instructor at the Chelsea School of Art",
+					"began to focus on printmaking"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1945,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"official war artist in World War II"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Porthcurno, Cornwall",
+				"events": [
+					"commissioned to paint a portrait of Winston Churchill"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Monte Carlo, Monaco",
+				"events": []
+			},
+			{
+				"start": 1980,
+				"end": 1980,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Printmaking",
+			"Surrealism",
+			"Abstract Art"
+		]
+	}
+]

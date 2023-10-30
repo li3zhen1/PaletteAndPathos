@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Andre Derain",
+		"keywords": [
+			"fauvism",
+			"color",
+			"nature",
+			"portaits",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Chatou, France",
+				"events": [
+					"started painting"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"co-founded Fauvism with Henri Matisse",
+					"exhibition at the Salon d'Automne"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Europe",
+				"events": [
+					"served in World War I",
+					"distanced from Fauvism"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1930,
+				"happiness": 5,
+				"location": "France",
+				"events": [
+					"Returns to traditional art and style"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1954,
+				"happiness": 6,
+				"location": "France",
+				"events": [
+					"Derived from various art movements and traditions"
+				]
+			}
+		],
+		"genre": [
+			"Fauvism",
+			"Impressionism",
+			"Neo-Impressionism"
+		]
+	}
+]

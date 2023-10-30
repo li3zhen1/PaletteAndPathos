@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Pisanello",
+		"keywords": [
+			"animals",
+			"portraits",
+			"chivalry",
+			"religion",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1395,
+				"end": 1455,
+				"happiness": 7,
+				"location": "Pisa, Italy",
+				"events": [
+					"apprenticed with artist Andrea del Castagno",
+					"commissioned by several powerful Italian courts"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Medieval",
+			"Portraits"
+		]
+	}
+]

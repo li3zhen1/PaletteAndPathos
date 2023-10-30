@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Ilya Repin",
+		"keywords": [
+			"realism",
+			"society",
+			"peasants",
+			"nature",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1844,
+				"end": 1856,
+				"happiness": 5,
+				"location": "Chuguyev, Ukraine",
+				"events": [
+					"Born into a military family"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1864,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Enrolled in the Imperial Academy of Arts"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1873,
+				"happiness": 6,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Graduated as the top in his class",
+					"Began to paint professionally"
+				]
+			},
+			{
+				"start": 1873,
+				"end": 1882,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": [
+					"Creation of 'The Volga boatmen'",
+					"Joined the Itinerants"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1898,
+				"happiness": 7,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Creation of 'Ivan the Terrible and his son Ivan'",
+					"Creation of 'Alexander III receiving rural district elders in the yard of Petrovsky Palace in Moscow'"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1917,
+				"happiness": 5,
+				"location": "Kuokkala, Grand Duchy of Finland",
+				"events": [
+					"Built the Penaty estate",
+					"Created many of his most significant works"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1930,
+				"happiness": 4,
+				"location": "Kuokkala, Finland",
+				"events": [
+					"Witnessed the Russian Revolution",
+					"Died of natural causes"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Portrait"
+		]
+	}
+]

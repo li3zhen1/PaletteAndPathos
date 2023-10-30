@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Mark Bradford",
+		"keywords": [
+			"public spaces",
+			"pop culture references",
+			"social media",
+			"racial identity",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1961,
+				"end": 1979,
+				"happiness": 5,
+				"location": "Los Angeles",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1997,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"worked as a hairdresser"
+				]
+			},
+			{
+				"start": 1998,
+				"end": 2010,
+				"happiness": 8,
+				"location": "Los Angeles",
+				"events": [
+					"received his MFA from California Institute of the Arts",
+					"rising fame in the art world"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"named a MacArthur Fellow",
+					"represented the United States at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Abstract Art"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "László Moholy-Nagy",
+		"keywords": [
+			"light",
+			"architecture",
+			"abstract",
+			"innovation",
+			"photography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1895,
+				"end": 1917,
+				"happiness": 4,
+				"location": "Bailleul, France",
+				"events": [
+					"enlisted in Austro-Hungarian army"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1926,
+				"happiness": 6,
+				"location": "Weimar, Germany",
+				"events": [
+					"became a teacher at the Bauhaus school",
+					"Married Lucia Schulz"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1937,
+				"happiness": 6,
+				"location": "Dessau, Germany",
+				"events": [
+					"published 'The New Vision'",
+					"directed film 'Berlin Still Life'"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Chicago, United States",
+				"events": [
+					"founded the New Bauhaus in Chicago"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modernism"
+		]
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Shirazeh Houshiary",
+		"keywords": [
+			"identity",
+			"existence",
+			"spirituality",
+			"perception",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1973,
+				"happiness": 5,
+				"location": "Shiraz, Iran",
+				"events": [
+					"Born and grew up"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1979,
+				"happiness": 7,
+				"location": "Tehran, Iran",
+				"events": [
+					"Studied at the Tehran University",
+					"Deepened interest in Persian poetry and mysticism"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 2000,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"Exiled due to Iranian Revolution",
+					"Studied at Chelsea School of Art",
+					"Joined the Young British Artists movement"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Broadened her range of media",
+					"Nominated for the Turner Prize"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Sculpture",
+			"Installation Art"
+		]
+	}
+]

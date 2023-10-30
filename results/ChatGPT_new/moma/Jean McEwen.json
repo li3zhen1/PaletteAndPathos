@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Jean McEwen",
+		"keywords": [
+			"abstract",
+			"colorful",
+			"emotional",
+			"layers",
+			"transparency"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"studied pharmacy before turning to art",
+					"met Jacques de Tonnancour, who introduced him to automatist painters"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

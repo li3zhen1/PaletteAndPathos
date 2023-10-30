@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Raúl Lozza",
+		"keywords": [
+			"concrete art",
+			"geometric shapes",
+			"color",
+			"mathematics",
+			"Perceptismo"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Alberto, Argentina",
+				"events": [
+					"started his career as a painter"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1944,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"founded Arte Concreto-Invención Association"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1950,
+				"happiness": 8,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"broke with the Arte Concreto",
+					"conceived Perceptismo"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 2008,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"dedicated to Perceptismo",
+					"founded the Raúl Lozza Museum"
+				]
+			}
+		],
+		"genre": [
+			"Concrete art",
+			"Perceptismo"
+		]
+	}
+]

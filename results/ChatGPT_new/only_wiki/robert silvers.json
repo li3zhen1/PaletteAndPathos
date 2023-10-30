@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Robert Silvers",
+		"keywords": [
+			"photomosaics",
+			"innovation",
+			"computational art",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1968,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Boston, USA",
+				"events": [
+					"created photomosaic technology"
+				]
+			}
+		],
+		"genre": [
+			"Photography",
+			"Digital Art"
+		]
+	}
+]

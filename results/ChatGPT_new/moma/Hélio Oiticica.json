@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Hélio Oiticica",
+		"keywords": [
+			"abstract",
+			"experiments",
+			"color",
+			"participation",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Grew up in a family of artists and intellectuals"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Joined Grupo Frente",
+					"Started creating Metaesquemas series"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1964,
+				"happiness": 8,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Joined Neo-Concrete Movement",
+					"Created Bilateral series"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1970,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Moved to USA",
+					"Started creating Parangolés series"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Rio de Janeiro, Brazil",
+				"events": [
+					"Returned to Brazil",
+					"Focused on immersive installations"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Neo-Concrete Art",
+			"Installations"
+		]
+	}
+]

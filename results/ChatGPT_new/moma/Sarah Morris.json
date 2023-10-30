@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Sarah Morris",
+		"keywords": [
+			"architecture",
+			"urbanism",
+			"geometric abstraction",
+			"cities",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Sevenoaks, Kent, England",
+				"events": [
+					"born",
+					"started showing interest in arts"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1989,
+				"happiness": 7,
+				"location": "Providence, Rhode Island, USA",
+				"events": [
+					"attended Brown University",
+					"majored in Semiotics"
+				]
+			},
+			{
+				"start": 1989,
+				"end": 1991,
+				"happiness": 7,
+				"location": "London, UK",
+				"events": [
+					"attended Jesus College, University of Cambridge"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2000,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"started producing her noteworthy series",
+					"began her artistic career"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"became internationally recognized",
+					"continued her series exploring major cities"
+				]
+			}
+		],
+		"genre": [
+			"modern",
+			"abstract"
+		]
+	}
+]

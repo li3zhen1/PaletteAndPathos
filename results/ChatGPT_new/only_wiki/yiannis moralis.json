@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Yiannis Moralis",
+		"keywords": [
+			"human form",
+			"geometry",
+			"nude",
+			"modernism",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 2009,
+				"happiness": 7,
+				"location": "Arta, Greece",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1936,
+				"happiness": 7,
+				"location": "Athens",
+				"events": [
+					"Started studying at Athens School of Fine Arts"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Rome",
+				"events": [
+					"Studied at Rome Fine Arts Academy"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Athens",
+				"events": [
+					"World War II",
+					"Established Armos, an art collective"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Met Picasso",
+					"Greek Civil war"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Athens",
+				"events": [
+					"Started teaching at Athens School of Fine Arts"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2009,
+				"happiness": 5,
+				"location": "Athens",
+				"events": [
+					"Stopped teaching",
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"portraiture",
+			"abstract"
+		]
+	}
+]

@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Virginia Admiral",
+		"keywords": [
+			"abstract",
+			"political",
+			"social"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Tillamook, Oregon, USA",
+				"events": [
+					"start of her artistic career",
+					"participation in social movements"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 2000,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"birth of her son Robert De Niro",
+					"Renowned for Abstract Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

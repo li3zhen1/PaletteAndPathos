@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Perle Fine",
+		"keywords": [
+			"abstract",
+			"emotion",
+			"cubism",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Boston",
+				"events": [
+					"started art education at the Boston's School of Practical Art"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"joined the Art Students League",
+					"met her future husband and orchestrator, Maurice Berezov"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1988,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"was elected to the National Academy of Design",
+					"became heavily involved in The Club, located at 39 East 8th Street"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Modern art"
+		]
+	}
+]

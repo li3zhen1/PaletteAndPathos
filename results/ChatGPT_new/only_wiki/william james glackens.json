@@ -1,0 +1,82 @@
+[
+	{
+		"name": "William James Glackens",
+		"keywords": [
+			"urban life",
+			"leisure",
+			"impressionism",
+			"realism",
+			"family"
+		],
+		"lifePeriods": [
+			{
+				"start": 1870,
+				"end": 1876,
+				"happiness": 7,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Born and raised"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1888,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Received early art education at the Pennsylvania Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1891,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Furthered art studies in Paris at the Academie Julian"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"Began career as an illustrator and artist"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1910,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Became associated with the group known as The Eight",
+					"Impressionist style began to emerge"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1928,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"Key organizer of the influential Armory Show, introducing modern European art to America"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1938,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"Continued work, popularity, and influence"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism"
+		]
+	}
+]

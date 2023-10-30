@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Margareta Sterian",
+		"keywords": [
+			"nature",
+			"flowers",
+			"landscapes",
+			"still life",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Birth and early childhood"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1921,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Begin studying at the School of Belle Arte"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1945,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Marriage to Paul Sterian",
+					"Gave birth to a daughter"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1964,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Move to Paris due to the communist regime in Romania"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1992,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Return to Romania",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Still life",
+			"Landscape"
+		]
+	}
+]

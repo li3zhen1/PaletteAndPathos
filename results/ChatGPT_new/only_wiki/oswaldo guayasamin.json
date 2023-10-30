@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Oswaldo Guayasamin",
+		"keywords": [
+			"human suffering",
+			"indigenous struggles",
+			"political commentary",
+			"portraits",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1932,
+				"happiness": 3,
+				"location": "Quito",
+				"events": [
+					"lost his father at a young age",
+					"early exposure to indigenous and mestizo cultures"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1942,
+				"happiness": 4,
+				"location": "Quito",
+				"events": [
+					"met influential artists and writers",
+					"gained recognition as a portraitist"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Quito",
+				"events": [
+					"traveled extensively throughout Latin America",
+					"began his 'Age of Anger' series"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Quito",
+				"events": [
+					"elected to the National Assembly",
+					"completed his 'Age of America' series"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Quito",
+				"events": [
+					"worked on his 'Hands of Protest' series",
+					"continued political activism"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1982,
+				"happiness": 7,
+				"location": "Quito",
+				"events": [
+					"recognized as a major Latin American painter",
+					"began his 'Age of Tenderness' series"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 1999,
+				"happiness": 6,
+				"location": "Quito",
+				"events": [
+					"established the Guayasamin Foundation",
+					"completed his mural at the United Nations building in Geneva"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Muralist"
+		]
+	}
+]

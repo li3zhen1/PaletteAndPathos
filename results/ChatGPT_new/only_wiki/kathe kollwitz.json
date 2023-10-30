@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Kathe Kollwitz",
+		"keywords": [
+			"suffering",
+			"poverty",
+			"war",
+			"protest",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1877,
+				"happiness": 6,
+				"location": "Konigsberg, Prussia",
+				"events": []
+			},
+			{
+				"start": 1877,
+				"end": 1885,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"began art education"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1891,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"married Karl Kollwitz"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"gave birth to her sons"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Berlin, Germany",
+				"events": [
+					"her son Peter died in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Berlin, Germany",
+				"events": [
+					"created art against war and suffering",
+					"expelled by the Nazis"
+				]
+			}
+		],
+		"genre": [
+			"Printmaking",
+			"Sculpture"
+		]
+	}
+]

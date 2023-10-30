@@ -1,0 +1,66 @@
+[
+	{
+		"name": "John Hoyland",
+		"keywords": [
+			"abstraction",
+			"geometric shapes",
+			"color",
+			"expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1944,
+				"happiness": 3,
+				"location": "Sheffield, United Kingdom",
+				"events": [
+					"survived WWII as a child"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1953,
+				"happiness": 5,
+				"location": "Sheffield, United Kingdom",
+				"events": [
+					"got interested in art"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"studied at Royal Academy Schools",
+					"met David Hockney"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1988,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"had successful exhibitions",
+					"became well-known painter",
+					"teaching at St. Martin's School of Art"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2011,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"continued to paint and exhibit",
+					"elected to the Royal Academy"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Modern"
+		]
+	}
+]

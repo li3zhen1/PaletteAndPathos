@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Bob Kane",
+		"keywords": [
+			"comics",
+			"superheroes",
+			"animation",
+			"cartoons",
+			"drama"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1998,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"co-creation of Batman",
+					"inducted into the comic book industry's Jack Kirby Hall of Fame"
+				]
+			}
+		],
+		"genre": [
+			"comic books",
+			"animation"
+		]
+	}
+]

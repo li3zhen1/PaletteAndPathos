@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Josefa de Óbidos",
+		"keywords": [
+			"religion",
+			"still life",
+			"portraits",
+			"nature",
+			"Baroque"
+		],
+		"lifePeriods": [
+			{
+				"start": 1630,
+				"end": 1634,
+				"happiness": 6,
+				"location": "Seville, Spain",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1634,
+				"end": 1653,
+				"happiness": 7,
+				"location": "Óbidos, Portugal",
+				"events": [
+					"Moved to Portugal with father",
+					"Started painting under father's guidance"
+				]
+			},
+			{
+				"start": 1653,
+				"end": 1684,
+				"happiness": 5,
+				"location": "Óbidos, Portugal",
+				"events": [
+					"Became a reputed artist",
+					"Father died"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Still life",
+			"Religious"
+		]
+	}
+]

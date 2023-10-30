@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Jean-Paul Riopelle",
+		"keywords": [
+			"nature",
+			"abstract",
+			"dynamism",
+			"wildlife"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Montreal, Canada",
+				"events": [
+					"Started studying painting",
+					"Learned under Paul-Émile Borduas"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became part of the Les Automatistes movement",
+					"Met his future wife Joan Mitchell"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1982,
+				"happiness": 4,
+				"location": "Paris, France and Gaspé region, Quebec, Canada",
+				"events": [
+					"Experienced ups and downs in his career",
+					"Divorce with Joan Mitchell"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2002,
+				"happiness": 5,
+				"location": "Isle-aux-Grues, Quebec, Canada",
+				"events": [
+					"Received the Order of Canada",
+					"Death of his partner Mitchell"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Lyrical Abstraction",
+			"Tachisme"
+		]
+	}
+]

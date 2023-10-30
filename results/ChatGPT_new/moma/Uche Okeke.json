@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Uche Okeke",
+		"keywords": [
+			"culture",
+			"folklore",
+			"African tradition",
+			"linearity",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 2016,
+				"happiness": 6,
+				"location": "Nimo, Nigeria",
+				"events": [
+					"joined Nigerian youth movement"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Zaria, Nigeria",
+				"events": [
+					"formed Zaria Art Society",
+					"began teaching at the Nsukka University"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1977,
+				"happiness": 8,
+				"location": "Nsukka, Nigeria",
+				"events": [
+					"became the head of the Fine Arts department"
+				]
+			},
+			{
+				"start": 1978,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Nsukka, Nigeria",
+				"events": [
+					"started directing the Institute of African Studies"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"natural synthesis"
+		]
+	}
+]

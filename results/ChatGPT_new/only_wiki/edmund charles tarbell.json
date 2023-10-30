@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Edmund Charles Tarbell",
+		"keywords": [
+			"women",
+			"domestic scenes",
+			"children",
+			"impressionism",
+			"Effulgence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1877,
+				"happiness": 1,
+				"location": "West Groton, Massachusetts",
+				"events": [
+					"father died when he was a baby",
+					"moved to Boston to live with his mother"
+				]
+			},
+			{
+				"start": 1877,
+				"end": 1884,
+				"happiness": 6,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"studied at the Boston Normal Art School"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1900,
+				"happiness": 8,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"part of the Ten American Painters",
+					"married Emeline Souther"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1913,
+				"happiness": 7,
+				"location": "New Castle, New Hampshire",
+				"events": [
+					"taught at the Museum of Fine Arts, Boston"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1938,
+				"happiness": 6,
+				"location": "New Hampshire",
+				"events": [
+					"continued painting, but eyesight started to fail",
+					"resigned from the Museum of Fine Arts, Boston"
+				]
+			}
+		],
+		"genre": [
+			"American Impressionism",
+			"Realism",
+			"Portrait"
+		]
+	}
+]

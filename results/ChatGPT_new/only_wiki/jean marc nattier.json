@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Jean-Marc Nattier",
+		"keywords": [
+			"royalty",
+			"portrait",
+			"beauty",
+			"elegance",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1685,
+				"end": 1706,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"training with father Marc Nattier",
+					"received initial education"
+				]
+			},
+			{
+				"start": 1706,
+				"end": 1729,
+				"happiness": 7,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"ambassador's portrait artist",
+					"Marriage to Marie-Madeleine La Tour"
+				]
+			},
+			{
+				"start": 1729,
+				"end": 1766,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"portrait artist for King Louis XV",
+					"financial trouble"
+				]
+			}
+		],
+		"genre": [
+			"portrait painting",
+			"mythological painting"
+		]
+	}
+]

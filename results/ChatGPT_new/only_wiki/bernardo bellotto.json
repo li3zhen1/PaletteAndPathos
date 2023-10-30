@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Bernardo Bellotto",
+		"keywords": [
+			"landscape",
+			"cityscape",
+			"architecture",
+			"royalty",
+			"historical monuments"
+		],
+		"lifePeriods": [
+			{
+				"start": 1721,
+				"end": 1740,
+				"happiness": 6,
+				"location": "Venice, Italy",
+				"events": [
+					"Trained under his uncle, Canaletto"
+				]
+			},
+			{
+				"start": 1740,
+				"end": 1747,
+				"happiness": 7,
+				"location": "Dresden, Germany",
+				"events": [
+					"Became court painter to the king"
+				]
+			},
+			{
+				"start": 1748,
+				"end": 1758,
+				"happiness": 5,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Served the Polish king and created many of his master works"
+				]
+			},
+			{
+				"start": 1758,
+				"end": 1770,
+				"happiness": 6,
+				"location": "Dresden, Germany",
+				"events": []
+			},
+			{
+				"start": 1770,
+				"end": 1780,
+				"happiness": 4,
+				"location": "Warsaw, Poland",
+				"events": [
+					"Painted his last city views before his death"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"visual arts",
+			"cityscape"
+		]
+	}
+]

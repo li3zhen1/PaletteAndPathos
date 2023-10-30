@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Jan Siberechts",
+		"keywords": [
+			"landscape",
+			"rural life",
+			"nature",
+			"haute bourgeoisie"
+		],
+		"lifePeriods": [
+			{
+				"start": 1627,
+				"end": 1661,
+				"happiness": 6,
+				"location": "Antwerp, Belgium",
+				"events": [
+					"member of Guild of Saint Luke",
+					"had significant local reputation"
+				]
+			},
+			{
+				"start": 1662,
+				"end": 1672,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"created numerous landscapes with animals",
+					"expanded his recognition"
+				]
+			},
+			{
+				"start": 1672,
+				"end": 1703,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"worked for many English noblemen",
+					"painted several views of the country estate of Henry Bennet, 1st Earl of Arlington"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"landscape art",
+			"genre painting"
+		]
+	}
+]

@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Jóhannes Sveinsson Kjarval",
+		"keywords": [
+			"nature",
+			"Icelandic landscapes",
+			"elves",
+			"trolls"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1909,
+				"happiness": 3,
+				"location": "Efri-Ey, Iceland",
+				"events": [
+					"work as a shepherd",
+					"develop interest in drawing"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"study in the Royal Danish Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Reykjavík, Iceland",
+				"events": [
+					"exhibited his works",
+					"established modern art in Iceland"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Reykjavík, Iceland",
+				"events": [
+					"won the first purchase prize of the Reykjavík Art Society"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"landscape art"
+		]
+	}
+]

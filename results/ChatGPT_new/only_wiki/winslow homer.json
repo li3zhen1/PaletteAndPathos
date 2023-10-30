@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Winslow Homer",
+		"keywords": [
+			"nature",
+			"maritime",
+			"rural life",
+			"Americana",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1848,
+				"happiness": 7,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Born into a middle-class family"
+				]
+			},
+			{
+				"start": 1848,
+				"end": 1861,
+				"happiness": 7,
+				"location": "Boston, Massachusetts",
+				"events": [
+					"Apprenticed to a lithographer",
+					"Began career in commercial art"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1865,
+				"happiness": 5,
+				"location": "New York, NY",
+				"events": [
+					"Depicted American Civil War as freelance illustrator"
+				]
+			},
+			{
+				"start": 1865,
+				"end": 1881,
+				"happiness": 6,
+				"location": "New York, NY",
+				"events": [
+					"Began painting career",
+					"Created artworks about Reconstruction era"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1882,
+				"happiness": 6,
+				"location": "Cullercoats, England",
+				"events": [
+					"Produced marine subjects and scenes of working-class women"
+				]
+			},
+			{
+				"start": 1883,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Prouts Neck, Maine",
+				"events": [
+					"Created some of his most notable paintings",
+					"Enjoyed secluded life in coastal Maine"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Landscape art",
+			"Marine art"
+		]
+	}
+]

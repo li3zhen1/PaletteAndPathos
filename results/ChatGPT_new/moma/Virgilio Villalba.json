@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Virgilio Villalba",
+		"keywords": [
+			"Chaco",
+			"nature",
+			"paraguay"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Asuncion, Paraguay",
+				"events": [
+					"Born in Chaco",
+					"moved to Asunción"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Asuncion, Paraguay",
+				"events": [
+					"Became a teacher",
+					"Established himself as a renowned painter"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2010,
+				"happiness": 7,
+				"location": "Asuncion, Paraguay",
+				"events": [
+					"Served as professor in Fine Arts college",
+					"Represented Paraguay in international exhibits"
+				]
+			},
+			{
+				"start": 2011,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Asuncion, Paraguay",
+				"events": [
+					"Continued to work in education and painting"
+				]
+			}
+		],
+		"genre": [
+			"Landscape",
+			"Nature"
+		]
+	}
+]

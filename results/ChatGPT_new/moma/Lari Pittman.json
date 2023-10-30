@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Lari Pittman",
+		"keywords": [
+			"sexuality",
+			"cultural clash",
+			"consumerism",
+			"identity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1952,
+				"end": 1969,
+				"happiness": 6,
+				"location": "Los Angeles, USA",
+				"events": [
+					"grew up in a family of artists"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1974,
+				"happiness": 6,
+				"location": "Valencia, USA",
+				"events": [
+					"studied at California Institute of the Arts"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1995,
+				"happiness": 5,
+				"location": "Los Angeles, USA",
+				"events": [
+					"developed his distinctive style of painting",
+					"struggled with being openly gay"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Los Angeles, USA",
+				"events": [
+					"recognized as one of the most influential painters of his generation",
+					"received numerous awards and honours"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Postmodernism"
+		]
+	}
+]

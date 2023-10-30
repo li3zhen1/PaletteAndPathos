@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Jóhannes Sveinsson Kjarval",
+		"keywords": [
+			"nature",
+			"folklore",
+			"mythology",
+			"symbolism",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1920,
+				"happiness": 7,
+				"location": "Iceland",
+				"events": [
+					"worked as a fisherman",
+					"studied art in Denmark"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Reykjavík, Iceland",
+				"events": [
+					"received recognition for his art"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Reykjavík, Iceland",
+				"events": []
+			},
+			{
+				"start": 1941,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Reykjavík, Iceland",
+				"events": [
+					"continued painting"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1972,
+				"happiness": 4,
+				"location": "Reykjavík, Iceland",
+				"events": [
+					"paintings declined in popularity"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Symbolism"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Georges Rouault",
+		"keywords": [
+			"religion",
+			"human suffering",
+			"expressionism",
+			"satire"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1890,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"became an apprentice to a glass painter and restorer"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1913,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied art at the École des Beaux-Arts",
+					"met Henri Matisse"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1943,
+				"happiness": 4,
+				"location": "France",
+				"events": [
+					"World War I started",
+					"painted 'Christ Mocked by Soldiers'"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1958,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"World War II ended",
+					"death of his wife"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Fauvism"
+		]
+	}
+]

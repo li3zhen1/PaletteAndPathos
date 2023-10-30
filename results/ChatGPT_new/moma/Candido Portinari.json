@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Candido Portinari",
+		"keywords": [
+			"social issues",
+			"working class",
+			"Brazilian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1928,
+				"happiness": 4,
+				"location": "Brooklyn, Sao Paolo",
+				"events": [
+					"had a harsh childhood working in coffee plantations"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Rio de Janeiro",
+				"events": [
+					"enrolled at the National School of Fine Arts",
+					"won the Rome Prize"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Rio de Janeiro",
+				"events": [
+					"painted the War and Peace murals for the United Nations Headquarters"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1962,
+				"happiness": 6,
+				"location": "Rio de Janeiro",
+				"events": [
+					"became politically active"
+				]
+			}
+		],
+		"genre": [
+			"social realist"
+		]
+	}
+]

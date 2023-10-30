@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Gerrit Dou",
+		"keywords": [
+			"domestic",
+			"detailed",
+			"realism",
+			"portraiture",
+			"illumination"
+		],
+		"lifePeriods": [
+			{
+				"start": 1613,
+				"end": 1675,
+				"happiness": 6,
+				"location": "Leiden, Netherlands",
+				"events": [
+					"trained under Rembrandt",
+					"became a successful independent artist",
+					"established the 'fijnschilder' style"
+				]
+			}
+		],
+		"genre": [
+			"Dutch Golden Age painting",
+			"Baroque"
+		]
+	}
+]

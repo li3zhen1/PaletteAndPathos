@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Lucio Fontana",
+		"keywords": [
+			"spatial concept",
+			"holes",
+			"cuts",
+			"conceptual art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1927,
+				"happiness": 4,
+				"location": "Rosario, Argentina",
+				"events": [
+					"born to Italian immigrants",
+					"studied as a sculptor"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Italy",
+				"events": [
+					"founded the artistic cultural movement known as 'White Italian Abstract Art'",
+					"faced the onset of World War II"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1947,
+				"happiness": 3,
+				"location": "Argentina",
+				"events": [
+					"returned due to World War II",
+					"founded Altamira academy"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"created his first Spatial concept",
+					"received international recognition"
+				]
+			}
+		],
+		"genre": [
+			"Spatialism",
+			"abstract art",
+			"conceptual art"
+		]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Judit Reigl",
+		"keywords": [
+			"abstraction",
+			"gesture",
+			"expressivity",
+			"transcendence",
+			"unconscious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Budapest, Hungary",
+				"events": [
+					"survived World War II",
+					"study at Hungarian University of Fine Arts"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"defected from the Soviet occupied Hungary",
+					"illegally crossed the border into Austria"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 2020,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"met André Breton",
+					"had her first solo exhibition in 1954"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Art Informel"
+		]
+	}
+]

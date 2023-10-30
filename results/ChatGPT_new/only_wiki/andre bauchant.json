@@ -1,0 +1,83 @@
+[
+	{
+		"name": "Andre Bauchant",
+		"keywords": [
+			"nature",
+			"mythology",
+			"landscape",
+			"human"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1896,
+				"happiness": 6,
+				"location": "Chateau-Renault, France",
+				"events": [
+					"born into the family of farmers"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1908,
+				"happiness": 5,
+				"location": "Chateau-Renault, France",
+				"events": [
+					"worked as an orchardist",
+					"served as town council member"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1914,
+				"happiness": 3,
+				"location": "Chateau-Renault, France",
+				"events": [
+					"took up painting",
+					"World War I started"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "France",
+				"events": [
+					"military service during World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Chateau-Renault, France",
+				"events": [
+					"decided to concentrate on painting"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"gained international acclaim",
+					"his work was exhibited New York"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 4,
+				"location": "Chateau-Renault, France",
+				"events": [
+					"deteriorating health"
+				]
+			}
+		],
+		"genre": [
+			"Naive art",
+			"Post-Impressionism"
+		]
+	}
+]

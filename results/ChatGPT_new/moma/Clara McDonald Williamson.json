@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Clara McDonald Williamson",
+		"keywords": [
+			"historical scenes",
+			"women's rights",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1889,
+				"happiness": 5,
+				"location": "San Antonio, Texas",
+				"events": [
+					"born in this period"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Chicago, Illinois",
+				"events": [
+					"studied at the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Dallas, Texas",
+				"events": [
+					"taught at the Aunspaugh Art School",
+					"started painting industrial scenes"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Dallas, Texas",
+				"events": [
+					"continued her painting career",
+					"painted the historical allegory of Texas Centennial"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1976,
+				"happiness": 4,
+				"location": "Dallas, Texas",
+				"events": [
+					"retirement from painting",
+					"death in 1976"
+				]
+			}
+		],
+		"genre": [
+			"Historical",
+			"Industrial",
+			"Portraiture"
+		]
+	}
+]

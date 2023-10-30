@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Frits Thaulow",
+		"keywords": [
+			"Nature",
+			"Landscapes",
+			"Impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1847,
+				"end": 1859,
+				"happiness": 7,
+				"location": "Christiania, Norway",
+				"events": [
+					"Birth",
+					"Early childhood"
+				]
+			},
+			{
+				"start": 1860,
+				"end": 1870,
+				"happiness": 6,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"Studying art at the Academy of Art"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1886,
+				"happiness": 8,
+				"location": "Oslo, Norway",
+				"events": [
+					"Began painting landscapes, personal artistic development"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1890,
+				"happiness": 8,
+				"location": "France",
+				"events": [
+					"Met French impressionists",
+					"Influenced by Monet's work"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1906,
+				"happiness": 6,
+				"location": "France, Norway",
+				"events": [
+					"Travelled between France and Norway",
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Impressionism"
+		]
+	}
+]

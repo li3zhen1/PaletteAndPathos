@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Anders Zorn",
+		"keywords": [
+			"nature",
+			"nudity",
+			"portraits",
+			"nationalism",
+			"individualism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1875,
+				"happiness": 7,
+				"location": "Mora, Sweden",
+				"events": [
+					"childhood and early cultivation of artistic interest"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1880,
+				"happiness": 6,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"studied at Royal Swedish Academy of Arts",
+					"worked on his style and technique"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1896,
+				"happiness": 8,
+				"location": " Various locations in Europe and US",
+				"events": [
+					"traveled extensively",
+					"established himself as a portrait painter"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1920,
+				"happiness": 9,
+				"location": "Mora, Sweden",
+				"events": [
+					"built Zorngården, his home",
+					"created some of his most significant work"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

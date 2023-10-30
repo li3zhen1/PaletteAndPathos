@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Richard Estes",
+		"keywords": [
+			"photorealism",
+			"cityscapes",
+			"reflections",
+			"modernism",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Kewanee, Illinois",
+				"events": [
+					"born in 1932",
+					"graduated from the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1966,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"moved to New York City",
+					"worked as an illustrator for various magazines"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"his first solo exhibition",
+					"established himself as a prominent figure in the photorealist movement"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"received numerous awards",
+					"his works displayed in major museums around the world"
+				]
+			}
+		],
+		"genre": [
+			"Photorealism",
+			"Modernism",
+			"Realism"
+		]
+	}
+]

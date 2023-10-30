@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Frank Johnston",
+		"keywords": [
+			"landscape",
+			"nature",
+			"winter",
+			"rural",
+			"country life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1947,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"founder of Group of Seven",
+					"opened his own art school"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1949,
+				"happiness": 6,
+				"location": "Winnipeg, Canada",
+				"events": [
+					"taught at Winnipeg School of Art"
+				]
+			}
+		],
+		"genre": [
+			"Landscape Art",
+			"Modern Art"
+		]
+	}
+]

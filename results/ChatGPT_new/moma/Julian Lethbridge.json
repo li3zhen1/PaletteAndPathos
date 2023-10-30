@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Julian Lethbridge",
+		"keywords": [
+			"abstraction",
+			"geometry",
+			"patterns",
+			"rhythm",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1947,
+				"end": 1977,
+				"happiness": 6,
+				"location": "Colombo, Sri Lanka",
+				"events": [
+					"born and raised",
+					"graduated from the University of Cambridge"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1988,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"began work as a painter"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"expanded his artistic practice",
+					"established as a leading abstract painter"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art"
+		]
+	}
+]

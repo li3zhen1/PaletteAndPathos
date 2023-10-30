@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Basuki Abdullah",
+		"keywords": [
+			"royalty",
+			"nature",
+			"portraits",
+			"nudes",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Surakarta, Dutch East Indies",
+				"events": [
+					"born into a royal Javanese family",
+					"started painting at an early age"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Japanese-occupied Dutch East Indies",
+				"events": [
+					"World War II",
+					"captured and imprisoned by the Japanese"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Indonesia",
+				"events": [
+					"independence of Indonesia",
+					"worked as a court painter"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1962,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"worked as an international celebrity portrait artist"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Jakarta, Indonesia",
+				"events": [
+					"returned to Indonesia",
+					"continued to paint until his death"
+				]
+			}
+		],
+		"genre": [
+			"portraits",
+			"nude paintings",
+			"realist"
+		]
+	}
+]

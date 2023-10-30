@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Julius Bissier",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"spiritual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1913,
+				"happiness": 7,
+				"location": "Freiburg im Breisgau, Germany",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Freiburg im Breisgau, Germany",
+				"events": [
+					"studied painting and architecture"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Freiburg im Breisgau, Germany",
+				"events": [
+					"survived World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"started creating monotypes",
+					"gained international reputation"
+				]
+			},
+			{
+				"start": 1958,
+				"end": 1965,
+				"happiness": 8,
+				"location": "Ascona, Switzerland",
+				"events": [
+					"received the Hans Thoma Prize"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1966,
+				"happiness": 10,
+				"location": "Ascona, Switzerland",
+				"events": [
+					"retrospective exhibition at the Ulmer Museum in Germany"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Minimalism"
+		]
+	}
+]

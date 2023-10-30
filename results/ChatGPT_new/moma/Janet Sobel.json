@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Janet Sobel",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"folk",
+			"nature",
+			"surreal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1968,
+				"happiness": 4,
+				"location": "Ukraine",
+				"events": [
+					"Born in Ukraine",
+					"Immigrated to the United States"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1946,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"Had her first solo exhibition",
+					"Influenced Jackson Pollock with her style of drip painting"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Florida",
+				"events": [
+					"Retirement from painting"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Folk Art"
+		]
+	}
+]

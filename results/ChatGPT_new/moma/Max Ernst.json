@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Max Ernst",
+		"keywords": [
+			"surrealism",
+			"dada",
+			"symbolism",
+			"freudian",
+			"animals",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Brühl, Germany",
+				"events": [
+					"began studying philosophy at University"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 1,
+				"location": "Europe",
+				"events": [
+					"served in World War I",
+					"begins painting"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1922,
+				"happiness": 6,
+				"location": "Colonge, Germany",
+				"events": [
+					"founded the dada movement"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"joined the surrealist group in Paris",
+					"created the grattage technique"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1953,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"escaped from Nazis to USA",
+					"married Dorothea Tanning"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"returned to France",
+					"continued his artistic career"
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"dada"
+		]
+	}
+]

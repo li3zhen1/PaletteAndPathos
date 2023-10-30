@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Volodymyr Orlovsky",
+		"keywords": [
+			"landscape",
+			"rural life",
+			"nature",
+			"seasons",
+			"wildlife"
+		],
+		"lifePeriods": [
+			{
+				"start": 1842,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Kiev, Russian Empire",
+				"events": [
+					"graduated from the Imperial Academy of Arts",
+					"received the title of Academician"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"realism"
+		]
+	}
+]

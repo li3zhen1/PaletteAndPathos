@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Ivan Albright",
+		"keywords": [
+			"death",
+			"decay",
+			"aged",
+			"reality",
+			"flesh"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1917,
+				"happiness": 6,
+				"location": "North Harvey, Illinois",
+				"events": [
+					"Born to a family of artists"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1919,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"Served in World War I as a medical draftsman"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Chicago, Illinois",
+				"events": [
+					"Worked on various art projects",
+					"Developed his unique style of painting"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Hollywood, California",
+				"events": [
+					"Created the painting for 'The Picture of Dorian Gray' movie"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1983,
+				"happiness": 7,
+				"location": "Woodstock, Vermont",
+				"events": [
+					"Retired and focused on painting",
+					"Donated a significant collection of his work to the Art Institute of Chicago"
+				]
+			}
+		],
+		"genre": [
+			"Magic Realism",
+			"Symbolism"
+		]
+	}
+]

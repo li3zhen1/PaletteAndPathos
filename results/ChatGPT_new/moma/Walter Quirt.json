@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Walter Quirt",
+		"keywords": [
+			"surrealism",
+			"expressionism",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Iron River, Michigan, United States",
+				"events": [
+					"Started his early art career",
+					"Explored different art styles"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Expressionism",
+			"Abstract art"
+		]
+	}
+]

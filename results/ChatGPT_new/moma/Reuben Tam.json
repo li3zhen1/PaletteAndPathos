@@ -1,0 +1,101 @@
+[
+	{
+		"name": "Reuben Tam",
+		"keywords": [
+			"landscape",
+			"nature",
+			"abstract expressionism",
+			"Tropical",
+			"Seasonal"
+		],
+		"lifePeriods": [
+			{
+				"start": 1916,
+				"end": 1919,
+				"happiness": 5,
+				"location": "Kapa'a, Hawaii",
+				"events": [
+					"Born to Chinese immigrants"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1937,
+				"happiness": 5,
+				"location": "Hawaii",
+				"events": [
+					"Studied at McKinley High School in Honolulu"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1941,
+				"happiness": 6,
+				"location": "San Francisco and Berkeley, California",
+				"events": [
+					"Attended fine arts courses at the University of California"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1942,
+				"happiness": 4,
+				"location": "New York, NY",
+				"events": [
+					"Arrived in New York, just before the attack on Pearl Harbor"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Brooklyn, New York",
+				"events": [
+					"Marriage to Adele Tashiro",
+					"Served in the United States Army during World War II"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1951,
+				"happiness": 8,
+				"location": "Cranberry Island, Maine",
+				"events": [
+					"Begun to paint the rocky coastal landscape of Maine"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Brooklyn, NY and Monhegan Island, ME",
+				"events": [
+					"Split his time between Maine and New York"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1991,
+				"happiness": 6,
+				"location": "Hawaii and Monhegan Island, ME",
+				"events": [
+					"Returned to Hawaii to teach",
+					"Continued to paint"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1991,
+				"happiness": 4,
+				"location": "Hawaii",
+				"events": [
+					"Passed away at the age of 73"
+				]
+			}
+		],
+		"genre": [
+			"Landscape Painting",
+			"Abstract Expressionism"
+		]
+	}
+]

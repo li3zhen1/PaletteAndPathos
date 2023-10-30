@@ -1,0 +1,27 @@
+[
+	{
+		"name": "John Miller",
+		"keywords": [
+			"nature",
+			"landscapes",
+			"wheatfields",
+			"seascapes",
+			"countryside"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 2002,
+				"happiness": 6,
+				"location": "London",
+				"events": [
+					"became Vice-Principal of Falmouth School of Art",
+					"became President of Penwith Society of Arts"
+				]
+			}
+		],
+		"genre": [
+			"realism"
+		]
+	}
+]

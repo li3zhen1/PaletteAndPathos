@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Johannes Vermeer",
+		"keywords": [
+			"domestic life",
+			"women",
+			"light",
+			"detail",
+			"intricacy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1632,
+				"end": 1653,
+				"happiness": 6,
+				"location": "Delft, Netherlands",
+				"events": [
+					"Born into a family of silk weavers",
+					"Became an art dealer"
+				]
+			},
+			{
+				"start": 1653,
+				"end": 1675,
+				"happiness": 7,
+				"location": "Delft, Netherlands",
+				"events": [
+					"Married Catharina Bolnes",
+					"Had eleven children"
+				]
+			},
+			{
+				"start": 1675,
+				"end": 1675,
+				"happiness": 2,
+				"location": "Delft, Netherlands",
+				"events": [
+					"Died after a short illness"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"Portraiture"
+		]
+	}
+]

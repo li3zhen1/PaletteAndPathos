@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Giorgio Vasari",
+		"keywords": [
+			"architecture",
+			"portraits",
+			"humanism",
+			"history",
+			"allegory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1511,
+				"end": 1527,
+				"happiness": 6,
+				"location": "Arezzo, Italy",
+				"events": [
+					"Started painting at a young age"
+				]
+			},
+			{
+				"start": 1527,
+				"end": 1555,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"Studied painting under Andrea del Sarto",
+					"Gained recognition as a painter and architect"
+				]
+			},
+			{
+				"start": 1555,
+				"end": 1574,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"Became the archbishop's consultant",
+					"Designed the Uffizi Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"Renaissance",
+			"Portraiture"
+		]
+	}
+]

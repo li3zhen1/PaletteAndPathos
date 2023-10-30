@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Kerry James Marshall",
+		"keywords": [
+			"African American life",
+			"social issues",
+			"historical narrative",
+			"racial identity",
+			"cultural expression"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1963,
+				"happiness": 6,
+				"location": "Birmingham, Alabama",
+				"events": [
+					"born"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1977,
+				"happiness": 6,
+				"location": "Los Angeles, California",
+				"events": [
+					"experienced the Black Power and Civil Rights movements"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 1985,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"attained fine arts degree from Otis College of Art and Design"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Chicago, Illinois",
+				"events": [
+					"won a fellowship from the National Endowment for the Arts"
+				]
+			},
+			{
+				"start": 1993,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Chicago, Illinois",
+				"events": [
+					"regarded as one of the greatest living painters",
+					"exhibited at major museums worldwide"
+				]
+			}
+		],
+		"genre": [
+			"Painting",
+			"Murals",
+			"Drawings"
+		]
+	}
+]

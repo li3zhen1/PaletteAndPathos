@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Pierre Clerk",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"colorful",
+			"bold"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Tunis, Tunisia",
+				"events": [
+					"born in Tunis",
+					"moved to the United States"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied art at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1953,
+				"happiness": 5,
+				"location": "New York, United States",
+				"events": [
+					"served in the US Army"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"began career as artist",
+					"worked as graphic designer for Container Corporation of America"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"post-war",
+			"geometric"
+		]
+	}
+]

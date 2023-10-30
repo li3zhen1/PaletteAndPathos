@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Norman Bluhm",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"gesture",
+			"action",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Chicago, United States",
+				"events": [
+					"moved to Chicago at an early age",
+					"studied at the Armour Institute of Technology"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1947,
+				"happiness": 4,
+				"location": "Europe, Africa, Middle East",
+				"events": [
+					"served as a bomber pilot in the World War II"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1956,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Académie de la Grande Chaumière",
+					"met fellow artists such as Joan Mitchell"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"became integral part to the New York school of artists",
+					"developed a more expressive and gestural style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1999,
+				"happiness": 6,
+				"location": "East Hampton, United States",
+				"events": [
+					"contributed to the establishment of Poets and Painters organization"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Action painting"
+		]
+	}
+]

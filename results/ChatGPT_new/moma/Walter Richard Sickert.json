@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Walter Richard Sickert",
+		"keywords": [
+			"urban life",
+			"theatre",
+			"nudes",
+			"portraits",
+			"interiors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1860,
+				"end": 1878,
+				"happiness": 5,
+				"location": "Munich, Germany",
+				"events": [
+					"Birth and early childhood"
+				]
+			},
+			{
+				"start": 1878,
+				"end": 1881,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"Training at the Slade School of Fine Art",
+					"Influenced by James McNeill Whistler"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1911,
+				"happiness": 4,
+				"location": "London, United Kingdom",
+				"events": [
+					"Joined the New English Art Club",
+					"Married Ellen Cobden",
+					"Ellen's death",
+					"Married Christine Angus"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Dieppe, France",
+				"events": [
+					"Worked on a series of canvases based on music hall subjects",
+					"Death of Christine Angus"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1942,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"Married Thérèse Lessore",
+					"Formed the London Group"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Post-Impressionism",
+			"Realism"
+		]
+	}
+]

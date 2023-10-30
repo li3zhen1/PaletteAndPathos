@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Jan J. Schoonhoven",
+		"keywords": [
+			"minimalism",
+			"relief sculpture",
+			"monochrome",
+			"geometry",
+			"order"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Delft, Netherlands",
+				"events": [
+					"born",
+					"survived World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1956,
+				"happiness": 6,
+				"location": "Delft, Netherlands",
+				"events": [
+					"began work at the Dutch Postal and Telecommunications"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1961,
+				"happiness": 7,
+				"location": "Delft, Netherlands",
+				"events": [
+					"belonged to the Informal Group"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 8,
+				"location": "Delft, Netherlands",
+				"events": [
+					"joined Nul group",
+					"rise to prominence"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1994,
+				"happiness": 7,
+				"location": "Delft, Netherlands",
+				"events": [
+					"continued solo career after disbandment of Nul group",
+					"won the Venice Biennale's Sāo Paolo Prize"
+				]
+			}
+		],
+		"genre": [
+			"minimalism",
+			"relief art"
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Pierre-Paul Prud'hon",
+		"keywords": [
+			"emotion",
+			"romanticism",
+			"nudes",
+			"portraiture",
+			"mythology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1758,
+				"end": 1823,
+				"happiness": 5,
+				"location": "Cluny, France",
+				"events": [
+					"trained in Paris",
+					"gained recognition for his artwork"
+				]
+			}
+		],
+		"genre": [
+			"Romanticism"
+		]
+	}
+]

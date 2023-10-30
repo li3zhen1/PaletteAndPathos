@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Alan Reynolds",
+		"keywords": [
+			"nature",
+			"abstraction",
+			"geometry",
+			"organic forms",
+			"subtraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1932,
+				"happiness": 5,
+				"location": "Newmarket, England",
+				"events": [
+					"born to a working-class family"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Newmarket, England",
+				"events": [
+					"education in local schools"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1947,
+				"happiness": 4,
+				"location": "various locations",
+				"events": [
+					"served in the Royal Air Force during World War II"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1957,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"studied at Woolwich Polytechnic",
+					"became a teacher at the Central School of Arts and Crafts"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1973,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"established as a successful landscape painter",
+					"work began to shift towards abstraction"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2014,
+				"happiness": 6,
+				"location": "Kent, England",
+				"events": [
+					"moved to Kent",
+					"fully embraced abstract art",
+					"worked until his death"
+				]
+			}
+		],
+		"genre": [
+			"abstract art"
+		]
+	}
+]

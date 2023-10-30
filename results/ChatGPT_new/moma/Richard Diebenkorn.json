@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Richard Diebenkorn",
+		"keywords": [
+			"abstract expressionism",
+			"landscape",
+			"Figuration",
+			"color",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1922,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Portland, Oregon",
+				"events": [
+					"Born in Portland, Oregon"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 4,
+				"location": "Stanford, California",
+				"events": [
+					"Began to paint and draw at Stanford University",
+					"Served in U.S. Marine Corps during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 6,
+				"location": "San Francisco, California",
+				"events": [
+					"Studied at California School of Fine Arts",
+					"Work influenced by abstract expressionism"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1966,
+				"happiness": 8,
+				"location": "Berkeley, California",
+				"events": [
+					"Developed his own style of abstract landscape painting",
+					"Became associated with 'Bay Area Figurative Movement'",
+					"Produced 'Berkeley series'",
+					"Exhibited at Venice Biennale"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Santa Monica, California",
+				"events": [
+					"Started the 'Ocean Park series'",
+					"His work became more geometric and abstract"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 1993,
+				"happiness": 7,
+				"location": "Santa Monica, California",
+				"events": [
+					"Retired from painting due to declining health",
+					"Died in Santa Monica"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Figurative Art",
+			"Color field"
+		]
+	}
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Amy Sillman",
+		"keywords": [
+			"abstract",
+			"modernism",
+			"expressionism",
+			"humor",
+			"day-to-day"
+		],
+		"lifePeriods": [
+			{
+				"start": 1955,
+				"end": 1975,
+				"happiness": 6,
+				"location": "Detroit, Michigan, USA",
+				"events": [
+					"developed interest in art, especially painting"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1979,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"pursued BFA at School of Visual Arts"
+				]
+			},
+			{
+				"start": 1979,
+				"end": 1995,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"established herself as an emerging artist"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2010,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"earned MFA from Bard College",
+					"stepped into fame with her work"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"became renowned for her innovative approach to abstract painting"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Postmodern art"
+		]
+	}
+]

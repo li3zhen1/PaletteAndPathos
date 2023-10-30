@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Eva Gonzalès",
+		"keywords": [
+			"domestic scenes",
+			"outdoors",
+			"women",
+			"portraits",
+			"fashion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1849,
+				"end": 1883,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became Édouard Manet's only formal student",
+					"Exhibited at the renowned Salon"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Figure painting",
+			"Portrait"
+		]
+	}
+]

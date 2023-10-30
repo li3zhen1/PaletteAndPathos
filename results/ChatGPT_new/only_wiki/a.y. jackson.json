@@ -1,0 +1,77 @@
+[
+	{
+		"name": "A.Y. Jackson",
+		"keywords": [
+			"nature",
+			"Canadian landscape",
+			"group of seven",
+			"realism",
+			"impressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1898,
+				"happiness": 5,
+				"location": "Montreal, Canada",
+				"events": [
+					"born in Montreal"
+				]
+			},
+			{
+				"start": 1898,
+				"end": 1906,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"worked as a lithographer",
+					"started art training"
+				]
+			},
+			{
+				"start": 1906,
+				"end": 1913,
+				"happiness": 7,
+				"location": "Chicago, Illinois; Paris, France",
+				"events": [
+					"studied art in Chicago and Paris"
+				]
+			},
+			{
+				"start": 1913,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Toronto, Canada",
+				"events": [
+					"joined the Group of Seven",
+					"enlisted in the army during World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Toronto, Canada",
+				"events": [
+					"recuperated from injuries from the war",
+					"painted and traveled throughout Canada"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1974,
+				"happiness": 8,
+				"location": "Ottawa, Canada",
+				"events": [
+					"continued to paint and travel throughout Canada",
+					"awarded numerous honorary degrees"
+				]
+			}
+		],
+		"genre": [
+			"Landscape Art",
+			"Impressionism",
+			"Realism"
+		]
+	}
+]

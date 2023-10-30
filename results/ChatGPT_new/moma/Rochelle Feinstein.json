@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Rochelle Feinstein",
+		"keywords": [
+			"socio-political critique",
+			"popular culture",
+			"abstraction",
+			"expressionism",
+			"language"
+		],
+		"lifePeriods": [
+			{
+				"start": 1947,
+				"end": 1969,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"born and raised in New York",
+					"pursued education in art"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1994,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"became professor at Yale",
+					"displayed work in solo exhibitions"
+				]
+			},
+			{
+				"start": 1995,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"continued her work in art and education",
+					"work included in many public collections"
+				]
+			}
+		],
+		"genre": [
+			"Abstract painting",
+			"Multimedia art"
+		]
+	}
+]

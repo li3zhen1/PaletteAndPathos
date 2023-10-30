@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Anna Ostroumova-Lebedeva",
+		"keywords": [
+			"landscapes",
+			"urban scenery",
+			"etching",
+			"scenes of Saint Petersburg",
+			"watercolours"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Saint Petersburg, Russia",
+				"events": [
+					"Studied in Moscow and Paris",
+					"Became a pioneer of the color print and watercolors in Russia"
+				]
+			}
+		],
+		"genre": [
+			"Landscape painting",
+			"Etching",
+			"Watercolors"
+		]
+	}
+]

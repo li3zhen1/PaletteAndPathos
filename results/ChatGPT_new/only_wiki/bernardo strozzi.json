@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Bernardo Strozzi",
+		"keywords": [
+			"religion",
+			"portraits",
+			"nature",
+			"emotional depth",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1581,
+				"end": 1581,
+				"happiness": 5,
+				"location": "Genoa, Italy",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1598,
+				"end": 1602,
+				"happiness": 6,
+				"location": "Genoa, Italy",
+				"events": [
+					"Became a novice in the Capuchin monastery"
+				]
+			},
+			{
+				"start": 1602,
+				"end": 1610,
+				"happiness": 7,
+				"location": "Genoa, Italy",
+				"events": [
+					"Became a professional painter"
+				]
+			},
+			{
+				"start": 1610,
+				"end": 1625,
+				"happiness": 4,
+				"location": "Genoa, Italy",
+				"events": [
+					"Left the monastery",
+					"Fight with the Capuchin order"
+				]
+			},
+			{
+				"start": 1625,
+				"end": 1644,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Had to flee to Venice due to legal issues",
+					"Reached peak of his career"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Religious Art",
+			"Portrait"
+		]
+	}
+]

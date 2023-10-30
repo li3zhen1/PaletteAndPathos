@@ -1,0 +1,47 @@
+[
+	{
+		"name": "John Henry Twachtman",
+		"keywords": [
+			"landscape",
+			"impressionism",
+			"serenity",
+			"nature",
+			"still life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1853,
+				"end": 1886,
+				"happiness": 5,
+				"location": "Cincinnati, Ohio",
+				"events": [
+					"started studying art",
+					"traveled to Europe"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1897,
+				"happiness": 6,
+				"location": "Connecticut",
+				"events": [
+					"establishment of art school",
+					"joined 'The Ten'"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1902,
+				"happiness": 4,
+				"location": "Connecticut",
+				"events": [
+					"continued painting",
+					"passed away"
+				]
+			}
+		],
+		"genre": [
+			"American Impressionism"
+		]
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Guntis Strupulis",
+		"keywords": [
+			"history",
+			"sculpture",
+			"numismatics",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1971,
+				"happiness": 6,
+				"location": "Riga, Latvia",
+				"events": [
+					"graduated from the Art Academy of Latvia"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Riga, Latvia",
+				"events": [
+					"started working at the Mint of Latvia as a coin designer"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2003,
+				"happiness": 8,
+				"location": "Riga, Latvia",
+				"events": [
+					"designed the national side of the Latvian euro coins"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Riga, Latvia",
+				"events": []
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Numismatics"
+		]
+	}
+]

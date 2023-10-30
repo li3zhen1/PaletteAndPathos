@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Otto Gustav Carlsund",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"minimalist",
+			"perspective",
+			"reality"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1916,
+				"happiness": 4,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"birth",
+					"early education"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at Académie de la Palette",
+					"exposure to European modernism"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1925,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"influenced by Cubism and Purism",
+					"started making non-figurative paintings"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1935,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"joined the Abstraction-Création group",
+					"exhibited abstract works"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1948,
+				"happiness": 5,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"concentration on architectural and interior design",
+					"shift from abstractionism"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"minimalist art",
+			"geometric art"
+		]
+	}
+]

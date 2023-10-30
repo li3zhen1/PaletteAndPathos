@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Isaac van Ostade",
+		"keywords": [
+			"peasantry",
+			"village scenes",
+			"rustic",
+			"interiors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1621,
+				"end": 1649,
+				"happiness": 5,
+				"location": "Haarlem",
+				"events": [
+					"Became a member of the Haarlem Guild of Saint Luke"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"Landscape art"
+		]
+	}
+]

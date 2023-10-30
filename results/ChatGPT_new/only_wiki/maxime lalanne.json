@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Maxime Lalanne",
+		"keywords": [
+			"nature",
+			"architecture",
+			"scenery",
+			"tranquility"
+		],
+		"lifePeriods": [
+			{
+				"start": 1827,
+				"end": 1886,
+				"happiness": 5,
+				"location": "Bordeaux, France",
+				"events": [
+					"born in Bordeaux",
+					"developed interest in fine arts"
+				]
+			},
+			{
+				"start": 1850,
+				"end": 1880,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"received recognition for his art"
+				]
+			},
+			{
+				"start": 1880,
+				"end": 1886,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"continuing his art career",
+					"died in Paris"
+				]
+			}
+		],
+		"genre": [
+			"etching",
+			"drawing",
+			"landscape art"
+		]
+	}
+]

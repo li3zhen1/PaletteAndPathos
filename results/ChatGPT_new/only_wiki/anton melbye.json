@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Anton Melbye",
+		"keywords": [
+			"sea",
+			"ships",
+			"landscapes",
+			"travel"
+		],
+		"lifePeriods": [
+			{
+				"start": 1818,
+				"end": 1875,
+				"happiness": 6,
+				"location": "Copenhagen, Denmark",
+				"events": [
+					"trained at the Royal Danish Academy of Fine Arts",
+					"traveled extensively"
+				]
+			}
+		],
+		"genre": [
+			"marine painting",
+			"landscape painting"
+		]
+	}
+]

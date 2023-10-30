@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Anne Appleby",
+		"keywords": [
+			"nature",
+			"abstraction",
+			"color fields",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Harrisburg, Pennsylvania",
+				"events": [
+					"completion of high school"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Philadelphia, Pennsylvania",
+				"events": [
+					"received her BFA from the Philadelphia College of Art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1982,
+				"happiness": 8,
+				"location": "San Francisco, California",
+				"events": [
+					"attended San Francisco Art Institute for MFA"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Montana",
+				"events": [
+					"established a studio",
+					"widely exhibited nationally and internationally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Minimalism",
+			"Landscape Art"
+		]
+	}
+]

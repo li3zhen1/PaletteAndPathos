@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Pavel Svinyin",
+		"keywords": [
+			"history",
+			"culture",
+			"travel",
+			"America",
+			"Russia"
+		],
+		"lifePeriods": [
+			{
+				"start": 1787,
+				"end": 1807,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"born and grew up"
+				]
+			},
+			{
+				"start": 1807,
+				"end": 1811,
+				"happiness": 7,
+				"location": "United States",
+				"events": [
+					"travelled to America",
+					"wrote about American culture and society"
+				]
+			},
+			{
+				"start": 1811,
+				"end": 1838,
+				"happiness": 5,
+				"location": "Russia",
+				"events": [
+					"documented Russian history and culture",
+					"published travel notes"
+				]
+			}
+		],
+		"genre": [
+			"travel literature",
+			"historical documentation",
+			"painting"
+		]
+	}
+]

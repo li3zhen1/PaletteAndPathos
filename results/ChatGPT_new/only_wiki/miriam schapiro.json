@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Miriam Schapiro",
+		"keywords": [
+			"women",
+			"fabric",
+			"collage",
+			"feminist art",
+			"pattern"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1945,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"completed her early education"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1951,
+				"happiness": 6,
+				"location": "Iowa City, USA",
+				"events": [
+					"obtained a Master of Fine Arts from the University of Iowa",
+					"met her husband Paul Brach"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1967,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"began teaching at Pratt Institute",
+					"developed her hard-edge paintings"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Santa Barbara, California, USA",
+				"events": [
+					"Co-founded the Feminist Art Program at California Institute of the Arts",
+					"developed the concept of 'femmage'"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2003,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"received a fellowship from the National Endowment for the Arts",
+					"created The Dollhouse"
+				]
+			},
+			{
+				"start": 2003,
+				"end": 2015,
+				"happiness": 6,
+				"location": "Hampton Bays, New York, USA",
+				"events": [
+					"lived and continued work in Hampton Bays",
+					"passed away at the age of 91"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Hard-edge painting",
+			"Feminist Art"
+		]
+	}
+]

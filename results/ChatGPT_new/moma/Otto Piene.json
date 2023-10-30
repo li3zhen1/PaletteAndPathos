@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Otto Piene",
+		"keywords": [
+			"light",
+			"kinetic",
+			"fire",
+			"nature",
+			"technology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Bad Laasphe",
+				"events": [
+					"Born in the period of the Weimar Republic",
+					"Experienced World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Munich",
+				"events": [
+					"Studied at the Academy of Arts"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Dusseldorf",
+				"events": [
+					"Studied philosophy at the University of Cologne"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1957,
+				"happiness": 7,
+				"location": "Dusseldorf",
+				"events": [
+					"Founded the influential post-war art group ZERO with Heinz Mack"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1974,
+				"happiness": 8,
+				"location": "Dusseldorf",
+				"events": [
+					"Impacted the development of kinetic and light art",
+					"Co-founded the International Sky Art Conference"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2014,
+				"happiness": 8,
+				"location": "Cambridge, Massachusetts",
+				"events": [
+					"Served as the director of the Center for Advanced Visual Studies (CAVS) at the MIT",
+					"Focused on environmental and sky art"
+				]
+			}
+		],
+		"genre": [
+			"kinetic art",
+			"light art",
+			"sky art"
+		]
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Gerald Murphy",
+		"keywords": [
+			"American expatriate",
+			"modernism",
+			"geometry",
+			"luxury goods",
+			"advertisement"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Boston, Massachusetts, USA",
+				"events": [
+					"Born in wealthy family",
+					"Studied at Yale University",
+					"Married to Sara Sherman Wiborg"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1934,
+				"happiness": 7,
+				"location": "Antibes, France",
+				"events": [
+					"Started painting",
+					"Was part of the American expatriate community in France"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1964,
+				"happiness": 4,
+				"location": "New York, USA",
+				"events": [
+					"Returned to USA due to family financial problems",
+					"Sons died during this period"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Precisionism"
+		]
+	}
+]

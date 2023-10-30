@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Paul Brach",
+		"keywords": [
+			"abstract",
+			"expressive",
+			"landscape",
+			"emotion",
+			"modernity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1924,
+				"end": 2007,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Co-founder of California Institute of the Art",
+					"Dean of the School of Art at California Institute of the Art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Landscape Painting"
+		]
+	}
+]

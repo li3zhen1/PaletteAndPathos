@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Thomas Hart Benton",
+		"keywords": [
+			"American history",
+			"rural life",
+			"folklore",
+			"social commentary",
+			"murals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1907,
+				"happiness": 7,
+				"location": "Neosho, Missouri",
+				"events": [
+					"Born into a political family"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1911,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"art study at Corcoran School of Art",
+					"moved to Paris to study at the Academy Julian"
+				]
+			},
+			{
+				"start": 1912,
+				"end": 1917,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"worked as a newspaper illustrator"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1919,
+				"happiness": 3,
+				"location": "US Navy",
+				"events": [
+					"served in U.S. Navy during World War I",
+					"officially commissioned to create war-themed art"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1935,
+				"happiness": 8,
+				"location": "New York City, USA",
+				"events": [
+					"rising recognition as a painter"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1975,
+				"happiness": 7,
+				"location": "Kansas City, Missouri",
+				"events": [
+					"produced significant work",
+					"taught at Kansas City Art Institute",
+					"worked on mural projects"
+				]
+			}
+		],
+		"genre": [
+			"Regionalist",
+			"Murals",
+			"Portraiture"
+		]
+	}
+]

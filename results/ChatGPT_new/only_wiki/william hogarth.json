@@ -1,0 +1,83 @@
+[
+	{
+		"name": "William Hogarth",
+		"keywords": [
+			"social criticism",
+			"morality",
+			"urban life",
+			"satire",
+			"drama"
+		],
+		"lifePeriods": [
+			{
+				"start": 1697,
+				"end": 1713,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Raised in a lower-middle-class family"
+				]
+			},
+			{
+				"start": 1714,
+				"end": 1720,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Apprenticed to the engraver Ellis Gamble"
+				]
+			},
+			{
+				"start": 1720,
+				"end": 1729,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"In 1729, married Jane Thornhill, daughter of artist Sir James Thornhill"
+				]
+			},
+			{
+				"start": 1730,
+				"end": 1764,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Developed a career as a portrait painter",
+					"Created a series of moral and satiric artworks"
+				]
+			},
+			{
+				"start": 1765,
+				"end": 1765,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"Suffered a nervous breakdown"
+				]
+			},
+			{
+				"start": 1766,
+				"end": 1768,
+				"happiness": 4,
+				"location": "London, England",
+				"events": [
+					"Produced few new works due to declining health"
+				]
+			},
+			{
+				"start": 1769,
+				"end": 1769,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"Died on October 26, 1769"
+				]
+			}
+		],
+		"genre": [
+			"portrait painting",
+			"engraving",
+			"history painting"
+		]
+	}
+]

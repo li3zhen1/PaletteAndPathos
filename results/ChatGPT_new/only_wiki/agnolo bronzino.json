@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Agnolo Bronzino",
+		"keywords": [
+			"religion",
+			"Mannerism",
+			"portraiture",
+			"nobility",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1503,
+				"end": 1520,
+				"happiness": 5,
+				"location": "Florence",
+				"events": [
+					"Started his artistic training under Raffaellino del Garbo"
+				]
+			},
+			{
+				"start": 1520,
+				"end": 1530,
+				"happiness": 4,
+				"location": "Florence",
+				"events": [
+					"Studied under Jacopo Pontormo",
+					"Painted his earliest known works",
+					"Witnessed the Siege of Florence"
+				]
+			},
+			{
+				"start": 1530,
+				"end": 1550,
+				"happiness": 7,
+				"location": "Florence",
+				"events": [
+					"Became the court painter for Duke Cosimo I de' Medici",
+					"Painted some of his most celebrated portraits"
+				]
+			},
+			{
+				"start": 1550,
+				"end": 1572,
+				"happiness": 6,
+				"location": "Florence",
+				"events": [
+					"Continued his work at the Medici court",
+					"Became a founding member of the Academy of Design"
+				]
+			}
+		],
+		"genre": [
+			"Mannerism",
+			"portraiture"
+		]
+	}
+]

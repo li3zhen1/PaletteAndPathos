@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Émile Bernard",
+		"keywords": [
+			"women",
+			"scenes of life",
+			"symbolism",
+			"intimacy",
+			"religious"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1884,
+				"happiness": 5,
+				"location": "Lille, France",
+				"events": [
+					"born in Lille"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1893,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"joined Atelier Cormon",
+					"met Van Gogh",
+					"developed Cloisonnism style"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Egypt",
+				"events": [
+					"travelled to Egypt",
+					"changed his painting style"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"returned to France",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism",
+			"Cloisonnism"
+		]
+	}
+]

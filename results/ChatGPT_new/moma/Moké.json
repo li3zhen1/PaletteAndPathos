@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Moké",
+		"keywords": [
+			"everyday life",
+			"Kinshasa",
+			"postcolonial",
+			"colorful",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1950,
+				"end": 2001,
+				"happiness": 4,
+				"location": "Kinshasa, Democratic Republic of the Congo",
+				"events": [
+					"known for painting in local bars and restaurants",
+					"one of the artists of the Zaire School of Popular Painting"
+				]
+			}
+		],
+		"genre": [
+			"Popular painting"
+		]
+	}
+]

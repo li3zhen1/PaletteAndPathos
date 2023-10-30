@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Henri Fantin-Latour",
+		"keywords": [
+			"still life",
+			"portraits",
+			"flowers",
+			"symphony",
+			"romanticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1874,
+				"happiness": 7,
+				"location": "Grenoble, France",
+				"events": [
+					"showed talent in drawing",
+					"met friends including Édouard Manet"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1904,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"married artist Victoria Dubourg",
+					"attended École des Beaux-Arts"
+				]
+			}
+		],
+		"genre": [
+			"Still life",
+			"Portraiture",
+			"Lithography"
+		]
+	}
+]

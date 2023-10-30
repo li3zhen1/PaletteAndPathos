@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Florine Stettheimer",
+		"keywords": [
+			"feminism",
+			"symbolism",
+			"New York City",
+			"high society",
+			"self-portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1871,
+				"end": 1881,
+				"happiness": 6,
+				"location": "Rochester, New York",
+				"events": []
+			},
+			{
+				"start": 1881,
+				"end": 1892,
+				"happiness": 7,
+				"location": "Stuttgart, Germany",
+				"events": [
+					"moved to Europe with family",
+					"studied at an academy for painting and drawing"
+				]
+			},
+			{
+				"start": 1892,
+				"end": 1898,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": []
+			},
+			{
+				"start": 1898,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": []
+			},
+			{
+				"start": 1914,
+				"end": 1932,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"part of artistic and intellectual circles"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1944,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"organized first solo exhibition",
+					"death of her mother"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Feminist Art"
+		]
+	}
+]

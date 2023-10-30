@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Amanda Williams",
+		"keywords": [
+			"architecture",
+			"urbanism",
+			"community",
+			"dialogue",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1974,
+				"end": 1991,
+				"happiness": 5,
+				"location": "Chicago",
+				"events": [
+					"developed an interest in architecture"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 1997,
+				"happiness": 5,
+				"location": "Ithaca, New York",
+				"events": [
+					"studied architecture at Cornell University"
+				]
+			},
+			{
+				"start": 1997,
+				"end": 2014,
+				"happiness": 6,
+				"location": "Chicago",
+				"events": [
+					"worked as Architecture faculty at Illinois Institute of Technology"
+				]
+			},
+			{
+				"start": 2014,
+				"end": 2015,
+				"happiness": 7,
+				"location": "Chicago",
+				"events": [
+					"created her project 'Color(ed) Theory'",
+					"garnered attention for her unique artistic approach"
+				]
+			},
+			{
+				"start": 2015,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Chicago",
+				"events": [
+					"received the Efroymson Contemporary Arts Fellowship"
+				]
+			}
+		],
+		"genre": [
+			"Installation Art",
+			"Visual Art",
+			"Public Art"
+		]
+	}
+]

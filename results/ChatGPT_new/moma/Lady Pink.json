@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Lady Pink",
+		"keywords": [
+			"graffiti",
+			"feminism",
+			"urban",
+			"street art",
+			"women rights"
+		],
+		"lifePeriods": [
+			{
+				"start": 1964,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"became involved in the graffiti scene",
+					"co-founded 'Ladies of the Arts' organization"
+				]
+			}
+		],
+		"genre": [
+			"graffiti",
+			"murals",
+			"street art"
+		]
+	}
+]

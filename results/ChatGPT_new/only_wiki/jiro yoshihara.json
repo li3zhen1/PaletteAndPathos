@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Jiro Yoshihara",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"monochrome",
+			"circles"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Osaka, Japan",
+				"events": [
+					"born into a wealthy merchant family"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1952,
+				"happiness": 5,
+				"location": "Tokyo, Japan",
+				"events": [
+					"started to paint self-taught",
+					"revealed his work in independent exhibitions"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Osaka, Japan",
+				"events": [
+					"co-founded the Gutai group",
+					"promoted post-war Japanese avant-garde art"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1972,
+				"happiness": 4,
+				"location": "Tokyo, Japan",
+				"events": [
+					"died at a prime age of 67"
+				]
+			}
+		],
+		"genre": [
+			"abstract art"
+		]
+	}
+]

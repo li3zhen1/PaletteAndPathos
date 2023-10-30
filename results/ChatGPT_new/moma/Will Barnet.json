@@ -1,0 +1,60 @@
+[
+	{
+		"name": "Will Barnet",
+		"keywords": [
+			"family",
+			"women",
+			"domesticity",
+			"animals",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Beverly, Massachusetts",
+				"events": [
+					"discovered his passion for arts"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1962,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"enrolled at the School of the Museum of Fine Arts",
+					"studied at Art Students League of New York",
+					"became an active member of the New York art scene",
+					"met his wife, Elena Pinto"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"developed his own distinct style with flat forms and abstract figures",
+					"received widespread recognition for his art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2012,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"continued to create and exhibit his artworks throughout his life",
+					"received numerous awards for his contribution to art"
+				]
+			}
+		],
+		"genre": [
+			"Figurative Art",
+			"Abstract Art",
+			"Modernism"
+		]
+	}
+]

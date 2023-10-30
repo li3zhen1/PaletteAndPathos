@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Fritz Glarner",
+		"keywords": [
+			"geometry",
+			"color relations",
+			"precision",
+			"Neoplasticism",
+			"De Stijl"
+		],
+		"lifePeriods": [
+			{
+				"start": 1899,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"born in Zurich",
+					"studied at the Kunstgewerbeschule"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"met Mondrian and was influenced by his work"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1972,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"worked on his Rockefeller dining room commission",
+					"passed away in USA"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"concrete art",
+			"painting"
+		]
+	}
+]

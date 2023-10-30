@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Gheorghe Tattarescu",
+		"keywords": [
+			"religion",
+			"portraits",
+			"nature",
+			"history"
+		],
+		"lifePeriods": [
+			{
+				"start": 1818,
+				"end": 1828,
+				"happiness": 6,
+				"location": "Focsani, Romania",
+				"events": [
+					"Born to a family of craftsmen"
+				]
+			},
+			{
+				"start": 1828,
+				"end": 1830,
+				"happiness": 4,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Moved to Bucharest to be raised by uncle"
+				]
+			},
+			{
+				"start": 1830,
+				"end": 1837,
+				"happiness": 7,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Began studies at the newly founded Painting School"
+				]
+			},
+			{
+				"start": 1837,
+				"end": 1851,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Won a scholarship to study in Rome",
+					"Influenced by the Renaissance and the works of Raphael during his studies"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1853,
+				"happiness": 7,
+				"location": "Istanbul, Turkey",
+				"events": [
+					"Commissioned to paint the Patriarchate's church"
+				]
+			},
+			{
+				"start": 1853,
+				"end": 1864,
+				"happiness": 8,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Founded a private painting school",
+					"commissioned for mural paintings at a number of churches"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1894,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Though he continued to paint, he lost his popularity to newer, more modern styles",
+					"Died in 1894"
+				]
+			}
+		],
+		"genre": [
+			"Religious painting",
+			"Neoclassicism",
+			"Portraiture"
+		]
+	}
+]

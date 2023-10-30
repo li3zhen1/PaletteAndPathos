@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Georges Seurat",
+		"keywords": [
+			"pointillism",
+			"contrast",
+			"Parisian life",
+			"leisure",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1859,
+				"end": 1875,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Studied at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1876,
+				"end": 1883,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Experimented with color theory",
+					"Started developing pointillism"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1886,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Displayed 'A Sunday Afternoon on the Island of La Grande Jatte'"
+				]
+			},
+			{
+				"start": 1887,
+				"end": 1889,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Continued refining his pointillist technique"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1891,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Contracted and died of diphtheria"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Neo-impressionism",
+			"Pointillism"
+		]
+	}
+]

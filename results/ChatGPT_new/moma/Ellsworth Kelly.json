@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Ellsworth Kelly",
+		"keywords": [
+			"abstract",
+			"color fields",
+			"simplicity",
+			"form",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1943,
+				"happiness": 5,
+				"location": "Newburgh, New York",
+				"events": [
+					"developed interest in bird watching and nature",
+					"graduated from Pratt Institute"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1945,
+				"happiness": 3,
+				"location": "various U.S. locations and Europe",
+				"events": [
+					"served in the U.S. Army during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"studied at the School of the Museum of Fine Arts",
+					"developed his unique style of painting"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 2015,
+				"happiness": 8,
+				"location": "New York City, New York",
+				"events": [
+					"gained recognition in the New York art scene",
+					"established himself as a notable abstract artist"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"minimalism",
+			"hard-edge painting"
+		]
+	}
+]

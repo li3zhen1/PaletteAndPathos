@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Louis Schanker",
+		"keywords": [
+			"Urban Life",
+			"Abstraction",
+			"Cubism",
+			"Nature",
+			"Symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1903,
+				"end": 1936,
+				"happiness": 4,
+				"location": "Poughkeepsie, United States",
+				"events": [
+					"Worked on farms",
+					"Early career in theatre"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1945,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Became member of the Federal Art Project",
+					"Taught at the New School for Social Research"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1981,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Exhibited widely",
+					"Prominent figure in abstract art"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Cubism",
+			"Printmaking"
+		]
+	}
+]

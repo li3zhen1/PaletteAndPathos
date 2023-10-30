@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Jacopo Bellini",
+		"keywords": [
+			"Religion",
+			"Portraits",
+			"Madonna",
+			"Saints"
+		],
+		"lifePeriods": [
+			{
+				"start": 1396,
+				"end": 1470,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"Studied under Gentile da Fabriano",
+					"Became teacher to his sons Gentile and Giovanni"
+				]
+			}
+		],
+		"genre": [
+			"Italian Renaissance",
+			"Christian Art",
+			"Early renaissance"
+		]
+	}
+]

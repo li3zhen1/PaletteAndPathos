@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Julio Gonzalez",
+		"keywords": [
+			"sculpture",
+			"welding",
+			"human",
+			"abstract",
+			"cubism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1876,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Barcelona",
+				"events": [
+					"trained as a metal smith",
+					"Opened his own jewelry workshop"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1932,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"worked as a metal worker",
+					"learned sculpting",
+					"collaborated with Picasso"
+				]
+			},
+			{
+				"start": 1932,
+				"end": 1942,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"Started creating sculptors using welding",
+					"his work turned increasingly towards abstraction"
+				]
+			}
+		],
+		"genre": [
+			"sculpture",
+			"welded art",
+			"cubism"
+		]
+	}
+]

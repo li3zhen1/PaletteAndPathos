@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Philip Guston",
+		"keywords": [
+			"Social realism",
+			"Abstraction",
+			"Satirical",
+			"Cartoony",
+			"Abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1913,
+				"end": 1923,
+				"happiness": 3,
+				"location": "Montreal, Canada",
+				"events": [
+					"Born into a Russian-Jewish family",
+					"Emigrated to Los Angeles, USA"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1935,
+				"happiness": 3,
+				"location": "Los Angeles, USA",
+				"events": [
+					"Father committed suicide",
+					"Started to paint"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Mexico",
+				"events": [
+					"Got married",
+					"Began mural phase as a painter"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1947,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Became increasingly involved with the Abstract Expressionist movement"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1967,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Made a notable shift from figuration to abstract art"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1980,
+				"happiness": 5,
+				"location": "Woodstock, USA",
+				"events": [
+					"Shifted back to figuration",
+					"Created satirical and cartoonish works"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Social realism",
+			"Figurative art"
+		]
+	}
+]

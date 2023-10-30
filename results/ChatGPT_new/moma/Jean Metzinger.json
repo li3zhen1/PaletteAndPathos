@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Jean Metzinger",
+		"keywords": [
+			"Cubism",
+			"abstract",
+			"nature",
+			"figurative",
+			"theory"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at Académie des Beaux-Arts",
+					"Began painting professionally"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1920,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Co-authored the first theoretical essay on Cubism",
+					"Exhibited at Salon des Indépendants"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became part of the neo-humanist movement",
+					"Worked on La Femme au Cheval"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Worked on numerous landscape and figurative works",
+					"Survived through World War II"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1956,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"His health deteriorated",
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Neo-impressionism",
+			"Divisionism",
+			"Fauvism"
+		]
+	}
+]

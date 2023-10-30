@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Édouard Vuillard",
+		"keywords": [
+			"comfort",
+			"domesticity",
+			"impressionism",
+			"interiors",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1890,
+				"happiness": 5,
+				"location": "Cuiseaux, France",
+				"events": [
+					"Early education and introduction to art"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1900,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Co-founder of the Nabis group",
+					"Began painting domestic scenes"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Experienced success as a portrait painter",
+					"Continued to work within domestic settings"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"The outbreak of World War I"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1940,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Post-war success",
+					"Received numerous commissions"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1940,
+				"happiness": 3,
+				"location": "La Baule, France",
+				"events": [
+					"Death"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Symbolism",
+			"Domestic scenes"
+		]
+	}
+]

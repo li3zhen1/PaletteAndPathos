@@ -1,0 +1,49 @@
+[
+	{
+		"name": "André Derain",
+		"keywords": [
+			"Fauvism",
+			"landscape",
+			"portraits",
+			"raw color",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Chatou, France",
+				"events": [
+					"Took painting classes",
+					"Started working in his father's firm"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Joined the army during World War I",
+					"Met prominent artists such as Pablo Picasso and Henri Matisse"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Chatou, France",
+				"events": [
+					"Developed his own style influenced by Renaissance art",
+					"His work was declared degenerate by the Nazis"
+				]
+			}
+		],
+		"genre": [
+			"Fauvism",
+			"Modernism",
+			"Neo-Classicism"
+		]
+	}
+]

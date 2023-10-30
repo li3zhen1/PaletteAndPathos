@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Robert Moskowitz",
+		"keywords": [
+			"abstract",
+			"urban",
+			"stylized",
+			"architecture",
+			"minimalist"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Brooklyn, New York",
+				"events": [
+					"Awarded Guggenheim Fellowship in 1967",
+					"His artwork was exhibited at the Whitney Museum in 1989"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Minimalism"
+		]
+	}
+]

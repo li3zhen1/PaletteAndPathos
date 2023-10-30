@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Joseph Pickett",
+		"keywords": [
+			"rural",
+			"landscapes",
+			"old-fashioned",
+			"village scenes",
+			"nostalgia"
+		],
+		"lifePeriods": [
+			{
+				"start": 1848,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Manchester, New Jersey",
+				"events": [
+					"worked as a carpenter and shopkeeper",
+					"began painting later in life"
+				]
+			}
+		],
+		"genre": [
+			"Naive art",
+			"Landscape painting"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Pietro da Cortona",
+		"keywords": [
+			"mythology",
+			"religion",
+			"architecture",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1596,
+				"end": 1612,
+				"happiness": 5,
+				"location": "Cortona, Italy",
+				"events": [
+					"was born",
+					"began artistic training"
+				]
+			},
+			{
+				"start": 1612,
+				"end": 1621,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"learned under Andrea Commodi",
+					"helped build facade of Santa Maria della Pace"
+				]
+			},
+			{
+				"start": 1621,
+				"end": 1629,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"fame increased",
+					"commissioned work for Pope Urban VIII"
+				]
+			},
+			{
+				"start": 1629,
+				"end": 1679,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"completed his masterwork 'Allegory of Divine Providence and Barberini Power'",
+					"deployed Baroque architecture extensively"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"Historical painting"
+		]
+	}
+]

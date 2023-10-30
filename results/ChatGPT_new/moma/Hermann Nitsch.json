@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Hermann Nitsch",
+		"keywords": [
+			"ritual",
+			"performance",
+			"music",
+			"expressionism",
+			"theatre"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1957,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"born in Vienna"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"joined Vienna University of Applied Arts",
+					"began creating 'Orgien Mysterien Theater'"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1980,
+				"happiness": 4,
+				"location": "Vienna, Austria",
+				"events": [
+					"arrested for blasphemy",
+					"continue developing 'Orgien Mysterien Theater'"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2004,
+				"happiness": 6,
+				"location": "Prinzendorf, Austria",
+				"events": [
+					"held multi-day theater event at his castle in Prinzendorf"
+				]
+			},
+			{
+				"start": 2004,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Prinzendorf, Austria",
+				"events": [
+					"received numerous awards and recognition"
+				]
+			}
+		],
+		"genre": [
+			"performance art",
+			"abstract expressionism",
+			"action painting"
+		]
+	}
+]

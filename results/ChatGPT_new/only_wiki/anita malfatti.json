@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Anita Malfatti",
+		"keywords": [
+			"modernism",
+			"expressionism",
+			"cubism",
+			"color",
+			"human form"
+		],
+		"lifePeriods": [
+			{
+				"start": 1889,
+				"end": 1910,
+				"happiness": 3,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"born with physical deformity"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Europe, USA",
+				"events": [
+					"Studied fine art in Europe and USA"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1917,
+				"happiness": 7,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Held controversial solo exhibition, inaugurating modernism in Brazil"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1922,
+				"happiness": 5,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Participated in Modern Art Week in São Paulo"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1964,
+				"happiness": 6,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Worked primarily as a teacher and portrait painter",
+					"Co-founded the Modern Art Society"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1966,
+				"happiness": 4,
+				"location": "São Paulo, Brazil",
+				"events": [
+					"Health deteroriated"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Expressionism",
+			"Cubism"
+		]
+	}
+]

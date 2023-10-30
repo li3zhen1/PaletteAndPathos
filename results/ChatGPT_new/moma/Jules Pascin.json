@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Jules Pascin",
+		"keywords": [
+			"women",
+			"eroticism",
+			"modernism",
+			"impressionism",
+			"portraiture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1885,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Vidin, Bulgaria",
+				"events": [
+					"Born to a Spanish Sephardic Jewish father and a Serbian Italian mother"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied painting",
+					"Became associated with the circle of modernist artists at the Cafe du Dome"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1920,
+				"happiness": 5,
+				"location": "USA",
+				"events": [
+					"Fled to America due to the outbreak of World War I",
+					"Became a US citizen"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1930,
+				"happiness": 4,
+				"location": "Montparnasse, Paris",
+				"events": [
+					"Returned to Paris",
+					"Struggled with depression and alcoholism"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Impressionism",
+			"Post-Impressionism"
+		]
+	}
+]

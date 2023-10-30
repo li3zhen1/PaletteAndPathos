@@ -1,0 +1,28 @@
+[
+	{
+		"name": "László Mednyánszky",
+		"keywords": [
+			"landscapes",
+			"portraits",
+			"wars",
+			"social realism",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1852,
+				"end": 1905,
+				"happiness": 6,
+				"location": "Hungary",
+				"events": [
+					"Suffered from financial difficulties",
+					"Worked in Italy and France"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"impressionism"
+		]
+	}
+]

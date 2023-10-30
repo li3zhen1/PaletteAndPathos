@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Barbara Rossi",
+		"keywords": [
+			"surrealism",
+			"figurative",
+			"feminism",
+			"identity",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Chicago, US",
+				"events": [
+					"born",
+					"started interest in art"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1969,
+				"happiness": 7,
+				"location": "Chicago, US",
+				"events": [
+					"studied at the School of the Art Institute",
+					"began experimenting with art forms"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Chicago, US",
+				"events": [
+					"recognized as a leading figure of the Chicago Imagists",
+					"held various solo exhibitions"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2000,
+				"happiness": 8,
+				"location": "Chicago, US",
+				"events": [
+					"became an instructor at the School of the Art Institute",
+					"continued creating art"
+				]
+			},
+			{
+				"start": 2001,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Chicago, US",
+				"events": [
+					"continued teaching and creating art",
+					"participated in several group exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Pop Art"
+		]
+	}
+]

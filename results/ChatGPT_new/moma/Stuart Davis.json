@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Stuart Davis",
+		"keywords": [
+			"urban life",
+			"consumer culture",
+			"jazz music",
+			"modernism",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1892,
+				"end": 1909,
+				"happiness": 6,
+				"location": "Philadelphia",
+				"events": [
+					"born into an artistic family",
+					"started art education in Robert Henri's art school"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1928,
+				"happiness": 5,
+				"location": "New York City",
+				"events": [
+					"influenced by European modernism",
+					"joined the 'Ashcan School' of painters"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1934,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"transitioned to abstract work after his Paris stay"
+				]
+			},
+			{
+				"start": 1934,
+				"end": 1964,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"became politically active",
+					"produced mature works"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Cubism"
+		]
+	}
+]

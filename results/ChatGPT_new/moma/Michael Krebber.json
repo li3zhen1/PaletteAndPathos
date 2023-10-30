@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Michael Krebber",
+		"keywords": [
+			"abstract",
+			"conceptual",
+			"critical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1954,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Cologne, Germany",
+				"events": [
+					"studied under Gerhard Richter",
+					"taught at Städelschule"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"abstract painting"
+		]
+	}
+]

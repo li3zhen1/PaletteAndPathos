@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Maerten van Heemskerck",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraits",
+			"landscapes",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1498,
+				"end": 1527,
+				"happiness": 5,
+				"location": "Heemskerk, Netherlands",
+				"events": [
+					"studied in Haarlem",
+					"studied under Jan van Scorel"
+				]
+			},
+			{
+				"start": 1527,
+				"end": 1529,
+				"happiness": 7,
+				"location": "Italy",
+				"events": [
+					"learned Italian Renaissance styles",
+					"fascinated by ruins of Rome"
+				]
+			},
+			{
+				"start": 1529,
+				"end": 1574,
+				"happiness": 6,
+				"location": "Haarlem, Netherlands",
+				"events": [
+					"became a leading painter",
+					"produced works for St. Bavochurch"
+				]
+			}
+		],
+		"genre": [
+			"Christian art",
+			"Portrait art",
+			"Northern Renaissance"
+		]
+	}
+]

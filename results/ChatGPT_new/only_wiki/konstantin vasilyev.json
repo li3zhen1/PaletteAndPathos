@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Konstantin Vasilyev",
+		"keywords": [
+			"mythology",
+			"medieval",
+			"warriors",
+			"nature",
+			"folklore"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 1976,
+				"happiness": 6,
+				"location": "Kamyshin, Russia",
+				"events": [
+					"born in wartime",
+					"began drawing at a young age"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1962,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Moscow Art School"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Ulan-Ude, Russia",
+				"events": [
+					"served in the Soviet Army"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"created a series of works based on Russian epic heroes",
+					"died unexpectedly at the age of 34"
+				]
+			}
+		],
+		"genre": [
+			"Fantasy",
+			"Romanticism",
+			"Symbolism"
+		]
+	}
+]

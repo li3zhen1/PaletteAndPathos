@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Alan Davie",
+		"keywords": [
+			"abstract expressionism",
+			"symbolism",
+			"mysticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1938,
+				"happiness": 7,
+				"location": "Grangemouth, Scotland",
+				"events": [
+					"Discovered his interest in drawing and painting"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1946,
+				"happiness": 5,
+				"location": "London",
+				"events": [
+					"Studied at Edinburgh College of Art",
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 8,
+				"location": "Venice",
+				"events": [
+					"Exposed to the works of other prominent artists",
+					"Performed as a jazz musician"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1985,
+				"happiness": 9,
+				"location": "England",
+				"events": [
+					"Built an international reputation",
+					"Exhibited his artworks worldwide"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2014,
+				"happiness": 7,
+				"location": "Hertfordshire, England",
+				"events": [
+					"Continued to paint",
+					"Died aged 93"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism"
+		]
+	}
+]

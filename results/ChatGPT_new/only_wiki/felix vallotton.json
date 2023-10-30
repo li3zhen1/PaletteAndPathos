@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Felix Vallotton",
+		"keywords": [
+			"love",
+			"social criticism",
+			"domestic scenes",
+			"landscapes",
+			"war"
+		],
+		"lifePeriods": [
+			{
+				"start": 1865,
+				"end": 1882,
+				"happiness": 7,
+				"location": "Lausanne, Switzerland",
+				"events": [
+					"developed interest in art",
+					"began painting at a young age"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1893,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"joined the Academy of Julian",
+					"became associated with Les Nabis"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1901,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"married Gabrielle Rodrigues-Henriques",
+					"became a naturalized French citizen"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1916,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"transitioned to realism",
+					"explored landscape painting"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1925,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"affected by World War I",
+					"died after cancer operation"
+				]
+			}
+		],
+		"genre": [
+			"printmaker",
+			"painter"
+		]
+	}
+]

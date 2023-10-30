@@ -1,0 +1,73 @@
+[
+	{
+		"name": "George Tooker",
+		"keywords": [
+			"social issues",
+			"human disconnect",
+			"isolation",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1938,
+				"happiness": 6,
+				"location": "Brooklyn, New York, United States",
+				"events": [
+					"born into an affluent family"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1942,
+				"happiness": 5,
+				"location": "Connecticut, United States",
+				"events": [
+					"attended Phillips Academy"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1946,
+				"happiness": 3,
+				"location": "United States",
+				"events": [
+					"served in the Marine Corps during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1948,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1950,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"study at the American Academy in Rome",
+					"met Paul Cadmus"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 2011,
+				"happiness": 5,
+				"location": "Hartland, Vermont, United States",
+				"events": [
+					"created his best-known works",
+					"received National Medal of Arts"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Magic Realism"
+		]
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Richard Gerstl",
+		"keywords": [
+			"portraits",
+			"landscape",
+			"introspection",
+			"horror",
+			"isolation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1883,
+				"end": 1908,
+				"happiness": 2,
+				"location": "Vienna, Austria",
+				"events": [
+					"started studying at Academy of Fine Arts in Vienna at age of 15",
+					"had a love affair with Mathilde Schoenberg"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Pre-Expressionism"
+		]
+	}
+]

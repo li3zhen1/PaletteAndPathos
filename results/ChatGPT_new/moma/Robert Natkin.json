@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Robert Natkin",
+		"keywords": [
+			"abstract",
+			"color",
+			"texture",
+			"expressionism",
+			"complexity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1930,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Chicago",
+				"events": [
+					"born into a poor family",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1954,
+				"happiness": 5,
+				"location": "Chicago",
+				"events": [
+					"attended the School of the Art Institute of Chicago"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 2005,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"got married",
+					"rose to prominence in the art world"
+				]
+			},
+			{
+				"start": 2005,
+				"end": 2010,
+				"happiness": 5,
+				"location": "Danbury",
+				"events": [
+					"dealt with declining health"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Color Field"
+		]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Arturo Souto",
+		"keywords": [
+			"war",
+			"poverty",
+			"social realism",
+			"portraits",
+			"still lifes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1936,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"graduated from Real Academia de Bellas Artes de San Fernando"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1938,
+				"happiness": 3,
+				"location": "Valencia, Spain",
+				"events": [
+					"Spanish Civil War broke out",
+					"appointed Director of the Museum of Modern Art"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1964,
+				"happiness": 4,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"exiled due to Spanish Civil War",
+					"continued to paint and teach"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"Still Life",
+			"Portrait"
+		]
+	}
+]

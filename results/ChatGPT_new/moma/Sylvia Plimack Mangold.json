@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Sylvia Plimack Mangold",
+		"keywords": [
+			"nature",
+			"scale",
+			"distortion",
+			"mirrors",
+			"trees"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 1956,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Born to Russian Jewish immigrants",
+					"Began to show interest in arts"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1961,
+				"happiness": 8,
+				"location": "New Haven, Connecticut",
+				"events": [
+					"Studied at Yale School of Art and Architecture",
+					"Met her future husband, Robert Mangold"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1974,
+				"happiness": 6,
+				"location": "New York City",
+				"events": [
+					"Married Robert Mangold",
+					"Gave birth to two children"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 2000,
+				"happiness": 5,
+				"location": "Washingtonville, New York",
+				"events": [
+					"Moved to a former dairy farm",
+					"Focused on landscape painting"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Washingtonville, New York",
+				"events": [
+					"Continued painting and creating art"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Realism"
+		]
+	}
+]

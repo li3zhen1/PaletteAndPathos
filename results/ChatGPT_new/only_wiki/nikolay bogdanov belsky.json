@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Nikolay Bogdanov-Belsky",
+		"keywords": [
+			"rural life",
+			"children",
+			"peasantry",
+			"school",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1868,
+				"end": 1895,
+				"happiness": 5,
+				"location": "Smolensk, Russia",
+				"events": [
+					"Studied in Moscow School of Painting, Sculpture and Architecture",
+					"Met his mentor, the realist painter Vasily Polenov"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1918,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Became a member of the Russian art group 'Peredvizhniki'",
+					"Produced some of his most notable works"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"Moved to Berlin after the October revolution",
+					"Continued to paint despite the political unrest"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"portrait"
+		]
+	}
+]

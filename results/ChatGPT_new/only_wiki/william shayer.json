@@ -1,0 +1,29 @@
+[
+	{
+		"name": "William Shayer",
+		"keywords": [
+			"nature",
+			"rural life",
+			"animals",
+			"carriages",
+			"marine settings"
+		],
+		"lifePeriods": [
+			{
+				"start": 1787,
+				"end": 1851,
+				"happiness": 5,
+				"location": "Southampton, England",
+				"events": [
+					"started painting at young age",
+					"exhibited work at the Royal Academy"
+				]
+			}
+		],
+		"genre": [
+			"landscape",
+			"figure",
+			"horse painting"
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Domenico Veneziano",
+		"keywords": [
+			"portraits",
+			"religious",
+			"frescoes",
+			"innovation",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1410,
+				"end": 1461,
+				"happiness": 5,
+				"location": "Venice, Italy",
+				"events": [
+					"learned to paint",
+					"started his artistic career"
+				]
+			},
+			{
+				"start": 1438,
+				"end": 1445,
+				"happiness": 7,
+				"location": "Florence, Italy",
+				"events": [
+					"painted 'St. John in the Desert'",
+					"worked on the frescoes in Santa Maria Nuova"
+				]
+			},
+			{
+				"start": 1445,
+				"end": 1450,
+				"happiness": 6,
+				"location": "Perugia, Italy",
+				"events": [
+					"painted Madonna and Child"
+				]
+			},
+			{
+				"start": 1450,
+				"end": 1461,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"painted Altarpiece of Santa Lucia de' Magnoli"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance painting",
+			"Portraiture",
+			"Religious Art"
+		]
+	}
+]

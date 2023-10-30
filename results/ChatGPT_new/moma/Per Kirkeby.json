@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Per Kirkeby",
+		"keywords": [
+			"nature",
+			"abstract expressionism",
+			"bricks"
+		],
+		"lifePeriods": [
+			{
+				"start": 1938,
+				"end": 2018,
+				"happiness": 7,
+				"location": "Copenhagen",
+				"events": [
+					"Attended the University of Copenhagen",
+					"became a member of the Experimental Art School in Denmark"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"neo-expressionism"
+		]
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Mary Corse",
+		"keywords": [
+			"minimalist",
+			"geometric",
+			"subtle variation",
+			"light",
+			"perception"
+		],
+		"lifePeriods": [
+			{
+				"start": 1945,
+				"end": 1968,
+				"happiness": 5,
+				"location": "Berkeley, California",
+				"events": [
+					"enrolled at University of California, Berkeley"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Los Angeles, California",
+				"events": [
+					"extended her practice outside the studio",
+					"began to incorporate light into her works"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Topanga, California",
+				"events": [
+					"received international recognition and acclaim"
+				]
+			}
+		],
+		"genre": [
+			"minimalism",
+			"light and space"
+		]
+	}
+]

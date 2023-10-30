@@ -1,0 +1,55 @@
+[
+	{
+		"name": "Dan Flavin",
+		"keywords": [
+			"light",
+			"minimalism",
+			"geometric",
+			"fluorescent"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1952,
+				"happiness": 6,
+				"location": "New York",
+				"events": [
+					"born and raised in New York"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Korea",
+				"events": [
+					"served in the United States Air Force"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1996,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"met his wife Sonja",
+					"started working with fluorescent light"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 1996,
+				"happiness": 2,
+				"location": "Riverhead, New York",
+				"events": [
+					"died of complications from diabetes"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Sculpture",
+			"Installation art"
+		]
+	}
+]

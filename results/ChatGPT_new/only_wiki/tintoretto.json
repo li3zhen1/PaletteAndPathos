@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Tintoretto",
+		"keywords": [
+			"religion",
+			"mythology",
+			"portraiture",
+			"light"
+		],
+		"lifePeriods": [
+			{
+				"start": 1518,
+				"end": 1540,
+				"happiness": 5,
+				"location": "Venice",
+				"events": [
+					"trained in Titian's studio"
+				]
+			},
+			{
+				"start": 1540,
+				"end": 1576,
+				"happiness": 7,
+				"location": "Venice",
+				"events": [
+					"established his own workshop",
+					"composed 'The Miracle of the Slave'"
+				]
+			},
+			{
+				"start": 1576,
+				"end": 1594,
+				"happiness": 6,
+				"location": "Venice",
+				"events": [
+					"created 'The Last Supper'",
+					"death of close friend Paolo Veronese"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Mannerism"
+		]
+	}
+]

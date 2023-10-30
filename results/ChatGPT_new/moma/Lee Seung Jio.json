@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Lee Seung Jio",
+		"keywords": [
+			"geometric",
+			"abstract",
+			"structure",
+			"form",
+			"rhythm"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1990,
+				"happiness": 6,
+				"location": "Gyeongju",
+				"events": [
+					"Joined the Origin Group",
+					"Established his Nucleus series"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Modern art"
+		]
+	}
+]

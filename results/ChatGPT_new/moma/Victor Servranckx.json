@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Victor Servranckx",
+		"keywords": [
+			"abstract",
+			"geometric",
+			"industrial",
+			"construction",
+			"shape"
+		],
+		"lifePeriods": [
+			{
+				"start": 1897,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Diegem, Belgium",
+				"events": [
+					"Began his art studies at the Académie Royale des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1923,
+				"happiness": 8,
+				"location": "Brussels, Belgium",
+				"events": [
+					"developed his own form of pure abstract, geometric art",
+					"met René Magritte"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Started working as an interior designer",
+					"Started painting in a more naturalistic style"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Brussels, Belgium",
+				"events": [
+					"Had to alter his style during World War II due to scarcity of painting materials",
+					"Retired"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"modernism"
+		]
+	}
+]

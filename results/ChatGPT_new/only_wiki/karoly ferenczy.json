@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Károly Ferenczy",
+		"keywords": [
+			"landscape",
+			"realism",
+			"impressionism",
+			"nude",
+			"figure"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1869,
+				"happiness": 7,
+				"location": "Vienna",
+				"events": [
+					"Born and spent early childhood"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1881,
+				"happiness": 6,
+				"location": "Szentendre, Hungary",
+				"events": [
+					"Attended primary school"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1884,
+				"happiness": 5,
+				"location": "Munich",
+				"events": [
+					"Studied painting at the Munich Academy"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1889,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"Studied at Académie Julian",
+					"Influenced by mpressionism and the Barbizon school artists"
+				]
+			},
+			{
+				"start": 1889,
+				"end": 1917,
+				"happiness": 7,
+				"location": "Budapest",
+				"events": [
+					"Became teacher at the School of Design",
+					"Became founding member of the Nagybánya artists' colony"
+				]
+			},
+			{
+				"start": 1917,
+				"end": 1917,
+				"happiness": 3,
+				"location": "Budapest",
+				"events": [
+					"Died at age of 55"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Symbolism",
+			"plein air"
+		]
+	}
+]

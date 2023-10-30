@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Salvatore Fiume",
+		"keywords": [
+			"mythology",
+			"architecture",
+			"human figure",
+			"landscapes",
+			"ancient civilizations"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 1928,
+				"happiness": 5,
+				"location": "Comiso, Italy",
+				"events": [
+					"born to a family of artisans and craftsmen"
+				]
+			},
+			{
+				"start": 1928,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Milan, Italy",
+				"events": [
+					"enrolled in an engineering course, but didn't complete it",
+					"worked as a cartoonist and journalist"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Milan, Italy",
+				"events": [
+					"launch of his artistic career"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1997,
+				"happiness": 8,
+				"location": "Milan, Italy",
+				"events": [
+					"became a well-known sculptor, architect, and set designer",
+					"his works exhibited in various major cities"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Neo-Classicist"
+		]
+	}
+]

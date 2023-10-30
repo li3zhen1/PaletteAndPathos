@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Sarah Grilo",
+		"keywords": [
+			"abstraction",
+			"urban",
+			"geometry",
+			"movement",
+			"colors"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 2007,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"started as a self-taught artist",
+					"joined the Madí Movement"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 2007,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"worked in her own studio",
+					"represented Argentina in the Venice Biennale"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2007,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"her work was increasingly recognized internationally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Geometric abstraction",
+			"Lyrical Abstraction"
+		]
+	}
+]

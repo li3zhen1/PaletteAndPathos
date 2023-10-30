@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Leon Polk Smith",
+		"keywords": [
+			"abstraction",
+			"geometric shapes",
+			"color fields",
+			"contrast",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1906,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Chickasha, Oklahoma",
+				"events": [
+					"born in a semi-nomadic family"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1934,
+				"happiness": 5,
+				"location": "Oklahoma",
+				"events": []
+			},
+			{
+				"start": 1934,
+				"end": 1941,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"earned a degree from Teachers College of Columbia University",
+					"was influenced by European modernist art"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1954,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"developed a unique style of geometric abstraction"
+				]
+			},
+			{
+				"start": 1954,
+				"end": 1996,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"became an important figure in the hard-edge painting movement",
+					"continued his art career with numerous exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Hard-Edge Painting",
+			"Geometric abstraction"
+		]
+	}
+]

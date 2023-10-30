@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Jean Dubuffet",
+		"keywords": [
+			"raw art",
+			"outsider art",
+			"surrealism",
+			"expressionism",
+			"urban life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1901,
+				"end": 1933,
+				"happiness": 5,
+				"location": "Le Havre, France",
+				"events": [
+					"worked in his family's wine business",
+					"attended art classes in Paris"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1942,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"his art career was interrupted due to WWII",
+					"was in the military during war"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"started his art collection 'Art Brut'",
+					"became a leading figure in the art world"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1985,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"continued to create influential artworks",
+					"suffered from illness in later years"
+				]
+			}
+		],
+		"genre": [
+			"Modern Art",
+			"Outsider Art",
+			"Surrealism"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Marianne North",
+		"keywords": [
+			"botanical",
+			"nature",
+			"travel",
+			"exotic plants",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1830,
+				"end": 1855,
+				"happiness": 5,
+				"location": "Hastings, United Kingdom",
+				"events": [
+					"was born",
+					"developed interest in nature and drawing"
+				]
+			},
+			{
+				"start": 1855,
+				"end": 1869,
+				"happiness": 4,
+				"location": "Hastings, United Kingdom",
+				"events": [
+					"death of her mother",
+					"travels with father"
+				]
+			},
+			{
+				"start": 1869,
+				"end": 1884,
+				"happiness": 7,
+				"location": "Various locations worldwide",
+				"events": [
+					"death of her father",
+					"began extensive travels and painting"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Kew, United Kingdom",
+				"events": [
+					"North gallery opened at Kew Gardens"
+				]
+			}
+		],
+		"genre": [
+			"Naturalist Painting",
+			"Botanical Illustration",
+			"Landscape Art"
+		]
+	}
+]

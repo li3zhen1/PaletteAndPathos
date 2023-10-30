@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Cecilia Vicuña",
+		"keywords": [
+			"social activism",
+			"indigenous culture",
+			"symbolism",
+			"feminism",
+			"ecology"
+		],
+		"lifePeriods": [
+			{
+				"start": 1948,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Santiago, Chile",
+				"events": [
+					"born and raised",
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1973,
+				"happiness": 6,
+				"location": "Santiago, Chile",
+				"events": [
+					"studied fine arts at the University of Chile in Santiago",
+					"started creating precarios"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 1981,
+				"happiness": 5,
+				"location": "London, United Kingdom",
+				"events": [
+					"fled Chile due to military coup",
+					"studied at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 1990,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"began to be recognized in the art scene"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2010,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"continued her work on art and activism"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"continued her work on art and activism",
+					"received recognition for her contributions"
+				]
+			}
+		],
+		"genre": [
+			"Visual Art",
+			"Installation Art",
+			"Performance Art"
+		]
+	}
+]

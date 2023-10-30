@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Ogata Gekko",
+		"keywords": [
+			"samurai",
+			"history",
+			"japanese culture",
+			"landscapes",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1859,
+				"end": 1920,
+				"happiness": 4,
+				"location": "Edo, Japan",
+				"events": [
+					"Established himself as a professional artist",
+					"experienced the transition from Edo period to Meiji Restoration"
+				]
+			}
+		],
+		"genre": [
+			"Ukiyo-e",
+			"Nihonga"
+		]
+	}
+]

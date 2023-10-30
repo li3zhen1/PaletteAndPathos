@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Correggio",
+		"keywords": [
+			"Religion",
+			"Classicism",
+			"Mysticism",
+			"Nude",
+			"Romanticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1489,
+				"end": 1534,
+				"happiness": 5,
+				"location": "Correggio, Italy",
+				"events": [
+					"Recognized as a master of chiaroscuro",
+					"Painted 'The Assumption of the Virgin'"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Mannerism"
+		]
+	}
+]

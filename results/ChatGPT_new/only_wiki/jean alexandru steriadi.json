@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Jean Alexandru Steriadi",
+		"keywords": [
+			"landscape",
+			"marine",
+			"Portraiture",
+			"winter",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1880,
+				"end": 1899,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Born in Bucharest"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1904,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"Studied at the Royal Academy of Fine Arts in Munich"
+				]
+			},
+			{
+				"start": 1905,
+				"end": 1914,
+				"happiness": 6,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Became a teacher at the School of Belle Arte",
+					"Participated in the Official Salons"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1930,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Elected as member of the Romanian Academy",
+					"Organized personal exhibitions"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1956,
+				"happiness": 5,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Won the National Prize",
+					"Passed away in Bucharest"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism",
+			"Post-Impressionism",
+			"Realism"
+		]
+	}
+]

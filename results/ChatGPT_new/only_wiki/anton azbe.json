@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Anton Ažbe",
+		"keywords": [
+			"portraits",
+			"nude figures",
+			"nature",
+			"realism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1862,
+				"end": 1882,
+				"happiness": 6,
+				"location": "Dolenčice, Slovenia",
+				"events": [
+					"established a love for art",
+					"trained as a shoemaker"
+				]
+			},
+			{
+				"start": 1882,
+				"end": 1884,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"studied at the Vienna Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1891,
+				"happiness": 8,
+				"location": "Munich, Germany",
+				"events": [
+					"studied under Ludwig von Löfftz",
+					"established his own school of painting"
+				]
+			},
+			{
+				"start": 1891,
+				"end": 1905,
+				"happiness": 7,
+				"location": "Munich, Germany",
+				"events": [
+					"established Ažbe School",
+					"taught many influential artists"
+				]
+			}
+		],
+		"genre": [
+			"portraits",
+			"nude paintings"
+		]
+	}
+]

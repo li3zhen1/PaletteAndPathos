@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Edward Corbett",
+		"keywords": [
+			"abstract expressionism",
+			"silence",
+			"emptiness",
+			"atmospheres",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1919,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Chicago, United States",
+				"events": [
+					"Born in Chicago, Illinois"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1950,
+				"happiness": 5,
+				"location": "San Francisco, United States",
+				"events": [
+					"Served in World War II",
+					"Studied at the California School of Fine Arts"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1971,
+				"happiness": 6,
+				"location": "San Francisco, United States",
+				"events": [
+					"Became associated with the Abstract Expressionist movement",
+					"Taught at the San Francisco Art Institute"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1971,
+				"happiness": 2,
+				"location": "Provincetown, Massachusetts, United States",
+				"events": [
+					"Death",
+					"Posthumously represented at the Venice Biennale"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Key Hiraga",
+		"keywords": [
+			"carnival",
+			"fantasy",
+			"eccentric",
+			"colorful",
+			"human figures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1936,
+				"end": 1965,
+				"happiness": 6,
+				"location": "Tokyo, Japan",
+				"events": [
+					"graduated from Tokyo Art School",
+					"joined the Democratic Artists Association"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"got inspired by European art scenes",
+					"developed his unique style"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 6,
+				"location": "Japan",
+				"events": [
+					"held first retrospective exhibition",
+					"received The Imperial Award"
+				]
+			}
+		],
+		"genre": [
+			"contemporary art",
+			"Japanese pop art",
+			"Abstract Art"
+		]
+	}
+]

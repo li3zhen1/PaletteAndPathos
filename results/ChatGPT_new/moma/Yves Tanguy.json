@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Yves Tanguy",
+		"keywords": [
+			"surrealism",
+			"dreams",
+			"subconscious",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Loss of his father at a young age"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1925,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Saw a painting by Giorgio de Chirico, which deeply influenced him",
+					"Met Jacques Prévert, who introduced him to Surrealism"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"First solo exhibition in Paris",
+					"Became well known in Parisian artistic community",
+					"Married American author Kay Sage"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Connecticut, USA",
+				"events": [
+					"Moved to the United States to escape WWII",
+					"Continued to paint surreal landscapes",
+					"Death from a stroke"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract art"
+		]
+	}
+]

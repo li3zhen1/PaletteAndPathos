@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Brad Davis",
+		"keywords": [
+			"abstract",
+			"geometrical",
+			"minimalism",
+			"monochrome",
+			"hard-edge"
+		],
+		"lifePeriods": [
+			{
+				"start": 1951,
+				"end": 1997,
+				"happiness": 4,
+				"location": "California, USA",
+				"events": [
+					"revealed his HIV-positive diagnosis",
+					"became an activist for AIDS awareness"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"minimalism"
+		]
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Michelangelo Pistoletto",
+		"keywords": [
+			"mirror paintings",
+			"sculpture",
+			"poverty",
+			"human figure",
+			"reflection"
+		],
+		"lifePeriods": [
+			{
+				"start": 1933,
+				"end": 1958,
+				"happiness": 6,
+				"location": "Biella, Italy",
+				"events": [
+					"Born into a family of artists and musicians",
+					"Studied at the Advertising Art School in Turin"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1962,
+				"happiness": 7,
+				"location": "Turin, Italy",
+				"events": [
+					"Began painting self-portraits which eventually led to his mirror paintings"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1979,
+				"happiness": 8,
+				"location": "Turin, Italy",
+				"events": [
+					"Established the Zoo group",
+					"Brought performative practices into his process"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Biella, Italy",
+				"events": [
+					"Started the Cittadellarte, a city of arts",
+					"Known for his reflective works"
+				]
+			}
+		],
+		"genre": [
+			"conceptual art",
+			"performance art",
+			"Arte Povera"
+		]
+	}
+]

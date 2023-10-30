@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Hap Tivey",
+		"keywords": [
+			"light",
+			"illusion",
+			"space",
+			"nature",
+			"existence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 2022,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"Co-founding of the legendary alternative art space P.S. 1 in New York",
+					"joined Bennington College in Vermont as a professor"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Light and Space"
+		]
+	}
+]

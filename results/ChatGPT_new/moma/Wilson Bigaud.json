@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Wilson Bigaud",
+		"keywords": [
+			"rural",
+			"daily life",
+			"nature",
+			"colorful",
+			"Haitian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 2010,
+				"happiness": 5,
+				"location": "Port-au-Prince, Haiti",
+				"events": [
+					"Began painting at young age",
+					"Joined the Centre d'Art in Port-au-Prince"
+				]
+			}
+		],
+		"genre": [
+			"Naïve art"
+		]
+	}
+]

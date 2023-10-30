@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Alexey Bogolyubov",
+		"keywords": [
+			"landscapes",
+			"maritime scenes",
+			"military",
+			"architecture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1824,
+				"end": 1854,
+				"happiness": 6,
+				"location": "Russia",
+				"events": [
+					"Born to an aristocratic family",
+					"Studied at the Naval Cadet Corps and served in the Navy"
+				]
+			},
+			{
+				"start": 1854,
+				"end": 1861,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Studied art at the Imperial Academy of Arts",
+					"Decided to devote his life to painting",
+					"Travelled and painted extensively in Europe, including the Seine"
+				]
+			},
+			{
+				"start": 1861,
+				"end": 1896,
+				"happiness": 6,
+				"location": "Russia",
+				"events": [
+					"Returned to Russia",
+					"Elected a member of the Saint Petersburg Academy of Arts",
+					"Founded an art school in Saratov"
+				]
+			}
+		],
+		"genre": [
+			"marine art",
+			"landscape art"
+		]
+	}
+]

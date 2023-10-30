@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Antonio Berni",
+		"keywords": [
+			"society",
+			"poverty",
+			"politics",
+			"realism",
+			"social commentary"
+		],
+		"lifePeriods": [
+			{
+				"start": 1905,
+				"end": 1916,
+				"happiness": 5,
+				"location": "Rosario, Argentina",
+				"events": [
+					"born into a working-class family"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1925,
+				"happiness": 7,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"began his formal art education"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"gained scholarship",
+					"exposed to surrealism"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"developed Nuevo Realismo"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1981,
+				"happiness": 5,
+				"location": "Buenos Aires, Argentina",
+				"events": [
+					"created Juanito Laguna",
+					"collages to express political views"
+				]
+			}
+		],
+		"genre": [
+			"realism",
+			"social realism",
+			"nuevo realism"
+		]
+	}
+]

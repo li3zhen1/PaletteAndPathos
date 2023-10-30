@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Adam Pendleton",
+		"keywords": [
+			"Identity",
+			"Culture",
+			"Politics",
+			"Race",
+			"Power"
+		],
+		"lifePeriods": [
+			{
+				"start": 1984,
+				"end": 2002,
+				"happiness": 7,
+				"location": "Richmond, Virginia, USA",
+				"events": [
+					"Born in Richmond, Virginia"
+				]
+			},
+			{
+				"start": 2002,
+				"end": 2010,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York",
+					"Developed his Black Dada concept"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2020,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Established himself as a leading contemporary artist"
+				]
+			}
+		],
+		"genre": [
+			"Conceptual Art",
+			"Visual Arts"
+		]
+	}
+]

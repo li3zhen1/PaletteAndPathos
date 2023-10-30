@@ -1,0 +1,107 @@
+[
+	{
+		"name": "Pablo Picasso",
+		"keywords": [
+			"cubism",
+			"surrealism",
+			"geometric",
+			"portraits",
+			"blue period"
+		],
+		"lifePeriods": [
+			{
+				"start": 1881,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Malaga, Spain",
+				"events": [
+					"started painting at a young age"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Enrolled in the School of Fine Arts"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1904,
+				"happiness": 3,
+				"location": "Paris, France",
+				"events": [
+					"Blue Period Begins"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1909,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Rose Period Begins",
+					"Met Fernande Olivier"
+				]
+			},
+			{
+				"start": 1909,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Cubism begins",
+					"Broke up with Fernande Olivier"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Began classicism",
+					"Married Olga Khokhlova"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1935,
+				"happiness": 2,
+				"location": "Paris, France",
+				"events": [
+					"Marriage problems",
+					"Affaire with Marie-Thérèse Walter"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1953,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Divorced Olga Khokhlova",
+					"Married Dora Maar",
+					"Painted Guernica"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Mougins, France",
+				"events": [
+					"Married Jacqueline Roque",
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"cubism",
+			"surrealism",
+			"symbolism"
+		]
+	}
+]

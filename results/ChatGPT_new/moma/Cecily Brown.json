@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Cecily Brown",
+		"keywords": [
+			"erotic",
+			"abstract",
+			"expressionism",
+			"figurative",
+			"colorful"
+		],
+		"lifePeriods": [
+			{
+				"start": 1969,
+				"end": 1987,
+				"happiness": 6,
+				"location": "London",
+				"events": [
+					"gained interest in art",
+					"attended Bournemouth College of Art"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 1993,
+				"happiness": 7,
+				"location": "London",
+				"events": [
+					"studied at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1994,
+				"end": 1999,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"moved to New York",
+					"started gaining recognition"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"established as a leading contemporary artist"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Figurative painting"
+		]
+	}
+]

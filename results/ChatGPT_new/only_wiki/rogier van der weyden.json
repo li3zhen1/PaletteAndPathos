@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Rogier van der Weyden",
+		"keywords": [
+			"religion",
+			"portraits",
+			"mysticism",
+			"realism",
+			"emotion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1399,
+				"end": 1432,
+				"happiness": 4,
+				"location": "Tournai",
+				"events": [
+					"became a master in the painters' guild"
+				]
+			},
+			{
+				"start": 1432,
+				"end": 1436,
+				"happiness": 5,
+				"location": "Brussels",
+				"events": [
+					"nominated as the town painter"
+				]
+			},
+			{
+				"start": 1436,
+				"end": 1464,
+				"happiness": 7,
+				"location": "Brussels",
+				"events": [
+					"created his most famous pieces",
+					"traveled for royal commissions"
+				]
+			}
+		],
+		"genre": [
+			"Northern Renaissance",
+			"Christian art"
+		]
+	}
+]

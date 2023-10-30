@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Thomas Chimes",
+		"keywords": [
+			"portraits",
+			"abstraction",
+			"metaphysical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1941,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"Started artistic education"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Europe",
+				"events": [
+					"Served in World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Philadelphia, USA",
+				"events": [
+					"Studied at the Pennsylvania Academy of the Fine Arts"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Philadelphia, USA",
+				"events": [
+					"Started work in his own studio",
+					"Developed portraiture style"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Philadelphia, USA",
+				"events": [
+					"Experimented with abstraction and symbolism"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1996,
+				"happiness": 6,
+				"location": "Philadelphia, USA",
+				"events": [
+					"Incorporated metaphysical theme into his works"
+				]
+			},
+			{
+				"start": 1996,
+				"end": 2009,
+				"happiness": 5,
+				"location": "Philadelphia, USA",
+				"events": [
+					"His health declined",
+					"Continued to work in spite of illness"
+				]
+			}
+		],
+		"genre": [
+			"Modern",
+			"Abstract",
+			"Portraiture"
+		]
+	}
+]

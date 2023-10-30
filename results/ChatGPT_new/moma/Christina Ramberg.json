@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Christina Ramberg",
+		"keywords": [
+			"female form",
+			"identity",
+			"surrealism",
+			"pop culture",
+			"psyche"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1995,
+				"happiness": 6,
+				"location": "Fort Campbell, Kentucky, United States",
+				"events": [
+					"born and raised",
+					"first started drawing"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"studied at the School of the Art Institute of Chicago",
+					"participated in Hairy Who"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1995,
+				"happiness": 7,
+				"location": "Chicago, Illinois, United States",
+				"events": [
+					"started teaching at the School of the Art Institute of Chicago",
+					"career as an artist"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Surrealism",
+			"Chicago Imagists"
+		]
+	}
+]

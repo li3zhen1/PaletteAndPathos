@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Robert Colquhoun",
+		"keywords": [
+			"humanity",
+			"suffering",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Kilmarnock, Scotland",
+				"events": [
+					"birth",
+					"studied at Glasgow School of Art",
+					"awarded scholarship for further study in France"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1962,
+				"happiness": 3,
+				"location": "London, England",
+				"events": [
+					"post-war expressionist work acclaimed",
+					"struggled with alcoholism"
+				]
+			}
+		],
+		"genre": [
+			"expressionism",
+			"figurative"
+		]
+	}
+]

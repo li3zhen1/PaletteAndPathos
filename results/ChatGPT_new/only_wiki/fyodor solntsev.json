@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Fyodor Solntsev",
+		"keywords": [
+			"history",
+			"architecture",
+			"antiquities",
+			"Russian culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1801,
+				"end": 1830,
+				"happiness": 7,
+				"location": "Moscow, Russia",
+				"events": [
+					"studied at the Moscow University"
+				]
+			},
+			{
+				"start": 1830,
+				"end": 1870,
+				"happiness": 7,
+				"location": "St. Petersburg, Russia",
+				"events": [
+					"published 'Antiquities of the Russian State'",
+					"became an academician",
+					"major influence on Russian architecture"
+				]
+			},
+			{
+				"start": 1870,
+				"end": 1898,
+				"happiness": 6,
+				"location": "Moscow, Russia",
+				"events": []
+			}
+		],
+		"genre": [
+			"Russian history",
+			"architecture"
+		]
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Esaias van de Velde",
+		"keywords": [
+			"landscapes",
+			"wars",
+			"scenes of everyday life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1587,
+				"end": 1623,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"began his artistic career",
+					"joined the Haarlem Guild of Saint Luke"
+				]
+			},
+			{
+				"start": 1623,
+				"end": 1630,
+				"happiness": 5,
+				"location": "The Hague, Netherlands",
+				"events": [
+					"met his wife",
+					"lived a relatively stabile life"
+				]
+			}
+		],
+		"genre": [
+			"Dutch Golden Age painting",
+			"Landscape art",
+			"War scenes"
+		]
+	}
+]

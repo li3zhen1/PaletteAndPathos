@@ -1,0 +1,68 @@
+[
+	{
+		"name": "M.C. Escher",
+		"keywords": [
+			"geometric",
+			"illusion",
+			"interplay",
+			"reality",
+			"infinity"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Leeuwarden, Netherlands",
+				"events": [
+					"Birth",
+					"Early education"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Haarlem, Netherlands",
+				"events": [
+					"Studied at the School for Architecture and Decorative Arts"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1935,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Marriage",
+					"Birth of his three sons",
+					"Travelled extensively in Italy"
+				]
+			},
+			{
+				"start": 1935,
+				"end": 1941,
+				"happiness": 3,
+				"location": "Château-d'Oex, Switzerland",
+				"events": [
+					"Moved due to political changes in Italy",
+					"Limited creativity due to lack of inspirational environments"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1972,
+				"happiness": 5,
+				"location": "Baarn, Netherlands",
+				"events": [
+					"Returned to Netherlands",
+					"Produced most of his well-known works"
+				]
+			}
+		],
+		"genre": [
+			"graphic artist",
+			"mathematical art"
+		]
+	}
+]

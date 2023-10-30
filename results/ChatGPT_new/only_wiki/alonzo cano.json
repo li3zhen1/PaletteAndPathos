@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Alonzo Cano",
+		"keywords": [
+			"religious",
+			"portraits",
+			"sculptures",
+			"architecture",
+			"passion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1601,
+				"end": 1645,
+				"happiness": 4,
+				"location": "Granada",
+				"events": [
+					"became a leading Spanish sculptor",
+					"painted for reputed customers"
+				]
+			},
+			{
+				"start": 1645,
+				"end": 1667,
+				"happiness": 3,
+				"location": "Madrid",
+				"events": [
+					"accused of murder",
+					"worked for the King Philip IV"
+				]
+			},
+			{
+				"start": 1667,
+				"end": 1667,
+				"happiness": 2,
+				"location": "Granada",
+				"events": [
+					"became a priest",
+					"death"
+				]
+			}
+		],
+		"genre": [
+			"religious",
+			"baroque",
+			"sculptures"
+		]
+	}
+]

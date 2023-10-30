@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Richard Tuttle",
+		"keywords": [
+			"minimalism",
+			"materiality",
+			"dimensionality",
+			"shape",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1941,
+				"end": 1959,
+				"happiness": 6,
+				"location": "Rahway, New Jersey",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1963,
+				"happiness": 7,
+				"location": "Carlisle, Pennsylvania",
+				"events": [
+					"studied philosophy and literature at Trinity College"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1964,
+				"happiness": 6,
+				"location": "New York City, New York",
+				"events": [
+					"worked as an assistant at Betty Parsons Gallery"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1975,
+				"happiness": 7,
+				"location": "New York City, New York",
+				"events": [
+					"first solo exhibition at Betty Parsons Gallery",
+					"rose to prominence as a postminimalist artist"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, New York, and New Mexico",
+				"events": [
+					"continued producing art",
+					"had exhibitions worldwide"
+				]
+			}
+		],
+		"genre": [
+			"postminimalism",
+			"contemporary art"
+		]
+	}
+]

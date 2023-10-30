@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Georgia O'Keeffe",
+		"keywords": [
+			"flowers",
+			"skulls",
+			"New Mexico landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1887,
+				"end": 1905,
+				"happiness": 5,
+				"location": "Sun Prairie, Wisconsin",
+				"events": []
+			},
+			{
+				"start": 1905,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Chicago, Illinois and New York, New York",
+				"events": [
+					"studied at Art Institute of Chicago and Art Students League, New York",
+					"worked as a commercial illustrator"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1929,
+				"happiness": 8,
+				"location": "New York, New York",
+				"events": [
+					"met Alfred Stieglitz",
+					"had her first solo show at 291 gallery"
+				]
+			},
+			{
+				"start": 1929,
+				"end": 1986,
+				"happiness": 7,
+				"location": "New Mexico",
+				"events": [
+					"began to spend majority of the year in New Mexico",
+					"inspired by the landscape and began to paint it"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"American modernism"
+		]
+	}
+]

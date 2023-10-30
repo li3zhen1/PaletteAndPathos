@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Claes Oldenburg",
+		"keywords": [
+			"public art",
+			"sculpture",
+			"pop art",
+			"everyday objects",
+			"giant scale"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1936,
+				"happiness": 7,
+				"location": "Stockholm, Sweden",
+				"events": [
+					"born in Stockholm"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Chicago, United States",
+				"events": [
+					"family moved to US from Sweden"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1950,
+				"happiness": 6,
+				"location": "New Haven, United States",
+				"events": [
+					"studied at Yale University",
+					"experimented with painting and drawing"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1956,
+				"happiness": 6,
+				"location": "Chicago, United States",
+				"events": [
+					"studied at the Art Institute of Chicago",
+					"worked as a reporter"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1969,
+				"happiness": 8,
+				"location": "New York, United States",
+				"events": [
+					"became part of the pop art movement"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2015,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"married Coosje van Bruggen",
+					"made large public art installations"
+				]
+			},
+			{
+				"start": 2016,
+				"end": 2020,
+				"happiness": 3,
+				"location": "New York, United States",
+				"events": [
+					"Coosje van Bruggen died"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Public Art"
+		]
+	}
+]

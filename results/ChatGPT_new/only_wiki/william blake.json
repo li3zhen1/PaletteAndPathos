@@ -1,0 +1,57 @@
+[
+	{
+		"name": "William Blake",
+		"keywords": [
+			"mysticism",
+			"religion",
+			"visions",
+			"imagination",
+			"innocence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1757,
+				"end": 1772,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Apprenticeship with engraver James Basire"
+				]
+			},
+			{
+				"start": 1772,
+				"end": 1800,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Married Catherine Boucher",
+					"Published 'Songs of Innocence'"
+				]
+			},
+			{
+				"start": 1800,
+				"end": 1803,
+				"happiness": 4,
+				"location": "Felpham, England",
+				"events": [
+					"Lawsuit for assault and uttering seditious and treasonable expressions"
+				]
+			},
+			{
+				"start": 1803,
+				"end": 1827,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Faced poverty",
+					"Published 'Jerusalem: The Emanation of the Giant Albion'"
+				]
+			}
+		],
+		"genre": [
+			"Romantic",
+			"Symbolism",
+			"Biblical themes"
+		]
+	}
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Walter de Maria",
+		"keywords": [
+			"land art",
+			"minimalism",
+			"large-scale",
+			"nature",
+			"environment"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 2013,
+				"happiness": 6,
+				"location": "Albany, California",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Berkeley, California",
+				"events": [
+					"studied painting and history at the University of California"
+				]
+			},
+			{
+				"start": 1959,
+				"end": 1960,
+				"happiness": 5,
+				"location": "New York",
+				"events": [
+					"moved to New York",
+					"met artists of the Fluxus movement"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1977,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"created 'Earth Room', 'Lightning Field'"
+				]
+			},
+			{
+				"start": 1977,
+				"end": 2013,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"continued producing influential works"
+				]
+			}
+		],
+		"genre": [
+			"Land Art",
+			"Minimalism"
+		]
+	}
+]

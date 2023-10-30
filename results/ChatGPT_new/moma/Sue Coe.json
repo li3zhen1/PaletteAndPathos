@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Sue Coe",
+		"keywords": [
+			"social justice",
+			"animal rights",
+			"racism",
+			"sexism",
+			"human condition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1951,
+				"end": 1967,
+				"happiness": 5,
+				"location": "Tamworth, Staffordshire, England",
+				"events": [
+					"discovered her drawing talent"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1972,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"studied at the Royal College of Art"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"moved to New York",
+					"worked as an illustrator for The New York Times and other publications"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"became advocate for animal rights",
+					"published graphic works about animal rights and political injustice"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Upstate New York, USA",
+				"events": [
+					"continued her advocacy through graphic works"
+				]
+			}
+		],
+		"genre": [
+			"graphic art",
+			"illustrations",
+			"political art"
+		]
+	}
+]

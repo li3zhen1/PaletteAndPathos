@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Kai Althoff",
+		"keywords": [
+			"symbolism",
+			"narrative",
+			"fantasy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1966,
+				"end": 1984,
+				"happiness": 5,
+				"location": "Cologne, Germany",
+				"events": [
+					"birth",
+					"discovery of artistry"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Germany",
+				"events": [
+					"studying art",
+					"beginning an art career"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2021,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"rise to popularity",
+					"international recognition"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary art",
+			"Installation art",
+			"Drawing"
+		]
+	}
+]

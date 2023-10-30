@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Fernando Botero",
+		"keywords": [
+			"proportions",
+			"critique",
+			"society",
+			"culture",
+			"portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1948,
+				"happiness": 4,
+				"location": "Medellin, Colombia",
+				"events": [
+					"Faced the death of his father at the age of four"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Bogota, Colombia",
+				"events": [
+					"won second prize at the ninth Salon of Colombian Artists"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1955,
+				"happiness": 7,
+				"location": "Madrid, Spain",
+				"events": [
+					"Improved his skills in fresco and mural painting"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1960,
+				"happiness": 5,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Experience with muralism influenced his decorative style"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1973,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Developed his trademark style, Boterismo"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2019,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Established as a globally recognized and highly sought artist"
+				]
+			},
+			{
+				"start": 2019,
+				"end": 2022,
+				"happiness": 5,
+				"location": "Monaco",
+				"events": [
+					"Continued painting and sculpting even in his late eighties"
+				]
+			}
+		],
+		"genre": [
+			"Figurative Art",
+			"Sculpture"
+		]
+	}
+]

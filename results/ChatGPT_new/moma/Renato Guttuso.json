@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Renato Guttuso",
+		"keywords": [
+			"realism",
+			"social criticism",
+			"politics"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1918,
+				"happiness": 5,
+				"location": "Bagheria, Sicily, Italy",
+				"events": [
+					"Raised in a middle-class family"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Bagheria, Sicily, Italy",
+				"events": [
+					"Developed love for art"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1940,
+				"happiness": 7,
+				"location": "Rome, Italy",
+				"events": [
+					"Started practicing as a self-taught artist",
+					"Met his wife Mimise Dotti"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1950,
+				"happiness": 4,
+				"location": "Rome, Italy",
+				"events": [
+					"Experienced World War II",
+					"Produced anti-fascist artwork"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1960,
+				"happiness": 8,
+				"location": "Rome, Italy",
+				"events": [
+					"Won the National Prize for Painting at the Venice Biennale",
+					"Became internationally recognized"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Experienced political criticism"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1987,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"Continued to work despite health problems",
+					"Stroke in 1985 affected work"
+				]
+			}
+		],
+		"genre": [
+			"Modernism",
+			"Social realism",
+			"Expressionism"
+		]
+	}
+]

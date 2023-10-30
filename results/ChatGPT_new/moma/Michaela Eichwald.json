@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Michaela Eichwald",
+		"keywords": [
+			"abstract",
+			"expressionism",
+			"minimalism",
+			"concrete",
+			"daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1967,
+				"end": 1986,
+				"happiness": 5,
+				"location": "Cologne, Germany",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1999,
+				"happiness": 7,
+				"location": "Berlin, Germany",
+				"events": [
+					"attended Berlin University of the Arts",
+					"started developing her artistic style"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2020,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"established herself as an internationally recognized artist",
+					"had several solo exhibitions"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Contemporary Art"
+		]
+	}
+]

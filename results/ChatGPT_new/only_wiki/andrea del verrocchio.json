@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Andrea del Verrocchio",
+		"keywords": [
+			"religion",
+			"mythology",
+			"Renaissance",
+			"portraits",
+			"sculptures"
+		],
+		"lifePeriods": [
+			{
+				"start": 1435,
+				"end": 1488,
+				"happiness": 6,
+				"location": "Florence",
+				"events": [
+					"opened his own workshop",
+					"developed a reputation as one of the most talented artists in Florence"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"portrait",
+			"sculpture"
+		]
+	}
+]

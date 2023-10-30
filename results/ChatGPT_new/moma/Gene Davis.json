@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Gene Davis",
+		"keywords": [
+			"abstract",
+			"color",
+			"stripes",
+			"modern",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1938,
+				"happiness": 5,
+				"location": "Washington D.C., USA",
+				"events": [
+					"nurtured an interest in arts"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Washington D.C., USA",
+				"events": [
+					"worked as a journalist",
+					"started painting"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1985,
+				"happiness": 7,
+				"location": "Washington D.C., USA",
+				"events": [
+					"rose to prominence",
+					"part of the Washington Color School"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Color Field"
+		]
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Raúl Anguiano",
+		"keywords": [
+			"people",
+			"culture",
+			"Mexico",
+			"modernism",
+			"muralism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1915,
+				"end": 2006,
+				"happiness": 6,
+				"location": "Guadalajara, Mexico",
+				"events": [
+					"Began studying at the Free School of Painting and Sculpture",
+					"became a member of the Mexican muralism movement"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Mexico City, Mexico",
+				"events": [
+					"Became a professor at the National School of Painting and Sculpture",
+					"created some of his most famous murals"
+				]
+			},
+			{
+				"start": 1957,
+				"end": 2006,
+				"happiness": 8,
+				"location": "California, United States",
+				"events": [
+					"His works were exhibited internationally",
+					"created the mural 'The History of Medicine in California'"
+				]
+			}
+		],
+		"genre": [
+			"Modern art",
+			"Mexican muralism",
+			"Realism"
+		]
+	}
+]

@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Boris Grigoriev",
+		"keywords": [
+			"peasant life",
+			"rural Russia",
+			"portraits",
+			"modernism",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1903,
+				"happiness": 5,
+				"location": "Rybinsk, Russia",
+				"events": [
+					"born in Rybinsk"
+				]
+			},
+			{
+				"start": 1903,
+				"end": 1907,
+				"happiness": 7,
+				"location": "St.Petersburg, Russia",
+				"events": [
+					"studied at the St. Petersburg Academy of Arts"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1919,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"relocated to Paris, exposure to European modernism"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Russia",
+				"events": [
+					"returned to Russia, created his 'Raseya' series depicting Russian peasants"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"moved away from Russia due to political disagreement",
+					"experienced difficulty to sell his work"
+				]
+			},
+			{
+				"start": 1939,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Cagnes-sur-Mer, France",
+				"events": [
+					"moved to Cagnes-sur-Mer for health reason",
+					"continued to produce art"
+				]
+			}
+		],
+		"genre": [
+			"modernism",
+			"expressionism",
+			"portraiture"
+		]
+	}
+]

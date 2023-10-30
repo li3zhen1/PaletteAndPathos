@@ -1,0 +1,58 @@
+[
+	{
+		"name": "George Luks",
+		"keywords": [
+			"realism",
+			"city life",
+			"common people",
+			"nightlife",
+			"urban landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1867,
+				"end": 1895,
+				"happiness": 6,
+				"location": "Williamsport, United States",
+				"events": [
+					"started with basic art instruction in his childhood",
+					"worked as a newspaper cartoonist"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1900,
+				"happiness": 5,
+				"location": "Philadelphia, United States",
+				"events": [
+					"founder of the Philadelphia Press Illustrator department",
+					"became friends with fellow artists of the 'Philadelphia Four'"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1915,
+				"happiness": 7,
+				"location": "New York City, United States",
+				"events": [
+					"a leading member of the Ashcan School",
+					"work recognized by the National Academy of Design"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1933,
+				"happiness": 4,
+				"location": "New York City, United States",
+				"events": [
+					"known for his expressive use of paint, especially in dark night scenes",
+					"his health began to decline"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"Ashcan School"
+		]
+	}
+]

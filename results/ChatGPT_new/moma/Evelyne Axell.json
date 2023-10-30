@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Evelyne Axell",
+		"keywords": [
+			"love",
+			"feminism",
+			"eroticism",
+			"modernism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1935,
+				"end": 1972,
+				"happiness": 7,
+				"location": "Namur, Belgium",
+				"events": [
+					"born in Belgium",
+					"started as an actress"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1972,
+				"happiness": 8,
+				"location": "Brussels, Belgium",
+				"events": [
+					"met her mentor Rene Magritte",
+					"pioneered the Pop Art movement in Belgium"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Erotic Art"
+		]
+	}
+]

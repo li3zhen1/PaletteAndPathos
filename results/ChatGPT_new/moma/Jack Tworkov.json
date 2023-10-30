@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Jack Tworkov",
+		"keywords": [
+			"abstract",
+			"expression",
+			"minimalism",
+			"movement",
+			"space"
+		],
+		"lifePeriods": [
+			{
+				"start": 1900,
+				"end": 1915,
+				"happiness": 5,
+				"location": "Biala Podlaska, Poland",
+				"events": [
+					"Born in Poland"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1930,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Immigrated to America"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1940,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Attended the National Academy of Design and the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1955,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Began teaching at Black Mountain College",
+					"Associated with the New York School"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1970,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Named Chairman of the Yale University Art Department",
+					"Identified as a member of the abstract expressionists"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1982,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Transition to more structured, minimalist style"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Minimalism"
+		]
+	}
+]

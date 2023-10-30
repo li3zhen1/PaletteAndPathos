@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Dorothea Rockburne",
+		"keywords": [
+			"geometry",
+			"mathematics",
+			"space",
+			"nature",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1932,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Montreal, Canada",
+				"events": [
+					"Developed interest in art",
+					"Began her studies at the Montreal Museum School"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1971,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Studied at Black Mountain College",
+					"Began working with geometric forms, influenced by mathematics"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1985,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Established her art studio",
+					"Recognized in the art world for her distinctive and innovative work"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Continued to create and exhibit art works",
+					"Recognized as one of the leading figures in the field of abstract art"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"post-minimalism",
+			"conceptual art"
+		]
+	}
+]

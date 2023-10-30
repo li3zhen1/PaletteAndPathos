@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Gary Stephan",
+		"keywords": [
+			"abstract",
+			"formalism",
+			"space",
+			"geometric",
+			"illusion"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Brooklyn, New York",
+				"events": [
+					"taught at School of Visual Arts, New York",
+					"exhibited his work widely both nationally and internationally"
+				]
+			}
+		],
+		"genre": [
+			"Abstract",
+			"Post Minimalism"
+		]
+	}
+]

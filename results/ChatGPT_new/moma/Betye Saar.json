@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Betye Saar",
+		"keywords": [
+			"racism",
+			"feminism",
+			"nostalgia",
+			"spirituality",
+			"heritage"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Los Angeles",
+				"events": [
+					"Birth"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"Graduated from University",
+					"Worked as a social worker"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"Started to work as an artist",
+					"Influence of Black Power movement"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 6,
+				"location": "Los Angeles",
+				"events": [
+					"First major exhibitions",
+					"Gained recognition"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"Further developed her art",
+					"Won several awards"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Los Angeles",
+				"events": [
+					"Created important pieces addressing racism"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Los Angeles",
+				"events": [
+					"Received Lifetime Achievement award",
+					"Highly active artist"
+				]
+			}
+		],
+		"genre": [
+			"assemblage",
+			"collage",
+			"printmaking"
+		]
+	}
+]

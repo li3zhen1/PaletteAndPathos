@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Wassily Kandinsky",
+		"keywords": [
+			"abstraction",
+			"spirituality",
+			"innovation",
+			"form",
+			"colour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1866,
+				"end": 1896,
+				"happiness": 5,
+				"location": "Moscow, Russia",
+				"events": [
+					"graduated from the Moscow University",
+					"chose to pursue art career instead of law"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1902,
+				"happiness": 6,
+				"location": "Munich, Germany",
+				"events": [
+					"started studying art in Munich",
+					"met his future wife Gabriele Münter"
+				]
+			},
+			{
+				"start": 1902,
+				"end": 1914,
+				"happiness": 7,
+				"location": "Murnau, Germany",
+				"events": [
+					"founded the art group Der Blaue Reiter",
+					"developed his art theory"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1921,
+				"happiness": 4,
+				"location": "Moscow, Russia",
+				"events": [
+					"returned to Russia due to the outbreak of World War I",
+					"faced economic difficulties"
+				]
+			},
+			{
+				"start": 1921,
+				"end": 1933,
+				"happiness": 6,
+				"location": "Weimar and then Dessau, Germany",
+				"events": [
+					"taught at the Bauhaus school of art and architecture",
+					"developed his geometric style"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1944,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"fled to France due to Nazi regime",
+					"passed away at Neuilly-sur-Seine"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Expressionism",
+			"Synthetic Cubism"
+		]
+	}
+]

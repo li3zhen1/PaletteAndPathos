@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Karel Appel",
+		"keywords": [
+			"Expression",
+			"Abstraction",
+			"Color",
+			"Primitive Art",
+			"Animals"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1943,
+				"happiness": 4,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Enrolled in the Rijksakademie van Beeldende Kunsten"
+				]
+			},
+			{
+				"start": 1944,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"Founded the experimental artists' group Cobra",
+					"developed his iconic child-like, raw artistic style"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Achieved international recognition"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Shifted to sculpture, produced large public works",
+					"Married painter Machteld van Bendegem"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2006,
+				"happiness": 6,
+				"location": "Tuscany, Italy",
+				"events": [
+					"Continued painting and sculpture",
+					"Received numerous awards and honorary doctorates"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"CoBrA"
+		]
+	}
+]

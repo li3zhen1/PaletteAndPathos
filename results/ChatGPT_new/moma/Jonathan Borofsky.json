@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Jonathan Borofsky",
+		"keywords": [
+			"humanity",
+			"figures",
+			"philosophical",
+			"surrealism",
+			"public art"
+		],
+		"lifePeriods": [
+			{
+				"start": 1942,
+				"end": 1964,
+				"happiness": 6,
+				"location": "Boston, United States",
+				"events": [
+					"Born into a scholarly family",
+					"Began drawing from a young age"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1966,
+				"happiness": 7,
+				"location": "California, United States",
+				"events": [
+					"Received Master of Fine Arts from Yale",
+					"Started major artistic career"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1982,
+				"happiness": 6,
+				"location": "New York, United States",
+				"events": [
+					"Well recognized in his artwork",
+					"Public art began to appear"
+				]
+			},
+			{
+				"start": 1982,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Maine, United States",
+				"events": [
+					"Works exhibited worldwide",
+					"Continues making public art"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Public Sculpture",
+			"Installation Art"
+		]
+	}
+]

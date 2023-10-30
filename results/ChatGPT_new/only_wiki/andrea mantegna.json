@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Andrea Mantegna",
+		"keywords": [
+			"humanism",
+			"religion",
+			"mythology",
+			"perspective",
+			"naturalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1431,
+				"end": 1441,
+				"happiness": 3,
+				"location": "Padua",
+				"events": [
+					"Orphaned at a young age"
+				]
+			},
+			{
+				"start": 1441,
+				"end": 1453,
+				"happiness": 5,
+				"location": "Padua",
+				"events": [
+					"Apprenticed under Francesco Squarcione",
+					"Independence from Squarcione"
+				]
+			},
+			{
+				"start": 1453,
+				"end": 1506,
+				"happiness": 6,
+				"location": "Mantua",
+				"events": [
+					"Married Nicolosia Bellini",
+					"Became court artist of the Gonzaga family"
+				]
+			},
+			{
+				"start": 1506,
+				"end": 1506,
+				"happiness": 2,
+				"location": "Mantua",
+				"events": [
+					"The death of his son"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Religious painting",
+			"Mythological painting"
+		]
+	}
+]

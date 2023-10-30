@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Joan Hernandez Pijuan",
+		"keywords": [
+			"minimalism",
+			"landscapes",
+			"nature",
+			"matière",
+			"spatial experience"
+		],
+		"lifePeriods": [
+			{
+				"start": 1931,
+				"end": 1949,
+				"happiness": 4,
+				"location": "Barcelona, Spain",
+				"events": [
+					"began drawing at an early age"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1955,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"attended Barcelona School of Fine Arts",
+					"received National Painting Prize"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the Paris School of Fine Arts",
+					"experienced art in a different perspective"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1970,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"began teaching",
+					"continued painting and expanding his style"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 2005,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"became a Professor of Painting",
+					"received numerous awards and acknowledgements for his art"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"landscape painting",
+			"minimalism"
+		]
+	}
+]

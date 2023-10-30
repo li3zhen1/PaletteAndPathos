@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Alberto Magnelli",
+		"keywords": [
+			"abstraction",
+			"cubism",
+			"force lines",
+			"geometrical",
+			"futurism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1888,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Florence, Italy",
+				"events": [
+					"Began painting",
+					"Influenced by Italian Renaissance art"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1939,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Exposed to cubism",
+					"Worked in the abstractionist movement"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1944,
+				"happiness": 2,
+				"location": "Grasse, France",
+				"events": [
+					"World War II displaced him"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Enjoyed successful post-war career",
+					"Received international recognition"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Abstract art",
+			"Futurism"
+		]
+	}
+]

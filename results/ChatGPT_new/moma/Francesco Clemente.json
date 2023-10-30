@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Francesco Clemente",
+		"keywords": [
+			"self-portrait",
+			"mysticism",
+			"culture",
+			"eroticism",
+			"metaphysical"
+		],
+		"lifePeriods": [
+			{
+				"start": 1952,
+				"end": 1970,
+				"happiness": 5,
+				"location": "Naples, Italy",
+				"events": [
+					"Completed school education"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1974,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Studied architecture",
+					"Began focusing on his art"
+				]
+			},
+			{
+				"start": 1974,
+				"end": 1983,
+				"happiness": 7,
+				"location": "India",
+				"events": [
+					"Moved to India",
+					"Met Indian miniature painters"
+				]
+			},
+			{
+				"start": 1983,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Became part of New York School",
+					"Held several exhibitions"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Continued painting and exhibiting",
+					"Explored digital media"
+				]
+			}
+		],
+		"genre": [
+			"Neo-Expressionism",
+			"Transavantgarde"
+		]
+	}
+]

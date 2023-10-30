@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Imi Knoebel",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"geometry",
+			"color theory",
+			"playfulness"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1962,
+				"happiness": 3,
+				"location": "Dessau, Germany",
+				"events": [
+					"Born during WWII"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1966,
+				"happiness": 6,
+				"location": "Mainz",
+				"events": [
+					"Started his studies at the Darmstadt School of Arts"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1971,
+				"happiness": 8,
+				"location": "Dusseldorf",
+				"events": [
+					"Studied at the Kunstakademie Düsseldorf under Joseph Beuys",
+					"Adopted the name Imi Knoebel"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Dusseldorf",
+				"events": [
+					"Became an established artist in the Minimalist movement"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2021,
+				"happiness": 8,
+				"location": "Dusseldorf",
+				"events": [
+					"Continued to produce and exhibit internationally acclaimed works"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Abstract art"
+		]
+	}
+]

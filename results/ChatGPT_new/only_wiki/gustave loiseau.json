@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Gustave Loiseau",
+		"keywords": [
+			"nature",
+			"seasons",
+			"French landscapes",
+			"post-impressionism",
+			"series"
+		],
+		"lifePeriods": [
+			{
+				"start": 1865,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"Born into a Parisian family",
+					"Started early education"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1889,
+				"happiness": 7,
+				"location": "Pont-Aven",
+				"events": [
+					"Moved to Pont-Aven",
+					"Started painting profession"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1935,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Came back to Paris",
+					"His artwork became popular"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Impressionism"
+		]
+	}
+]

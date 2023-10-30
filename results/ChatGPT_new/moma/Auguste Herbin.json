@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Auguste Herbin",
+		"keywords": [
+			"abstract",
+			"geometry",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1893,
+				"happiness": 5,
+				"location": "Quiévy, Northern France",
+				"events": [
+					"born into a modest family"
+				]
+			},
+			{
+				"start": 1893,
+				"end": 1901,
+				"happiness": 7,
+				"location": "Valenciennes",
+				"events": [
+					"attended the Ecole des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1914,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"got involved with the Fauvist movement",
+					"started to gain recognition"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"World War I impacted his work"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1940,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"founded the Abstraction-Creation Association",
+					"his work became more geometric and abstract"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"continued working despite the disruption of World War II",
+					"passed away at his studio in Paris"
+				]
+			}
+		],
+		"genre": [
+			"abstract art",
+			"fauvism",
+			"cubism"
+		]
+	}
+]

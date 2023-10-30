@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Marlon Mullen",
+		"keywords": [
+			"abstract",
+			"inspirations",
+			"colors",
+			"primary shapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1963,
+				"end": 2021,
+				"happiness": 7,
+				"location": "Richmond, California",
+				"events": [
+					"joined NIAD Art Center"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art"
+		]
+	}
+]

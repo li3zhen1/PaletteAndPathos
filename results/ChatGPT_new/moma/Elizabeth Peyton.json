@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Elizabeth Peyton",
+		"keywords": [
+			"portrait",
+			"celebrities",
+			"emotions",
+			"modern culture",
+			"intimacy"
+		],
+		"lifePeriods": [
+			{
+				"start": 1965,
+				"end": 1987,
+				"happiness": 6,
+				"location": "Connecticut, USA",
+				"events": [
+					"born in Connecticut",
+					"attended the School of Visual Arts in New York"
+				]
+			},
+			{
+				"start": 1987,
+				"end": 1990,
+				"happiness": 5,
+				"location": "New York City, USA",
+				"events": [
+					"graduated from School of Visual Arts",
+					"started career as an artist"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2022,
+				"happiness": 7,
+				"location": "New York City, USA",
+				"events": [
+					"first solo exhibition",
+					"globally recognized for her work"
+				]
+			}
+		],
+		"genre": [
+			"Contemporary Art",
+			"Portraiture"
+		]
+	}
+]

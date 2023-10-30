@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Joan Miro",
+		"keywords": [
+			"surrealism",
+			"catalanism",
+			"fantasy",
+			"poetry",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1893,
+				"end": 1907,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Born into the family of a goldsmith and a jewelry cabinetmaker, demonstrating interest in art at a young age."
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1923,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"Attended art school.",
+					"Beginning of his career as an artist."
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Connection with surrealist artists.",
+					"Artistic development into his personal style."
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1983,
+				"happiness": 7,
+				"location": "Palma, Spain",
+				"events": [
+					"Established studios in Palma.",
+					"Received international recognition.",
+					"Artistic development with creations of tapestries and ceramics."
+				]
+			}
+		],
+		"genre": [
+			"surrealism",
+			"dada",
+			"automaticism"
+		]
+	}
+]

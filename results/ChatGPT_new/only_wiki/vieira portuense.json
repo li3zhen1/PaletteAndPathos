@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Vieira Portuense",
+		"keywords": [
+			"portrait",
+			"religion",
+			"royalty"
+		],
+		"lifePeriods": [
+			{
+				"start": 1765,
+				"end": 1787,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"Received first art education",
+					"Developed interest in painting"
+				]
+			},
+			{
+				"start": 1787,
+				"end": 1801,
+				"happiness": 6,
+				"location": "Rome, Italy",
+				"events": [
+					"Perfecting art in Rome",
+					"Appointed a Knight of the Order of Christ"
+				]
+			},
+			{
+				"start": 1801,
+				"end": 1805,
+				"happiness": 4,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Returned home",
+					"Suffered sudden illness"
+				]
+			}
+		],
+		"genre": [
+			"Neoclassicism",
+			"Romanticism"
+		]
+	}
+]

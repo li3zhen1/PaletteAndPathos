@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Utagawa Toyokuni II",
+		"keywords": [
+			"Edo Period",
+			"ukiyo-e",
+			"portraits",
+			"Yokohama-e",
+			"actor portraits"
+		],
+		"lifePeriods": [
+			{
+				"start": 1802,
+				"end": 1835,
+				"happiness": 5,
+				"location": "Edo, Japan",
+				"events": [
+					"Took the name Toyoshige"
+				]
+			},
+			{
+				"start": 1835,
+				"end": 1850,
+				"happiness": 4,
+				"location": "Edo, Japan",
+				"events": [
+					"Took the name Toyokuni II",
+					"encountered by Hiroshige"
+				]
+			}
+		],
+		"genre": [
+			"ukiyo-e",
+			"Yokohama-e",
+			"portraits"
+		]
+	}
+]

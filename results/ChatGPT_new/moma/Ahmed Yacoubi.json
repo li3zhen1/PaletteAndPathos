@@ -1,0 +1,89 @@
+[
+	{
+		"name": "Ahmed Yacoubi",
+		"keywords": [
+			"Moroccan culture",
+			"Abstract expressionism",
+			"Narrative storytelling",
+			"Myth"
+		],
+		"lifePeriods": [
+			{
+				"start": 1928,
+				"end": 1940,
+				"happiness": 5,
+				"location": "Fez, Morocco",
+				"events": [
+					"Born into a middle class family"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1946,
+				"happiness": 5,
+				"location": "Fez, Morocco",
+				"events": [
+					"Started learning traditional Moroccan art"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1953,
+				"happiness": 7,
+				"location": "Tangier, Morocco",
+				"events": [
+					"Met American writer Paul Bowles",
+					"Started painting and indicated the talent"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris to pursue his career in art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1985,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York",
+					"His art gained popularity",
+					"Performed in Off-Broadway productions"
+				]
+			},
+			{
+				"start": 1985,
+				"end": 1987,
+				"happiness": 5,
+				"location": "Marbella, Spain",
+				"events": []
+			},
+			{
+				"start": 1987,
+				"end": 1989,
+				"happiness": 5,
+				"location": "Essaouira, Morocco",
+				"events": []
+			},
+			{
+				"start": 1989,
+				"end": 2006,
+				"happiness": 4,
+				"location": "Fez, Morocco",
+				"events": [
+					"His health began to deteriorate"
+				]
+			}
+		],
+		"genre": [
+			"Abstract expressionism",
+			"Narrative art",
+			"Performative arts"
+		]
+	}
+]

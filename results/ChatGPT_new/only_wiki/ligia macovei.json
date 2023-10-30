@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Ligia Macovei",
+		"keywords": [
+			"Symbolism",
+			"Nature",
+			"Flowers"
+		],
+		"lifePeriods": [
+			{
+				"start": 1926,
+				"end": 2020,
+				"happiness": 8,
+				"location": "Bucharest, Romania",
+				"events": [
+					"Studied at 'Nicolae Grigorescu' Institute of Fine Arts",
+					"Became professor in the Sculpture Department of the 'Nicolae Grigorescu' Institute of Fine Arts"
+				]
+			}
+		],
+		"genre": [
+			"Sculpture",
+			"Painting",
+			"Graphic art"
+		]
+	}
+]

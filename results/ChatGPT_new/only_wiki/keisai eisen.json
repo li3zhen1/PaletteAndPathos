@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Keisai Eisen",
+		"keywords": [
+			"ukiyo-e",
+			"women",
+			"nature",
+			"urban life",
+			"eroticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1790,
+				"end": 1848,
+				"happiness": 4,
+				"location": "Edo, Japan",
+				"events": [
+					"became a student of Kikugawa Eizan",
+					"developed his own style"
+				]
+			}
+		],
+		"genre": [
+			"ukiyo-e"
+		]
+	}
+]

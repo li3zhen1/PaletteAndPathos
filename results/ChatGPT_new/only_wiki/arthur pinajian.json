@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Arthur Pinajian",
+		"keywords": [
+			"abstract",
+			"landscapes",
+			"expressionism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 4,
+				"location": "Union City, New Jersey",
+				"events": [
+					"born during World War I"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1941,
+				"happiness": 5,
+				"location": "Union City, New Jersey",
+				"events": [
+					"developed interest in art"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Pacific Theatre of World War II",
+				"events": [
+					"served in the United States Army"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1960,
+				"happiness": 5,
+				"location": "New York City, New York",
+				"events": [
+					"studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1999,
+				"happiness": 4,
+				"location": "Bellport, New York",
+				"events": [
+					"worked in isolation producing thousands of works",
+					"passed away at aged 85"
+				]
+			}
+		],
+		"genre": [
+			"abstract expressionism",
+			"landscapes"
+		]
+	}
+]

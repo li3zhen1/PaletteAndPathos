@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Béla Kádár",
+		"keywords": [
+			"culture",
+			"religion",
+			"history",
+			"human form",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1914,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"struggled for daily survival",
+					"worked as an iron turner"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1919,
+				"happiness": 4,
+				"location": "Budapest, Hungary",
+				"events": [
+					"met Lajos Tihanyi",
+					"First World War"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1939,
+				"happiness": 7,
+				"location": "Berlin, Germany, later: Paris, France",
+				"events": [
+					"gained international recognition",
+					"First exhibition outside Hungary in the gallery Der Sturm"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1956,
+				"happiness": 4,
+				"location": "Budapest, Hungary",
+				"events": [
+					"lost his wife, Clara",
+					"Second World War"
+				]
+			},
+			{
+				"start": 1956,
+				"end": 1956,
+				"happiness": 3,
+				"location": "Budapest, Hungary",
+				"events": [
+					"spent his last days in poor health",
+					"Hungarian Revolution"
+				]
+			}
+		],
+		"genre": [
+			"Expressionism",
+			"Cubism",
+			"Symbolism"
+		]
+	}
+]

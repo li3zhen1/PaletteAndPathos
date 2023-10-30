@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Sandra Blow",
+		"keywords": [
+			"abstract",
+			"large-scale",
+			"color",
+			"texture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1946,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Studied at St Martin's School of Art"
+				]
+			},
+			{
+				"start": 1947,
+				"end": 1950,
+				"happiness": 6,
+				"location": "Italy",
+				"events": [
+					"Met Alberto Burri, which influenced her abstract works"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1970,
+				"happiness": 5,
+				"location": "London, England",
+				"events": [
+					"Participated in group exhibitions at the Redfern Gallery"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2006,
+				"happiness": 7,
+				"location": "St Ives, Cornwall",
+				"events": [
+					"Established studio at St Ives, exhibited regularly at the Wills Lane Gallery"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism"
+		]
+	}
+]

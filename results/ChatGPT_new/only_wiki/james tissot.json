@@ -1,0 +1,79 @@
+[
+	{
+		"name": "James Tissot",
+		"keywords": [
+			"society",
+			"religion",
+			"women",
+			"realism",
+			"Victorian era"
+		],
+		"lifePeriods": [
+			{
+				"start": 1836,
+				"end": 1855,
+				"happiness": 6,
+				"location": "Nantes, France",
+				"events": [
+					"born into a wealthy family",
+					"discovered his passion for art"
+				]
+			},
+			{
+				"start": 1856,
+				"end": 1870,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"studied at the École des Beaux-Arts",
+					"began his career as a genre painter"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1874,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"moved to London",
+					"met his mistress Kathleen Newton"
+				]
+			},
+			{
+				"start": 1875,
+				"end": 1882,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"continued painting Victorian society",
+					"Kathleen Newton died of tuberculosis"
+				]
+			},
+			{
+				"start": 1885,
+				"end": 1895,
+				"happiness": 5,
+				"location": "Paris, France and Palestine",
+				"events": [
+					"painted Biblical scenes after a religious conversion",
+					"made several trips to the Holy Land"
+				]
+			},
+			{
+				"start": 1896,
+				"end": 1902,
+				"happiness": 5,
+				"location": "France",
+				"events": [
+					"continued his religious artwork",
+					"died at his chateau in France"
+				]
+			}
+		],
+		"genre": [
+			"Realism",
+			"History paintings",
+			"Portraits"
+		]
+	}
+]

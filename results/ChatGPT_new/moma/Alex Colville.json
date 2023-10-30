@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Alex Colville",
+		"keywords": [
+			"realism",
+			"ordinary life",
+			"animals",
+			"war",
+			"peace"
+		],
+		"lifePeriods": [
+			{
+				"start": 1920,
+				"end": 1938,
+				"happiness": 7,
+				"location": "Toronto",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1942,
+				"happiness": 6,
+				"location": "Sackville",
+				"events": [
+					"enrolled at Mount Allison University in Sackville"
+				]
+			},
+			{
+				"start": 1942,
+				"end": 1946,
+				"happiness": 3,
+				"location": "Europe",
+				"events": [
+					"enlisted in Canadian Army during World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1963,
+				"happiness": 7,
+				"location": "Sackville",
+				"events": [
+					"appointed to faculty of Fine Arts at Mount Allison University"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1973,
+				"happiness": 7,
+				"location": "Wolfville",
+				"events": [
+					"left teaching to devote himself to painting full-time"
+				]
+			},
+			{
+				"start": 1973,
+				"end": 2013,
+				"happiness": 7,
+				"location": "Wolfville",
+				"events": [
+					"continued painting and creating art"
+				]
+			}
+		],
+		"genre": [
+			"Magic Realism",
+			"war artist"
+		]
+	}
+]

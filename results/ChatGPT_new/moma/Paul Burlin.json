@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Paul Burlin",
+		"keywords": [
+			"abstraction",
+			"modernism",
+			"cubism",
+			"portraits",
+			"native American culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1886,
+				"end": 1969,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"Born in New York City",
+					"Started painting at an early age"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1915,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the National Academy of Design",
+					"Was awarded a Hallgarten Prize"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Santa Fe, New Mexico, United States",
+				"events": [
+					"Inspired by the American Southwest and Native American culture",
+					"Transitioned to more abstract work"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1969,
+				"happiness": 5,
+				"location": "New York City, United States",
+				"events": [
+					"Returned to New York and continued to work and display his paintings",
+					"Passed away at the age of 83"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Modernism",
+			"Portraits"
+		]
+	}
+]

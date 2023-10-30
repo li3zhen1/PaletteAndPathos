@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Raphael Kirchner",
+		"keywords": [
+			"women",
+			"erotica",
+			"orientalism",
+			"fantasy",
+			"exotic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1875,
+				"end": 1885,
+				"happiness": 5,
+				"location": "Vienna, Austria",
+				"events": [
+					"Born, began drawing at a young age"
+				]
+			},
+			{
+				"start": 1886,
+				"end": 1900,
+				"happiness": 7,
+				"location": "Vienna, Austria",
+				"events": [
+					"Studied at the Academy of Fine Arts",
+					"Published his early work in magazines"
+				]
+			},
+			{
+				"start": 1900,
+				"end": 1910,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Moved to Paris",
+					"Became popular for his postcard designs"
+				]
+			},
+			{
+				"start": 1911,
+				"end": 1917,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York after the death of his wife",
+					"Continued his work but with a declining health"
+				]
+			}
+		],
+		"genre": [
+			"Illustration",
+			"Postcard art",
+			"Pin-up art"
+		]
+	}
+]

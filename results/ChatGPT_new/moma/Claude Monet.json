@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Claude Monet",
+		"keywords": [
+			"nature",
+			"impressionism",
+			"light",
+			"water",
+			"landscapes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1840,
+				"end": 1851,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"was born",
+					"grew up with his mother and father"
+				]
+			},
+			{
+				"start": 1851,
+				"end": 1858,
+				"happiness": 7,
+				"location": "Le Havre, France",
+				"events": [
+					"entered the Le Havre secondary school of the arts",
+					"met artist Eugene Boudin who became his mentor"
+				]
+			},
+			{
+				"start": 1858,
+				"end": 1871,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"studied at the prestigious Paris art school - Ecole des Beaux-Arts",
+					"met Pierre-Auguste Renoir, Camille Pissarro, and Frederic Bazille"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1890,
+				"happiness": 5,
+				"location": "Argenteuil, France",
+				"events": [
+					"developed his technique of depicting the transitory effects of natural light with color",
+					"experienced financial hardship"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1908,
+				"happiness": 4,
+				"location": "Giverny, France",
+				"events": [
+					"purchased a house in Giverny",
+					"his wife Alice passed away"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1926,
+				"happiness": 3,
+				"location": "Giverny, France",
+				"events": [
+					"worked on his famous water lily paintings",
+					"suffered from cataracts"
+				]
+			}
+		],
+		"genre": [
+			"Impressionism"
+		]
+	}
+]

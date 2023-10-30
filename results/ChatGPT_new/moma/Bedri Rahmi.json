@@ -1,0 +1,89 @@
+[
+	{
+		"name": "Bedri Rahmi",
+		"keywords": [
+			"symbolism",
+			"nature",
+			"cultural heritage",
+			"folklore",
+			"Anatolian life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1911,
+				"end": 1918,
+				"happiness": 6,
+				"location": "Görele",
+				"events": [
+					"Born into a wealthy family"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1930,
+				"happiness": 7,
+				"location": "Istanbul",
+				"events": [
+					"Educated in Galatasaray High School",
+					"brother Abidin also showing interest in art"
+				]
+			},
+			{
+				"start": 1930,
+				"end": 1937,
+				"happiness": 8,
+				"location": "Paris",
+				"events": [
+					"Studied at the Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1949,
+				"happiness": 7,
+				"location": "Istanbul",
+				"events": [
+					"Met his wife Eren Eyüboğlu",
+					"started printing paintings",
+					"Started teaching at the Istanbul Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1951,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Conducted research on engravings"
+				]
+			},
+			{
+				"start": 1951,
+				"end": 1975,
+				"happiness": 8,
+				"location": "Istanbul",
+				"events": [
+					"Established his own workshop",
+					"Exhibited his works in various galleries globally",
+					"Named the 'Painter of the Year' in 1973"
+				]
+			},
+			{
+				"start": 1975,
+				"end": 1985,
+				"happiness": 6,
+				"location": "Istanbul",
+				"events": [
+					"Health problems began",
+					"received numerous awards",
+					"passed away in 1985"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Engravings",
+			"Murals"
+		]
+	}
+]

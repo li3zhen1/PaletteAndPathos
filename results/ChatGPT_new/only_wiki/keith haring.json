@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Keith Haring",
+		"keywords": [
+			"graffiti",
+			"street art",
+			"pop art",
+			"political statements",
+			"human condition"
+		],
+		"lifePeriods": [
+			{
+				"start": 1958,
+				"end": 1965,
+				"happiness": 7,
+				"location": "Reading, Pennsylvania",
+				"events": [
+					"born into middle-class family"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1976,
+				"happiness": 7,
+				"location": "Kutztown, Pennsylvania",
+				"events": [
+					"developed love for drawing"
+				]
+			},
+			{
+				"start": 1976,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Pittsburgh, Pennsylvania",
+				"events": [
+					"graduated from high school",
+					"enrolled in Ivy School of Professional Art"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1986,
+				"happiness": 9,
+				"location": "New York City, New York",
+				"events": [
+					"gained recognition for his graffiti",
+					"opened Pop Shop"
+				]
+			},
+			{
+				"start": 1986,
+				"end": 1990,
+				"happiness": 3,
+				"location": "New York City, New York",
+				"events": [
+					"diagnosed with AIDS",
+					"established Keith Haring Foundation"
+				]
+			}
+		],
+		"genre": [
+			"graffiti pop art",
+			"street art",
+			"contemporary art"
+		]
+	}
+]

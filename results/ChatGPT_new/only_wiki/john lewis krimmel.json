@@ -1,0 +1,27 @@
+[
+	{
+		"name": "John Lewis Krimmel",
+		"keywords": [
+			"Early American Life",
+			"everyday scenes",
+			"folk",
+			"rural",
+			"urban"
+		],
+		"lifePeriods": [
+			{
+				"start": 1786,
+				"end": 1821,
+				"happiness": 5,
+				"location": "Ebingen, Germany &#8594; Philadelphia, USA",
+				"events": [
+					"Emigrated to the United States",
+					"Recognized as the first genre painter in America"
+				]
+			}
+		],
+		"genre": [
+			"Genre Art"
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "José de Guimarães",
+		"keywords": [
+			"abstraction",
+			"symbolism",
+			"African Art",
+			"Chinese culture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1965,
+				"happiness": 5,
+				"location": "Guimaraes, Portugal",
+				"events": [
+					"Born",
+					"Graduated from the University of Porto in Civil Engineering"
+				]
+			},
+			{
+				"start": 1965,
+				"end": 1970,
+				"happiness": 6,
+				"location": "Angola",
+				"events": [
+					"Served as a military officer, studied African Art"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1990,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Worked as Artist",
+					"Exhibitions across the world"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"Received multiple accolades for work",
+					"Works kept in Museums"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Symbolism"
+		]
+	}
+]

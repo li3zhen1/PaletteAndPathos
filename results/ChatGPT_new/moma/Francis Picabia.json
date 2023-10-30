@@ -1,0 +1,89 @@
+[
+	{
+		"name": "Francis Picabia",
+		"keywords": [
+			"Dadaism",
+			"Surrealism",
+			"cubism",
+			"abstraction",
+			"machines"
+		],
+		"lifePeriods": [
+			{
+				"start": 1879,
+				"end": 1894,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"grew up in Paris",
+					"studied at the École des Arts Decoratifs"
+				]
+			},
+			{
+				"start": 1895,
+				"end": 1909,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"married Gabrielle Buffet",
+					"exhibited for the first time at the Salon des Indépendants"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 5,
+				"location": "New York City, USA; Barcelona, Spain",
+				"events": [
+					"introduced to Alfred Stieglitz and the 291 gallery",
+					"attended the first salon d'Automne"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1921,
+				"happiness": 5,
+				"location": "Barcelona, Spain; Zurich, Switzerland; New York City, USA",
+				"events": [
+					"became involved with Dada movement",
+					"published first issue of 391 in Barcelona"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1930,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"returned to France and was involved with the Paris Dada group",
+					"divorced Gabrielle Buffet"
+				]
+			},
+			{
+				"start": 1931,
+				"end": 1939,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"shifted to Surrealism",
+					"married Olga Mohler"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1953,
+				"happiness": 4,
+				"location": "Vichy, France",
+				"events": [
+					"witnessed World War II",
+					"painted a series of paintings called 'Transparences'"
+				]
+			}
+		],
+		"genre": [
+			"Dada",
+			"Surrealism",
+			"Cubism"
+		]
+	}
+]

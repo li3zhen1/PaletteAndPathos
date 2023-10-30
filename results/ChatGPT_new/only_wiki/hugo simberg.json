@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Hugo Simberg",
+		"keywords": [
+			"symbolism",
+			"fantasy",
+			"macabre",
+			"death",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1873,
+				"end": 1897,
+				"happiness": 5,
+				"location": "Hamina, Finland",
+				"events": [
+					"Developed interest in art",
+					"Began training at the Finnish Art Society’s drawing school"
+				]
+			},
+			{
+				"start": 1897,
+				"end": 1907,
+				"happiness": 6,
+				"location": "Helsinki, Finland",
+				"events": [
+					"Created iconic works like 'The Wounded Angel'",
+					"Participated in the Paris World Exposition"
+				]
+			},
+			{
+				"start": 1907,
+				"end": 1917,
+				"happiness": 4,
+				"location": "Tervakoski, Finland",
+				"events": [
+					"Completed frescoes at Tampere Cathedral",
+					"Contracted tuberculosis"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Fantasy"
+		]
+	}
+]

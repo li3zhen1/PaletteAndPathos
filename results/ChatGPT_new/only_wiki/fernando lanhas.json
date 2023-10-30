@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Fernando Lanhas",
+		"keywords": [
+			"nature",
+			"stars",
+			"abstraction"
+		],
+		"lifePeriods": [
+			{
+				"start": 1923,
+				"end": 1941,
+				"happiness": 6,
+				"location": "Porto, Portugal",
+				"events": [
+					"graduated from Escola de Belas Artes do Porto"
+				]
+			},
+			{
+				"start": 1941,
+				"end": 1980,
+				"happiness": 7,
+				"location": "Porto, Portugal",
+				"events": [
+					"worked as an engineer and architect, started painting"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 1991,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"developed his artistic style to abstraction"
+				]
+			},
+			{
+				"start": 1991,
+				"end": 2012,
+				"happiness": 5,
+				"location": "Porto, Portugal",
+				"events": [
+					"retired from architecture, fully focused on painting"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"landscape"
+		]
+	}
+]

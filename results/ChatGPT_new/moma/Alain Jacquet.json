@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Alain Jacquet",
+		"keywords": [
+			"pop art",
+			"camouflage",
+			"contemporary",
+			"photography",
+			"society"
+		],
+		"lifePeriods": [
+			{
+				"start": 1939,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Neuilly-sur-Seine, France",
+				"events": [
+					"Childhood period"
+				]
+			},
+			{
+				"start": 1949,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Ecole Superieure de Commerce"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Studied at the Academie de la Grande Chaumiere"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1970,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York and created his first Camouflages",
+					"Participation in the Salon de Mai"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 2008,
+				"happiness": 8,
+				"location": "New York, USA and Paris, France",
+				"events": [
+					"Permanent installation of his artwork, Le déjeuner sur l'herbe in Miami",
+					"Received the Grand Prize for painting at the Biennale de Sao Paulo"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Neo-figurative"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Allen Jones",
+		"keywords": [
+			"societal norms",
+			"erotica",
+			"female form",
+			"pop art",
+			"sculpture"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1955,
+				"happiness": 5,
+				"location": "Southampton, United Kingdom",
+				"events": [
+					"Born as Ronald Allen Jones"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1960,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"Studied at the Hornsey College of Art",
+					"Graduated from the Royal College of Art"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1961,
+				"happiness": 5,
+				"location": "Paris, France",
+				"events": [
+					"Suspended from Royal College of Art"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1963,
+				"happiness": 6,
+				"location": "London, United Kingdom",
+				"events": [
+					"Reinstated to the Royal College of Art",
+					"Member of the Pop art movement"
+				]
+			},
+			{
+				"start": 1963,
+				"end": 1980,
+				"happiness": 7,
+				"location": "London, United Kingdom",
+				"events": [
+					"Taught at Croydon College of Art",
+					"Produced iconic works like 'Hatstand', 'Table' and 'Chair'"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2022,
+				"happiness": 8,
+				"location": "London, United Kingdom",
+				"events": [
+					"Continued producing significant artwork"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Sculpture",
+			"Illustration"
+		]
+	}
+]

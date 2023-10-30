@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Modest Cuixart",
+		"keywords": [
+			"surrealism",
+			"abstract",
+			"emotion",
+			"dreams",
+			"symbolism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1925,
+				"end": 1943,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"spent his childhood",
+					"developed interest in painting"
+				]
+			},
+			{
+				"start": 1943,
+				"end": 1948,
+				"happiness": 6,
+				"location": "Barcelona, Spain",
+				"events": [
+					"studied at the Barcelona Superior School of Fine Arts"
+				]
+			},
+			{
+				"start": 1948,
+				"end": 1952,
+				"happiness": 8,
+				"location": "Paris, France",
+				"events": [
+					"founded the Dau al Set movement",
+					"developed surrealistic style"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1988,
+				"happiness": 7,
+				"location": "Barcelona, Spain",
+				"events": [
+					"experimented with different techniques and materials"
+				]
+			},
+			{
+				"start": 1988,
+				"end": 2007,
+				"happiness": 6,
+				"location": "Parets del Vallès, Spain",
+				"events": [
+					"continued creating works until his death"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Abstract art"
+		]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "André Marchand",
+		"keywords": [
+			"nature",
+			"cubism",
+			"figurative",
+			"colour"
+		],
+		"lifePeriods": [
+			{
+				"start": 1907,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Aix-en-Provence",
+				"events": [
+					"born in Aix-en-Provence"
+				]
+			},
+			{
+				"start": 1925,
+				"end": 1935,
+				"happiness": 5,
+				"location": "Paris",
+				"events": [
+					"studied at the Free Academy in Montparnasse",
+					"met his wife"
+				]
+			},
+			{
+				"start": 1936,
+				"end": 1945,
+				"happiness": 4,
+				"location": "Casablanca and Marrakech, Morocco",
+				"events": [
+					"moved to Morocco",
+					"experienced World War II"
+				]
+			},
+			{
+				"start": 1946,
+				"end": 1952,
+				"happiness": 6,
+				"location": "Paris",
+				"events": [
+					"won a prize",
+					"returned to Paris"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Aix-en-Provence",
+				"events": [
+					"established a studio in Aix-en-Provence"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1997,
+				"happiness": 5,
+				"location": "Provence",
+				"events": [
+					"continued painting",
+					"Passed away in Provence"
+				]
+			}
+		],
+		"genre": [
+			"Cubism",
+			"Post-Impressionism",
+			"Abstract Art"
+		]
+	}
+]

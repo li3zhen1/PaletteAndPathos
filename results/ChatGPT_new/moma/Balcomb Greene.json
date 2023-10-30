@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Balcomb Greene",
+		"keywords": [
+			"abstraction",
+			"cubism",
+			"figurative",
+			"symbols",
+			"nature"
+		],
+		"lifePeriods": [
+			{
+				"start": 1904,
+				"end": 1990,
+				"happiness": 6,
+				"location": "New York, USA",
+				"events": [
+					"Founded the American Abstract Artists group",
+					"Worked for the Federal Art Project"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Cubism"
+		]
+	}
+]

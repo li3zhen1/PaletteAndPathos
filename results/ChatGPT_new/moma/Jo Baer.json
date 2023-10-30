@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Jo Baer",
+		"keywords": [
+			"minimalism",
+			"nature",
+			"mysticism",
+			"archaic"
+		],
+		"lifePeriods": [
+			{
+				"start": 1929,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Los Angeles, United States",
+				"events": [
+					"completed a bachelor's degree in biology"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1960,
+				"happiness": 5,
+				"location": "San Francisco, United States",
+				"events": [
+					"started focusing on painting",
+					"worked as an art teacher"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1984,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"became one of the founders of Minimalist art movement",
+					"debuted her paintings in a group show at Solomon R. Guggenheim Museum"
+				]
+			},
+			{
+				"start": 1984,
+				"end": 2022,
+				"happiness": 8,
+				"location": "Amsterdam, Netherlands",
+				"events": [
+					"moved to Amsterdam",
+					"shifted art style, using motifs from prehistory, landscape, and astronomy"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Post-Minimalism"
+		]
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Edda Renouf",
+		"keywords": [
+			"texture",
+			"minimalism",
+			"nature",
+			"light",
+			"material"
+		],
+		"lifePeriods": [
+			{
+				"start": 1943,
+				"end": 1967,
+				"happiness": 6,
+				"location": "Mexico City",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1967,
+				"end": 1972,
+				"happiness": 8,
+				"location": "New York",
+				"events": [
+					"studied at Columbia University",
+					"started her career in art"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 2021,
+				"happiness": 7,
+				"location": "New York and Europe",
+				"events": [
+					"recognized in painting and drawing",
+					"worked with renowned galleries"
+				]
+			}
+		],
+		"genre": [
+			"Minimalism",
+			"Post-Minimalism"
+		]
+	}
+]

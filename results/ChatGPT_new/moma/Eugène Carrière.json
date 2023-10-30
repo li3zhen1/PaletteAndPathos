@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Eugène Carrière",
+		"keywords": [
+			"motherhood",
+			"portraits",
+			"mysticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1849,
+				"end": 1852,
+				"happiness": 5,
+				"location": "Gournay-sur-Marne, France",
+				"events": [
+					"Born to a poor family"
+				]
+			},
+			{
+				"start": 1864,
+				"end": 1870,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"Apprenticed to a lithographer",
+					"French-Prussian War started"
+				]
+			},
+			{
+				"start": 1871,
+				"end": 1881,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Married and started a family",
+					"Began artistic career"
+				]
+			},
+			{
+				"start": 1881,
+				"end": 1890,
+				"happiness": 6,
+				"location": "Paris, France",
+				"events": [
+					"Worked as a drawing teacher",
+					"Opened a free studio"
+				]
+			},
+			{
+				"start": 1890,
+				"end": 1906,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Painted numerous portraits",
+					"Started using monochrome palette"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Post-Impressionism"
+		]
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Eugenio Espinoza",
+		"keywords": [
+			"grid",
+			"form",
+			"geometric abstraction",
+			"space",
+			"conceptual"
+		],
+		"lifePeriods": [
+			{
+				"start": 1950,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Born in a relatively peaceful time in Venezuela"
+				]
+			},
+			{
+				"start": 1968,
+				"end": 1971,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Studied at Escuela de Artes Plásticas Cristóbal Rojas",
+					"Started experimenting with geometric abstraction"
+				]
+			},
+			{
+				"start": 1971,
+				"end": 1980,
+				"happiness": 5,
+				"location": "New York, USA",
+				"events": [
+					"Moved to New York, stimulated by the dynamic art scene",
+					"Began his exploration of the grid"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2010,
+				"happiness": 7,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"Returned to Caracas",
+					"Continued his experimental work",
+					"Gained recognition"
+				]
+			},
+			{
+				"start": 2010,
+				"end": 2022,
+				"happiness": 7,
+				"location": "Miami, USA",
+				"events": [
+					"Moved to Miami",
+					"Continued to produce significant artworks"
+				]
+			}
+		],
+		"genre": [
+			"Geometric abstraction",
+			"Conceptual art"
+		]
+	}
+]

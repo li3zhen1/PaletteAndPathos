@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Domingos Sequeira",
+		"keywords": [
+			"religion",
+			"portraits",
+			"history",
+			"politics",
+			"nudes"
+		],
+		"lifePeriods": [
+			{
+				"start": 1768,
+				"end": 1795,
+				"happiness": 7,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"studied at the Royal Academy of Fine Arts",
+					"moved to Rome to study art"
+				]
+			},
+			{
+				"start": 1795,
+				"end": 1808,
+				"happiness": 5,
+				"location": "Rome, Italy",
+				"events": [
+					"painted some of his most famous works",
+					"won the Rome Prize"
+				]
+			},
+			{
+				"start": 1808,
+				"end": 1826,
+				"happiness": 4,
+				"location": "Paris, France",
+				"events": [
+					"lived during Napoleonic Wars",
+					"had to flee from Rome due to the French invasion"
+				]
+			},
+			{
+				"start": 1826,
+				"end": 1834,
+				"happiness": 2,
+				"location": "Rome, Italy",
+				"events": [
+					"lived in exile due to liberal ideas",
+					"experienced economic hardship"
+				]
+			}
+		],
+		"genre": [
+			"History painting",
+			"Portraiture",
+			"Religious art"
+		]
+	}
+]

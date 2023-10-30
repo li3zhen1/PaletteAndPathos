@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Andrei Ryabushkin",
+		"keywords": [
+			"folklore",
+			"historical scenes",
+			"realism",
+			"nature",
+			"daily life"
+		],
+		"lifePeriods": [
+			{
+				"start": 1861,
+				"end": 1884,
+				"happiness": 4,
+				"location": "Tambov",
+				"events": [
+					"born into a peasant family"
+				]
+			},
+			{
+				"start": 1884,
+				"end": 1894,
+				"happiness": 6,
+				"location": "Saint Petersburg",
+				"events": [
+					"studied under Pavel Chistyakov",
+					"produced his first major works"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1904,
+				"happiness": 5,
+				"location": "Capri",
+				"events": [
+					"painting series of Russian historical scenes"
+				]
+			}
+		],
+		"genre": [
+			"Genre painting",
+			"History painting"
+		]
+	}
+]

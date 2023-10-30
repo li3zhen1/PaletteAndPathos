@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Augusto Giacometti",
+		"keywords": [
+			"color",
+			"nature",
+			"churches",
+			"symbolism",
+			"abstract"
+		],
+		"lifePeriods": [
+			{
+				"start": 1877,
+				"end": 1894,
+				"happiness": 5,
+				"location": "Stampa, Switzerland",
+				"events": [
+					"born into an artist family"
+				]
+			},
+			{
+				"start": 1894,
+				"end": 1901,
+				"happiness": 8,
+				"location": "Florence, Italy",
+				"events": [
+					"studying at the Florence Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1901,
+				"end": 1915,
+				"happiness": 7,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"became a Swiss citizen",
+					"gained prominence as a muralist"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1924,
+				"happiness": 6,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"influenced by Orphic Cubism"
+				]
+			},
+			{
+				"start": 1924,
+				"end": 1947,
+				"happiness": 5,
+				"location": "Zurich, Switzerland",
+				"events": [
+					"his work became abstract",
+					"created numerous stained glass windows for churches"
+				]
+			}
+		],
+		"genre": [
+			"Symbolism",
+			"Post-Impressionism",
+			"Abstract Art"
+		]
+	}
+]

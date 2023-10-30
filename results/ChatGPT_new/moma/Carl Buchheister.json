@@ -1,0 +1,91 @@
+[
+	{
+		"name": "Carl Buchheister",
+		"keywords": [
+			"abstract",
+			"constructivism",
+			"geometry",
+			"color",
+			"minimalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1890,
+				"end": 1910,
+				"happiness": 5,
+				"location": "Hanover, Germany",
+				"events": [
+					"began his studies at the Technische Hochschule Hannover"
+				]
+			},
+			{
+				"start": 1910,
+				"end": 1914,
+				"happiness": 5,
+				"location": "Berlin, Germany",
+				"events": [
+					"studied painting at the Royal School of Arts"
+				]
+			},
+			{
+				"start": 1914,
+				"end": 1918,
+				"happiness": 2,
+				"location": "Europe",
+				"events": [
+					"served in World War I"
+				]
+			},
+			{
+				"start": 1918,
+				"end": 1933,
+				"happiness": 7,
+				"location": "Hanover, Germany",
+				"events": [
+					"co-founder of the Hanover Secession"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1945,
+				"happiness": 3,
+				"location": "Hanover, Germany",
+				"events": [
+					"persecuted by the Nazis",
+					"artwork deemed 'degenerate'"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1950,
+				"happiness": 5,
+				"location": "Hanover, Germany",
+				"events": [
+					"re-established Hanover Secession"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1969,
+				"happiness": 6,
+				"location": "Hanover, Germany",
+				"events": [
+					"President of the German Artists League"
+				]
+			},
+			{
+				"start": 1969,
+				"end": 1969,
+				"happiness": 6,
+				"location": "Hanover, Germany",
+				"events": [
+					"Retired from art world"
+				]
+			}
+		],
+		"genre": [
+			"Abstract art",
+			"Constructivism"
+		]
+	}
+]

@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Yves Gaucher",
+		"keywords": [
+			"abstract",
+			"minimalism",
+			"geometry",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1934,
+				"end": 1949,
+				"happiness": 5,
+				"location": "Montreal, Canada",
+				"events": [
+					"Discovered his interest in art"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1954,
+				"happiness": 6,
+				"location": "Montreal, Canada",
+				"events": [
+					"Studied at the École des Beaux-Arts"
+				]
+			},
+			{
+				"start": 1955,
+				"end": 1960,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"Influenced by abstract expressionism",
+					"Began exploring geometric abstract art"
+				]
+			},
+			{
+				"start": 1961,
+				"end": 1980,
+				"happiness": 8,
+				"location": "Montreal, Canada",
+				"events": [
+					"Established as a leading figure in Canadian abstract art",
+					"Received Canada Council Senior Arts Fellowship"
+				]
+			},
+			{
+				"start": 1981,
+				"end": 2000,
+				"happiness": 7,
+				"location": "Montreal, Canada",
+				"events": [
+					"Awarded the Order of Canada",
+					"Developed health problems"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2000,
+				"happiness": 4,
+				"location": "Montreal, Canada",
+				"events": [
+					"Passed away"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Geometric Abstraction",
+			"Minimalism"
+		]
+	}
+]

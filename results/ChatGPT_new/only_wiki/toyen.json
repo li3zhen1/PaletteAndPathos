@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Toyen",
+		"keywords": [
+			"abstract",
+			"sexuality",
+			"dreams",
+			"natural elements",
+			"eroticism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1922,
+				"happiness": 5,
+				"location": "Prague",
+				"events": [
+					"started art education"
+				]
+			},
+			{
+				"start": 1922,
+				"end": 1938,
+				"happiness": 7,
+				"location": "Prague",
+				"events": [
+					"joined the Devetsil Artistic Union",
+					"became member of the surrealist group"
+				]
+			},
+			{
+				"start": 1938,
+				"end": 1950,
+				"happiness": 3,
+				"location": "Paris",
+				"events": [
+					"experienced World War II",
+					"active resistance against the Nazis"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1980,
+				"happiness": 4,
+				"location": "Paris",
+				"events": [
+					"retreated from public life",
+					"continued to create surrealist artwork"
+				]
+			}
+		],
+		"genre": [
+			"Surrealism",
+			"Cubism"
+		]
+	}
+]

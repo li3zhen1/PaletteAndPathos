@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Lee Gatch",
+		"keywords": [
+			"abstract",
+			"nature",
+			"mysticism",
+			"symbolism",
+			"color"
+		],
+		"lifePeriods": [
+			{
+				"start": 1902,
+				"end": 1922,
+				"happiness": 7,
+				"location": "Baltimore",
+				"events": [
+					"Developed interest in art"
+				]
+			},
+			{
+				"start": 1923,
+				"end": 1926,
+				"happiness": 8,
+				"location": "Baltimore",
+				"events": [
+					"Studied at Maryland Institute of Fine and Applied Arts"
+				]
+			},
+			{
+				"start": 1926,
+				"end": 1927,
+				"happiness": 8,
+				"location": "Philadelphia",
+				"events": [
+					"Studied at Pennsylvania Academy of Fine Arts"
+				]
+			},
+			{
+				"start": 1927,
+				"end": 1933,
+				"happiness": 9,
+				"location": "Paris",
+				"events": [
+					"Studied at Académie de la Grande Chaumière",
+					"Got influenced by modernist movements"
+				]
+			},
+			{
+				"start": 1933,
+				"end": 1940,
+				"happiness": 7,
+				"location": "New York",
+				"events": [
+					"Painted murals for the WPA Federal Art Project"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1968,
+				"happiness": 7,
+				"location": "Georgetown",
+				"events": [
+					"Got Guggenheim Fellowship",
+					"Work recognized by critics"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Art",
+			"Symbolism"
+		]
+	}
+]

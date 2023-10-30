@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Peter Max",
+		"keywords": [
+			"pop art",
+			"psychedelia",
+			"space",
+			"figures",
+			"symbols"
+		],
+		"lifePeriods": [
+			{
+				"start": 1937,
+				"end": 1953,
+				"happiness": 6,
+				"location": "Berlin, Germany",
+				"events": [
+					"Born"
+				]
+			},
+			{
+				"start": 1953,
+				"end": 1962,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Studied at the Art Students League of New York"
+				]
+			},
+			{
+				"start": 1962,
+				"end": 1970,
+				"happiness": 9,
+				"location": "New York, United States",
+				"events": [
+					"Emergence in pop art scene"
+				]
+			},
+			{
+				"start": 1970,
+				"end": 1980,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Worked on commercial projects"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2019,
+				"happiness": 7,
+				"location": "New York, United States",
+				"events": [
+					"Maintained a prolific career in the arts"
+				]
+			}
+		],
+		"genre": [
+			"Pop Art",
+			"Graphic Design",
+			"Illustration"
+		]
+	}
+]

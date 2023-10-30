@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Reginald Marsh",
+		"keywords": [
+			"urban life",
+			"poverty",
+			"social realism",
+			"theatre",
+			"Coney Island"
+		],
+		"lifePeriods": [
+			{
+				"start": 1898,
+				"end": 1916,
+				"happiness": 7,
+				"location": "Paris",
+				"events": [
+					"Born to artists parents",
+					"Early interest in arts"
+				]
+			},
+			{
+				"start": 1916,
+				"end": 1920,
+				"happiness": 6,
+				"location": "New Haven, CT",
+				"events": [
+					"Attended Yale University",
+					"Participated in Yale Record"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1954,
+				"happiness": 7,
+				"location": "New York City",
+				"events": [
+					"Worked at New Yorker as a caricaturist",
+					"Depicted scenes of urban life and the socially disadvantaged"
+				]
+			}
+		],
+		"genre": [
+			"Social Realism",
+			"art deco"
+		]
+	}
+]

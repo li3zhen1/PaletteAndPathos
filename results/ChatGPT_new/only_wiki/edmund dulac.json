@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Edmund Dulac",
+		"keywords": [
+			"Fantasy",
+			"Mythology",
+			"Fairy tales",
+			"Children's Books",
+			"Orientalism"
+		],
+		"lifePeriods": [
+			{
+				"start": 1882,
+				"end": 1904,
+				"happiness": 7,
+				"location": "Toulouse, France",
+				"events": [
+					"Graduated from Toulouse Art School"
+				]
+			},
+			{
+				"start": 1904,
+				"end": 1920,
+				"happiness": 8,
+				"location": "London, England",
+				"events": [
+					"Started work for Leicester Galleries",
+					"Met his wife"
+				]
+			},
+			{
+				"start": 1920,
+				"end": 1953,
+				"happiness": 6,
+				"location": "London, England",
+				"events": [
+					"Work significantly declined after death of his wife"
+				]
+			}
+		],
+		"genre": [
+			"Children's literature",
+			"Book illustration",
+			"Stamp design"
+		]
+	}
+]

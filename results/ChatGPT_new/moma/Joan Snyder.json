@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Joan Snyder",
+		"keywords": [
+			"feminism",
+			"emotion",
+			"symbolism",
+			"nature",
+			"biography"
+		],
+		"lifePeriods": [
+			{
+				"start": 1940,
+				"end": 1966,
+				"happiness": 6,
+				"location": "New Jersey, USA",
+				"events": [
+					"Born in Highland Park, New Jersey",
+					"Studied sociology at Douglass College"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1980,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Received MFA from Rutgers University",
+					"Began her professional painting career"
+				]
+			},
+			{
+				"start": 1980,
+				"end": 2000,
+				"happiness": 7,
+				"location": "New York, USA",
+				"events": [
+					"Won MacArthur Fellowship",
+					"Her work was exhibited in many galleries"
+				]
+			},
+			{
+				"start": 2000,
+				"end": 2022,
+				"happiness": 8,
+				"location": "New York, USA",
+				"events": [
+					"Her work was subject of a 50-year retrospective at Zimmerli Art Museum"
+				]
+			}
+		],
+		"genre": [
+			"Abstract Expressionism",
+			"Feminist Art"
+		]
+	}
+]

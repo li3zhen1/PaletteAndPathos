@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Alejandro Otero",
+		"keywords": [
+			"abstraction",
+			"geometric",
+			"progress",
+			"modernity",
+			"innovation"
+		],
+		"lifePeriods": [
+			{
+				"start": 1921,
+				"end": 1939,
+				"happiness": 6,
+				"location": "El Manteco, Venezuela",
+				"events": [
+					"born and raised"
+				]
+			},
+			{
+				"start": 1940,
+				"end": 1945,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"studied art at the Escuela de Artes Plásticas y Aplicadas"
+				]
+			},
+			{
+				"start": 1945,
+				"end": 1952,
+				"happiness": 7,
+				"location": "Paris, France",
+				"events": [
+					"moved to Paris",
+					"explored cubism and abstract art"
+				]
+			},
+			{
+				"start": 1952,
+				"end": 1960,
+				"happiness": 6,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"created Colorhythms series",
+					"founded El Frente group"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1990,
+				"happiness": 5,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"became a professor at the School of Fine Art"
+				]
+			},
+			{
+				"start": 1990,
+				"end": 1990,
+				"happiness": 2,
+				"location": "Caracas, Venezuela",
+				"events": [
+					"died in Caracas"
+				]
+			}
+		],
+		"genre": [
+			"abstract",
+			"modern",
+			"kinetic art"
+		]
+	}
+]

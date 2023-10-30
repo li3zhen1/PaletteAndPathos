@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Stanley Spencer",
+		"keywords": [
+			"religion",
+			"sexuality",
+			"domesticity",
+			"war",
+			"countryside"
+		],
+		"lifePeriods": [
+			{
+				"start": 1891,
+				"end": 1907,
+				"happiness": 5,
+				"location": "Cookham, Berkshire, England",
+				"events": [
+					"Born into a musical family"
+				]
+			},
+			{
+				"start": 1908,
+				"end": 1914,
+				"happiness": 7,
+				"location": "London, England",
+				"events": [
+					"Studied at the Slade School of Fine Art"
+				]
+			},
+			{
+				"start": 1915,
+				"end": 1918,
+				"happiness": 3,
+				"location": "Macedonia",
+				"events": [
+					"Served in World War I"
+				]
+			},
+			{
+				"start": 1919,
+				"end": 1937,
+				"happiness": 7,
+				"location": "Cookham, Berkshire, England",
+				"events": [
+					"Married Hilda Carline",
+					"Creating the 'Chapel of resurrection'"
+				]
+			},
+			{
+				"start": 1937,
+				"end": 1950,
+				"happiness": 3,
+				"location": "Cookham, Berkshire, England",
+				"events": [
+					"Divorced Hilda",
+					"Married Patricia Preece"
+				]
+			},
+			{
+				"start": 1950,
+				"end": 1959,
+				"happiness": 5,
+				"location": "Cookham, Berkshire, England",
+				"events": [
+					"Painted series of large-scale works known as the 'Reconciliation'"
+				]
+			}
+		],
+		"genre": [
+			"Post-Impressionism",
+			"Modern Art"
+		]
+	}
+]

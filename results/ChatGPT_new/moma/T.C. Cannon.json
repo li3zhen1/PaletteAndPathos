@@ -1,0 +1,66 @@
+[
+	{
+		"name": "T.C. Cannon",
+		"keywords": [
+			"Native American culture",
+			"social issues",
+			"war",
+			"colorful",
+			"stylish"
+		],
+		"lifePeriods": [
+			{
+				"start": 1946,
+				"end": 1959,
+				"happiness": 7,
+				"location": "Lawton, Oklahoma, U.S.",
+				"events": [
+					"Growing up in the Kiowa tribe"
+				]
+			},
+			{
+				"start": 1960,
+				"end": 1964,
+				"happiness": 5,
+				"location": "Santa Fe, New Mexico, U.S.",
+				"events": [
+					"Attended the Institute of American Indian Arts"
+				]
+			},
+			{
+				"start": 1964,
+				"end": 1966,
+				"happiness": 3,
+				"location": "Vietnam",
+				"events": [
+					"Served in Vietnam War",
+					"Awarded with National Defense Service Medal"
+				]
+			},
+			{
+				"start": 1966,
+				"end": 1972,
+				"happiness": 6,
+				"location": "Santa Fe, New Mexico, U.S.",
+				"events": [
+					"Produced significant body of artwork",
+					"Had solo art exhibition 'Two Guns Arikara'"
+				]
+			},
+			{
+				"start": 1972,
+				"end": 1978,
+				"happiness": 5,
+				"location": "Santa Fe, New Mexico, U.S.",
+				"events": [
+					"Received Guggenheim Fellowship",
+					"Died in a car accident at age 31"
+				]
+			}
+		],
+		"genre": [
+			"Native American Art",
+			"Contemporary Art"
+		]
+	}
+]

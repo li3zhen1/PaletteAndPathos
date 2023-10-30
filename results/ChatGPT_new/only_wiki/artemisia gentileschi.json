@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Artemisia Gentileschi",
+		"keywords": [
+			"feminism",
+			"heroism",
+			"mythology",
+			"womanhood",
+			"violence"
+		],
+		"lifePeriods": [
+			{
+				"start": 1593,
+				"end": 1612,
+				"happiness": 4,
+				"location": "Rome, Italy",
+				"events": [
+					"Discovered her passion for painting",
+					"Trained by her father, the artist Orazio Gentileschi"
+				]
+			},
+			{
+				"start": 1612,
+				"end": 1614,
+				"happiness": 1,
+				"location": "Rome, Italy",
+				"events": [
+					"Raped by Agostino Tassi",
+					"Underwent a harrowing seven-month trial"
+				]
+			},
+			{
+				"start": 1614,
+				"end": 1638,
+				"happiness": 6,
+				"location": "Florence, Italy",
+				"events": [
+					"Married Pierantonio Stiattesi",
+					"Became the first woman to become a member of the Accademia di Arte del Disegno"
+				]
+			},
+			{
+				"start": 1638,
+				"end": 1652,
+				"happiness": 5,
+				"location": "Naples, Italy",
+				"events": [
+					"Opened her own art studio",
+					"Created some of her most notable works"
+				]
+			},
+			{
+				"start": 1652,
+				"end": 1656,
+				"happiness": 4,
+				"location": "Naples, Italy",
+				"events": [
+					"Her work declined due to failing health",
+					"Death of Artemisia Gentileschi"
+				]
+			}
+		],
+		"genre": [
+			"Baroque",
+			"History painting",
+			"Christian art"
+		]
+	}
+]

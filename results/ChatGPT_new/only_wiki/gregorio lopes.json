@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Gregorio Lopes",
+		"keywords": [
+			"Christianity",
+			"religious art",
+			"portraiture",
+			"saints",
+			"biblical stories"
+		],
+		"lifePeriods": [
+			{
+				"start": 1490,
+				"end": 1550,
+				"happiness": 5,
+				"location": "Lisbon, Portugal",
+				"events": [
+					"Appointed court painter by King John III",
+					"Created significant religious works, including painting for the Monastery of Jerónimos"
+				]
+			}
+		],
+		"genre": [
+			"Renaissance",
+			"Religious Art",
+			"Portraiture"
+		]
+	}
+]
