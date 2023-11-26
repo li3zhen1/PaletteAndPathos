@@ -1,4 +1,4 @@
-<script lang="ts">
+<!-- <script lang="ts">
     import * as THREE from "three";
 
     // @ts-ignore
@@ -311,4 +311,4 @@
         height: 100vh;
         display: block;
     }
-</style>
+</style> -->

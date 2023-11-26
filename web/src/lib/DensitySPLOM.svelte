@@ -5,9 +5,12 @@
         type EmotionKey,
         type PCAKey,
         emojiMap,
+        type NumericColorCutKey,
+        getEmoji,
+        describeKey,
     } from "./EmotionAndColorCutData";
 
-    export let axisX: (EmotionKey | PCAKey)[];
+    export let axisX: (EmotionKey | NumericColorCutKey)[];
 
     export let axisY = axisX.toReversed();
 
@@ -16,14 +19,14 @@
 
 <div
     class="splom-container"
-    style="grid-template-columns: 4rem repeat({splomSize}, 1fr); grid-template-rows: 4rem repeat({splomSize}, 1fr);"
+    style="grid-template-columns: 4rem repeat({splomSize}, 22vh); grid-template-rows: 4rem repeat({splomSize}, 22vh);"
 >
     <div></div>
     {#each axisX as x, i}
         {#if i < axisX.length - 1}
             <div class="splom-axis-name splom-label-x">
-                <div>
-                    {x[0].toUpperCase() + x.slice(1)}&nbsp;<span class="emoji">{emojiMap.get(x)}</span>
+                <div class="splom-axis-name">
+                    {describeKey(x)}&nbsp;<span class="emoji">{getEmoji(x)}</span>
                 </div>
                 <div class="axis-number-x">
                     <span class="less">LESS</span>
@@ -38,7 +41,7 @@
         {#if i < axisX.length - 1}
             <div class="splom-label-y">
                 <div class="splom-axis-name splom-text-y">
-                    <span class="emoji">{emojiMap.get(y)}</span>&nbsp;{y[0].toUpperCase() + y.slice(1)}
+                    <span class="emoji">{getEmoji(y) ?? ""}</span>&nbsp;{describeKey(y)}
                 </div>
                 <div class="axis-number-y">
                     <span class="more splom-text-y">MORE</span>
@@ -75,8 +78,8 @@
 <style>
     .splom-container {
         display: grid;
-        grid-template-columns: 4rem repeat(4, 1fr);
-        grid-template-rows: 4rem repeat(4, 1fr);
+        grid-template-columns: 4rem repeat(4, 22vh);
+        grid-template-rows: 4rem repeat(4, 22vh);
         max-height: 96vh;
         min-width: 760px;
         max-width: 96vh;

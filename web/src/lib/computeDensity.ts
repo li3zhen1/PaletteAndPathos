@@ -1,16 +1,16 @@
 import * as d3 from "d3";
-import type { ImageEmotionAndColorCutData, EmotionKey, PCAKey } from "./EmotionAndColorCutData";
+import type { ImageEmotionAndColorCutData, EmotionKey, PCAKey, NumericColorCutKey } from "./EmotionAndColorCutData";
 
-export async function loadPrecomputedDensity(x: EmotionKey|PCAKey, y: EmotionKey|PCAKey) {
-    const response = await fetch(`/${x}_${y}.json`);
+export async function loadPrecomputedDensity(x: EmotionKey | NumericColorCutKey, y: EmotionKey | NumericColorCutKey) {
+    const response = await fetch(`/dens/${x}_${y}.json`);
     const data = await response.json();
     return data;
 }
 
 export function computeDensity(
     data: ImageEmotionAndColorCutData[],
-    _size: [number, number], 
-    _axis: [EmotionKey | PCAKey, EmotionKey | PCAKey]
+    _size: [number, number],
+    _axis: [EmotionKey | NumericColorCutKey, EmotionKey | NumericColorCutKey]
 ) {
     const [width, height] = _size;
 
@@ -59,9 +59,9 @@ export function computeDensity(
                 (it) => it * desityScale,
             ),
         )(
-        // .bandwidth(10)
-        __data,
-    );
+            // .bandwidth(10)
+            __data,
+        );
 
     return {
         moma: { density },

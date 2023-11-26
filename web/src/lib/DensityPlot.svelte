@@ -6,19 +6,20 @@
         type ImageEmotionAndColorCutData,
         type EmotionKey,
         type PCAKey,
+        type NumericColorCutKey,
     } from "./EmotionAndColorCutData";
     import _ from "lodash";
     import Color from "color";
     import { loadPrecomputedDensity } from "./computeDensity";
 
-    export let axis: [EmotionKey | PCAKey, EmotionKey | PCAKey];
+    export let axis: [EmotionKey | NumericColorCutKey, EmotionKey | NumericColorCutKey];
 
     let svgContainer: SVGGElement;
     let svgRoot: SVGSVGElement;
 
     async function loadDensity(
         _size: [number, number],
-        _axis: [EmotionKey | PCAKey, EmotionKey | PCAKey],
+        _axis: [EmotionKey | NumericColorCutKey, EmotionKey | NumericColorCutKey],
     ) {
         // load "density.json"
         // const response = await fetch("/density.json");
@@ -186,6 +187,6 @@
         border-radius: 4px;
         overflow: hidden;
         width: 100%;
-        height: 100%;
+        aspect-ratio: 1/1;
     }
 </style>
