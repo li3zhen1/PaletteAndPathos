@@ -18,7 +18,7 @@ export type PCAKey = "pca1" | "pca2" | "pca3";
 
 export const PCAKeys: PCAKey[] = ["pca1", "pca2", "pca3"];
 
-export const emojiMap = new Map<EmotionKey, string>([
+export const emojiMap = new Map<string, string>([
     ["amusement", "🥰"],
     ["awe", "😲"],
     ["contentment", "🥳"],

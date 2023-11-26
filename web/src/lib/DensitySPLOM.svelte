@@ -21,9 +21,9 @@
     <div></div>
     {#each axisX as x, i}
         {#if i < axisX.length - 1}
-            <div class="splom-label-x">
+            <div class="splom-axis-name splom-label-x">
                 <div>
-                    {x[0].toUpperCase() + x.slice(1)}&nbsp;{emojiMap.get(x)}
+                    {x[0].toUpperCase() + x.slice(1)}&nbsp;<span class="emoji">{emojiMap.get(x)}</span>
                 </div>
                 <div class="axis-number-x">
                     <span class="less">LESS</span>
@@ -37,8 +37,8 @@
     {#each axisY as y, i}
         {#if i < axisX.length - 1}
             <div class="splom-label-y">
-                <div class="splom-text-y">
-                    {y[0].toUpperCase() + y.slice(1)}&nbsp;{emojiMap.get(y)}
+                <div class="splom-axis-name splom-text-y">
+                    <span class="emoji">{emojiMap.get(y)}</span>&nbsp;{y[0].toUpperCase() + y.slice(1)}
                 </div>
                 <div class="axis-number-y">
                     <span class="more splom-text-y">MORE</span>
@@ -65,7 +65,10 @@
     {/each}
 
     <div class="hero-title hero-title1">
-        <h1>Emotions in<br/><span class="moma">MoMA</span> & <span class="wiki">WikiArt</span></h1>
+        <h1>
+            Emotions in<br /><span class="moma">MoMA</span> &
+            <span class="wiki">WikiArt</span>
+        </h1>
     </div>
 </div>
 
@@ -86,7 +89,7 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        padding: 24px 8px 0 8px;
+        padding: 16px 8px 0 8px;
         gap: 8px;
         font-weight: 600;
     }
@@ -96,7 +99,7 @@
 
         align-items: center;
         justify-content: center;
-        padding: 8px 0 8px 24px;
+        padding: 8px 0 8px 16px;
         gap: 8px;
         font-weight: 600;
     }
@@ -130,7 +133,6 @@
         gap: 4px;
     }
 
-
     .less {
         opacity: 0.4;
     }
@@ -163,7 +165,9 @@
         position: relative;
         overflow: visible;
         font-size: 3.5rem;
-        font-variation-settings: "opsz" 32, "wght" 560;
+        font-variation-settings:
+            "opsz" 32,
+            "wght" 560;
     }
 
     .hero-title1 {
@@ -177,10 +181,19 @@
     }
 
     .wiki {
-        color:rgba(64,70,201,1);
+        color: rgba(64, 70, 201, 1);
     }
 
     .moma {
-        color:rgba(246,133,18,1);
+        color: rgba(246, 133, 18, 1);
+    }
+
+    .emoji {
+        font-size: 1.25rem;
+    }
+
+    .splom-axis-name {
+        display: flex;
+        align-items: center;
     }
 </style>
