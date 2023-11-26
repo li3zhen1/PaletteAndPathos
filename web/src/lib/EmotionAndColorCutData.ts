@@ -38,9 +38,9 @@ export interface ImageEmotionAndColorCutData {
     pca3: number;
 }
 
-export async function loadData(): Promise<ImageEmotionAndColorCutData[]> {
+export async function loadData(normalize = false): Promise<ImageEmotionAndColorCutData[]> {
     const data = await d3.csv("final.csv");
-    return data.map(
+    const _data = data.map(
         (d) =>
         ({
             ObjectID: d.ObjectID,
@@ -73,4 +73,15 @@ export async function loadData(): Promise<ImageEmotionAndColorCutData[]> {
             pca3: +d.pca3,
         } as ImageEmotionAndColorCutData)
     );
+    if (normalize) {
+        const normalizedCols = ["amusement", "awe", "contentment", "excitement", "anger", "disgust", "fear", "sadness", "something else", "pca1", "pca2", "pca3"] as const;
+        for (const col of normalizedCols) {
+            const min = d3.min(_data, (d) => d[col])!;
+            const max = d3.max(_data, (d) => d[col])!;
+            for (const d of _data) {
+                d[col] = (d[col] - min) / (max - min);
+            }
+        }
+    }
+    return _data;
 }
