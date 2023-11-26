@@ -14,6 +14,8 @@
 
     export let axisY = axisX.toReversed();
 
+    export let showTitle = true;
+
     $: splomSize = axisX.length - 1;
 </script>
 
@@ -26,7 +28,9 @@
         {#if i < axisX.length - 1}
             <div class="splom-axis-name splom-label-x">
                 <div class="splom-axis-name">
-                    {describeKey(x)}&nbsp;<span class="emoji">{getEmoji(x)}</span>
+                    {describeKey(x)}&nbsp;<span class="emoji"
+                        >{getEmoji(x)}</span
+                    >
                 </div>
                 <div class="axis-number-x">
                     <span class="less">LESS</span>
@@ -41,7 +45,8 @@
         {#if i < axisX.length - 1}
             <div class="splom-label-y">
                 <div class="splom-axis-name splom-text-y">
-                    <span class="emoji">{getEmoji(y) ?? ""}</span>&nbsp;{describeKey(y)}
+                    <span class="emoji">{getEmoji(y) ?? ""}</span
+                    >&nbsp;{describeKey(y)}
                 </div>
                 <div class="axis-number-y">
                     <span class="more splom-text-y">MORE</span>
@@ -67,12 +72,14 @@
         {/each}
     {/each}
 
-    <div class="hero-title hero-title1">
-        <h1>
-            Emotions & Colors<br /> in <span class="moma">MoMA</span> &
-            <span class="wiki">WikiArt</span>
-        </h1>
-    </div>
+    {#if showTitle}
+        <div class="hero-title hero-title1">
+            <h1>
+                Emotions & Colors<br /> in <span class="moma">MoMA</span> &
+                <span class="wiki">WikiArt</span>
+            </h1>
+        </div>
+    {/if}
 </div>
 
 <style>
@@ -184,7 +191,7 @@
     }
 
     .wiki {
-        color: rgba(64, 70, 201, 1);
+        color: rgba(24, 120, 201, 1);
     }
 
     .moma {

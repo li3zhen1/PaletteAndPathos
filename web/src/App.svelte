@@ -50,7 +50,7 @@
 <main>
     <!-- <Plot3D /> -->
 
-    <DensitySplom {axisX} />
+    <DensitySplom {axisX} showTitle />
 </main>
 
 <style>

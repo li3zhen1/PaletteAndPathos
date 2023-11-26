@@ -108,9 +108,13 @@
         // .scaleSequential(d3.interpolateViridis)
         //     .domain([0, d3.max(density, (d) => d.value) as number]);
         const maxValue = d3.max(density, (d) => d.value) as number;
-        const accentColor = new Color(`rgba(64,70,201)`);
+        // const accentColor = new Color(`rgba(64,70,201)`);
+        const accentColor = new Color(`rgb(24, 120, 201)`);
         const color = (d: d3.ContourMultiPolygon) => {
-            return accentColor.lighten(1 - d.value / maxValue).hex();
+            return accentColor
+            .lighten(1 - d.value / maxValue)
+            .alpha(0.2 + 0.4 * (d.value / maxValue))
+            .hexa();
         };
 
         const { density: moma_density } = data.moma;
