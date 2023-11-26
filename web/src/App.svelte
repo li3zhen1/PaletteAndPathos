@@ -23,14 +23,21 @@
         // a.href = URL.createObjectURL(new Blob([JSON.stringify(density)], { type: "application/json" }));
         // a.download = "density.json";
         // a.click();
-
     });
+
+    const axisX: EmotionKey[] = [
+        "contentment",
+        "excitement",
+        "something else",
+        "sadness",
+        "anger",
+    ];
 </script>
 
 <main>
     <!-- <Plot3D /> -->
 
-    <DensitySplom axisX={["contentment", "something else", "sadness", "anger"]} />
+    <DensitySplom {axisX} />
 </main>
 
 <style>

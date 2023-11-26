@@ -12,6 +12,18 @@ export type PCAKey = "pca1" | "pca2" | "pca3";
 
 export const PCAKeys: PCAKey[] = ["pca1", "pca2", "pca3"];
 
+export const emojiMap = new Map<EmotionKey, string>([
+    ["amusement", "🥰"],
+    ["awe", "😲"],
+    ["contentment", "🥳"],
+    ["excitement", "😎"],
+    ["anger", "😡"],
+    ["disgust", "🤮"],
+    ["fear", "😱"],
+    ["sadness", "😢"],
+    ["something else", "🤔"],
+]);
+
 export interface ImageEmotionAndColorCutData {
     ObjectID: string;
     category: string;

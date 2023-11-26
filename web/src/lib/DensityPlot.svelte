@@ -136,17 +136,18 @@
                 .attr("x2", width)
                 .attr("y1", (height / 4) * i)
                 .attr("y2", (height / 4) * i)
+                .attr("stroke-width", 2)
                 .attr("stroke", "#e1e2e4")
                 .attr("stroke-dasharray", "3,3")
                 .attr("stroke-width", 2);
         }
 
         svg.append("rect")
-            .attr("width", width - 2)
-            .attr("height", height - 2)
-            .attr("transform", `translate(${1}, ${1})`)
+            .attr("width", width - 4)
+            .attr("height", height - 4)
+            .attr("transform", `translate(${2}, ${2})`)
             .attr("stroke", "#e1e2e4")
-            .attr("stroke-width", 2)
+            .attr("stroke-width", 4)
             .attr("rx", 8)
             .attr("ry", 8)
             .attr("fill", "none");
@@ -184,5 +185,7 @@
     svg {
         border-radius: 4px;
         overflow: hidden;
+        width: 100%;
+        height: 100%;
     }
 </style>
