@@ -19,7 +19,7 @@ jobs:
   deploy:
     environment:
       # Mandatory settings for GitHub Pages deployment
-      name: github-pages
+      name: ubuntu-latest
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
     steps:
