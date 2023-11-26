@@ -4,104 +4,103 @@
     import {
         loadData,
         type ImageEmotionAndColorCutData,
+        type EmotionKey,
+        type PCAKey,
     } from "./EmotionAndColorCutData";
     import _ from "lodash";
     import Color from "color";
+    import { loadPrecomputedDensity } from "./computeDensity";
 
-    let svgContainer: SVGSVGElement;
+    export let axis: [EmotionKey | PCAKey, EmotionKey | PCAKey];
 
-    async function loadDataAndComputeDensity() {
-        const data = await loadData(true);
-        const angerExtent = d3.extent(data, (d) => d.anger) as [number, number];
-        const contentmentExtent = d3.extent(data, (d) => d.contentment) as [
-            number,
-            number,
-        ];
+    let svgContainer: SVGGElement;
+    let svgRoot: SVGSVGElement;
 
-        // normalize to 0-1
-        const _data = data
-            .filter((it) => it.category === "Moma")
-            .map((d) => {
-                let anger =
-                    (d.anger - angerExtent[0]) /
-                    (angerExtent[1] - angerExtent[0]);
-                let contentment =
-                    (d.contentment - contentmentExtent[0]) /
-                    (contentmentExtent[1] - contentmentExtent[0]);
-                return [d.contentment * 300, 300*(1-d.anger)] as [
-                    number,
-                    number,
-                ];
-            });
+    async function loadDensity(
+        _size: [number, number],
+        _axis: [EmotionKey | PCAKey, EmotionKey | PCAKey],
+    ) {
+        // load "density.json"
+        // const response = await fetch("/density.json");
+        // const data = await response.json();
+        // return data[_axis[0]][_axis[1]];
+        return await loadPrecomputedDensity(_axis[0], _axis[1]);
 
-        const __data = data
-            .filter((it) => it.category !== "Moma")
-            .map((d) => {
-                // let anger = d.anger
-                //     (d.anger - angerExtent[0]) /
-                //     (angerExtent[1] - angerExtent[0]);
-                // let contentment =
-                //     (d.contentment - contentmentExtent[0]) /
-                //     (contentmentExtent[1] - contentmentExtent[0]);
-                return [d.contentment * 300, 300*(1-d.anger)] as [
-                    number,
-                    number,
-                ];
-            });
+        // const [width, height] = _size;
 
-        const density = d3
-            .contourDensity()
-            .x((d) => d[0])
-            .y((d) => d[1])
-            .bandwidth(10)
-            .size([300, 300])
-            // .bandwidth(2)
-            .thresholds(
-                // _.range(0, 100, 10)
-                // [1, 2, 4, 8, 16],
-                // _.range(0, 0.15, 0.015),
-                [
-                    0.001, 0.002, 0.003, 0.004, 0.005, 0.006, 0.008, 0.0012,
-                    0.016, 0.032, 0.048, 0.064, 0.096, 0.128,
-                ],
-            )(_data);
+        // const desityScale = (300 * 300) / (width * height);
 
-        const _density = d3
-            .contourDensity()
-            .x((d) => d[0])
-            .y((d) => d[1])
-            .bandwidth(5)
-            .size([300, 300])
-            .thresholds([
-                0.5, 1.0, 2.0, 4.0, 6.0, 8.0, 10.0, 12.0
-            ])(
-            // .bandwidth(10)
-            __data,
-        );
+        // // normalize to 0-1
+        // const _data = data
+        //     .filter((it) => it.category === "Moma")
+        //     .map((d) => {
+        //         return [d[_axis[0]] * width, height * (1 - d[_axis[1]])] as [
+        //             number,
+        //             number,
+        //         ];
+        //     });
 
-        return {
-            moma: { data: _data, density },
-            wiki: { data: __data, density: _density },
-        };
+        // const __data = data
+        //     .filter((it) => it.category !== "Moma")
+        //     .map((d) => {
+        //         return [d[_axis[0]] * width, height * (1 - d[_axis[1]])] as [
+        //             number,
+        //             number,
+        //         ];
+        //     });
+
+        // const density = d3
+        //     .contourDensity()
+        //     .x((d) => d[0])
+        //     .y((d) => d[1])
+        //     .bandwidth(10)
+        //     .size([width, height])
+        //     .thresholds(
+        //         [
+        //             0.001, 0.002, 0.003, 0.004, 0.005, 0.006, 0.008, 0.0012,
+        //             0.016, 0.032, 0.048, 0.064, 0.096, 0.128,
+        //         ].map((it) => it * desityScale),
+        //     )(_data);
+
+        // const _density = d3
+        //     .contourDensity()
+        //     .x((d) => d[0])
+        //     .y((d) => d[1])
+        //     .bandwidth(5)
+        //     .size([width, height])
+        //     .thresholds(
+        //         [0.5, 1.0, 2.0, 4.0, 6.0, 8.0, 10.0, 12.0].map(
+        //             (it) => it * desityScale,
+        //         ),
+        //     )(
+        //     // .bandwidth(10)
+        //     __data,
+        // );
+
+        // return {
+        //     moma: { density },
+        //     wiki: { density: _density },
+        //     width: width,
+        //     height: height,
+        // };
     }
 
     function renderPlot(
-        svgRef: SVGSVGElement,
-        data: Awaited<ReturnType<typeof loadDataAndComputeDensity>>,
+        svgRef: SVGGElement,
+        data: {
+            moma: { density: d3.ContourMultiPolygon[] };
+            wiki: { density: d3.ContourMultiPolygon[] };
+            width: number;
+            height: number;
+        },
     ) {
-        const { data: _data, density } = data.wiki;
-        const width = 300;
-        const height = 300;
-        const margin = 20;
+        // svgRoot.setAttribute("width", size[0].toString());
+        // svgRoot.setAttribute("height", size[1].toString());
+        svgRoot.setAttribute("viewBox", `0 0 ${400} ${400}`);
+        const { width, height } = data;
+        const { density } = data.wiki;
+
         const svg = d3.select(svgRef);
-        const x = d3
-            .scaleLinear()
-            .domain([0, 1])
-            .range([margin, width - margin]);
-        const y = d3
-            .scaleLinear()
-            .domain([0, 1])
-            .range([height - margin, margin]);
 
         // blue with opacity d.value
 
@@ -121,14 +120,43 @@
             return accentColorMoma.lighten(1 - d.value / maxValueMoma).hex();
         };
 
-        // .domain([0.15, 0]);
+        for (let i = 1; i < 4; i++) {
+            svg.append("line")
+                .attr("x1", (width / 4) * i)
+                .attr("x2", (width / 4) * i)
+                .attr("y1", height)
+                .attr("y2", 0)
+                .attr("stroke", "#e1e2e4")
+                // dash
+                .attr("stroke-dasharray", "3,3")
+                .attr("stroke-width", 2);
+
+            svg.append("line")
+                .attr("x1", 0)
+                .attr("x2", width)
+                .attr("y1", (height / 4) * i)
+                .attr("y2", (height / 4) * i)
+                .attr("stroke", "#e1e2e4")
+                .attr("stroke-dasharray", "3,3")
+                .attr("stroke-width", 2);
+        }
+
+        svg.append("rect")
+            .attr("width", width - 2)
+            .attr("height", height - 2)
+            .attr("transform", `translate(${1}, ${1})`)
+            .attr("stroke", "#e1e2e4")
+            .attr("stroke-width", 2)
+            .attr("rx", 8)
+            .attr("ry", 8)
+            .attr("fill", "none");
 
         svg.append("g")
+            .style("mix-blend-mode", "multiply")
             .selectAll("path")
             .data(density)
             .join("path")
             .attr("fill", color)
-            // .attr("transform", `translate(150, 150)`)
             .attr("d", d3.geoPath());
 
         svg.append("g")
@@ -137,32 +165,24 @@
             .data(moma_density)
             .join("path")
             .attr("fill", colorMoma)
-            // .attr("transform", `translate(150, 150)`)
             .attr("d", d3.geoPath());
 
-        // svg
-        //     .append("g")
-        //     .selectAll("circle")
-        //     .data(_data)
-        //     .join("circle")
-        //     .attr("cx", (d) => x(d[0]))
-        //     .attr("cy", (d) => y(d[1]))
-        //     .attr("r", 1.5);
+        svg.attr("loaded", "true");
     }
 
     onMount(async () => {
-        const data = await loadDataAndComputeDensity();
-        renderPlot(svgContainer, data);
+        const density = await loadDensity([400, 400], axis);
+        renderPlot(svgContainer, density);
     });
 </script>
 
-<div>
-    <svg viewBox="0 0 300 300" bind:this={svgContainer}> </svg>
-</div>
+<svg bind:this={svgRoot} data-axis={`${axis[0]}-${axis[1]}`}>
+    <g class="require-load" bind:this={svgContainer}></g>
+</svg>
 
 <style>
     svg {
-        width: 300px;
-        height: 300px;
+        border-radius: 4px;
+        overflow: hidden;
     }
 </style>

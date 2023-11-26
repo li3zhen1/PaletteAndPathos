@@ -10,6 +10,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.require-load {
+    opacity: 0;
+}
+
+.require-load[loaded="true"] {
+    opacity: 1!important;
+    transition: opacity 0.5s ease-in-out;
+}
+
 
 body {
   margin: 0;

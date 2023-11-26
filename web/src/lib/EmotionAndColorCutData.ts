@@ -2,9 +2,15 @@ import * as d3 from "d3";
 
 export type EmotionKey = "amusement" | "awe" | "contentment" | "excitement" | "anger" | "disgust" | "fear" | "sadness" | "something else";
 
+export const EmotionKeys: EmotionKey[] = ["amusement", "awe", "contentment", "excitement", "anger", "disgust", "fear", "sadness", "something else"];
+
 export type ColorCutKey = "cutBy2_0" | "cutBy2_1" | "cutBy4_0" | "cutBy4_1" | "cutBy4_2" | "cutBy4_3" | "cutBy8_0" | "cutBy8_1" | "cutBy8_2" | "cutBy8_3" | "cutBy8_4" | "cutBy8_5" | "cutBy8_6" | "cutBy8_7";
 
+export const ColorCutKeys: ColorCutKey[] = ["cutBy2_0", "cutBy2_1", "cutBy4_0", "cutBy4_1", "cutBy4_2", "cutBy4_3", "cutBy8_0", "cutBy8_1", "cutBy8_2", "cutBy8_3", "cutBy8_4", "cutBy8_5", "cutBy8_6", "cutBy8_7"];
+
 export type PCAKey = "pca1" | "pca2" | "pca3";
+
+export const PCAKeys: PCAKey[] = ["pca1", "pca2", "pca3"];
 
 export interface ImageEmotionAndColorCutData {
     ObjectID: string;
@@ -38,7 +44,13 @@ export interface ImageEmotionAndColorCutData {
     pca3: number;
 }
 
+let dataCache: ImageEmotionAndColorCutData[] | null = null;
+
 export async function loadData(normalize = false): Promise<ImageEmotionAndColorCutData[]> {
+    if (dataCache) {
+        return dataCache;
+    }
+
     const data = await d3.csv("final.csv");
     const _data = data.map(
         (d) =>
@@ -82,6 +94,7 @@ export async function loadData(normalize = false): Promise<ImageEmotionAndColorC
                 d[col] = (d[col] - min) / (max - min);
             }
         }
+        dataCache = _data;
     }
     return _data;
 }
