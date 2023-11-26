@@ -6,23 +6,13 @@
         type EmotionKey,
         type PCAKey,
         EmotionKeys,
+        type NumericColorCutKey,
+        ExtendedColorCutKeys,
     } from "./lib/EmotionAndColorCutData";
     import { computeDensity } from "./lib/computeDensity";
 
     onMount(async () => {
-        // const data = await loadData(true);
-        // const density: Partial<Record<EmotionKey | PCAKey, Partial<Record<EmotionKey | PCAKey, any>>>> = {};
-        // for (const x of EmotionKeys) {
-        //     density[x] = {};
-        //     for (const y of EmotionKeys) {
-        //         density[x]![y] = computeDensity(data, [400, 400], [x, y]);
-        //     }
-        // }
-        // // download
-        // const a = document.createElement("a");
-        // a.href = URL.createObjectURL(new Blob([JSON.stringify(density)], { type: "application/json" }));
-        // a.download = "density.json";
-        // a.click();
+
     });
 
     const axisX: EmotionKey[] = [

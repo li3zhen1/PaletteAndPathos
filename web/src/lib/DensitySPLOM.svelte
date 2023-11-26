@@ -49,12 +49,24 @@
         {/if}
         {#each axisX as x, j}
             {#if i + j < axisX.length - 1}
-                <DensityPlot axis={[x, y]} />
+                <div
+                    style="grid-row: {i + 2}/{i + 3}; grid-column: {j + 2}/{j +
+                        3};"
+                >
+                    <DensityPlot axis={[x, y]} />
+                </div>
             {:else if i !== axisX.length - 1 && j !== axisX.length - 1}
-                <div></div>
+                <div
+                    style="grid-row: {i + 2}/{i + 3}; grid-column: {j + 2}/{j +
+                        3};"
+                ></div>
             {/if}
         {/each}
     {/each}
+
+    <div class="hero-title hero-title1">
+        <h1>Emotions in<br/><span class="moma">MoMA</span> & <span class="wiki">WikiArt</span></h1>
+    </div>
 </div>
 
 <style>
@@ -94,7 +106,7 @@
         /* transform: rotate(180deg); */
     }
 
-    .axis-number-x{
+    .axis-number-x {
         width: 100%;
         height: auto;
         display: flex;
@@ -118,6 +130,7 @@
         gap: 4px;
     }
 
+
     .less {
         opacity: 0.4;
     }
@@ -129,9 +142,45 @@
     }
 
     .gradient-link-y {
-
         width: 1.5px;
         height: 100%;
         background: linear-gradient(to top, #aaaaaa30, #aaaaaaff);
+    }
+
+    h1 {
+        margin-block-start: 0;
+        margin-block-end: 0;
+        line-height: 0.9;
+        letter-spacing: -0.25rem;
+    }
+    .hero-title {
+        width: 0;
+        /* no wrap */
+        white-space: nowrap;
+        display: flex;
+        height: 0;
+        align-items: end;
+        position: relative;
+        overflow: visible;
+        font-size: 3.5rem;
+        font-variation-settings: "opsz" 32, "wght" 560;
+    }
+
+    .hero-title1 {
+        grid-row: 5/6;
+        grid-column: 5/6;
+    }
+
+    .hero-title2 {
+        grid-row: 6/7;
+        grid-column: 5/6;
+    }
+
+    .wiki {
+        color:rgba(64,70,201,1);
+    }
+
+    .moma {
+        color:rgba(246,133,18,1);
     }
 </style>

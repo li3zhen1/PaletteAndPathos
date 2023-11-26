@@ -1,8 +1,10 @@
+
+
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: InterVariable, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  
+  font-feature-settings: 'liga' 1, 'calt' 1, 'dlig' 1;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
