@@ -1,0 +1,36 @@
+name: deploy
+
+on:
+  # trigger this workflow whenever "main" branch has been pushed
+  push:
+    branches: [ "main" ]
+
+# Set up GITHUB_TOKEN permission for the deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+# Allow workflow concurrency
+# concurrency:
+#   group: "pages"
+#   cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      # Mandatory settings for GitHub Pages deployment
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: self-hosted
+    steps:
+    - name: Checkout 🛎️
+      uses: actions/checkout@v3
+    - name: Build
+      run: cd web && npm i && npm run build && cd ../
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+      with:
+        path: 'web/dist'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v1
