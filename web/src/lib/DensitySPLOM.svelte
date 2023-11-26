@@ -69,7 +69,7 @@
 
     <div class="hero-title hero-title1">
         <h1>
-            Emotions in<br /><span class="moma">MoMA</span> &
+            Emotions & Colors<br /> in <span class="moma">MoMA</span> &
             <span class="wiki">WikiArt</span>
         </h1>
     </div>
