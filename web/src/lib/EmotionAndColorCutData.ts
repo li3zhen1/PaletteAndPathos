@@ -3,7 +3,7 @@ import Color from "color";
 
 export type EmotionKey = "amusement" | "awe" | "contentment" | "excitement" | "anger" | "disgust" | "fear" | "sadness" | "something else";
 
-export const EmotionKeys: EmotionKey[] = ["amusement", "awe", "contentment", "excitement", "anger", "disgust", "fear", "sadness", "something else"];
+export const EmotionKeys: EmotionKey[] = ["contentment", "excitement", "anger", "amusement", "awe", "disgust", "fear", "sadness", "something else"];
 
 export type ColorCutKey = "cutBy2_0" | "cutBy2_1" | "cutBy4_0" | "cutBy4_1" | "cutBy4_2" | "cutBy4_3" | "cutBy8_0" | "cutBy8_1" | "cutBy8_2" | "cutBy8_3" | "cutBy8_4" | "cutBy8_5" | "cutBy8_6" | "cutBy8_7";
 

@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 
 :root {
@@ -12,17 +15,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.require-load {
+/* .require-load {
     opacity: 0;
 }
 
 .require-load[loaded="true"] {
     opacity: 1!important;
     transition: opacity 0.5s ease-in-out;
-}
+} */
 
 
 body {
   margin: 0;
   
+}
+
+.dragover-element {
+    position: relative;
+}
+.dragover-element::after {
+    border-radius: 8px;
+    background-color: #f1f2f4;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    z-index: -1;
 }

@@ -1,6 +1,6 @@
 <script lang="ts">
     import * as d3 from "d3";
-    import { onMount } from "svelte";
+    import { afterUpdate, onMount } from "svelte";
     import {
         loadData,
         type ImageEmotionAndColorCutData,
@@ -16,6 +16,7 @@
 
     let svgContainer: SVGGElement;
     let svgRoot: SVGSVGElement;
+    let axisLayer: SVGGElement;
 
     async function loadDensity(
         _size: [number, number],
@@ -86,7 +87,7 @@
         // };
     }
 
-    function renderPlot(
+    function preparePlot(
         svgRef: SVGGElement,
         data: {
             moma: { density: d3.ContourMultiPolygon[] };
@@ -95,35 +96,9 @@
             height: number;
         },
     ) {
-        // svgRoot.setAttribute("width", size[0].toString());
-        // svgRoot.setAttribute("height", size[1].toString());
         svgRoot.setAttribute("viewBox", `0 0 ${400} ${400}`);
         const { width, height } = data;
-        const { density } = data.wiki;
-
         const svg = d3.select(svgRef);
-
-        // blue with opacity d.value
-
-        // .scaleSequential(d3.interpolateViridis)
-        //     .domain([0, d3.max(density, (d) => d.value) as number]);
-        const maxValue = d3.max(density, (d) => d.value) as number;
-        // const accentColor = new Color(`rgba(64,70,201)`);
-        const accentColor = new Color(`rgb(24, 120, 201)`);
-        const color = (d: d3.ContourMultiPolygon) => {
-            return accentColor
-            .lighten(1 - d.value / maxValue)
-            .alpha(0.2 + 0.4 * (d.value / maxValue))
-            .hexa();
-        };
-
-        const { density: moma_density } = data.moma;
-
-        const maxValueMoma = d3.max(moma_density, (d) => d.value) as number;
-        const accentColorMoma = new Color(`rgba(246,133,18)`);
-        const colorMoma = (d: d3.ContourMultiPolygon) => {
-            return accentColorMoma.lighten(1 - d.value / maxValueMoma).hex();
-        };
 
         for (let i = 1; i < 4; i++) {
             svg.append("line")
@@ -156,6 +131,39 @@
             .attr("rx", 8)
             .attr("ry", 8)
             .attr("fill", "none");
+    }
+
+    function renderPlot(
+        svgRef: SVGGElement,
+        data: {
+            moma: { density: d3.ContourMultiPolygon[] };
+            wiki: { density: d3.ContourMultiPolygon[] };
+            width: number;
+            height: number;
+        },
+    ) {
+        
+        
+        const { density } = data.wiki;
+
+        const svg = d3.select(svgContainer);
+        svg.selectAll("*").remove();
+        const maxValue = d3.max(density, (d) => d.value) as number;
+        const accentColor = new Color(`rgb(24, 120, 201)`);
+        const color = (d: d3.ContourMultiPolygon) => {
+            return accentColor
+            .lighten(1 - d.value / maxValue)
+            .alpha(0.2 + 0.4 * (d.value / maxValue))
+            .hexa();
+        };
+
+        const { density: moma_density } = data.moma;
+
+        const maxValueMoma = d3.max(moma_density, (d) => d.value) as number;
+        const accentColorMoma = new Color(`rgba(246,133,18)`);
+        const colorMoma = (d: d3.ContourMultiPolygon) => {
+            return accentColorMoma.lighten(1 - d.value / maxValueMoma).hex();
+        };
 
         svg.append("g")
             .style("mix-blend-mode", "multiply")
@@ -172,18 +180,22 @@
             .join("path")
             .attr("fill", colorMoma)
             .attr("d", d3.geoPath());
-
-        svg.attr("loaded", "true");
     }
 
     onMount(async () => {
+        const density = await loadDensity([400, 400], axis);
+        preparePlot(axisLayer, density);
+    });
+
+    afterUpdate(async () => {
         const density = await loadDensity([400, 400], axis);
         renderPlot(svgContainer, density);
     });
 </script>
 
 <svg bind:this={svgRoot} data-axis={`${axis[0]}-${axis[1]}`}>
-    <g class="require-load" bind:this={svgContainer}></g>
+    <g bind:this={axisLayer}></g>
+    <g bind:this={svgContainer}></g>
 </svg>
 
 <style>

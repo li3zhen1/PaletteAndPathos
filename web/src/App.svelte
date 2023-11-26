@@ -10,6 +10,8 @@
         ExtendedColorCutKeys,
     } from "./lib/EmotionAndColorCutData";
     import { computeDensity } from "./lib/computeDensity";
+    import AxisProvider from "./lib/AxisProvider.svelte";
+    import { axisStore } from "./lib/store";
 
     onMount(async () => {
         // const data = await loadData(true);
@@ -38,19 +40,29 @@
         // a.click();
     });
 
-    const axisX: (EmotionKey | NumericColorCutKey)[] = [
-        "contentment",
-        "excitement",
-        "something else",
-        "anger",
-        "h_delta",
-    ];
+    // let axisX: (EmotionKey | NumericColorCutKey)[] = ;
+    $: axisX = $axisStore;
+
+    function handleAxisDrop(oldKey: string, newKey: string) {
+        const oldIndex = axisX.indexOf(oldKey as any);
+        const newIndex = axisX.indexOf(newKey as any);
+        if (oldIndex !== -1 && newIndex === -1) {
+            axisX[oldIndex] = newKey as any;
+            axisStore.set(axisX);
+        }
+    }
 </script>
 
 <main>
     <!-- <Plot3D /> -->
 
-    <DensitySplom {axisX} showTitle />
+    <div class="flex gap-8">
+        <div class="flex-shrink-0">
+
+        <DensitySplom {axisX} onDropedAxis={handleAxisDrop} />
+        </div>
+        <AxisProvider />
+    </div>
 </main>
 
 <style>

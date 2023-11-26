@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { afterUpdate } from "svelte";
     import DensityPlot from "./DensityPlot.svelte";
     import {
         type ImageEmotionAndColorCutData,
@@ -12,21 +13,48 @@
 
     export let axisX: (EmotionKey | NumericColorCutKey)[];
 
-    export let axisY = axisX.toReversed();
+    $: axisY = axisX.toReversed();
 
-    export let showTitle = true;
+    export let showTitle = false;
+
+    export let onDropedAxis: (oldKey: string, newKey: string) => void;
 
     $: splomSize = axisX.length - 1;
 </script>
 
 <div
     class="splom-container"
-    style="grid-template-columns: 4rem repeat({splomSize}, 22vh); grid-template-rows: 4rem repeat({splomSize}, 22vh);"
+    style="grid-template-columns: 4rem repeat({splomSize}, 20vh); grid-template-rows: 4rem repeat({splomSize}, 20vh);"
 >
     <div></div>
     {#each axisX as x, i}
         {#if i < axisX.length - 1}
-            <div class="splom-axis-name splom-label-x">
+            <div
+                class="splom-axis-name splom-label-x"
+                on:drop={(e) => {
+                    // @ts-ignore
+                    e.target.classList.remove("dragover-element");
+                    e.preventDefault();
+                    e.stopPropagation();
+                    // console.log(e);
+                    const data = e.dataTransfer?.getData("text/plain");
+                    if (data) {
+                        onDropedAxis(x, data);
+                    }
+                }}
+                on:dragover={(e) => {
+                    // @ts-ignore
+                    e.target.classList.add("dragover-element");
+                    e.preventDefault();
+                    e.stopPropagation();
+                }}
+                on:dragleave={(e) => {
+                    // @ts-ignore
+                    e.target.classList.remove("dragover-element");
+                    e.preventDefault();
+                    e.stopPropagation();
+                }}
+            >
                 <div class="splom-axis-name">
                     {describeKey(x)}&nbsp;<span class="emoji"
                         >{getEmoji(x)}</span
@@ -43,7 +71,32 @@
 
     {#each axisY as y, i}
         {#if i < axisX.length - 1}
-            <div class="splom-label-y">
+            <div
+                class="splom-label-y"
+                on:drop={(e) => {
+                    // @ts-ignore
+                    e.target.classList.remove("dragover-element");
+                    e.preventDefault();
+                    e.stopPropagation();
+                    // console.log(e);
+                    const data = e.dataTransfer?.getData("text/plain");
+                    if (data) {
+                        onDropedAxis(y, data);
+                    }
+                }}
+                on:dragover={(e) => {
+                    // @ts-ignore
+                    e.target.classList.add("dragover-element");
+                    e.preventDefault();
+                    e.stopPropagation();
+                }}
+                on:dragleave={(e) => {
+                    // @ts-ignore
+                    e.target.classList.remove("dragover-element");
+                    e.preventDefault();
+                    e.stopPropagation();
+                }}
+            >
                 <div class="splom-axis-name splom-text-y">
                     <span class="emoji">{getEmoji(y) ?? ""}</span
                     >&nbsp;{describeKey(y)}
@@ -85,13 +138,14 @@
 <style>
     .splom-container {
         display: grid;
-        grid-template-columns: 4rem repeat(4, 22vh);
-        grid-template-rows: 4rem repeat(4, 22vh);
+        grid-template-columns: 4rem repeat(4, 20vh);
+        grid-template-rows: 4rem repeat(4, 20vh);
         max-height: 96vh;
         min-width: 760px;
         max-width: 96vh;
         gap: 8px;
         aspect-ratio: 1 / 1;
+        cursor: grab;
     }
 
     .splom-label-x {
@@ -103,6 +157,9 @@
         gap: 8px;
         font-weight: 600;
     }
+    .splom-label-x > * {
+        pointer-events: none;
+    }
 
     .splom-label-y {
         display: flex;
@@ -112,6 +169,10 @@
         padding: 8px 0 8px 16px;
         gap: 8px;
         font-weight: 600;
+    }
+
+    .splom-label-y > * {
+        pointer-events: none;
     }
 
     .splom-text-y {
