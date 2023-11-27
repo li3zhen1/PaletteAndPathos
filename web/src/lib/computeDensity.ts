@@ -2,7 +2,7 @@ import * as d3 from "d3";
 import type { ImageEmotionAndColorCutData, EmotionKey, PCAKey, NumericColorCutKey } from "./EmotionAndColorCutData";
 
 export async function loadPrecomputedDensity(x: EmotionKey | NumericColorCutKey, y: EmotionKey | NumericColorCutKey) {
-    const response = await fetch(`/dens/${x}_${y}.json`);
+    const response = await fetch(`/PaletteAndPathos/dens/${x}_${y}.json`);
     const data = await response.json();
     return data;
 }
