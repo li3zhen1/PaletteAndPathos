@@ -12,6 +12,9 @@
     import { computeDensity } from "./lib/computeDensity";
     import AxisProvider from "./lib/AxisProvider.svelte";
     import { axisStore } from "./lib/store";
+    import Dashboard1 from "./lib/Dashboard1.svelte";
+    import Dashboard2 from "./lib/Dashboard2.svelte";
+    import Dashboard3 from "./lib/Dashboard3.svelte";
 
     onMount(async () => {
         // const data = await loadData(true);
@@ -54,15 +57,16 @@
 </script>
 
 <main>
-    <!-- <Plot3D /> -->
-
-    <div class="flex gap-8">
+    <div class="flex gap-8 pb-12">
         <div class="flex-shrink-0">
-
-        <DensitySplom {axisX} onDropedAxis={handleAxisDrop} />
+            <DensitySplom {axisX} onDropedAxis={handleAxisDrop}/>
         </div>
         <AxisProvider />
     </div>
+
+    <Dashboard1 />
+    <Dashboard2 />
+    <Dashboard3 />
 </main>
 
 <style>

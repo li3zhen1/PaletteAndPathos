@@ -24,7 +24,7 @@
 
 <div
     class="splom-container"
-    style="grid-template-columns: 4rem repeat({splomSize}, 20vh); grid-template-rows: 4rem repeat({splomSize}, 20vh);"
+    style="grid-template-columns: 4rem repeat({splomSize}, 21vh); grid-template-rows: 4rem repeat({splomSize}, 21vh);"
 >
     <div></div>
     {#each axisX as x, i}
@@ -138,11 +138,12 @@
 <style>
     .splom-container {
         display: grid;
-        grid-template-columns: 4rem repeat(4, 20vh);
-        grid-template-rows: 4rem repeat(4, 20vh);
-        max-height: 96vh;
+        grid-template-columns: 4rem repeat(4, 21vh);
+        grid-template-rows: 4rem repeat(4, 21vh);
+        max-height: 100vh;
+        /* height: 100vh; */
         min-width: 760px;
-        max-width: 96vh;
+        max-width: 100vh;
         gap: 8px;
         aspect-ratio: 1 / 1;
         cursor: grab;
@@ -220,12 +221,6 @@
         background: linear-gradient(to top, #aaaaaa30, #aaaaaaff);
     }
 
-    h1 {
-        margin-block-start: 0;
-        margin-block-end: 0;
-        line-height: 0.9;
-        letter-spacing: -0.25rem;
-    }
     .hero-title {
         width: 0;
         /* no wrap */
