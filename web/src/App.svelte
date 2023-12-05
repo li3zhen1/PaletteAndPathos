@@ -68,10 +68,11 @@
         </div>
         <AxisProvider />
     </div>
+    
+    <TableauEmbedding src={"https://public.tableau.com/views/CS6730Colors/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
 
     <TableauEmbedding src={"https://public.tableau.com/views/CS6730ColorsCircles/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
     <TableauEmbedding src={"https://public.tableau.com/views/CS6730DotPlot/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
-    <TableauEmbedding src={"https://public.tableau.com/views/CS6730Colors/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
 
 
     <!-- MoMA Collection -->
