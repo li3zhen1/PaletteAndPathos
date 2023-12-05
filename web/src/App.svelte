@@ -15,6 +15,10 @@
     import Dashboard1 from "./lib/Dashboard1.svelte";
     import Dashboard2 from "./lib/Dashboard2.svelte";
     import Dashboard3 from "./lib/Dashboard3.svelte";
+    import MoMaPaintingCollection from "./lib/MoMA_Painting_collection.svelte";
+    import FemaleArtists from "./lib/FemaleArtists.svelte";
+    import PaletteByCountry from "./lib/PaletteByCountry.svelte";
+    import TableauEmbedding from "./lib/TableauEmbedding.svelte";
 
     onMount(async () => {
         // const data = await loadData(true);
@@ -57,6 +61,7 @@
 </script>
 
 <main>
+
     <div class="flex gap-8 pb-12">
         <div class="flex-shrink-0">
             <DensitySplom {axisX} onDropedAxis={handleAxisDrop}/>
@@ -64,9 +69,21 @@
         <AxisProvider />
     </div>
 
-    <Dashboard1 />
-    <Dashboard2 />
-    <Dashboard3 />
+    <TableauEmbedding src={"https://public.tableau.com/views/CS6730Colors/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
+    <!-- <TableauEmbedding src={"https://public.tableau.com/views/CS6730ColorsCircles/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link"}/> -->
+    <TableauEmbedding src={"https://public.tableau.com/views/CS6730DotPlot/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
+    
+
+    <!-- MoMA Collection -->
+    <TableauEmbedding src={"https://public.tableau.com/shared/RB4FJ4FBP?:display_count=n&:origin=viz_share_link"}/>
+    
+    <!-- Geo -->
+    <TableauEmbedding src={"https://public.tableau.com/views/PalettebyCountry/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"}/>
+    
+    <!-- Female artists -->
+    <TableauEmbedding src={"https://public.tableau.com/views/MoMAPaintingCollections-FemaleArtists/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"}/>
+
+
 </main>
 
 <style>
