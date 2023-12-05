@@ -58,34 +58,52 @@
             axisStore.set(axisX);
         }
     }
+
+    const srcs = [
+        "https://public.tableau.com/views/MoMAPaintingCollections/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
+        "https://public.tableau.com/views/CS6730Colors/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link",
+        "https://public.tableau.com/views/PalettebyCountry/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
+        "https://public.tableau.com/views/MoMAPaintingCollections-FemaleArtists/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
+        "https://public.tableau.com/views/CS6730DotPlot/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link",
+    ];
+
+    const src2 = [
+        "https://public.tableau.com/views/MoMASentimentLinechart/NegativeSentiment?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
+        "https://public.tableau.com/views/ArtworkAverageSentimentbyArtist-ParallelCoordinates/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
+    ];
 </script>
 
 <main>
-
-    <div class="flex gap-8 pb-12">
-        <div class="flex-shrink-0">
-            <DensitySplom {axisX} onDropedAxis={handleAxisDrop}/>
+    {#each srcs as s}
+        <TableauEmbedding
+            src={s}
+        />
+    {/each}
+    <section class="flex justify-center">
+        <div class="flex gap-8 pb-12 max-w-[1800px]">
+            <div class="flex-shrink-0">
+                <DensitySplom {axisX} onDropedAxis={handleAxisDrop} />
+            </div>
+            <AxisProvider />
         </div>
-        <AxisProvider />
-    </div>
+    </section>
+    {#each src2 as s}
+        <TableauEmbedding
+            src={s}
+        />
+    {/each}
+    <!-- <TableauEmbedding src={"https://public.tableau.com/views/CS6730Colors/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
 
-    <TableauEmbedding src={"https://public.tableau.com/views/CS6730Colors/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
+    
+        <TableauEmbedding src={"https://public.tableau.com/views/CS6730DotPlot/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
 
-    <!-- <TableauEmbedding src={"https://public.tableau.com/views/CS6730ColorsCircles/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link"}/> -->
-    <TableauEmbedding src={"https://public.tableau.com/views/CS6730DotPlot/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
-
-
-    <!-- MoMA Collection -->
     <TableauEmbedding src={"https://public.tableau.com/shared/RB4FJ4FBP?:display_count=n&:origin=viz_share_link"}/>
     
-    <!-- Geo -->
     <TableauEmbedding src={"https://public.tableau.com/views/PalettebyCountry/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"}/>
     
-    <!-- Female artists -->
     <TableauEmbedding src={"https://public.tableau.com/views/MoMAPaintingCollections-FemaleArtists/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"}/>
 
-    <TableauEmbedding src="https://public.tableau.com/shared/8STYYXRPS?:display_count=n&:origin=viz_share_link"/>
-
+    <TableauEmbedding src="https://public.tableau.com/shared/8STYYXRPS?:display_count=n&:origin=viz_share_link"/> -->
 </main>
 
 <style>
