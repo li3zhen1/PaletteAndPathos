@@ -83,6 +83,7 @@
     <!-- Female artists -->
     <TableauEmbedding src={"https://public.tableau.com/views/MoMAPaintingCollections-FemaleArtists/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"}/>
 
+    <TableauEmbedding src="https://public.tableau.com/shared/8STYYXRPS?:display_count=n&:origin=viz_share_link"/>
 
 </main>
 
