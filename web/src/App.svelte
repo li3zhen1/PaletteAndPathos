@@ -70,7 +70,7 @@
 
     const src2 = [
         "https://public.tableau.com/views/MoMASentimentLinechart/NegativeSentiment?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
-        "https://public.tableau.com/views/ArtworkAverageSentimentbyArtist-ParallelCoordinates/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
+        "https://public.tableau.com/views/MoMASentimentParallelCoordinates/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link",
     ];
 </script>
 

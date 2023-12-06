@@ -1,7 +1,138 @@
-<header class="hero-header">
-    <div class="w-full flex flex-col items-center justify-center p-4">
-        <h1>Palette & Pathos</h1>
-        <h3>Tracing the Emotional and Chromatic Journeys of MoMA Artists</h3>
+<script>
+    import _, { range } from "lodash";
+    import { fly } from "svelte/transition";
+
+    const row2 = _.shuffle([
+        "79269.png",
+        "79270.png",
+        "79271.png",
+        "79273.png",
+        "79275.png",
+        "79276.png",
+        "79277.png",
+        "79278.png",
+        "79281.png",
+        "79282.png",
+        "79326.png",
+        "79328.png",
+        "79330.png",
+        "79332.png",
+    ]);
+
+    const row3 = _.shuffle([
+        "79300.png",
+        "79301.png",
+        "79302.png",
+        "79303.png",
+        "79305.png",
+        "79307.png",
+        "79309.png",
+        "79310.png",
+        "79312.png",
+        "79316.png",
+        "79319.png",
+        "79320.png",
+        "79321.png",
+        "79322.png",
+        "79323.png",
+        "79324.png",
+        "79325.png",
+    ]);
+
+    const row_1 = _.shuffle(row3);
+</script>
+
+<header class="hero-header relative z-[-9]"
+
+transition:fly={{ x: 1000, duration: 1000 }}>
+    <div class="relative translate-y-[-368px] flex gap-4 h-0 z-[-1]"
+    >
+        {#each row_1 as i}
+            <img
+                src={`/PaletteAndPathos/${i}`}
+                class="h-44 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+        {#each row3 as i}
+            <img
+                src={`/PaletteAndPathos/${i}`}
+                class="h-44 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+    </div>
+    <div class="relative translate-y-[-176px] flex gap-4 h-0 z-[-1] opacity-90">
+        {#each range(1, 11) as i}
+            <img
+                src={`/PaletteAndPathos/${i}.jpg`}
+                class="h-40 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+        {#each row3 as i}
+            <img
+                src={`/PaletteAndPathos/${i}`}
+                class="h-40 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+    </div>
+    <div
+        class="relative translate-y-[0px] flex gap-4 h-0 z-[-1] opacity-70"
+        transition:fly={{ x: 100, duration: 100 }}
+    >
+        {#each row2 as i}
+            <img
+                src={`/PaletteAndPathos/${i}`}
+                class="h-36 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+        {#each row3 as i}
+            <img
+                src={`/PaletteAndPathos/${i}`}
+                class="h-36 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+    </div>
+    <div class="relative translate-y-[160px] flex gap-4 h-0 z-[-1] opacity-50">
+        {#each row3 as i}
+            <img
+                src={`/PaletteAndPathos/${i}`}
+                class="h-32 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+    </div>
+    <div class="relative translate-y-[304px] flex gap-4 h-0 z-[-1] opacity-10">
+        {#each range(1, 11) as i}
+            <img
+                src={`/PaletteAndPathos/${i}.jpg`}
+                class="h-28 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+        {#each row3 as i}
+            <img
+                src={`/PaletteAndPathos/${i}`}
+                class="h-28 z-[-1] object-cover rounded-md"
+                alt={`${i}`}
+            />
+        {/each}
+    </div>
+    <div
+        class="w-full flex flex-col items-center justify-center pt-28 relative z-999"
+    >
+        <h1>Palette <span style="font-family:'IBM Plex Sans';font-weight:600">&</span> Pathos</h1>
+        <h3 class="relative">
+            Tracing the Emotional and Chromatic Journeys of MoMA Artists
+        </h3>
+
+        <div
+            class="absolute w-full h-[65vh] min-h-[720px] z-[-1] grad"
+        ></div>
     </div>
 </header>
 
@@ -17,17 +148,26 @@
     h3 {
         font-size: 1.5rem;
         font-variation-settings:
-            "opsz" 28,
-            "wght" 540;
+            "opsz" 24,
+            "wght" 600;
         letter-spacing: -0.02rem;
     }
 
     header.hero-header {
         min-height: 400px;
-        height: 64vh;
+        height: 75vh;
+        max-height: 800px;
         display: flex;
         flex-direction: column;
         justify-content: center;
+    }
 
+    .grad {
+        background-image: radial-gradient(
+            ellipse at bottom,
+            #ffffffff 30%,
+            #ffffff00 60%
+        );
+        transform: scale(1.5) translateY(-100px);
     }
 </style>
