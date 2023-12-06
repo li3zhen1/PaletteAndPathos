@@ -162,10 +162,11 @@
         const maxValueMoma = d3.max(moma_density, (d) => d.value) as number;
         const accentColorMoma = new Color(`#f472b6`);
         const colorMoma = (d: d3.ContourMultiPolygon) => {
+            //"#f472b610" 
             return accentColorMoma
             // .opaquer(0.7)
-            .lighten(0.45 - (0.8*d.value / maxValueMoma) )
-            // .alpha(0.8)
+            .lighten(0.43 - (0.5*d.value / maxValueMoma) )
+            .alpha(0.8)
             .hex();
         };
 
