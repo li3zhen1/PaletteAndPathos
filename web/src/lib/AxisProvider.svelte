@@ -25,9 +25,7 @@
         <h2>Emotions in the MoMA Collection</h2>
         <p>
             We ran the <a class="text-pink-500 underline font-bold" href="https://www.artemisdataset.org">ArtEmis</a>
-            model on the MoMA collection to extract emotions from the images.
-            The model was trained on the WikiArt dataset, so we can compare the
-            emotions of the MoMA collection to the WikiArt collection. The model
+            model on the MoMA collection to extract emotions from the images. The model
             outputs 9 emotions:
             <span class="font-semibold"
                 >amusement, awe, contentment, excitement, anger, disgust, fear,
@@ -35,7 +33,7 @@
             </span>.
         </p>
         <p>
-            Now join our journey to explore how the emotion and color distributions among 2,132 paintings from MoMA and 80,043 from WikiArt.
+            Now join our journey to explore how the emotion and color distributions differ among the 2,132 paintings from MoMA and 80,043 from WikiArt.
         </p>
     </div>
     <div class="flex-grow"></div>
