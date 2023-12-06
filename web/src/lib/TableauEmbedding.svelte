@@ -24,7 +24,7 @@
     <div class="centered-wv p-4 gap-4" >
         <div
             bind:this={tableauRef}
-            class="shadow-xl border-[0.5px] rounded-lg border-slate-300 overflow-hidden flex-grow flex-shrink-0"
+            class="shadow-xl bg-white border-[0.5px] rounded-lg border-slate-300 overflow-hidden flex-grow flex-shrink-0"
         >
             <tableau-viz toolbar="hidden" hide-tabs {src}> </tableau-viz>
         </div>
