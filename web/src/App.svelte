@@ -77,7 +77,7 @@
 
 <main class="w-[100vw] overflow-x-hidden">
     <Header />
-    <div class="bg-gradient-to-b from-white to-pink-50 relative pb-[6rem]">
+    <div class="bg-gradient-to-b from-transparent to-pink-50 relative pb-[6rem] mt-[-32px]">
         {#each srcs as s}
             <TableauEmbedding src={s} />
         {/each}
