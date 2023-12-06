@@ -3,7 +3,7 @@
 </script>
 
 <div class="centered-wv">
-    <div class="shadow-lg  border-[0.5px] rounded-lg border-slate-300 overflow-hidden">
+    <div class="shadow-xl  border-[0.5px] rounded-lg border-slate-300 overflow-hidden">
         <tableau-viz toolbar="hidden" hide-tabs {src}> </tableau-viz>
     </div>
 </div>
@@ -14,6 +14,6 @@
         justify-content: center;
         align-items: center;
         height: 100%;
-        margin-bottom: 6rem;
+        margin-bottom: 48px;
     }
 </style>

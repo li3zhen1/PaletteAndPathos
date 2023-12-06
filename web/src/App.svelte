@@ -20,6 +20,7 @@
     import PaletteByCountry from "./lib/PaletteByCountry.svelte";
     import TableauEmbedding from "./lib/TableauEmbedding.svelte";
     import Header from "./lib/Header.svelte";
+    import Foooter from "./lib/Foooter.svelte";
 
     onMount(async () => {
         // const data = await loadData(true);
@@ -74,26 +75,26 @@
     ];
 </script>
 
-<main>
-    <Header/>
-    {#each srcs as s}
-        <TableauEmbedding
-            src={s}
-        />
-    {/each}
-    <section class="flex justify-center">
-        <div class="flex gap-8 pb-12 max-w-[1800px]">
-            <div class="flex-shrink-0">
-                <DensitySplom {axisX} onDropedAxis={handleAxisDrop} />
+<main class="w-[100vw] overflow-x-hidden">
+    <Header />
+    <div class="bg-gradient-to-b from-white to-pink-50 relative pb-[6rem]">
+        {#each srcs as s}
+            <TableauEmbedding src={s} />
+        {/each}
+        <section class="flex justify-center">
+            <div
+                class="mb-[6rem] flex gap-8 pb-12 max-w-[1280px] shadow-xl border-[0.5px] rounded-lg border-slate-300 bg-white"
+            >
+                <div class="flex-shrink-0">
+                    <DensitySplom {axisX} onDropedAxis={handleAxisDrop} />
+                </div>
+                <AxisProvider />
             </div>
-            <AxisProvider />
-        </div>
-    </section>
-    {#each src2 as s}
-        <TableauEmbedding
-            src={s}
-        />
-    {/each}
+        </section>
+        {#each src2 as s}
+            <TableauEmbedding src={s} />
+        {/each}
+    </div>
     <!-- <TableauEmbedding src={"https://public.tableau.com/views/CS6730Colors/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link"}/>
 
     
@@ -107,6 +108,8 @@
 
     <TableauEmbedding src="https://public.tableau.com/shared/8STYYXRPS?:display_count=n&:origin=viz_share_link"/> -->
 </main>
+
+<Foooter/>
 
 <style>
 </style>

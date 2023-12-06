@@ -20,8 +20,8 @@
 
 <div class="flex flex-col gap-2 p-4 pb-0 mb-[-8px]">
     <h1 class="mt-8">
-        Emotions & Colors <br /> in <span class="moma">MoMA</span> &
-        <span class="wiki">WikiArt</span>
+        Distributions of Emotions & Colors<br /> in <span class="moma text-pink-400">MoMA</span> &
+        <span class="wiki text-slate-500">WikiArt</span>
     </h1>
     <div class="flex-grow"></div>
     <div class="flex flex-col gap-2">
@@ -77,16 +77,16 @@
 </div>
 
 <style>
-    .wiki {
+    /* .wiki {
         color: rgba(24, 120, 201, 1);
     }
 
     .moma {
         color: rgba(246, 133, 18, 1);
-    }
+    } */
 
     h1 {
-        font-size: 3.5rem;
+        font-size: 2.5rem;
         font-variation-settings:
             "opsz" 32,
             "wght" 640;

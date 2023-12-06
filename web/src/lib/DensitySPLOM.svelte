@@ -24,7 +24,7 @@
 
 <div
     class="splom-container"
-    style="grid-template-columns: 4rem repeat({splomSize}, 21vh); grid-template-rows: 4rem repeat({splomSize}, 21vh);"
+    style="grid-template-columns: 4rem repeat({splomSize}, 19.5vh); grid-template-rows: 4rem repeat({splomSize}, 19.5vh);"
 >
     <div></div>
     {#each axisX as x, i}
@@ -138,8 +138,8 @@
 <style>
     .splom-container {
         display: grid;
-        grid-template-columns: 4rem repeat(4, 21vh);
-        grid-template-rows: 4rem repeat(4, 21vh);
+        grid-template-columns: 4rem repeat(4, 19.5vh);
+        grid-template-rows: 4rem repeat(4, 19.5vh);
         max-height: 100vh;
         /* height: 100vh; */
         min-width: 760px;

@@ -149,20 +149,24 @@
         const svg = d3.select(svgContainer);
         svg.selectAll("*").remove();
         const maxValue = d3.max(density, (d) => d.value) as number;
-        const accentColor = new Color(`rgb(24, 120, 201)`);
+        const accentColor = new Color(`#647492`);
         const color = (d: d3.ContourMultiPolygon) => {
             return accentColor
             .lighten(1 - d.value / maxValue)
-            .alpha(0.2 + 0.4 * (d.value / maxValue))
+            // .alpha(0.2 + 0.4 * (d.value / maxValue))
             .hexa();
         };
 
         const { density: moma_density } = data.moma;
 
         const maxValueMoma = d3.max(moma_density, (d) => d.value) as number;
-        const accentColorMoma = new Color(`rgba(246,133,18)`);
+        const accentColorMoma = new Color(`#f472b6`);
         const colorMoma = (d: d3.ContourMultiPolygon) => {
-            return accentColorMoma.lighten(1 - d.value / maxValueMoma).hex();
+            return accentColorMoma
+            // .opaquer(0.7)
+            .lighten(0.45 - (0.8*d.value / maxValueMoma) )
+            // .alpha(0.8)
+            .hex();
         };
 
         svg.append("g")
