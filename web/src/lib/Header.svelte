@@ -144,19 +144,36 @@
 
 <style>
     h1 {
-        font-size: 5.5rem;
+        font-size: 5rem;
         font-variation-settings:
             "opsz" 32,
             "wght" 650;
         letter-spacing: -0.04rem;
     }
 
+    @media (max-width: 1200px) {
+        h1 {
+            font-size: 4.0rem;
+        }
+    }
+
+    
+
     h3 {
         font-size: 1.5rem;
         font-variation-settings:
             "opsz" 24,
-            "wght" 600;
+            "wght" 500;
         letter-spacing: -0.02rem;
+    }
+
+    @media (max-width: 1200px) {
+        h3 {
+            font-size: 1.25rem;
+            font-variation-settings:
+            "opsz" 24,
+            "wght" 500;
+        }
     }
 
     header.hero-header {
