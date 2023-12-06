@@ -42,7 +42,7 @@
     const row_1 = _.shuffle(row3);
 </script>
 
-<header class="hero-header relative z-[-9]">
+<header class="hero-header relative z-[-9] dark:bg-[rgba(36,0,18,1)]">
     <div class="relative translate-y-[-368px] flex gap-4 h-0 z-[-1]">
         {#each row_1 as i}
             <img
@@ -117,7 +117,7 @@
         {/each}
     </div>
     <div
-        class="w-full flex flex-col items-center justify-center pt-28 relative z-999"
+        class="w-full flex flex-col items-center justify-center pt-28 relative z-999 dark:text-white"
     >
         <h1>
             Palette <span style="font-family:'IBM Plex Sans';font-weight:600"
@@ -125,7 +125,8 @@
             > Pathos
         </h1>
         <h3 class="relative text-center max-w-[1080px]">
-            Tracing the Emotional and Chromatic Journeys of MoMA Artists through Data Visualization
+            Tracing the Emotional and Chromatic Journeys of MoMA Artists through
+            Data Visualization
             <!-- Discover the emptional and chromatic spectrum of the Museum of Modern Artists(MoMA)’s
             masterpieces through our data visualization.  -->
         </h3>
@@ -138,7 +139,7 @@
         <div class="absolute w-full h-[65vh] min-h-[720px] z-[-1] grad"></div>
     </div>
     <div
-        class="h-[20vh] absolute top-0 left-0 w-full bg-gradient-to-b from-pink-100 to-transparent mix-blend-multiply"
+        class="h-[20vh] absolute top-0 left-0 w-full bg-gradient-to-b from-pink-100 to-transparent mix-blend-multiply dark:mix-blend-screen dark:from-pink-600 dark:opacity-50"
     ></div>
 </header>
 
@@ -153,11 +154,9 @@
 
     @media (max-width: 1200px) {
         h1 {
-            font-size: 4.0rem;
+            font-size: 4rem;
         }
     }
-
-    
 
     h3 {
         font-size: 1.5rem;
@@ -171,8 +170,8 @@
         h3 {
             font-size: 1.25rem;
             font-variation-settings:
-            "opsz" 24,
-            "wght" 500;
+                "opsz" 24,
+                "wght" 500;
         }
     }
 
@@ -188,9 +187,21 @@
     .grad {
         background-image: radial-gradient(
             ellipse at bottom,
-            #ffffffff 30%,
+            #ffffffff 24%,
             #ffffff00 60%
         );
-        transform: scale(1.5) translateY(-100px);
+        transform: scale(1.8) translateY(-100px);
+    }
+
+    /* dark mode */
+    @media (prefers-color-scheme: dark) {
+        .grad {
+            background-image: radial-gradient(
+                ellipse at bottom,
+                rgba(36, 0, 18, 1) 24%,
+                rgba(36, 0, 18, 0) 60%
+            );
+            transform: scale(2) translateY(-100px);
+        }
     }
 </style>

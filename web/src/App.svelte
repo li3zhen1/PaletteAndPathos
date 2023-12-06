@@ -78,7 +78,7 @@
 <main class="w-[100vw] overflow-x-hidden">
     <Header />
     <div
-        class="bg-gradient-to-b from-transparent to-pink-50 relative pb-[48px] mt-[-32px]"
+        class="bg-gradient-to-b from-transparent to-pink-100 dark:from-[rgba(36,0,18,1)] dark:to-[rgba(52,2,30,1)] relative pb-[48px] mt-[-32px]"
     >
         <TableauEmbedding
             src={srcs[0]}
