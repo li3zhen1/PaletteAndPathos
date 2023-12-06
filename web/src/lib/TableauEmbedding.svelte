@@ -51,7 +51,7 @@
         height: 100%;
         margin-bottom: 48px;
         max-width: 1400px;
-        background-color: white;
+        /* background-color: white; */
     }
     h2 {
         line-height: 1.2;
