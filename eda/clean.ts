@@ -9,7 +9,7 @@ const combineJSON = async (p) => {
                 const content = await fs.readFile(`${p}/${file}`, "utf-8");
                 
                 const obj = JSON.parse(content)[0];
-                if (obj !== undefined && obj !== null && Object.keys(obj).length > 0) {
+                if (obj !== undefined && obj !== null && Object.keys(obj).length > 0 && typeof obj == "object") {
                     return obj;
                 }
                 console.log(file);

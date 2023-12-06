@@ -128,8 +128,8 @@
     {#if showTitle}
         <div class="hero-title hero-title1">
             <h1>
-                Emotions & Colors<br /> in <span class="moma">MoMA</span> &
-                <span class="wiki">WikiArt</span>
+                Emotions & Colors<br /> in <span class="moma text-pink-500">MoMA</span> &
+                <span class="wiki text-slate-400">WikiArt</span>
             </h1>
         </div>
     {/if}
@@ -246,13 +246,13 @@
         grid-column: 5/6;
     }
 
-    .wiki {
+    /* .wiki {
         color: rgba(24, 120, 201, 1);
     }
 
     .moma {
         color: rgba(246, 133, 18, 1);
-    }
+    } */
 
     .emoji {
         font-size: 1.25rem;

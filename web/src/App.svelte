@@ -19,6 +19,7 @@
     import FemaleArtists from "./lib/FemaleArtists.svelte";
     import PaletteByCountry from "./lib/PaletteByCountry.svelte";
     import TableauEmbedding from "./lib/TableauEmbedding.svelte";
+    import Header from "./lib/Header.svelte";
 
     onMount(async () => {
         // const data = await loadData(true);
@@ -74,6 +75,7 @@
 </script>
 
 <main>
+    <Header/>
     {#each srcs as s}
         <TableauEmbedding
             src={s}

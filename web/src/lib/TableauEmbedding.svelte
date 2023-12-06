@@ -3,13 +3,9 @@
 </script>
 
 <div class="centered-wv">
-    <tableau-viz
-        toolbar="hidden"
-        hide-tabs
-        src={src}
-    >
-    </tableau-viz>
-
+    <div class="shadow-lg  border-[0.5px] rounded-lg border-slate-300 overflow-hidden">
+        <tableau-viz toolbar="hidden" hide-tabs {src}> </tableau-viz>
+    </div>
 </div>
 
 <style>
