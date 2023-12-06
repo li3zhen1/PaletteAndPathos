@@ -43,8 +43,7 @@
 </script>
 
 <header class="hero-header relative z-[-9]">
-    <div class="relative translate-y-[-368px] flex gap-4 h-0 z-[-1]"
-    >
+    <div class="relative translate-y-[-368px] flex gap-4 h-0 z-[-1]">
         {#each row_1 as i}
             <img
                 src={`/PaletteAndPathos/${i}`}
@@ -76,9 +75,7 @@
             />
         {/each}
     </div>
-    <div
-        class="relative translate-y-[0px] flex gap-4 h-0 z-[-1] opacity-70" 
-    >
+    <div class="relative translate-y-[0px] flex gap-4 h-0 z-[-1] opacity-70">
         {#each row2 as i}
             <img
                 src={`/PaletteAndPathos/${i}`}
@@ -122,18 +119,27 @@
     <div
         class="w-full flex flex-col items-center justify-center pt-28 relative z-999"
     >
-        <h1>Palette <span style="font-family:'IBM Plex Sans';font-weight:600">&</span> Pathos</h1>
-        <h3 class="relative">
+        <h1>
+            Palette <span style="font-family:'IBM Plex Sans';font-weight:600"
+                >&</span
+            > Pathos
+        </h1>
+        <h3 class="relative text-center max-w-[840px]">
             Tracing the Emotional and Chromatic Journeys of MoMA Artists
+            <!-- Discover the emptional and chromatic spectrum of the Museum of Modern Artists(MoMA)’s
+            masterpieces through our data visualization.  -->
         </h3>
+        <!-- <p class="max-wi">
+            Discover the spectrum of the Museum of Modern Artists(MoMA)’s
+            masterpieces through our data visualization. We distill the essence
+            of art into captivating color palettes.
+        </p> -->
 
-        <div
-            class="absolute w-full h-[65vh] min-h-[720px] z-[-1] grad"
-        ></div>
+        <div class="absolute w-full h-[65vh] min-h-[720px] z-[-1] grad"></div>
     </div>
-    <div class="h-[20vh] absolute top-0 left-0 w-full bg-gradient-to-b from-pink-100 to-transparent mix-blend-multiply">
-
-    </div>
+    <div
+        class="h-[20vh] absolute top-0 left-0 w-full bg-gradient-to-b from-pink-100 to-transparent mix-blend-multiply"
+    ></div>
 </header>
 
 <style>

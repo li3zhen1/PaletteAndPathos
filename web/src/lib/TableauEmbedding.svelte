@@ -6,18 +6,18 @@
 
     let tableauRef: HTMLDivElement;
 
-    let resizeObserver: ResizeObserver;
-    let tableauRect: DOMRect;
-    let scrollHeight: number;
+    // let resizeObserver: ResizeObserver;
+    // let tableauRect: DOMRect;
+    // let scrollHeight: number;
 
-    onMount(() => {
-        window.addEventListener("scroll", (ev) => {
-            scrollHeight = document.body.scrollHeight;
-        });
-        resizeObserver = new ResizeObserver((entries) => {
-            tableauRect = entries[0].contentRect;
-        });
-    });
+    // onMount(() => {
+    //     // window.addEventListener("scroll", (ev) => {
+    //     //     scrollHeight = document.body.scrollHeight;
+    //     // });
+    //     // resizeObserver = new ResizeObserver((entries) => {
+    //     //     tableauRect = entries[0].contentRect;
+    //     // });
+    // });
 </script>
 
 <section class="flex justify-center">
