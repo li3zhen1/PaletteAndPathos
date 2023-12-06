@@ -1,19 +1,42 @@
 <script lang="ts">
     export let src: string;
+    export let descHeader: string | undefined;
 </script>
 
-<div class="centered-wv">
-    <div class="shadow-xl  border-[0.5px] rounded-lg border-slate-300 overflow-hidden">
-        <tableau-viz toolbar="hidden" hide-tabs {src}> </tableau-viz>
+<section class="flex justify-center">
+    <div class="centered-wv p-4 gap-4">
+        <div
+            class="shadow-xl border-[0.5px] rounded-lg border-slate-300 overflow-hidden flex-grow flex-shrink-0"
+        >
+            <tableau-viz toolbar="hidden" hide-tabs {src}> </tableau-viz>
+        </div>
+        <div class="flex-grow-0">
+            <div
+                class="p-4 pt-0 bg-white shadow-lg border-[0.5px] rounded-lg border-slate-300 overflow-hidden h-auto sticky top-4"
+            >
+                {#if descHeader}
+                    <h2 class="mt-5">{descHeader}</h2>
+                {/if}
+                <slot>
+                    <p>
+                        hello
+                    </p>
+                </slot>
+            </div>
+        </div>
     </div>
-</div>
+</section>
 
 <style>
     .centered-wv {
         display: flex;
         justify-content: center;
-        align-items: center;
+        /* align-items: center; */
         height: 100%;
         margin-bottom: 48px;
+        max-width: 1400px;
+    }
+    h2 {
+        line-height: 1.2;
     }
 </style>

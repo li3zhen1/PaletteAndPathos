@@ -125,14 +125,20 @@
         {/each}
     {/each}
 
-    {#if showTitle}
-        <div class="hero-title hero-title1">
-            <h1>
-                Emotions & Colors<br /> in <span class="moma text-pink-500">MoMA</span> &
-                <span class="wiki text-slate-400">WikiArt</span>
-            </h1>
+    <!-- {#if showTitle} -->
+    <div class="hero-title hero-title1">
+        <div>
+            <div class="moma flex gap-2 items-center">
+                <span class=" rounded-full w-5 h-5 bg-pink-500 block"></span>
+                <span>MoMA</span>
+            </div>
+            <div class="wiki flex gap-2 items-center">
+                <span class=" rounded-full  w-5 h-5 bg-slate-400 block"></span>
+                WikiArt
+            </div>
         </div>
-    {/if}
+    </div>
+    <!-- {/if} -->
 </div>
 
 <style>
@@ -147,6 +153,8 @@
         gap: 8px;
         aspect-ratio: 1 / 1;
         cursor: grab;
+        box-sizing: border-box;
+        padding: 8px 16px 0 8px;
     }
 
     .splom-label-x {
@@ -230,14 +238,14 @@
         align-items: end;
         position: relative;
         overflow: visible;
-        font-size: 3.5rem;
+        font-size: 1.5rem;
         font-variation-settings:
             "opsz" 32,
             "wght" 560;
     }
 
     .hero-title1 {
-        grid-row: 5/6;
+        grid-row: 6/7;
         grid-column: 5/6;
     }
 

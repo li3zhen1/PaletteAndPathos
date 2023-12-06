@@ -73,3 +73,15 @@ h1 {
 iframe {
     box-shadow: 0 0 16px rgba(0,0,0,0.1);
 }
+
+h2 {
+    font-size: 1.5rem;
+    font-variation-settings:
+        "opsz" 28,
+        "wght" 600;
+    letter-spacing: -0.04rem;
+}
+
+p {
+    margin-top: 1rem;
+}

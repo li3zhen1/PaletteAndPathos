@@ -18,15 +18,31 @@
     ] as (EmotionKey | NumericColorCutKey)[];
 </script>
 
-<div class="flex flex-col gap-2 p-4 pb-0 mb-[-8px]">
-    <h1 class="mt-8">
-        Distributions of Emotions & Colors<br /> in <span class="moma text-pink-400">MoMA</span> &
-        <span class="wiki text-slate-500">WikiArt</span>
-    </h1>
+<div
+    class="flex flex-col gap-2 pt-5 pb-2 mb-[-8px] p-4 bg-white shadow-lg border-[0.5px] rounded-lg border-slate-300 overflow-hidden h-full sticky top-4"
+>
+    <div>
+        <h2>Emotions in the MoMA Collection</h2>
+        <p>
+            We ran the <a href="https://www.artemisdataset.org">ArtEmis</a>
+            model on the MoMA collection to extract emotions from the images.
+            The model was trained on the WikiArt dataset, so we can compare the
+            emotions of the MoMA collection to the WikiArt collection. The model
+            outputs 9 emotions:
+            <span class="font-semibold"
+                >amusement, awe, contentment, excitement, anger, disgust, fear,
+                sadness, something else
+            </span>.
+        </p>
+        <p>
+            Now join our journey to explore how the emotion and color distributions among 2,132 paintings from MoMA and 80,043 from WikiArt.
+        </p>
+    </div>
     <div class="flex-grow"></div>
     <div class="flex flex-col gap-2">
         <p class="text-zinc-400 tex-xs font-semibold pb-4">
-            &larr; Drag the label below and drop them to the axis label on the left chart.
+            &larr; Drag the label below and drop them to the axis label on the
+            left chart.
         </p>
         <h3 class="text-lg font-semibold">Emotions</h3>
         <div class="pb-4">
