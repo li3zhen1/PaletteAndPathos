@@ -42,9 +42,7 @@
     const row_1 = _.shuffle(row3);
 </script>
 
-<header class="hero-header relative z-[-9]"
-
-transition:fly={{ x: 1000, duration: 1000 }}>
+<header class="hero-header relative z-[-9]">
     <div class="relative translate-y-[-368px] flex gap-4 h-0 z-[-1]"
     >
         {#each row_1 as i}
@@ -79,8 +77,7 @@ transition:fly={{ x: 1000, duration: 1000 }}>
         {/each}
     </div>
     <div
-        class="relative translate-y-[0px] flex gap-4 h-0 z-[-1] opacity-70"
-        transition:fly={{ x: 100, duration: 100 }}
+        class="relative translate-y-[0px] flex gap-4 h-0 z-[-1] opacity-70" 
     >
         {#each row2 as i}
             <img
@@ -133,6 +130,9 @@ transition:fly={{ x: 1000, duration: 1000 }}>
         <div
             class="absolute w-full h-[65vh] min-h-[720px] z-[-1] grad"
         ></div>
+    </div>
+    <div class="h-[20vh] absolute top-0 left-0 w-full bg-gradient-to-b from-pink-100 to-transparent mix-blend-multiply">
+
     </div>
 </header>
 
