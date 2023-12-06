@@ -124,8 +124,8 @@
                 >&</span
             > Pathos
         </h1>
-        <h3 class="relative text-center max-w-[840px]">
-            Tracing the Emotional and Chromatic Journeys of MoMA Artists
+        <h3 class="relative text-center max-w-[1080px]">
+            Tracing the Emotional and Chromatic Journeys of MoMA Artists through Data Visualization
             <!-- Discover the emptional and chromatic spectrum of the Museum of Modern Artists(MoMA)’s
             masterpieces through our data visualization.  -->
         </h3>
