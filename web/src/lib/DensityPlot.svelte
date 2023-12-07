@@ -12,7 +12,10 @@
     import Color from "color";
     import { loadPrecomputedDensity } from "./computeDensity";
 
-    export let axis: [EmotionKey | NumericColorCutKey, EmotionKey | NumericColorCutKey];
+    export let axis: [
+        EmotionKey | NumericColorCutKey,
+        EmotionKey | NumericColorCutKey,
+    ];
 
     let svgContainer: SVGGElement;
     let svgRoot: SVGSVGElement;
@@ -20,7 +23,10 @@
 
     async function loadDensity(
         _size: [number, number],
-        _axis: [EmotionKey | NumericColorCutKey, EmotionKey | NumericColorCutKey],
+        _axis: [
+            EmotionKey | NumericColorCutKey,
+            EmotionKey | NumericColorCutKey,
+        ],
     ) {
         // load "density.json"
         // const response = await fetch("/density.json");
@@ -96,10 +102,17 @@
             height: number;
         },
     ) {
-        const { width: physicalWidth, height: physicalHeight } = svgRoot.getBoundingClientRect();
+        const { width: _physicalWidth, height: _physicalHeight } =
+            svgRoot.getBoundingClientRect();
+        const physicalWidth = Math.round(_physicalWidth);
+        const physicalHeight = Math.round(_physicalHeight);
+        
         svgRoot.setAttribute("width", `${physicalWidth}`);
         svgRoot.setAttribute("height", `${physicalHeight}`);
-        svgRoot.setAttribute("viewBox", `0 0 ${physicalWidth} ${physicalWidth}`);
+        svgRoot.setAttribute(
+            "viewBox",
+            `0 0 ${physicalWidth} ${physicalWidth}`,
+        );
         const { width, height } = data;
         const svg = d3.select(svgRef);
         svg.attr("transform", `scale(${physicalWidth / width})`);
@@ -113,7 +126,7 @@
                 .attr("x2", (width / 4) * i)
                 .attr("y1", height)
                 .attr("y2", 0)
-                .attr("stroke", "#e1e2e4")
+                .attr("stroke", "#00000010")
                 // dash
                 .attr("stroke-dasharray", "3,3")
                 .attr("stroke-width", 2);
@@ -124,7 +137,7 @@
                 .attr("y1", (height / 4) * i)
                 .attr("y2", (height / 4) * i)
                 .attr("stroke-width", 2)
-                .attr("stroke", "#e1e2e4")
+                .attr("stroke", "#00000010")
                 .attr("stroke-dasharray", "3,3")
                 .attr("stroke-width", 2);
         }
@@ -133,7 +146,7 @@
             .attr("width", width - 4)
             .attr("height", height - 4)
             .attr("transform", `translate(${2}, ${2})`)
-            .attr("stroke", "#e1e2e4")
+            .attr("stroke", "#00000010")
             .attr("stroke-width", 4)
             .attr("rx", 8)
             .attr("ry", 8)
@@ -149,19 +162,19 @@
             height: number;
         },
     ) {
-        
-        
         const { density } = data.wiki;
 
         const svg = d3.select(svgContainer);
         svg.selectAll("*").remove();
         const maxValue = d3.max(density, (d) => d.value) as number;
-        const accentColor = new Color(`#647492`);
+        const accentColor = new Color(`#303240`);
         const color = (d: d3.ContourMultiPolygon) => {
-            return accentColor
-            .lighten(1 - d.value / maxValue)
-            // .alpha(0.2 + 0.4 * (d.value / maxValue))
-            .hexa();
+            return (
+                accentColor
+                    // .lighten(1 - d.value / maxValue)
+                    .alpha(0.1 + 0.18 * (d.value / maxValue))
+                    .hexa()
+            );
         };
 
         const { density: moma_density } = data.moma;
@@ -169,28 +182,30 @@
         const maxValueMoma = d3.max(moma_density, (d) => d.value) as number;
         const accentColorMoma = new Color(`#f472b6`);
         const colorMoma = (d: d3.ContourMultiPolygon) => {
-            //"#f472b610" 
-            return accentColorMoma
-            // .opaquer(0.7)
-            .lighten(0.43 - (0.5*d.value / maxValueMoma) )
-            .alpha(0.8)
-            .hex();
+            //"#f472b610"
+            return (
+                accentColorMoma
+                    // .opaquer(0.7)
+                    .lighten(0.43 - (0.5 * d.value) / maxValueMoma)
+                    .alpha(0.8)
+                    .hex()
+            );
         };
 
         svg.append("g")
-            .style("mix-blend-mode", "multiply")
-            .selectAll("path")
-            .data(density)
-            .join("path")
-            .attr("fill", color)
-            .attr("d", d3.geoPath());
-
-        svg.append("g")
-            .style("mix-blend-mode", "multiply")
+            // .style("mix-blend-mode", "multiply")
             .selectAll("path")
             .data(moma_density)
             .join("path")
             .attr("fill", colorMoma)
+            .attr("d", d3.geoPath());
+
+        svg.append("g")
+            // .style("mix-blend-mode", "multiply")
+            .selectAll("path")
+            .data(density)
+            .join("path")
+            .attr("fill", color)
             .attr("d", d3.geoPath());
     }
 
@@ -205,16 +220,13 @@
     });
 </script>
 
-<svg bind:this={svgRoot} data-axis={`${axis[0]}-${axis[1]}`} width="100%" height="100%">
-    <g bind:this={axisLayer}></g>
+<svg
+    bind:this={svgRoot}
+    data-axis={`${axis[0]}-${axis[1]}`}
+    width="100%"
+    height="100%"
+    style="width:100%;height:100%;border-radius:4px;overflow:hidden;"
+>
     <g bind:this={svgContainer}></g>
+    <g bind:this={axisLayer}></g>
 </svg>
-
-<style>
-    svg {
-        border-radius: 4px;
-        overflow: hidden;
-        width: 100%;
-        aspect-ratio: 1/1;
-    }
-</style>

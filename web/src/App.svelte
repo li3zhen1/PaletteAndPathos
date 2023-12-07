@@ -169,7 +169,7 @@
         <section class="flex justify-center mb-16">
             <div class="flex gap-4 max-w-[1400px] p-4">
                 <div
-                    class="flex-grow flex gap-8 pb-4 pr-4 max-w-[1280px] shadow-xl border-[0.5px] rounded-lg border-slate-300 bg-white"
+                    class="flex-grow gap-8 pb-4 pr-4 max-w-[1280px] shadow-xl border-[0.5px] rounded-lg border-slate-300 bg-white"
                 >
                     <div class="flex-shrink-0">
                         <DensitySplom {axisX} onDropedAxis={handleAxisDrop} />

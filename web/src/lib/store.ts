@@ -6,7 +6,7 @@ export const axisStore = writable<(NumericColorCutKey|EmotionKey)[]>(
         "contentment",
         "excitement",
         "something else",
+        "sadness",
         "anger",
-        "h_delta",
     ]
 )

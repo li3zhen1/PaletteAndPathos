@@ -25,7 +25,7 @@
 
 <div
     class="splom-container"
-    style="grid-template-columns: 4rem repeat({splomSize}, 19.5vh); grid-template-rows: 4rem repeat({splomSize}, 19.5vh);"
+    style="grid-template-columns: 4rem repeat({splomSize}, 1fr); grid-template-rows: 4rem repeat({splomSize}, 1fr);"
 >
     <div></div>
     {#each axisX as x, i}
@@ -145,12 +145,11 @@
 <style>
     .splom-container {
         display: grid;
-        grid-template-columns: 4rem repeat(4, 19.5vh);
-        grid-template-rows: 4rem repeat(4, 19.5vh);
-        max-height: 100vh;
-        /* height: 100vh; */
-        min-width: 760px;
-        max-width: 100vh;
+        grid-template-columns: 4rem repeat(4, 1fr);
+        grid-template-rows: 4rem repeat(4, 1fr);
+        height: calc(100vh - 72px);
+        /* min-width: 760px; */
+        width: calc(100vh - 72px);
         gap: 8px;
         aspect-ratio: 1 / 1;
         cursor: grab;
@@ -166,6 +165,7 @@
         padding: 16px 8px 0 8px;
         gap: 8px;
         font-weight: 600;
+        line-height: 0.95;
     }
     .splom-label-x > * {
         pointer-events: none;
@@ -179,6 +179,7 @@
         padding: 8px 0 8px 16px;
         gap: 8px;
         font-weight: 600;
+        line-height: 0.95;
     }
 
     .splom-label-y > * {
@@ -270,5 +271,7 @@
     .splom-axis-name {
         display: flex;
         align-items: center;
+        line-height: 0.9;
+        padding-bottom: 4px;
     }
 </style>

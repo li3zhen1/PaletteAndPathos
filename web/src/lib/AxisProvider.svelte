@@ -24,7 +24,7 @@
     <div>
         <h2>Emotions in the MoMA Collection</h2>
         <p>
-            We ran the <a class="text-pink-500 underline font-bold" href="https://www.artemisdataset.org">ArtEmis</a>
+            We ran the <a class="text-pink-500 underline font-bold" target="_blank" href="https://www.artemisdataset.org">ArtEmis</a>
             model on the MoMA collection to extract emotions from the images. The model
             outputs 9 emotions:
             <span class="font-semibold"
