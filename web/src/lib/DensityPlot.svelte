@@ -96,9 +96,16 @@
             height: number;
         },
     ) {
-        svgRoot.setAttribute("viewBox", `0 0 ${400} ${400}`);
+        const { width: physicalWidth, height: physicalHeight } = svgRoot.getBoundingClientRect();
+        svgRoot.setAttribute("width", `${physicalWidth}`);
+        svgRoot.setAttribute("height", `${physicalHeight}`);
+        svgRoot.setAttribute("viewBox", `0 0 ${physicalWidth} ${physicalWidth}`);
         const { width, height } = data;
         const svg = d3.select(svgRef);
+        svg.attr("transform", `scale(${physicalWidth / width})`);
+
+        const plotLayer = d3.select(svgContainer);
+        plotLayer.attr("transform", `scale(${physicalWidth / width})`);
 
         for (let i = 1; i < 4; i++) {
             svg.append("line")
