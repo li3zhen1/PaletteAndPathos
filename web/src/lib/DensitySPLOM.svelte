@@ -24,7 +24,7 @@
 
     let rect: DOMRectReadOnly;
 
-    $: gridSize = Math.round((rect?.width - splomSize * 12 - 64) / splomSize);
+    $: gridSize = Math.round((rect?.width - splomSize * 8 - 64) / splomSize);
 </script>
 
 <div
