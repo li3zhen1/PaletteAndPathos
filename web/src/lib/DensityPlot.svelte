@@ -172,7 +172,7 @@
             return (
                 accentColor
                     // .lighten(1 - d.value / maxValue)
-                    .alpha(0.1 + 0.18 * (d.value / maxValue))
+                    .alpha(0.05 + 0.18 * (d.value / maxValue))
                     .hexa()
             );
         };
@@ -225,7 +225,7 @@
     data-axis={`${axis[0]}-${axis[1]}`}
     width="100%"
     height="100%"
-    style="width:100%;height:100%;border-radius:4px;overflow:hidden;"
+    style="width:100%;height:100%;"
 >
     <g bind:this={svgContainer}></g>
     <g bind:this={axisLayer}></g>
