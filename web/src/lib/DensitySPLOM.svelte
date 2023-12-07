@@ -21,11 +21,16 @@
     export let onDropedAxis: (oldKey: string, newKey: string) => void;
 
     $: splomSize = axisX.length - 1;
+
+    let rect: DOMRectReadOnly;
+
+    $: gridSize = Math.round((rect?.width - splomSize * 12 - 64) / splomSize);
 </script>
 
 <div
     class="splom-container"
-    style="grid-template-columns: 4rem repeat({splomSize}, 1fr); grid-template-rows: 4rem repeat({splomSize}, 1fr);"
+    bind:contentRect={rect}
+    style="grid-template-columns: 64px repeat({splomSize}, {gridSize}px); grid-template-rows: 64px repeat({splomSize}, {gridSize}px);"
 >
     <div></div>
     {#each axisX as x, i}
@@ -134,7 +139,7 @@
                 <span>MoMA</span>
             </div>
             <div class="wiki flex gap-2 items-center">
-                <span class=" rounded-full  w-5 h-5 bg-slate-400 block"></span>
+                <span class=" rounded-full w-5 h-5 bg-slate-400 block"></span>
                 WikiArt
             </div>
         </div>
