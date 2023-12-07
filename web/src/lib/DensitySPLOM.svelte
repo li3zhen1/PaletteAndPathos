@@ -10,10 +10,11 @@
         getEmoji,
         describeKey,
     } from "./EmotionAndColorCutData";
+    import _ from "lodash";
 
     export let axisX: (EmotionKey | NumericColorCutKey)[];
 
-    $: axisY = axisX.toReversed();
+    $: axisY = _.reverse([...axisX]);
 
     export let showTitle = false;
 
