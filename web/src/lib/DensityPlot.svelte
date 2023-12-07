@@ -198,7 +198,7 @@
     });
 </script>
 
-<svg bind:this={svgRoot} data-axis={`${axis[0]}-${axis[1]}`}>
+<svg bind:this={svgRoot} data-axis={`${axis[0]}-${axis[1]}`} width="100%" height="100%">
     <g bind:this={axisLayer}></g>
     <g bind:this={svgContainer}></g>
 </svg>

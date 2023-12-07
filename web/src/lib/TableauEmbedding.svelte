@@ -28,7 +28,7 @@
         >
             <tableau-viz toolbar="hidden" hide-tabs {src}> </tableau-viz>
         </div>
-        <div class="flex-grow-0">
+        <div class="flex-grow-0 xl:max-w-[351px]">
             <div
                 class="p-4 pt-0 bg-white shadow-lg border-[0.5px] rounded-lg border-slate-300 overflow-hidden h-auto sticky top-4"
             >
